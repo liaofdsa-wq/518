@@ -1,0 +1,181 @@
+[
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、所稱期貨商係指經營經紀業務之專營期貨商。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "2.1",
+    "path_names": [
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一) 期貨商之核心系統(原則依交易、報價、網路下單、中台風\n控、後台結算系統為主，但該系統異常經臺灣期貨交易所\n判斷非屬影響交易人權益者，得予以排除)發生異常，且開\n盤期間影響交易達 2 小時以上未能恢復，或於 10 日內就\n同一資安、系統異常事件，通報次數達 3 次以上者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "2.2",
+    "path_names": [
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二) 同一資安或系統異常事件(例如同一委外資訊廠商系統異\n常、同一基礎設施異常等)，自首家期貨商通報日起 10 日\n內，影響達 3 家以上期貨商者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "2.3",
+    "path_names": [
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(三) 新型態資安攻擊或駭客攻擊事件(例如撞庫攻擊、DDoS 攻\n擊、勒索病毒等)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "2.4",
+    "path_names": [
+      "二、",
+      "(四)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(四) 其他重大資安事件：包括但不限於指定案件、重大輿情案\n件、客戶資料等敏感資料外洩、其他重大影響交易人權益\n案件等。\n前項重大資安事件，若有危及期貨商正常營運及金融秩序者，\n亦屬之。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "3.1",
+    "path_names": [
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "(一)期貨商應依「證券期貨市場資通安全事件通報應變作業注\n意 事 項 」 於 證 券 期 貨 市 場 資 通 安 全 通 報 系 統\n(https://sfevents.twse.com.tw/)進行資安事件通報作業；且經\n判斷符合第二點之重大資安事件態樣者，期貨商須於30分\n鐘內填具「期貨商重大資安事件通報單-初步(正式)通報作\n業」。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "3.2",
+    "path_names": [
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)期貨商應於通報重大資安事件後，於七個營業日內向臺灣\n期貨交易所函報詳細資料，並填具「期貨商重大資安事件\n通報單-結案通報作業」，包括事件發生時間、事件發生原\n因、事件分類、對期貨商及交易人造成之影響、有無敏感\n資料外洩、處理措施、恢復情形、事件後續處理進度、交\n易人糾紛處理、改善情形及相關預防措施等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "3.3",
+    "path_names": [
+      "三、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)若因不可抗力之情事致無法於七個營業日內函報者，經函\n報臺灣期貨交易所核備後，得以延後函報期限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商通報重大資安事件之範圍申報程序及其他應遵循事項(112.11.24訂定).md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 4,
+    "path_key": "4",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "四、以上各點應納入期貨商內部控制制度標準規範，並落實執行。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 2,
+    "chunk_index": 1,
+    "chunk_text": "Application: Address Resolution Protocol | Filename: arp.exe | Description/Purpose: Display/edit network address",
+    "row_text": "Application: Address Resolution Protocol | Filename: arp.exe | Description/Purpose: Display/edit network address",
+    "resolved_cells": [
+      "Address Resolution Protocol",
+      "arp.exe",
+      "Display/edit network address"
+    ],
+    "raw_cells": [
+      "Address Resolution Protocol",
+      "arp.exe",
+      "Display/edit network address"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 3,
+    "chunk_index": 1,
+    "chunk_text": "Application: File Transfer Protocol | Filename: ftp.exe | Description/Purpose: Transfer files between two hosts",
+    "row_text": "Application: File Transfer Protocol | Filename: ftp.exe | Description/Purpose: Transfer files between two hosts",
+    "resolved_cells": [
+      "File Transfer Protocol",
+      "ftp.exe",
+      "Transfer files between two hosts"
+    ],
+    "raw_cells": [
+      "File Transfer Protocol",
+      "ftp.exe",
+      "Transfer files between two hosts"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 4,
+    "chunk_index": 1,
+    "chunk_text": "Application: NetBios over TCP/IP | Filename: nbtstat.exe | Description/Purpose: Display network information",
+    "row_text": "Application: NetBios over TCP/IP | Filename: nbtstat.exe | Description/Purpose: Display network information",
+    "resolved_cells": [
+      "NetBios over TCP/IP",
+      "nbtstat.exe",
+      "Display network information"
+    ],
+    "raw_cells": [
+      "NetBios over TCP/IP",
+      "nbtstat.exe",
+      "Display network information"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 5,
+    "chunk_index": 1,
+    "chunk_text": "Application: Name Server Lookup | Filename: nslookup.exe | Description/Purpose: Display network information",
+    "row_text": "Application: Name Server Lookup | Filename: nslookup.exe | Description/Purpose: Display network information",
+    "resolved_cells": [
+      "Name Server Lookup",
+      "nslookup.exe",
+      "Display network information"
+    ],
+    "raw_cells": [
+      "Name Server Lookup",
+      "nslookup.exe",
+      "Display network information"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 6,
+    "chunk_index": 1,
+    "chunk_text": "Application: Remote Copy Program | Filename: rcp.exe | Description/Purpose: Copy files",
+    "row_text": "Application: Remote Copy Program | Filename: rcp.exe | Description/Purpose: Copy files",
+    "resolved_cells": [
+      "Remote Copy Program",
+      "rcp.exe",
+      "Copy files"
+    ],
+    "raw_cells": [
+      "Remote Copy Program",
+      "rcp.exe",
+      "Copy files"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 7,
+    "chunk_index": 1,
+    "chunk_text": "Application: TCP/IP Route Command Application | Filename: route.exe | Description/Purpose: Display/edit network settings",
+    "row_text": "Application: TCP/IP Route Command Application | Filename: route.exe | Description/Purpose: Display/edit network settings",
+    "resolved_cells": [
+      "TCP/IP Route Command Application",
+      "route.exe",
+      "Display/edit network settings"
+    ],
+    "raw_cells": [
+      "TCP/IP Route Command Application",
+      "route.exe",
+      "Display/edit network settings"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 8,
+    "chunk_index": 1,
+    "chunk_text": "Application: Remote Shell Application | Filename: rsh.exe | Description/Purpose: Execute command on remote computer",
+    "row_text": "Application: Remote Shell Application | Filename: rsh.exe | Description/Purpose: Execute command on remote computer",
+    "resolved_cells": [
+      "Remote Shell Application",
+      "rsh.exe",
+      "Execute command on remote computer"
+    ],
+    "raw_cells": [
+      "Remote Shell Application",
+      "rsh.exe",
+      "Execute command on remote computer"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  },
+  {
+    "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+    "table_id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1",
+    "under_path_key": "10.3",
+    "under_path_names": [
+      "第十條",
+      "三、"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "row_index": 9,
+    "chunk_index": 1,
+    "chunk_text": "Application: Terminal Emulation Protocol | Filename: telnet.exe | Description/Purpose: Connect to a remote computer",
+    "row_text": "Application: Terminal Emulation Protocol | Filename: telnet.exe | Description/Purpose: Connect to a remote computer",
+    "resolved_cells": [
+      "Terminal Emulation Protocol",
+      "telnet.exe",
+      "Connect to a remote computer"
+    ],
+    "raw_cells": [
+      "Terminal Emulation Protocol",
+      "telnet.exe",
+      "Connect to a remote computer"
+    ],
+    "column_labels": [
+      "Application",
+      "Filename",
+      "Description/Purpose"
+    ]
+  }
+]

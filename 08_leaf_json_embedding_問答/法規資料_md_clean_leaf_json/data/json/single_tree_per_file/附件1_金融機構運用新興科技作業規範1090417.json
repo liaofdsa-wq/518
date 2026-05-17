@@ -1,0 +1,1882 @@
+{
+  "id": "附件1_金融機構運用新興科技作業規範1090417",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 附件1_金融機構運用新興科技作業規範1090417\n本會106年7月27日第12屆第9次理監事聯席會議討論通過\n金管會106 年8月31日金管銀外字第10600195490號函洽悉\n本會109年3月12日第13屆第5次理監事聯席會議討論通過\n金管會109年4月17日金管銀外字第1090134542號函洽悉\n附\n件\n金融機構運用新興科技作業規範 一",
+  "normalized_content": "# 附件1_金融機構運用新興科技作業規範1090417\n本會106年7月27日第12屆第9次理監事聯席會議討論通過\n金管會106 年8月31日金管銀外字第10600195490號函洽悉\n本會109年3月12日第13屆第5次理監事聯席會議討論通過\n金管會109年4月17日金管銀外字第1090134542號函洽悉\n附\n件\n金融機構運用新興科技作業規範 一",
+  "children": [
+    {
+      "id": "附件1_金融機構運用新興科技作業規範1090417.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 中華民國銀行商業同業公會全國聯合會（以下簡稱本會）\n為協助會員銀行適當管理運用新興科技之風險，以促進銀\n行業務健全經營，特定訂本規範。",
+      "normalized_content": "第一條 中華民國銀行商業同業公會全國聯合會（以下簡稱本會）\n為協助會員銀行適當管理運用新興科技之風險，以促進銀\n行業務健全經營，特定訂本規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 11,
+          "end": 13
+        },
+        "line_char_range": {
+          "min": 15,
+          "max": 29
+        }
+      },
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+      "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+    },
+    {
+      "id": "附件1_金融機構運用新興科技作業規範1090417.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 雲端服務安全控管",
+      "normalized_content": "第二條 雲端服務安全控管",
+      "children": [
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 用詞定義如下：",
+          "normalized_content": "一、 用詞定義如下：",
+          "children": [
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 軟體即服務（SaaS）：雲端服務業者提供軟體使用，\n承租人能使用軟體，但並不掌控軟體、作業系統、硬\n體。",
+              "normalized_content": "(一) 軟體即服務（SaaS）：雲端服務業者提供軟體使用，\n承租人能使用軟體，但並不掌控軟體、作業系統、硬\n體。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 1
+                },
+                "line_range": {
+                  "start": 22,
+                  "end": 24
+                },
+                "line_char_range": {
+                  "min": 2,
+                  "max": 29
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 平台即服務（PaaS）：雲端服務業者提供作業系統使\n用，承租人能於此作業系統操作其軟體，可掌控運作\n軟體的環境也擁有作業系統部分掌控權，但並不掌控\n作業系統、硬體。",
+              "normalized_content": "(二) 平台即服務（PaaS）：雲端服務業者提供作業系統使\n用，承租人能於此作業系統操作其軟體，可掌控運作\n軟體的環境也擁有作業系統部分掌控權，但並不掌控\n作業系統、硬體。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 1
+                },
+                "line_range": {
+                  "start": 27,
+                  "end": 30
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 29
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三) 基礎設施即服務（IaaS）：雲端服務業者提供基礎運\n算資源（如處理能力、儲存空間、網路元件或中介軟\n體），承租人能掌控作業系統、儲存空間、已部署的\n應用程式及網路元件（如防火牆、負載平衡器等），\n但並不掌控雲端基礎運算資源。",
+              "normalized_content": "(三) 基礎設施即服務（IaaS）：雲端服務業者提供基礎運\n算資源（如處理能力、儲存空間、網路元件或中介軟\n體），承租人能掌控作業系統、儲存空間、已部署的\n應用程式及網路元件（如防火牆、負載平衡器等），\n但並不掌控雲端基礎運算資源。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 33,
+                  "end": 38
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 29
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 19,
+              "end": 19
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 雲端服務係指雲端服務業者以租借方式提供個人或企業\n得承租其網路設備、伺服器、儲存空間、資安設備、系\n統軟體、應用程式、分析與計算等資源，以達資源共享\n之服務。",
+          "normalized_content": "二、 雲端服務係指雲端服務業者以租借方式提供個人或企業\n得承租其網路設備、伺服器、儲存空間、資安設備、系\n統軟體、應用程式、分析與計算等資源，以達資源共享\n之服務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 41,
+              "end": 44
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 本安全控管範圍不包含僅提供銀行內部使用之服務。",
+          "normalized_content": "三、 本安全控管範圍不包含僅提供銀行內部使用之服務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 47,
+              "end": 47
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 應制定雲端服務管理政策，至少每年檢視一次。",
+          "normalized_content": "四、 應制定雲端服務管理政策，至少每年檢視一次。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 50,
+              "end": 50
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 應確保作業風險控管，充分評估雲端服務業者處理之風\n險，採取適當風險管控措施，確保作業品質，並應注意\n作業委託雲端服務業者之適度分散。",
+          "normalized_content": "五、 應確保作業風險控管，充分評估雲端服務業者處理之風\n險，採取適當風險管控措施，確保作業品質，並應注意\n作業委託雲端服務業者之適度分散。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 53,
+              "end": 55
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 對雲端服務業者負有最終監督義務，並應具有專業技術\n及資源監督雲端服務業者執行作業，並得視需要委託專\n業第三人以輔助其監督作業。",
+          "normalized_content": "六、 對雲端服務業者負有最終監督義務，並應具有專業技術\n及資源監督雲端服務業者執行作業，並得視需要委託專\n業第三人以輔助其監督作業。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 58,
+              "end": 60
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 應確保其本身、主管機關及中央銀行，或其指定之人能\n取得雲端服務業者執行作業之相關資訊，包括客戶資訊\n及相關系統之查核報告，及實地查核權力。",
+          "normalized_content": "七、 應確保其本身、主管機關及中央銀行，或其指定之人能\n取得雲端服務業者執行作業之相關資訊，包括客戶資訊\n及相關系統之查核報告，及實地查核權力。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 63,
+              "end": 65
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 得自行委託，或與委託同一雲端服務業者之其他金融機\n構聯合委託具資訊專業之獨立第三人查核，並應符合下\n列規定：",
+          "normalized_content": "八、 得自行委託，或與委託同一雲端服務業者之其他金融機\n構聯合委託具資訊專業之獨立第三人查核，並應符合下\n列規定：",
+          "children": [
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.8.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 確認其查核範圍涵蓋雲端服務業者處理作業相關之\n重要系統及控制環節。",
+              "normalized_content": "(一) 確認其查核範圍涵蓋雲端服務業者處理作業相關之\n重要系統及控制環節。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 74,
+                  "end": 75
+                },
+                "line_char_range": {
+                  "min": 10,
+                  "max": 26
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.8.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 應評估第三人之適格性，以及其所出具查核報告內\n容之妥適性並符合相關國際資訊安全標準。",
+              "normalized_content": "(二) 應評估第三人之適格性，以及其所出具查核報告內\n容之妥適性並符合相關國際資訊安全標準。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 78,
+                  "end": 79
+                },
+                "line_char_range": {
+                  "min": 19,
+                  "max": 26
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.8.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三) 應針對金融機構所指定作業範圍進行查核並出具報\n告。",
+              "normalized_content": "(三) 應針對金融機構所指定作業範圍進行查核並出具報\n告。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 82,
+                  "end": 83
+                },
+                "line_char_range": {
+                  "min": 2,
+                  "max": 26
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 3
+            },
+            "line_range": {
+              "start": 68,
+              "end": 71
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 傳輸及儲存客戶資料或敏感資料至雲端服務業者，應採\n行資料加密或代碼化等有效保護措施及訂定妥適之加密\n金鑰管理機制（如租用硬體安全模組）。",
+          "normalized_content": "九、 傳輸及儲存客戶資料或敏感資料至雲端服務業者，應採\n行資料加密或代碼化等有效保護措施及訂定妥適之加密\n金鑰管理機制（如租用硬體安全模組）。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 86,
+              "end": 88
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 對雲端服務業者處理之資料應保有完整所有權，除執行\n指定作業外，金融機構應確保雲端服務業者不得有存取\n客戶資料之權限，並不得為指定範圍以外之利用。",
+          "normalized_content": "十、 對雲端服務業者處理之資料應保有完整所有權，除執行\n指定作業外，金融機構應確保雲端服務業者不得有存取\n客戶資料之權限，並不得為指定範圍以外之利用。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 91,
+              "end": 93
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十一、委託雲端服務業者處理之客戶資料及其儲存地以位於我\n國境內為原則，如位於境外，應依下列規定辦理：",
+          "normalized_content": "十一、委託雲端服務業者處理之客戶資料及其儲存地以位於我\n國境內為原則，如位於境外，應依下列規定辦理：",
+          "children": [
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.11.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 金融機構須保有其指定資料處理及儲存地之權力。",
+              "normalized_content": "(一) 金融機構須保有其指定資料處理及儲存地之權力。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 100,
+                  "end": 100
+                },
+                "line_char_range": {
+                  "min": 26,
+                  "max": 26
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.11.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 境外當地資料保護法規不得低於我國要求。",
+              "normalized_content": "(二) 境外當地資料保護法規不得低於我國要求。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 103,
+                  "end": 103
+                },
+                "line_char_range": {
+                  "min": 23,
+                  "max": 23
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.11.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三) 除經主管機關核准者外，客戶重要資料應在我國留存備\n份。",
+              "normalized_content": "(三) 除經主管機關核准者外，客戶重要資料應在我國留存備\n份。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 106,
+                  "end": 107
+                },
+                "line_char_range": {
+                  "min": 2,
+                  "max": 28
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 96,
+              "end": 97
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.12",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十二、應訂定妥適之緊急應變計畫，降低因雲端作業而可能有\n服務中斷之風險。金融機構終止或結束作業委託，應確\n保能順利移轉至另一雲端服務業者或移回自行處理，並\n確保原雲端服務業者留存資料(如作業系統映像檔、儲存\n空間、快取空間、備份媒體)全數刪除或銷毀，並留存刪\n除或銷毀之紀錄。",
+          "normalized_content": "十二、應訂定妥適之緊急應變計畫，降低因雲端作業而可能有\n服務中斷之風險。金融機構終止或結束作業委託，應確\n保能順利移轉至另一雲端服務業者或移回自行處理，並\n確保原雲端服務業者留存資料(如作業系統映像檔、儲存\n空間、快取空間、備份媒體)全數刪除或銷毀，並留存刪\n除或銷毀之紀錄。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 111,
+              "end": 116
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.13",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十三、採用 IaaS 或 PaaS 雲端服務模式者應符合下列規定：",
+          "normalized_content": "十三、採用 IaaS 或 PaaS 雲端服務模式者應符合下列規定：",
+          "children": [
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.13.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（一）應評估雲端服務業者之合格條件、服務水準、復原時\n間、備援機制、供應鏈關係、權責歸屬及資訊安全防護\n等項目。",
+              "normalized_content": "（一）應評估雲端服務業者之合格條件、服務水準、復原時\n間、備援機制、供應鏈關係、權責歸屬及資訊安全防護\n等項目。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 122,
+                  "end": 124
+                },
+                "line_char_range": {
+                  "min": 4,
+                  "max": 26
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.13.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（二）應評估雲端服務業者提供之平台、協定、介面、檔案格\n式等，以確保互通性與可移植性。",
+              "normalized_content": "（二）應評估雲端服務業者提供之平台、協定、介面、檔案格\n式等，以確保互通性與可移植性。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 127,
+                  "end": 128
+                },
+                "line_char_range": {
+                  "min": 15,
+                  "max": 27
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.13.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（三）應確保雲端服務業者提供之資源與其他承租人所使用之\n資源各自獨立，互不影響（如防火牆區隔）。",
+              "normalized_content": "（三）應確保雲端服務業者提供之資源與其他承租人所使用之\n資源各自獨立，互不影響（如防火牆區隔）。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 131,
+                  "end": 132
+                },
+                "line_char_range": {
+                  "min": 20,
+                  "max": 27
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.13.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（四）應與雲端服務業者簽訂服務協議，維持所需之服務水準\n並定期提出報告與操作紀錄（如服務水準報告、系統變\n更紀錄、作業系統映像檔存取紀錄等）。",
+              "normalized_content": "（四）應與雲端服務業者簽訂服務協議，維持所需之服務水準\n並定期提出報告與操作紀錄（如服務水準報告、系統變\n更紀錄、作業系統映像檔存取紀錄等）。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 135,
+                  "end": 137
+                },
+                "line_char_range": {
+                  "min": 18,
+                  "max": 27
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.2.13.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（五）如有設備定期維護更換時(如硬碟更換)，資料也須進行\n全數刪除或銷毀、並留存刪除或銷毀之紀錄。",
+              "normalized_content": "（五）如有設備定期維護更換時(如硬碟更換)，資料也須進行\n全數刪除或銷毀、並留存刪除或銷毀之紀錄。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 140,
+                  "end": 141
+                },
+                "line_char_range": {
+                  "min": 20,
+                  "max": 28
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 119,
+              "end": 119
+            },
+            "line_char_range": {
+              "min": 33,
+              "max": 33
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.14",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十四、應監控並建立資通安全事件通報程序。遇事件發生時，\n相關單位及人員應依循前述通報程序辦理。",
+          "normalized_content": "十四、應監控並建立資通安全事件通報程序。遇事件發生時，\n相關單位及人員應依循前述通報程序辦理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 145,
+              "end": 146
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.2.15",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十五、提供電子銀行服務者，應符合本會制定之「金融機構辦\n理電子銀行業務安全控管作業基準」規定。",
+          "normalized_content": "十五、提供電子銀行服務者，應符合本會制定之「金融機構辦\n理電子銀行業務安全控管作業基準」規定。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 149,
+              "end": 150
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 16,
+          "end": 16
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+      "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+    },
+    {
+      "id": "附件1_金融機構運用新興科技作業規範1090417.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 社群媒體控管程序",
+      "normalized_content": "第三條 社群媒體控管程序",
+      "children": [
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 社群媒體係指一交流平台，參與者可代表銀行透過與其他\n單一或多位參與者單向分享或雙向互動，進行內容產出、\n知識分享、討論共創之平台。",
+          "normalized_content": "一、 社群媒體係指一交流平台，參與者可代表銀行透過與其他\n單一或多位參與者單向分享或雙向互動，進行內容產出、\n知識分享、討論共創之平台。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 156,
+              "end": 158
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 本控管程序不包含銀行內部使用或與個別客戶溝通使用之\n平台。",
+          "normalized_content": "二、 本控管程序不包含銀行內部使用或與個別客戶溝通使用之\n平台。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 161,
+              "end": 162
+            },
+            "line_char_range": {
+              "min": 3,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應制定社群媒體管理政策，至少每年檢視一次。",
+          "normalized_content": "三、 應制定社群媒體管理政策，至少每年檢視一次。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 165,
+              "end": 165
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 應制定社群媒體使用守則，明確列出可接受使用之社群媒\n體、功能及使用規則。",
+          "normalized_content": "四、 應制定社群媒體使用守則，明確列出可接受使用之社群媒\n體、功能及使用規則。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 168,
+              "end": 169
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 應制定銀行發言規範，明確定義各角色被授予之發言權\n責，並避免非授權之公務言論發表。",
+          "normalized_content": "五、 應制定銀行發言規範，明確定義各角色被授予之發言權\n責，並避免非授權之公務言論發表。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 172,
+              "end": 173
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 應制定內容過濾與監視政策，其監視內容應至少包含防止\n客戶隱私及銀行機密外洩、非授權或偽冒身分發言及不可\n有攻擊或詆毀同業之情事。",
+          "normalized_content": "六、 應制定內容過濾與監視政策，其監視內容應至少包含防止\n客戶隱私及銀行機密外洩、非授權或偽冒身分發言及不可\n有攻擊或詆毀同業之情事。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 176,
+              "end": 178
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 應制定不當發言之緊急應變程序。",
+          "normalized_content": "七、 應制定不當發言之緊急應變程序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 6
+            },
+            "line_range": {
+              "start": 181,
+              "end": 181
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 應制定社群媒體異常事件通報程序。",
+          "normalized_content": "八、 應制定社群媒體異常事件通報程序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 185,
+              "end": 185
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 19
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.3.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 如有不當發言，應留存通聯紀錄，以供日後調查使用。",
+          "normalized_content": "九、 如有不當發言，應留存通聯紀錄，以供日後調查使用。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 188,
+              "end": 188
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 153,
+          "end": 153
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+      "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+    },
+    {
+      "id": "附件1_金融機構運用新興科技作業規範1090417.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 自攜裝置安全控管",
+      "normalized_content": "第四條 自攜裝置安全控管",
+      "children": [
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、自攜裝置係指非屬公司資產、透過該裝置以無線或有線通\n訊方式連接至銀行內部網路，存取作業系統或檔案服務。",
+          "normalized_content": "一、自攜裝置係指非屬公司資產、透過該裝置以無線或有線通\n訊方式連接至銀行內部網路，存取作業系統或檔案服務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 194,
+              "end": 195
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、應制定自攜裝置管理政策，至少每年檢視一次。",
+          "normalized_content": "二、應制定自攜裝置管理政策，至少每年檢視一次。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 198,
+              "end": 198
+            },
+            "line_char_range": {
+              "min": 23,
+              "max": 23
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、應列出允許使用之自攜裝置類型、作業系統、應用系統或\n服務。",
+          "normalized_content": "三、應列出允許使用之自攜裝置類型、作業系統、應用系統或\n服務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 201,
+              "end": 202
+            },
+            "line_char_range": {
+              "min": 3,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、對自攜裝置所採取之相關措施，應先取得裝置持有者同\n意，以避免爭議。",
+          "normalized_content": "四、對自攜裝置所採取之相關措施，應先取得裝置持有者同\n意，以避免爭議。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 205,
+              "end": 206
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 26
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、應列冊管理使用人員與裝置，至少每年審閱一次。",
+          "normalized_content": "五、應列冊管理使用人員與裝置，至少每年審閱一次。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 209,
+              "end": 209
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、應建置使用人員身分與裝置識別機制（如帳號密碼識別、\n裝置識別碼）。",
+          "normalized_content": "六、應建置使用人員身分與裝置識別機制（如帳號密碼識別、\n裝置識別碼）。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 212,
+              "end": 213
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、應制定自攜裝置連網環境標準，如未符合標準（如作業系\n統疑似遭破解或提權、未安裝病毒防護、重大漏洞未修\n復），應限制其連網功能。",
+          "normalized_content": "七、應制定自攜裝置連網環境標準，如未符合標準（如作業系\n統疑似遭破解或提權、未安裝病毒防護、重大漏洞未修\n復），應限制其連網功能。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 216,
+              "end": 218
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、應建置自攜裝置資料保護措施（如資料加密或遮罩），並\n採取適當之存取管制。",
+          "normalized_content": "八、應建置自攜裝置資料保護措施（如資料加密或遮罩），並\n採取適當之存取管制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 221,
+              "end": 222
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.4.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、應制定自攜裝置遺失處理程序。",
+          "normalized_content": "九、應制定自攜裝置遺失處理程序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 7
+            },
+            "line_range": {
+              "start": 225,
+              "end": 225
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 16
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 6,
+          "end": 6
+        },
+        "line_range": {
+          "start": 191,
+          "end": 191
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+      "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+    },
+    {
+      "id": "附件1_金融機構運用新興科技作業規範1090417.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 生物特徵資料安全控管",
+      "normalized_content": "第五條 生物特徵資料安全控管",
+      "children": [
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、用詞定義如下：",
+          "normalized_content": "一、用詞定義如下：",
+          "children": [
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（一）原始生物特徵資料：是指透過感應器（如掃描器、\n照相機）所擷取的原始資料。",
+              "normalized_content": "（一）原始生物特徵資料：是指透過感應器（如掃描器、\n照相機）所擷取的原始資料。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 235,
+                  "end": 236
+                },
+                "line_char_range": {
+                  "min": 13,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（二）假名標識符：是指用於生物特徵比對之資料，其內\n容不為原始生物特徵資料之一部份。",
+              "normalized_content": "（二）假名標識符：是指用於生物特徵比對之資料，其內\n容不為原始生物特徵資料之一部份。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 239,
+                  "end": 240
+                },
+                "line_char_range": {
+                  "min": 16,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（三）輔助資料：是指一演算法或機制，用來將原始生物\n特徵資料分離產生假名標識符。",
+              "normalized_content": "（三）輔助資料：是指一演算法或機制，用來將原始生物\n特徵資料分離產生假名標識符。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 243,
+                  "end": 244
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（四）生物特徵資料：指包含原始生物特徵資料、假名標\n識符及輔助資料。",
+              "normalized_content": "（四）生物特徵資料：指包含原始生物特徵資料、假名標\n識符及輔助資料。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 247,
+                  "end": 248
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（五）身分識別資料：為非生物特徵資料之個人資料（如\n身分證字號、出生日期等）。",
+              "normalized_content": "（五）身分識別資料：為非生物特徵資料之個人資料（如\n身分證字號、出生日期等）。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 251,
+                  "end": 252
+                },
+                "line_char_range": {
+                  "min": 13,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.6",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（六）錯誤拒絕率：是指同一人卻因比對其留存之生物特\n徵資料誤認為不同特徵而拒絕的機率。",
+              "normalized_content": "（六）錯誤拒絕率：是指同一人卻因比對其留存之生物特\n徵資料誤認為不同特徵而拒絕的機率。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 255,
+                  "end": 256
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.7",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（七）錯誤接受率：是指不同人卻因比對其留存之生物特\n徵資料誤認為相同特徵而接受的機率。",
+              "normalized_content": "（七）錯誤接受率：是指不同人卻因比對其留存之生物特\n徵資料誤認為相同特徵而接受的機率。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 259,
+                  "end": 260
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.8",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（八）直接驗證生物特徵技術：是指由金融機構驗證客戶\n之生物特徵，以確認其身分。",
+              "normalized_content": "（八）直接驗證生物特徵技術：是指由金融機構驗證客戶\n之生物特徵，以確認其身分。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 263,
+                  "end": 264
+                },
+                "line_char_range": {
+                  "min": 13,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            },
+            {
+              "id": "附件1_金融機構運用新興科技作業規範1090417.5.1.9",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "（九）間接驗證生物特徵技術：是指由第三方驗證客戶之\n生物特徵，再將驗證結果傳送至金融機構，以確認\n其身分。",
+              "normalized_content": "（九）間接驗證生物特徵技術：是指由第三方驗證客戶之\n生物特徵，再將驗證結果傳送至金融機構，以確認\n其身分。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 8
+                },
+                "line_range": {
+                  "start": 267,
+                  "end": 270
+                },
+                "line_char_range": {
+                  "min": 4,
+                  "max": 25
+                }
+              },
+              "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+              "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 232,
+              "end": 232
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 9
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、運用生物特徵資料做為識別客戶身分時，其蒐集、處理及\n利用之行為，應納入個資管理機制。",
+          "normalized_content": "二、運用生物特徵資料做為識別客戶身分時，其蒐集、處理及\n利用之行為，應納入個資管理機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 273,
+              "end": 274
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、應針對直接驗證生物特徵技術，建立其錯誤接受率及錯誤\n拒絕率之標準，並於上線前與每年定期檢視。若不符合銀\n行要求時，應建立補償措施；針對間接驗證生物特徵技\n術，應每年定期檢視並蒐集資安威脅情資，建立補償措\n施。",
+          "normalized_content": "三、應針對直接驗證生物特徵技術，建立其錯誤接受率及錯誤\n拒絕率之標準，並於上線前與每年定期檢視。若不符合銀\n行要求時，應建立補償措施；針對間接驗證生物特徵技\n術，應每年定期檢視並蒐集資安威脅情資，建立補償措\n施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 277,
+              "end": 281
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、應於蒐集生物特徵資料時，取得客戶同意，並讓客戶充份\n了解所蒐集之目的及運用方式。",
+          "normalized_content": "四、應於蒐集生物特徵資料時，取得客戶同意，並讓客戶充份\n了解所蒐集之目的及運用方式。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 284,
+              "end": 285
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、生物特徵資料儲存於銀行內部系統時，應將原始生物特徵\n資料及假名標識符進行加密儲存、並將生物特徵資料分別\n儲存於不同之儲存媒體；加密金鑰應儲存於符合 FIPS\n140-2 Level 3 以上或其他相同安全強度認證之設備，以\n防止該私鑰被匯出或複製。",
+          "normalized_content": "五、生物特徵資料儲存於銀行內部系統時，應將原始生物特徵\n資料及假名標識符進行加密儲存、並將生物特徵資料分別\n儲存於不同之儲存媒體；加密金鑰應儲存於符合 FIPS\n140-2 Level 3 以上或其他相同安全強度認證之設備，以\n防止該私鑰被匯出或複製。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 288,
+              "end": 292
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 32
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、應考量現行業務情況，得更新客戶之生物特徵資料，以確\n保生物特徵資料不會隨時間而失效（如人臉辨識、聲紋辨\n識等）。",
+          "normalized_content": "六、應考量現行業務情況，得更新客戶之生物特徵資料，以確\n保生物特徵資料不會隨時間而失效（如人臉辨識、聲紋辨\n識等）。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 9
+            },
+            "line_range": {
+              "start": 295,
+              "end": 297
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、當銀行無法以生物特徵資料識別客戶時，應提供重新蒐集\n生物特徵資料之管道。",
+          "normalized_content": "七、當銀行無法以生物特徵資料識別客戶時，應提供重新蒐集\n生物特徵資料之管道。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 9,
+              "end": 9
+            },
+            "line_range": {
+              "start": 301,
+              "end": 302
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、應確保生物特徵資料於傳輸過程中之訊息隱密性、完整\n性、不可重複性及來源辨識性，相關控管應符合「金融機\n構辦理電子銀行業務安全控管作業基準」。",
+          "normalized_content": "八、應確保生物特徵資料於傳輸過程中之訊息隱密性、完整\n性、不可重複性及來源辨識性，相關控管應符合「金融機\n構辦理電子銀行業務安全控管作業基準」。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 9,
+              "end": 9
+            },
+            "line_range": {
+              "start": 305,
+              "end": 307
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 26
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        },
+        {
+          "id": "附件1_金融機構運用新興科技作業規範1090417.5.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、應於首次使用生物辨識技術、每年定期或技術有重大變更\n時（如輔助資料、技術提供商），由資訊單位檢視該技術\n應足以有效識別客戶身分，其評估範圍包含但不限於模擬\n偽冒生物特徵資料，並彙整相關資料交由資安、法遵及風\n控等單位建立各部門間之連繫機制、確認相關作業符合本\n作業規範及相關定型化契約等相關法令規定，留存驗證軌\n跡及各部門建議事項追蹤控管機制即可辦理。",
+          "normalized_content": "九、應於首次使用生物辨識技術、每年定期或技術有重大變更\n時（如輔助資料、技術提供商），由資訊單位檢視該技術\n應足以有效識別客戶身分，其評估範圍包含但不限於模擬\n偽冒生物特徵資料，並彙整相關資料交由資安、法遵及風\n控等單位建立各部門間之連繫機制、確認相關作業符合本\n作業規範及相關定型化契約等相關法令規定，留存驗證軌\n跡及各部門建議事項追蹤控管機制即可辦理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 9,
+              "end": 9
+            },
+            "line_range": {
+              "start": 310,
+              "end": 316
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+          "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 7,
+          "end": 7
+        },
+        "line_range": {
+          "start": 229,
+          "end": 229
+        },
+        "line_char_range": {
+          "min": 14,
+          "max": 14
+        }
+      },
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+      "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+    },
+    {
+      "id": "附件1_金融機構運用新興科技作業規範1090417.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 本規範經本會理事會通過並函報金融監督管理委員會核備\n後實施，修正時亦同。",
+      "normalized_content": "第六條 本規範經本會理事會通過並函報金融監督管理委員會核備\n後實施，修正時亦同。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 9,
+          "end": 9
+        },
+        "line_range": {
+          "start": 319,
+          "end": 320
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 29
+        }
+      },
+      "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+      "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 9
+    },
+    "line_range": {
+      "start": 1,
+      "end": 9
+    },
+    "line_char_range": {
+      "min": 1,
+      "max": 34
+    }
+  },
+  "file_name": "附件1_金融機構運用新興科技作業規範1090417.md",
+  "file_stem": "附件1_金融機構運用新興科技作業規範1090417"
+}

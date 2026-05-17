@@ -1,0 +1,839 @@
+{
+  "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文\n中華民國期貨業商業同業公會\n「資訊作業韌性自律規範」\n中華民國112年6月9日中華民國期貨業商業同業公會\n第7屆理監事第6次聯席會決議通過\n中華民國112年8月21日金融監督管理委員會\n金管證期字第11203471181號函同意備查",
+  "normalized_content": "# 中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文\n中華民國期貨業商業同業公會\n「資訊作業韌性自律規範」\n中華民國112年6月9日中華民國期貨業商業同業公會\n第7屆理監事第6次聯席會決議通過\n中華民國112年8月21日金融監督管理委員會\n金管證期字第11203471181號函同意備查",
+  "children": [
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 目的\n為協助期貨商、槓桿交易商及期貨服務事業（下稱期貨業）於核心系\n統遭受中斷事故時，能有效執行應變措施並將損害降低至可承受範\n圍，爰訂定本自律規範。",
+      "normalized_content": "第一條 目的\n為協助期貨商、槓桿交易商及期貨服務事業（下稱期貨業）於核心系\n統遭受中斷事故時，能有效執行應變措施並將損害降低至可承受範\n圍，爰訂定本自律規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 10,
+          "end": 13
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 名詞定義",
+      "normalized_content": "第二條 名詞定義",
+      "children": [
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、資訊作業韌性：資訊作業面臨損害、異常或中斷服務時的處理能\n力與應變彈性。",
+          "normalized_content": "一、資訊作業韌性：資訊作業面臨損害、異常或中斷服務時的處理能\n力與應變彈性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 19,
+              "end": 20
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、核心業務：係指直接提供客戶交易或支持交易業務持續運作之必\n要業務。",
+          "normalized_content": "二、核心業務：係指直接提供客戶交易或支持交易業務持續運作之必\n要業務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 23,
+              "end": 24
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、核心系統：係指直接提供客戶交易或支持交易業務持續運作之必\n要系統，其餘皆為非核心系統。",
+          "normalized_content": "三、核心系統：係指直接提供客戶交易或支持交易業務持續運作之必\n要系統，其餘皆為非核心系統。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 27,
+              "end": 28
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、營運衝擊分析（Business Impact Analysis, BIA）：評估核心系\n統中斷時可能對組織造成之衝擊。",
+          "normalized_content": "四、營運衝擊分析（Business Impact Analysis, BIA）：評估核心系\n統中斷時可能對組織造成之衝擊。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 31,
+              "end": 32
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 45
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、復原時間目標（Recovery Time Objective, RTO）：中斷事故發\n生後，核心系統從中斷事故發生到回復至最小可接受服務水準之\n目標時間。",
+          "normalized_content": "五、復原時間目標（Recovery Time Objective, RTO）：中斷事故發\n生後，核心系統從中斷事故發生到回復至最小可接受服務水準之\n目標時間。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 35,
+              "end": 37
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 44
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、資料復原點目標（Recovery Point Objective, RPO）：中斷事故\n發生時，核心系統可承受之資料損失量所訂之值。",
+          "normalized_content": "六、資料復原點目標（Recovery Point Objective, RPO）：中斷事故\n發生時，核心系統可承受之資料損失量所訂之值。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 40,
+              "end": 41
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 45
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、最小可接受服務水準：核心業務於復原時間目標（RTO）內回復之\n最低限度運作水準。",
+          "normalized_content": "七、最小可接受服務水準：核心業務於復原時間目標（RTO）內回復之\n最低限度運作水準。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 44,
+              "end": 45
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 32
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、第一類期貨商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之期貨商\n或「建立期貨商資通安全檢查機制-分級防護應辦事項附表」所列\n第一級、第二級、第三級期貨商。",
+          "normalized_content": "八、第一類期貨商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之期貨商\n或「建立期貨商資通安全檢查機制-分級防護應辦事項附表」所列\n第一級、第二級、第三級期貨商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 48,
+              "end": 51
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、第二類期貨商：係指非屬第一類期貨商之期貨商。\n第1頁、共3頁",
+          "normalized_content": "九、第二類期貨商：係指非屬第一類期貨商之期貨商。\n第1頁、共3頁",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 54,
+              "end": 55
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 24
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.2.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、外國期貨商：係指外資集團在台子公司或分公司。外國期貨商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "十、外國期貨商：係指外資集團在台子公司或分公司。外國期貨商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 59,
+              "end": 60
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 16,
+          "end": 16
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 營運持續管理\n期貨業營運持續管理應參考期交所「建立期貨商資通安全檢查機制」\n之營運持續管理相關規定辦理。",
+      "normalized_content": "第三條 營運持續管理\n期貨業營運持續管理應參考期交所「建立期貨商資通安全檢查機制」\n之營運持續管理相關規定辦理。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 63,
+          "end": 65
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 資訊作業韌性管理組織\n期貨業就資訊作業韌性進行任務編組及配置適當人力，辦理下列事\n項：",
+      "normalized_content": "第四條 資訊作業韌性管理組織\n期貨業就資訊作業韌性進行任務編組及配置適當人力，辦理下列事\n項：",
+      "children": [
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、識別核心業務及其對應之核心系統。",
+          "normalized_content": "一、識別核心業務及其對應之核心系統。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 73,
+              "end": 73
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、執行營運衝擊分析，評估核心系統中斷造成之衝擊程度，並依核\n心系統之復原時間目標（RTO）、資料復原點目標（RPO），作為\n恢復核心系統、備份備援規劃及執行復原作業之依據。",
+          "normalized_content": "二、執行營運衝擊分析，評估核心系統中斷造成之衝擊程度，並依核\n心系統之復原時間目標（RTO）、資料復原點目標（RPO），作為\n恢復核心系統、備份備援規劃及執行復原作業之依據。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 76,
+              "end": 78
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 31
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 68,
+          "end": 70
+        },
+        "line_char_range": {
+          "min": 2,
+          "max": 29
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 備份備援機制",
+      "normalized_content": "第五條 備份備援機制",
+      "children": [
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、制定資料備份機制時，宜考量「3-2-1 備份原則」。",
+          "normalized_content": "一、制定資料備份機制時，宜考量「3-2-1 備份原則」。",
+          "children": [
+            {
+              "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.5.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)至少製作三份備份。",
+              "normalized_content": "(一)至少製作三份備份。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 87,
+                  "end": 87
+                },
+                "line_char_range": {
+                  "min": 12,
+                  "max": 12
+                }
+              },
+              "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+              "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+            },
+            {
+              "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.5.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)將備份分別存放在兩種不同儲存媒體。",
+              "normalized_content": "(二)將備份分別存放在兩種不同儲存媒體。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 90,
+                  "end": 90
+                },
+                "line_char_range": {
+                  "min": 20,
+                  "max": 20
+                }
+              },
+              "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+              "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+            },
+            {
+              "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.5.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)至少一份放在異地保存。",
+              "normalized_content": "(三)至少一份放在異地保存。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 93,
+                  "end": 93
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 14
+                }
+              },
+              "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+              "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 84,
+              "end": 84
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 28
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、依據核心系統特性、業務單位需求與復原時間目標（RTO），制定\n適當之系統備援架構。",
+          "normalized_content": "二、依據核心系統特性、業務單位需求與復原時間目標（RTO），制定\n適當之系統備援架構。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 96,
+              "end": 97
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 32
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 81,
+          "end": 81
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 機房設置規劃",
+      "normalized_content": "第六條 機房設置規劃",
+      "children": [
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、規劃備援機房時應遵循政府建築及消防相關法令法規，考量支援\n設施包含電力供給、空調配置、環境監控與告警等配置。",
+          "normalized_content": "一、規劃備援機房時應遵循政府建築及消防相關法令法規，考量支援\n設施包含電力供給、空調配置、環境監控與告警等配置。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 103,
+              "end": 104
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、第一類期貨商應設置異地備援機房。",
+          "normalized_content": "二、第一類期貨商應設置異地備援機房。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 107,
+              "end": 107
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、期貨業規劃主/備援中心搬移或新建規劃時，異地備援機房地點與\n場所之選擇，宜考量與主機房非同一災難或失效影響之地理位置\n為原則。",
+          "normalized_content": "三、期貨業規劃主/備援中心搬移或新建規劃時，異地備援機房地點與\n場所之選擇，宜考量與主機房非同一災難或失效影響之地理位置\n為原則。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 110,
+              "end": 112
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 31
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 100,
+          "end": 100
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第七條 災害應變機制\n第2頁、共3頁\n當災害發生造成資訊作業異常或中斷時，應辨識風險情境，就各項風\n險情境擬定制定各系統之應變、減災或復原措施相關作業流程。",
+      "normalized_content": "第七條 災害應變機制\n第2頁、共3頁\n當災害發生造成資訊作業異常或中斷時，應辨識風險情境，就各項風\n險情境擬定制定各系統之應變、減災或復原措施相關作業流程。",
+      "children": [
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、應辨識可能造成中斷之風險情境，依據期交所「天然災害侵襲暨\n選舉投票日應否休市之規定」、期交所「建立期貨商資通安全檢\n查機制」及「證券期貨市場資通安全事件通報應變作業注意事\n項」制定緊急應變措施及緊急處理程序。",
+          "normalized_content": "一、應辨識可能造成中斷之風險情境，依據期交所「天然災害侵襲暨\n選舉投票日應否休市之規定」、期交所「建立期貨商資通安全檢\n查機制」及「證券期貨市場資通安全事件通報應變作業注意事\n項」制定緊急應變措施及緊急處理程序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 122,
+              "end": 125
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        },
+        {
+          "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.7.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、針對與資訊系統有關之資訊安全或服務異常事件，依據「證券期\n貨市場資通安全事件通報應變作業注意事項」制定緊急通報程\n序。",
+          "normalized_content": "二、針對與資訊系統有關之資訊安全或服務異常事件，依據「證券期\n貨市場資通安全事件通報應變作業注意事項」制定緊急通報程\n序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 128,
+              "end": 130
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+          "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 3
+        },
+        "line_range": {
+          "start": 115,
+          "end": 119
+        },
+        "line_char_range": {
+          "min": 7,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第八條 資訊作業韌性之認知及能力訓練\n期貨業就資訊作業韌性之任務編組人員，依據期交所「建立期貨商資\n通安全檢查機制」所屬資安分級，應定期辦理資訊作業演練並留存紀\n錄。",
+      "normalized_content": "第八條 資訊作業韌性之認知及能力訓練\n期貨業就資訊作業韌性之任務編組人員，依據期交所「建立期貨商資\n通安全檢查機制」所屬資安分級，應定期辦理資訊作業演練並留存紀\n錄。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 133,
+          "end": 136
+        },
+        "line_char_range": {
+          "min": 2,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    },
+    {
+      "id": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第九條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。\n第3頁、共3頁",
+      "normalized_content": "第九條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。\n第3頁、共3頁",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 139,
+          "end": 142
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+      "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 3
+    },
+    "line_range": {
+      "start": 1,
+      "end": 8
+    },
+    "line_char_range": {
+      "min": 12,
+      "max": 31
+    }
+  },
+  "file_name": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文.md",
+  "file_stem": "中華民國期貨業商業同業公會「資訊作業韌性自律規範」完整條文"
+}

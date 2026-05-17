@@ -1,0 +1,757 @@
+[
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、 為協助保險業使用網路身分驗證時，可建立有效的安全驗證機制，以確保減\n少身分冒用及詐騙情事發生，降低保戶與各公司之機敏資料外洩之風險，特\n訂定本作業準則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 2,
+    "path_key": "2",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、 用詞定義及說明：",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "2.1",
+    "path_names": [
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一) 網路身分驗證：係指於網路應用系統通過特定的身分驗證機制，以確認\n是否為客戶本人。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "2.2",
+    "path_names": [
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二) 多因子驗證（Multi-Factor Authentication,MFA）：係指為強化帳號密\n碼管理，降低系統相關帳號密碼遭假冒或竊用之風險，提高系統整體安\n全性並使用二種以上因子驗證方式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 3,
+    "path_key": "3",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "三、各會員公司電子商務系統辦理採用與用戶約定之靜態密碼方式進行身分驗\n證，相關規則如下:",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "3.1",
+    "path_names": [
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一)應至少8位數。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "3.2",
+    "path_names": [
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二)應採英數字混合使用，且宜包含大小寫英文字母或符號。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "3.3",
+    "path_names": [
+      "三、",
+      "(三)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(三)不得使用客戶之統一編號及身分證字號等顯性資料作為密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "3.4",
+    "path_names": [
+      "三、",
+      "(四)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(四)不應訂為相同的英數字、連續英文字或連號數字，預設密碼不在此限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(五)",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "3.5",
+    "path_names": [
+      "三、",
+      "(五)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(五)密碼與代號/帳號不應相同。\n(六)密碼連續錯誤達五次，各公司應做妥善處理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(七)",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "3.6",
+    "path_names": [
+      "三、",
+      "(七)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(七)變更密碼不得與前一次相同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(八)",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "3.7",
+    "path_names": [
+      "三、",
+      "(八)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(八)首次登入時，應強制變更預設密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(九)",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "3.8",
+    "path_names": [
+      "三、",
+      "(九)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(九)密碼超過一年未變更，各公司應妥善提醒客戶密碼變更事宜。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(十)",
+    "level": 1,
+    "sibling_order": 9,
+    "path_key": "3.9",
+    "path_names": [
+      "三、",
+      "(十)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(十)應採用下列一項密碼儲存管控機制：",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "1.",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.9.1",
+    "path_names": [
+      "三、",
+      "(十)",
+      "1."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "1. 密碼於儲存時應先進行不可逆運算（如雜湊演算法），雜湊值應進行\n加密保護或加入不可得知的資料運算。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "2.",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.9.2",
+    "path_names": [
+      "三、",
+      "(十)",
+      "2."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "2. 採用加密演算法者，其金鑰應儲存於軟體式金鑰管理器並與原資料\n庫區隔，或搭配經第三方認證（如 FIPS 140-2 Level 3 以上）之\n硬體安全模組並限制明文匯出功能等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 4,
+    "path_key": "4",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "四、各會員公司電子商務系統辦理採用與用戶約定之一次性密碼(One Time\nPassword)方式進行身分驗證，相關規則如下:",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "4.1",
+    "path_names": [
+      "四、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一)應至少6位數。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "4.2",
+    "path_names": [
+      "四、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二)密碼與帳號不應相同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "4.3",
+    "path_names": [
+      "四、",
+      "(三)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(三)輸入密碼連續錯誤達五次，該密碼即失效。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "4.4",
+    "path_names": [
+      "四、",
+      "(四)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(四)每次密碼有效性不得逾5分鐘，逾時即需重新申請發給新密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "五、",
+    "level": 0,
+    "sibling_order": 5,
+    "path_key": "5",
+    "path_names": [
+      "五、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "五、各會員公司提供消費者或保戶辦理身分驗證作業，得依主管機關核准或與保\n戶線上約定之身分驗證程序或數位憑證辦理；有關主管機關核准之第三方認\n證方式如下:",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "5.1",
+    "path_names": [
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一)內政部核發之自然人憑證與行動自然人憑證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "5.2",
+    "path_names": [
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二)金融機構核發之金融憑證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "5.3",
+    "path_names": [
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "(三)金融行動身分識別聯盟之「金融機構辦理快速身分識別機制」(金融\nFIDO) 。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "5.4",
+    "path_names": [
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(四)Mobile ID 行動身分識別服務應由提供手機門號之電信業者進行身分\n驗證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(五)",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "5.5",
+    "path_names": [
+      "五、",
+      "(五)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(五)除第一款至第四款規定之認證方式外，於其他法令或相關函釋另有規定\n者，從其規定。\n六、各會員公司電子商務應用系統得依風險考量採用多因子驗證，其安全設計具\n有下列三項之任兩項以上技術，其說明如下：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "5.6",
+    "path_names": [
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)用戶與保險業所約定之資訊，且無第三人知悉（如密碼、圖形鎖、手勢\n等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "5.7",
+    "path_names": [
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)用戶所持有之設備，保險業應確認該設備為用戶與保險業所約定持有之\n實體設備（如密碼產生器、密碼卡、晶片卡、電腦、行動裝置、憑證載\n具等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "5.8",
+    "path_names": [
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)用戶提供給保險業其所擁有之生物特徵（如指紋、臉部、虹膜、聲音、\n掌紋、靜脈、簽名等），保險業應直接或間接驗證該生物特徵。間接驗\n證係指由用戶端設備（如行動裝置）驗證或委由第三方驗證，僅讀取驗\n證結果，必要時應增加驗證來源辨識。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "七、",
+    "level": 0,
+    "sibling_order": 6,
+    "path_key": "6",
+    "path_names": [
+      "七、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "七、各會員公司電子商務應用系統得採用國際組織FIDO聯盟之身分驗證機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "八、",
+    "level": 0,
+    "sibling_order": 7,
+    "path_key": "7",
+    "path_names": [
+      "八、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "八、會員公司辦理網路身分驗證，則系統或環境存取需建立身分驗證控管機制，\n相關規則如下：",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "7.1",
+    "path_names": [
+      "八、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)建立身份驗證機制應防範自動化程式之登入或密碼更換嘗試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "7.2",
+    "path_names": [
+      "八、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)當進行密碼重設機制(如忘記密碼)時，應針對使用者重新身分確認，並\n發送一次性及具有時效性符記。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "7.3",
+    "path_names": [
+      "八、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)供應商或合作廠商之網路身分驗證，應依合作性質建立適當控管機制，\n如限制登入IP及加強進行登入身分核實。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "九、",
+    "level": 0,
+    "sibling_order": 8,
+    "path_key": "8",
+    "path_names": [
+      "九、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "九、會員公司當運用網路身分驗證時，應符合各會員公司所訂定之情境下採用適\n當身分驗證，相關說明如下：",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "8.1",
+    "path_names": [
+      "九、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)當進行網路投保及網路保險服務時，應符合保險業辦理電子商務應注意\n事項規範之規定辦理網路投保業務需進行身分驗證作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-5.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "8.2",
+    "path_names": [
+      "九、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)當進行保全/理賠聯盟鏈契約變更及理賠申請時，應符合保全/理賠聯盟\n鏈業務應遵循事項規範推播通知業務進行註冊及身分驗證作業，同時也\n應符合保險業辦理電子商務應注意事項之網路保險服務之身分驗證作\n業之規範以及所屬可執行事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

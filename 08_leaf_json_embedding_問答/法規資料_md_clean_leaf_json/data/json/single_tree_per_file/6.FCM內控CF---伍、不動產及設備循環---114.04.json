@@ -1,0 +1,2001 @@
+{
+  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 6.FCM內控CF---伍、不動產及設備循環---114.04\n二、不動產及設備維護及處置作業：CF-22000\n三、不動產及設備保管及記錄作業：CF-23000",
+  "normalized_content": "# 6.FCM內控CF---伍、不動產及設備循環---114.04\n二、不動產及設備維護及處置作業：CF-22000\n三、不動產及設備保管及記錄作業：CF-23000",
+  "children": [
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [
+        {
+          "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1",
+          "node_kind": "table",
+          "table_sequence": "1",
+          "cell_row": null,
+          "cell_col": null,
+          "is_table_header": null,
+          "header_row_count": 1,
+          "original_content": "[TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_1]\n| 編 號 | 作 業 項 目 | 作 業 程 序 及 控 制 重 點 | 依 據 資 料 |\n| --- | --- | --- | --- |\n| CF-21000 | 不動產及設備取 得或增添作業 | - (一) 不動產及設備之取得或增添宜依據增置財產計劃，編製預算並依預 算執行。<br>- (二) 取得或增添不動產及設備之採購及付款時，應依相關作業程序辦理 (請參閱CP-20000採購及付款循環)。<br>- (三) 取得或增添不動產及設備時，尚應依下列規定辦理：<br>-- 1. 公開發行公司之作業程序應符合「公開發行公司取得或處分資產 處理準則」之規定。<br>-- 2. 若對公司營運有重大影響者，依公司法第一八五條之規定應由有 三分之二以上董事出席之董事會，以出席董事過半數之決議提出 之，經代表已發行股份總數三分之二股東出席之股東會，以出席 股東表決權過半數之同意(公開發行股票之公司出席股東之股份 總數不足前開定額者，得以有代表已發行股份總數過半數股東之 出席，出席股東三分之二以上同意)行之。<br>-- 3. 若為受讓其他期貨商之全部或主要部分營業或財產，或讓與全部或 主要部分營業或財產，應送由期交所轉陳主管機關核准。<br>- (四) 除由金融機構兼營者另依銀行法規定外，取得或增添不動產及設備 時，應注意有無違反不得購置非營業用不動產之規定。但因合併、 受讓、裁撤分支機構、營業處所變更或縮減，或經主管機關核准而 持有非營業用不動產者，不在此限。<br>- (五) 取得或增添之場地應依期貨公會「會員營業處所場地及設備標準」 之規定辦理。<br>- (六) 承租不動產及設備時應依相關作業程序辦理。<br>- (七) 宜對營運有重大影響之不動產及設備投保適當火險或綜合險。<br>- (八) 申請公開發行或已公開發行公司向關係人購買不動產應依「公開發 行公司取得或處分資產處理準則」第三節規定辦理，並於事實發生 之即日起算二日內向主管機關指定網站辦理公告申報。 | 一、法令規章： (一)公司法第185條 (二)期貨商管理規則第3、20 條 (三)期交所業務規則第15條 (四)期貨公會「會員營業處 所場地及設備標準」 (五)公開發行公司取得或處 分資產處理準則 (六)期貨顧問事業設置標準 第7條 |\n[/TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_1]",
+          "normalized_content": "[TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_1]\n| 編 號 | 作 業 項 目 | 作 業 程 序 及 控 制 重 點 | 依 據 資 料 |\n| --- | --- | --- | --- |\n| CF-21000 | 不動產及設備取 得或增添作業 | - (一) 不動產及設備之取得或增添宜依據增置財產計劃，編製預算並依預 算執行。<br>- (二) 取得或增添不動產及設備之採購及付款時，應依相關作業程序辦理 (請參閱CP-20000採購及付款循環)。<br>- (三) 取得或增添不動產及設備時，尚應依下列規定辦理：<br>-- 1. 公開發行公司之作業程序應符合「公開發行公司取得或處分資產 處理準則」之規定。<br>-- 2. 若對公司營運有重大影響者，依公司法第一八五條之規定應由有 三分之二以上董事出席之董事會，以出席董事過半數之決議提出 之，經代表已發行股份總數三分之二股東出席之股東會，以出席 股東表決權過半數之同意(公開發行股票之公司出席股東之股份 總數不足前開定額者，得以有代表已發行股份總數過半數股東之 出席，出席股東三分之二以上同意)行之。<br>-- 3. 若為受讓其他期貨商之全部或主要部分營業或財產，或讓與全部或 主要部分營業或財產，應送由期交所轉陳主管機關核准。<br>- (四) 除由金融機構兼營者另依銀行法規定外，取得或增添不動產及設備 時，應注意有無違反不得購置非營業用不動產之規定。但因合併、 受讓、裁撤分支機構、營業處所變更或縮減，或經主管機關核准而 持有非營業用不動產者，不在此限。<br>- (五) 取得或增添之場地應依期貨公會「會員營業處所場地及設備標準」 之規定辦理。<br>- (六) 承租不動產及設備時應依相關作業程序辦理。<br>- (七) 宜對營運有重大影響之不動產及設備投保適當火險或綜合險。<br>- (八) 申請公開發行或已公開發行公司向關係人購買不動產應依「公開發 行公司取得或處分資產處理準則」第三節規定辦理，並於事實發生 之即日起算二日內向主管機關指定網站辦理公告申報。 | 一、法令規章： (一)公司法第185條 (二)期貨商管理規則第3、20 條 (三)期交所業務規則第15條 (四)期貨公會「會員營業處 所場地及設備標準」 (五)公開發行公司取得或處 分資產處理準則 (六)期貨顧問事業設置標準 第7條 |\n[/TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_1]",
+          "children": [
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r1.c1",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 1,
+              "cell_col": 1,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "編 號",
+              "normalized_content": "編 號",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 14,
+                  "end": 14
+                },
+                "line_char_range": {
+                  "min": 3,
+                  "max": 3
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r1.c2",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 1,
+              "cell_col": 2,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "作 業 項 目",
+              "normalized_content": "作 業 項 目",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 14,
+                  "end": 14
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 7
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r1.c3",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 1,
+              "cell_col": 3,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "作 業 程 序 及 控 制 重 點",
+              "normalized_content": "作 業 程 序 及 控 制 重 點",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 14,
+                  "end": 14
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 17
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r1.c4",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 1,
+              "cell_col": 4,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "依 據 資 料",
+              "normalized_content": "依 據 資 料",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 14,
+                  "end": 14
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 7
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c1",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 2,
+              "cell_col": 1,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "CF-21000",
+              "normalized_content": "CF-21000",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 16,
+                  "end": 16
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 8
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c2",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 2,
+              "cell_col": 2,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "不動產及設備取 得或增添作業",
+              "normalized_content": "不動產及設備取 得或增添作業",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 16,
+                  "end": 16
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 14
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 2,
+              "cell_col": 3,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "- (一) 不動產及設備之取得或增添宜依據增置財產計劃，編製預算並依預 算執行。<br>- (二) 取得或增添不動產及設備之採購及付款時，應依相關作業程序辦理 (請參閱CP-20000採購及付款循環)。<br>- (三) 取得或增添不動產及設備時，尚應依下列規定辦理：<br>-- 1. 公開發行公司之作業程序應符合「公開發行公司取得或處分資產 處理準則」之規定。<br>-- 2. 若對公司營運有重大影響者，依公司法第一八五條之規定應由有 三分之二以上董事出席之董事會，以出席董事過半數之決議提出 之，經代表已發行股份總數三分之二股東出席之股東會，以出席 股東表決權過半數之同意(公開發行股票之公司出席股東之股份 總數不足前開定額者，得以有代表已發行股份總數過半數股東之 出席，出席股東三分之二以上同意)行之。<br>-- 3. 若為受讓其他期貨商之全部或主要部分營業或財產，或讓與全部或 主要部分營業或財產，應送由期交所轉陳主管機關核准。<br>- (四) 除由金融機構兼營者另依銀行法規定外，取得或增添不動產及設備 時，應注意有無違反不得購置非營業用不動產之規定。但因合併、 受讓、裁撤分支機構、營業處所變更或縮減，或經主管機關核准而 持有非營業用不動產者，不在此限。<br>- (五) 取得或增添之場地應依期貨公會「會員營業處所場地及設備標準」 之規定辦理。<br>- (六) 承租不動產及設備時應依相關作業程序辦理。<br>- (七) 宜對營運有重大影響之不動產及設備投保適當火險或綜合險。<br>- (八) 申請公開發行或已公開發行公司向關係人購買不動產應依「公開發 行公司取得或處分資產處理準則」第三節規定辦理，並於事實發生 之即日起算二日內向主管機關指定網站辦理公告申報。",
+              "normalized_content": "- (一) 不動產及設備之取得或增添宜依據增置財產計劃，編製預算並依預 算執行。<br>- (二) 取得或增添不動產及設備之採購及付款時，應依相關作業程序辦理 (請參閱CP-20000採購及付款循環)。<br>- (三) 取得或增添不動產及設備時，尚應依下列規定辦理：<br>-- 1. 公開發行公司之作業程序應符合「公開發行公司取得或處分資產 處理準則」之規定。<br>-- 2. 若對公司營運有重大影響者，依公司法第一八五條之規定應由有 三分之二以上董事出席之董事會，以出席董事過半數之決議提出 之，經代表已發行股份總數三分之二股東出席之股東會，以出席 股東表決權過半數之同意(公開發行股票之公司出席股東之股份 總數不足前開定額者，得以有代表已發行股份總數過半數股東之 出席，出席股東三分之二以上同意)行之。<br>-- 3. 若為受讓其他期貨商之全部或主要部分營業或財產，或讓與全部或 主要部分營業或財產，應送由期交所轉陳主管機關核准。<br>- (四) 除由金融機構兼營者另依銀行法規定外，取得或增添不動產及設備 時，應注意有無違反不得購置非營業用不動產之規定。但因合併、 受讓、裁撤分支機構、營業處所變更或縮減，或經主管機關核准而 持有非營業用不動產者，不在此限。<br>- (五) 取得或增添之場地應依期貨公會「會員營業處所場地及設備標準」 之規定辦理。<br>- (六) 承租不動產及設備時應依相關作業程序辦理。<br>- (七) 宜對營運有重大影響之不動產及設備投保適當火險或綜合險。<br>- (八) 申請公開發行或已公開發行公司向關係人購買不動產應依「公開發 行公司取得或處分資產處理準則」第三節規定辦理，並於事實發生 之即日起算二日內向主管機關指定網站辦理公告申報。",
+              "children": [
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.1",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(一) 不動產及設備之取得或增添宜依據增置財產計劃，編製預算並依預 算執行。",
+                  "normalized_content": "(一) 不動產及設備之取得或增添宜依據增置財產計劃，編製預算並依預 算執行。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 38,
+                      "max": 38
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.2",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(二) 取得或增添不動產及設備之採購及付款時，應依相關作業程序辦理 (請參閱CP-20000採購及付款循環)。",
+                  "normalized_content": "(二) 取得或增添不動產及設備之採購及付款時，應依相關作業程序辦理 (請參閱CP-20000採購及付款循環)。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 55,
+                      "max": 55
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.3",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(三) 取得或增添不動產及設備時，尚應依下列規定辦理：",
+                  "normalized_content": "(三) 取得或增添不動產及設備時，尚應依下列規定辦理：",
+                  "children": [
+                    {
+                      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.3.1",
+                      "node_kind": "table_cell_item",
+                      "table_sequence": "1",
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "1. 公開發行公司之作業程序應符合「公開發行公司取得或處分資產 處理準則」之規定。",
+                      "normalized_content": "1. 公開發行公司之作業程序應符合「公開發行公司取得或處分資產 處理準則」之規定。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 2,
+                          "end": 2
+                        },
+                        "line_range": {
+                          "start": 16,
+                          "end": 16
+                        },
+                        "line_char_range": {
+                          "min": 41,
+                          "max": 41
+                        }
+                      },
+                      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                    },
+                    {
+                      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.3.2",
+                      "node_kind": "table_cell_item",
+                      "table_sequence": "1",
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "2. 若對公司營運有重大影響者，依公司法第一八五條之規定應由有 三分之二以上董事出席之董事會，以出席董事過半數之決議提出 之，經代表已發行股份總數三分之二股東出席之股東會，以出席 股東表決權過半數之同意(公開發行股票之公司出席股東之股份 總數不足前開定額者，得以有代表已發行股份總數過半數股東之 出席，出席股東三分之二以上同意)行之。",
+                      "normalized_content": "2. 若對公司營運有重大影響者，依公司法第一八五條之規定應由有 三分之二以上董事出席之董事會，以出席董事過半數之決議提出 之，經代表已發行股份總數三分之二股東出席之股東會，以出席 股東表決權過半數之同意(公開發行股票之公司出席股東之股份 總數不足前開定額者，得以有代表已發行股份總數過半數股東之 出席，出席股東三分之二以上同意)行之。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 2,
+                          "end": 2
+                        },
+                        "line_range": {
+                          "start": 16,
+                          "end": 16
+                        },
+                        "line_char_range": {
+                          "min": 167,
+                          "max": 167
+                        }
+                      },
+                      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                    },
+                    {
+                      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.3.3",
+                      "node_kind": "table_cell_item",
+                      "table_sequence": "1",
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "3. 若為受讓其他期貨商之全部或主要部分營業或財產，或讓與全部或 主要部分營業或財產，應送由期交所轉陳主管機關核准。",
+                      "normalized_content": "3. 若為受讓其他期貨商之全部或主要部分營業或財產，或讓與全部或 主要部分營業或財產，應送由期交所轉陳主管機關核准。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 2,
+                          "end": 2
+                        },
+                        "line_range": {
+                          "start": 16,
+                          "end": 16
+                        },
+                        "line_char_range": {
+                          "min": 58,
+                          "max": 58
+                        }
+                      },
+                      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                    }
+                  ],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 27,
+                      "max": 27
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.4",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(四) 除由金融機構兼營者另依銀行法規定外，取得或增添不動產及設備 時，應注意有無違反不得購置非營業用不動產之規定。但因合併、 受讓、裁撤分支機構、營業處所變更或縮減，或經主管機關核准而 持有非營業用不動產者，不在此限。",
+                  "normalized_content": "(四) 除由金融機構兼營者另依銀行法規定外，取得或增添不動產及設備 時，應注意有無違反不得購置非營業用不動產之規定。但因合併、 受讓、裁撤分支機構、營業處所變更或縮減，或經主管機關核准而 持有非營業用不動產者，不在此限。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 110,
+                      "max": 110
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.5",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(五) 取得或增添之場地應依期貨公會「會員營業處所場地及設備標準」 之規定辦理。",
+                  "normalized_content": "(五) 取得或增添之場地應依期貨公會「會員營業處所場地及設備標準」 之規定辦理。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 40,
+                      "max": 40
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.6",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(六) 承租不動產及設備時應依相關作業程序辦理。",
+                  "normalized_content": "(六) 承租不動產及設備時應依相關作業程序辦理。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 24,
+                      "max": 24
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.7",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(七) 宜對營運有重大影響之不動產及設備投保適當火險或綜合險。",
+                  "normalized_content": "(七) 宜對營運有重大影響之不動產及設備投保適當火險或綜合險。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 31,
+                      "max": 31
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c3.8",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "1",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(八) 申請公開發行或已公開發行公司向關係人購買不動產應依「公開發 行公司取得或處分資產處理準則」第三節規定辦理，並於事實發生 之即日起算二日內向主管機關指定網站辦理公告申報。",
+                  "normalized_content": "(八) 申請公開發行或已公開發行公司向關係人購買不動產應依「公開發 行公司取得或處分資產處理準則」第三節規定辦理，並於事實發生 之即日起算二日內向主管機關指定網站辦理公告申報。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 2,
+                      "end": 2
+                    },
+                    "line_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_char_range": {
+                      "min": 88,
+                      "max": 88
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 16,
+                  "end": 16
+                },
+                "line_char_range": {
+                  "min": 744,
+                  "max": 744
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.1.表格_1.r2.c4",
+              "node_kind": "table_cell",
+              "table_sequence": "1",
+              "cell_row": 2,
+              "cell_col": 4,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "一、法令規章： (一)公司法第185條 (二)期貨商管理規則第3、20 條 (三)期交所業務規則第15條 (四)期貨公會「會員營業處 所場地及設備標準」 (五)公開發行公司取得或處 分資產處理準則 (六)期貨顧問事業設置標準 第7條",
+              "normalized_content": "一、法令規章： (一)公司法第185條 (二)期貨商管理規則第3、20 條 (三)期交所業務規則第15條 (四)期貨公會「會員營業處 所場地及設備標準」 (五)公開發行公司取得或處 分資產處理準則 (六)期貨顧問事業設置標準 第7條",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 16,
+                  "end": 16
+                },
+                "line_char_range": {
+                  "min": 116,
+                  "max": 116
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 4
+            },
+            "line_range": {
+              "start": 13,
+              "end": 17
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 895
+            }
+          },
+          "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+          "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "伍、不動產及設備循環：CF-20000",
+      "normalized_content": "伍、不動產及設備循環：CF-20000",
+      "children": [
+        {
+          "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3",
+          "node_kind": "table",
+          "table_sequence": "3",
+          "cell_row": null,
+          "cell_col": null,
+          "is_table_header": null,
+          "header_row_count": 1,
+          "original_content": "[TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_3]\n| 編 號 | 作 業 項 目 | 作 業 程 序 及 控 制 重 點 | 依 據 資 料 |\n| --- | --- | --- | --- |\n| CF-22000 | 不動產及設備維 護及處置作業 | - (一) 不動產及設備宜定期維護，以確保資產有效運用。<br>- (二) 不動產及設備損壞時，使用單位應依規定填具請修單，呈權責主管 核准。<br>- (三) 管理單位應根據經核准之請修單，取得估價單並呈權責主管核准後 進行維修。<br>- (四) 不動產及設備不堪使用時，管理單位簽呈權責主管核准後始得報 廢。若不動產及設備因特定事故未達稅法規定耐用年數而毀滅或廢 棄者，公司除可依會計師查核簽證報告或年度所得稅查核簽證報告， 並檢附相關資料，或提出經事業主管機關監毀並出具載有監毀固定 資產品名、數量及金額之證明文件等核實認定者外，應於事前報請 稽徵機關核備，以其未折減餘額列為該年度之損失。<br>- (五) 處置不動產及設備應由管理單位擬具辦法呈權責主管核定後(重要 資產應提董事會核定)，依公司財產管理規章之處置作業程序辦理； 惟公開發行公司之作業程序尚應符合「公開發行公司取得或處分資 產處理準則」。<br>- (六) 讓與主要部分營業財產時，應依公司法第一八五條規定應由有三分 之二以上董事出席之董事會，以出席董事過半數之決議提出之，經 代表已發行股份總數三分之二股東出席之股東會，以出席股東表決 權過半數之同意(公開發行股票之公司出席股東之股份總數不足前 開定額者，得以有代表已發行股份總數過半數股東之出席，出席股 東三分之二以上同意)行之。 | 一、法令規章： (一)公司法第185條 (二)公開發行公司取得或處 分資產處理準則 (三)公司財產管理規章 (四)營利事業所得稅查核準 則第95條第10款 二、使用表單： 請修單 |\n[/TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_3]",
+          "normalized_content": "[TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_3]\n| 編 號 | 作 業 項 目 | 作 業 程 序 及 控 制 重 點 | 依 據 資 料 |\n| --- | --- | --- | --- |\n| CF-22000 | 不動產及設備維 護及處置作業 | - (一) 不動產及設備宜定期維護，以確保資產有效運用。<br>- (二) 不動產及設備損壞時，使用單位應依規定填具請修單，呈權責主管 核准。<br>- (三) 管理單位應根據經核准之請修單，取得估價單並呈權責主管核准後 進行維修。<br>- (四) 不動產及設備不堪使用時，管理單位簽呈權責主管核准後始得報 廢。若不動產及設備因特定事故未達稅法規定耐用年數而毀滅或廢 棄者，公司除可依會計師查核簽證報告或年度所得稅查核簽證報告， 並檢附相關資料，或提出經事業主管機關監毀並出具載有監毀固定 資產品名、數量及金額之證明文件等核實認定者外，應於事前報請 稽徵機關核備，以其未折減餘額列為該年度之損失。<br>- (五) 處置不動產及設備應由管理單位擬具辦法呈權責主管核定後(重要 資產應提董事會核定)，依公司財產管理規章之處置作業程序辦理； 惟公開發行公司之作業程序尚應符合「公開發行公司取得或處分資 產處理準則」。<br>- (六) 讓與主要部分營業財產時，應依公司法第一八五條規定應由有三分 之二以上董事出席之董事會，以出席董事過半數之決議提出之，經 代表已發行股份總數三分之二股東出席之股東會，以出席股東表決 權過半數之同意(公開發行股票之公司出席股東之股份總數不足前 開定額者，得以有代表已發行股份總數過半數股東之出席，出席股 東三分之二以上同意)行之。 | 一、法令規章： (一)公司法第185條 (二)公開發行公司取得或處 分資產處理準則 (三)公司財產管理規章 (四)營利事業所得稅查核準 則第95條第10款 二、使用表單： 請修單 |\n[/TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_3]",
+          "children": [
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r1.c1",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 1,
+              "cell_col": 1,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "編 號",
+              "normalized_content": "編 號",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 28,
+                  "end": 28
+                },
+                "line_char_range": {
+                  "min": 3,
+                  "max": 3
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r1.c2",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 1,
+              "cell_col": 2,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "作 業 項 目",
+              "normalized_content": "作 業 項 目",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 28,
+                  "end": 28
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 7
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r1.c3",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 1,
+              "cell_col": 3,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "作 業 程 序 及 控 制 重 點",
+              "normalized_content": "作 業 程 序 及 控 制 重 點",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 28,
+                  "end": 28
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 17
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r1.c4",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 1,
+              "cell_col": 4,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "依 據 資 料",
+              "normalized_content": "依 據 資 料",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 28,
+                  "end": 28
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 7
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c1",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 2,
+              "cell_col": 1,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "CF-22000",
+              "normalized_content": "CF-22000",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 30,
+                  "end": 30
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 8
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c2",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 2,
+              "cell_col": 2,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "不動產及設備維 護及處置作業",
+              "normalized_content": "不動產及設備維 護及處置作業",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 30,
+                  "end": 30
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 14
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 2,
+              "cell_col": 3,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "- (一) 不動產及設備宜定期維護，以確保資產有效運用。<br>- (二) 不動產及設備損壞時，使用單位應依規定填具請修單，呈權責主管 核准。<br>- (三) 管理單位應根據經核准之請修單，取得估價單並呈權責主管核准後 進行維修。<br>- (四) 不動產及設備不堪使用時，管理單位簽呈權責主管核准後始得報 廢。若不動產及設備因特定事故未達稅法規定耐用年數而毀滅或廢 棄者，公司除可依會計師查核簽證報告或年度所得稅查核簽證報告， 並檢附相關資料，或提出經事業主管機關監毀並出具載有監毀固定 資產品名、數量及金額之證明文件等核實認定者外，應於事前報請 稽徵機關核備，以其未折減餘額列為該年度之損失。<br>- (五) 處置不動產及設備應由管理單位擬具辦法呈權責主管核定後(重要 資產應提董事會核定)，依公司財產管理規章之處置作業程序辦理； 惟公開發行公司之作業程序尚應符合「公開發行公司取得或處分資 產處理準則」。<br>- (六) 讓與主要部分營業財產時，應依公司法第一八五條規定應由有三分 之二以上董事出席之董事會，以出席董事過半數之決議提出之，經 代表已發行股份總數三分之二股東出席之股東會，以出席股東表決 權過半數之同意(公開發行股票之公司出席股東之股份總數不足前 開定額者，得以有代表已發行股份總數過半數股東之出席，出席股 東三分之二以上同意)行之。",
+              "normalized_content": "- (一) 不動產及設備宜定期維護，以確保資產有效運用。<br>- (二) 不動產及設備損壞時，使用單位應依規定填具請修單，呈權責主管 核准。<br>- (三) 管理單位應根據經核准之請修單，取得估價單並呈權責主管核准後 進行維修。<br>- (四) 不動產及設備不堪使用時，管理單位簽呈權責主管核准後始得報 廢。若不動產及設備因特定事故未達稅法規定耐用年數而毀滅或廢 棄者，公司除可依會計師查核簽證報告或年度所得稅查核簽證報告， 並檢附相關資料，或提出經事業主管機關監毀並出具載有監毀固定 資產品名、數量及金額之證明文件等核實認定者外，應於事前報請 稽徵機關核備，以其未折減餘額列為該年度之損失。<br>- (五) 處置不動產及設備應由管理單位擬具辦法呈權責主管核定後(重要 資產應提董事會核定)，依公司財產管理規章之處置作業程序辦理； 惟公開發行公司之作業程序尚應符合「公開發行公司取得或處分資 產處理準則」。<br>- (六) 讓與主要部分營業財產時，應依公司法第一八五條規定應由有三分 之二以上董事出席之董事會，以出席董事過半數之決議提出之，經 代表已發行股份總數三分之二股東出席之股東會，以出席股東表決 權過半數之同意(公開發行股票之公司出席股東之股份總數不足前 開定額者，得以有代表已發行股份總數過半數股東之出席，出席股 東三分之二以上同意)行之。",
+              "children": [
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3.1",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "3",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(一) 不動產及設備宜定期維護，以確保資產有效運用。",
+                  "normalized_content": "(一) 不動產及設備宜定期維護，以確保資產有效運用。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 5,
+                      "end": 5
+                    },
+                    "line_range": {
+                      "start": 30,
+                      "end": 30
+                    },
+                    "line_char_range": {
+                      "min": 26,
+                      "max": 26
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3.2",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "3",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(二) 不動產及設備損壞時，使用單位應依規定填具請修單，呈權責主管 核准。",
+                  "normalized_content": "(二) 不動產及設備損壞時，使用單位應依規定填具請修單，呈權責主管 核准。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 5,
+                      "end": 5
+                    },
+                    "line_range": {
+                      "start": 30,
+                      "end": 30
+                    },
+                    "line_char_range": {
+                      "min": 37,
+                      "max": 37
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3.3",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "3",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(三) 管理單位應根據經核准之請修單，取得估價單並呈權責主管核准後 進行維修。",
+                  "normalized_content": "(三) 管理單位應根據經核准之請修單，取得估價單並呈權責主管核准後 進行維修。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 5,
+                      "end": 5
+                    },
+                    "line_range": {
+                      "start": 30,
+                      "end": 30
+                    },
+                    "line_char_range": {
+                      "min": 39,
+                      "max": 39
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3.4",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "3",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(四) 不動產及設備不堪使用時，管理單位簽呈權責主管核准後始得報 廢。若不動產及設備因特定事故未達稅法規定耐用年數而毀滅或廢 棄者，公司除可依會計師查核簽證報告或年度所得稅查核簽證報告， 並檢附相關資料，或提出經事業主管機關監毀並出具載有監毀固定 資產品名、數量及金額之證明文件等核實認定者外，應於事前報請 稽徵機關核備，以其未折減餘額列為該年度之損失。",
+                  "normalized_content": "(四) 不動產及設備不堪使用時，管理單位簽呈權責主管核准後始得報 廢。若不動產及設備因特定事故未達稅法規定耐用年數而毀滅或廢 棄者，公司除可依會計師查核簽證報告或年度所得稅查核簽證報告， 並檢附相關資料，或提出經事業主管機關監毀並出具載有監毀固定 資產品名、數量及金額之證明文件等核實認定者外，應於事前報請 稽徵機關核備，以其未折減餘額列為該年度之損失。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 5,
+                      "end": 5
+                    },
+                    "line_range": {
+                      "start": 30,
+                      "end": 30
+                    },
+                    "line_char_range": {
+                      "min": 177,
+                      "max": 177
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3.5",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "3",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(五) 處置不動產及設備應由管理單位擬具辦法呈權責主管核定後(重要 資產應提董事會核定)，依公司財產管理規章之處置作業程序辦理； 惟公開發行公司之作業程序尚應符合「公開發行公司取得或處分資 產處理準則」。",
+                  "normalized_content": "(五) 處置不動產及設備應由管理單位擬具辦法呈權責主管核定後(重要 資產應提董事會核定)，依公司財產管理規章之處置作業程序辦理； 惟公開發行公司之作業程序尚應符合「公開發行公司取得或處分資 產處理準則」。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 5,
+                      "end": 5
+                    },
+                    "line_range": {
+                      "start": 30,
+                      "end": 30
+                    },
+                    "line_char_range": {
+                      "min": 102,
+                      "max": 102
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c3.6",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "3",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(六) 讓與主要部分營業財產時，應依公司法第一八五條規定應由有三分 之二以上董事出席之董事會，以出席董事過半數之決議提出之，經 代表已發行股份總數三分之二股東出席之股東會，以出席股東表決 權過半數之同意(公開發行股票之公司出席股東之股份總數不足前 開定額者，得以有代表已發行股份總數過半數股東之出席，出席股 東三分之二以上同意)行之。",
+                  "normalized_content": "(六) 讓與主要部分營業財產時，應依公司法第一八五條規定應由有三分 之二以上董事出席之董事會，以出席董事過半數之決議提出之，經 代表已發行股份總數三分之二股東出席之股東會，以出席股東表決 權過半數之同意(公開發行股票之公司出席股東之股份總數不足前 開定額者，得以有代表已發行股份總數過半數股東之出席，出席股 東三分之二以上同意)行之。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 5,
+                      "end": 5
+                    },
+                    "line_range": {
+                      "start": 30,
+                      "end": 30
+                    },
+                    "line_char_range": {
+                      "min": 167,
+                      "max": 167
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 30,
+                  "end": 30
+                },
+                "line_char_range": {
+                  "min": 580,
+                  "max": 580
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.表格_3.r2.c4",
+              "node_kind": "table_cell",
+              "table_sequence": "3",
+              "cell_row": 2,
+              "cell_col": 4,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "一、法令規章： (一)公司法第185條 (二)公開發行公司取得或處 分資產處理準則 (三)公司財產管理規章 (四)營利事業所得稅查核準 則第95條第10款 二、使用表單： 請修單",
+              "normalized_content": "一、法令規章： (一)公司法第185條 (二)公開發行公司取得或處 分資產處理準則 (三)公司財產管理規章 (四)營利事業所得稅查核準 則第95條第10款 二、使用表單： 請修單",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 30,
+                  "end": 30
+                },
+                "line_char_range": {
+                  "min": 89,
+                  "max": 89
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 6
+            },
+            "line_range": {
+              "start": 27,
+              "end": 31
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 704
+            }
+          },
+          "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+          "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+        },
+        {
+          "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、不動產及設備取得或增添作業：CF-21000",
+          "normalized_content": "一、不動產及設備取得或增添作業：CF-21000",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 9,
+              "end": 9
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+          "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 6,
+          "end": 6
+        },
+        "line_char_range": {
+          "min": 19,
+          "max": 19
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [
+        {
+          "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4",
+          "node_kind": "table",
+          "table_sequence": "4",
+          "cell_row": null,
+          "cell_col": null,
+          "is_table_header": null,
+          "header_row_count": 1,
+          "original_content": "[TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_4]\n| 編 號 | 作 業 項 目 | 作 業 程 序 及 控 制 重 點 | 依 據 資 料 |\n| --- | --- | --- | --- |\n| CF-23000 | 不動產及設備保 管及記錄作業 | - (一) 不動產及設備之保管單位應依公司自訂財產管理辦法，妥善管理並定 期維護。<br>- (二) 保管單位應確定所有權確實為公司所有後，根據請購單、契約、估價 單或發票，將財產歸類編號、標記及納入財產帳卡(目錄)。<br>- (三) 不動產及設備移管或借出時，保管單位應經權責主管核准後始得辦理。<br>- (四) 應制定資本支出及收益支出之劃分原則，以決定資產及費用入帳基礎。<br>- (五) 會計部門應依所訂資產及費用入帳基礎，將核准後之請修單及發票等 相關憑證加以登帳。<br>- (六) 會計部門應設置不動產及設備明細帳(表)，以記錄成本之增減變動。<br>- (七) 不動產及設備如供擔保或抵(質)押時，應經權責主管核准後依公司規 定程序辦理(請參閱CR-23000借款作業)，並將相關交易加以揭露及入 帳。<br>- (八) 處分不動產及設備之損益，應列為其他利益及損失項下。<br>- (九) 應不定期依訂定之盤點程序，對不動產及設備加以盤點並將結果呈權 責主管核示。<br>- (十) 不動產及設備有人為故意損壞及遺失之情形時，保管單位應調查並將 處理報告呈權責主管核示。<br>- (十一) 不動產及設備之分類、評價及揭露等帳務處理，應依「期貨商財務 報告編製準則」及一般公認會計原則之規定辦理。 | 一、法令規章： (一)「期貨商財務報告編 製準則」 (二)一般公認會計原則 二、使用表單： (一)請購單 (二)買賣契約 (三)估價單 (四)發票 (五)財產帳卡(目錄) (六)請修單 (七)盤點表單 (八)(故意損壞及遺失)處 理報告 |\n[/TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_4]",
+          "normalized_content": "[TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_4]\n| 編 號 | 作 業 項 目 | 作 業 程 序 及 控 制 重 點 | 依 據 資 料 |\n| --- | --- | --- | --- |\n| CF-23000 | 不動產及設備保 管及記錄作業 | - (一) 不動產及設備之保管單位應依公司自訂財產管理辦法，妥善管理並定 期維護。<br>- (二) 保管單位應確定所有權確實為公司所有後，根據請購單、契約、估價 單或發票，將財產歸類編號、標記及納入財產帳卡(目錄)。<br>- (三) 不動產及設備移管或借出時，保管單位應經權責主管核准後始得辦理。<br>- (四) 應制定資本支出及收益支出之劃分原則，以決定資產及費用入帳基礎。<br>- (五) 會計部門應依所訂資產及費用入帳基礎，將核准後之請修單及發票等 相關憑證加以登帳。<br>- (六) 會計部門應設置不動產及設備明細帳(表)，以記錄成本之增減變動。<br>- (七) 不動產及設備如供擔保或抵(質)押時，應經權責主管核准後依公司規 定程序辦理(請參閱CR-23000借款作業)，並將相關交易加以揭露及入 帳。<br>- (八) 處分不動產及設備之損益，應列為其他利益及損失項下。<br>- (九) 應不定期依訂定之盤點程序，對不動產及設備加以盤點並將結果呈權 責主管核示。<br>- (十) 不動產及設備有人為故意損壞及遺失之情形時，保管單位應調查並將 處理報告呈權責主管核示。<br>- (十一) 不動產及設備之分類、評價及揭露等帳務處理，應依「期貨商財務 報告編製準則」及一般公認會計原則之規定辦理。 | 一、法令規章： (一)「期貨商財務報告編 製準則」 (二)一般公認會計原則 二、使用表單： (一)請購單 (二)買賣契約 (三)估價單 (四)發票 (五)財產帳卡(目錄) (六)請修單 (七)盤點表單 (八)(故意損壞及遺失)處 理報告 |\n[/TABLE id=6.FCM內控CF---伍、不動產及設備循環---114.04_table_4]",
+          "children": [
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r1.c1",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 1,
+              "cell_col": 1,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "編 號",
+              "normalized_content": "編 號",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 42,
+                  "end": 42
+                },
+                "line_char_range": {
+                  "min": 3,
+                  "max": 3
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r1.c2",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 1,
+              "cell_col": 2,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "作 業 項 目",
+              "normalized_content": "作 業 項 目",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 42,
+                  "end": 42
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 7
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r1.c3",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 1,
+              "cell_col": 3,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "作 業 程 序 及 控 制 重 點",
+              "normalized_content": "作 業 程 序 及 控 制 重 點",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 42,
+                  "end": 42
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 17
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r1.c4",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 1,
+              "cell_col": 4,
+              "is_table_header": true,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "依 據 資 料",
+              "normalized_content": "依 據 資 料",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 42,
+                  "end": 42
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 7
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c1",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 2,
+              "cell_col": 1,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "CF-23000",
+              "normalized_content": "CF-23000",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 44,
+                  "end": 44
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 8
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c2",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 2,
+              "cell_col": 2,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "不動產及設備保 管及記錄作業",
+              "normalized_content": "不動產及設備保 管及記錄作業",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 44,
+                  "end": 44
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 14
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 2,
+              "cell_col": 3,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "- (一) 不動產及設備之保管單位應依公司自訂財產管理辦法，妥善管理並定 期維護。<br>- (二) 保管單位應確定所有權確實為公司所有後，根據請購單、契約、估價 單或發票，將財產歸類編號、標記及納入財產帳卡(目錄)。<br>- (三) 不動產及設備移管或借出時，保管單位應經權責主管核准後始得辦理。<br>- (四) 應制定資本支出及收益支出之劃分原則，以決定資產及費用入帳基礎。<br>- (五) 會計部門應依所訂資產及費用入帳基礎，將核准後之請修單及發票等 相關憑證加以登帳。<br>- (六) 會計部門應設置不動產及設備明細帳(表)，以記錄成本之增減變動。<br>- (七) 不動產及設備如供擔保或抵(質)押時，應經權責主管核准後依公司規 定程序辦理(請參閱CR-23000借款作業)，並將相關交易加以揭露及入 帳。<br>- (八) 處分不動產及設備之損益，應列為其他利益及損失項下。<br>- (九) 應不定期依訂定之盤點程序，對不動產及設備加以盤點並將結果呈權 責主管核示。<br>- (十) 不動產及設備有人為故意損壞及遺失之情形時，保管單位應調查並將 處理報告呈權責主管核示。<br>- (十一) 不動產及設備之分類、評價及揭露等帳務處理，應依「期貨商財務 報告編製準則」及一般公認會計原則之規定辦理。",
+              "normalized_content": "- (一) 不動產及設備之保管單位應依公司自訂財產管理辦法，妥善管理並定 期維護。<br>- (二) 保管單位應確定所有權確實為公司所有後，根據請購單、契約、估價 單或發票，將財產歸類編號、標記及納入財產帳卡(目錄)。<br>- (三) 不動產及設備移管或借出時，保管單位應經權責主管核准後始得辦理。<br>- (四) 應制定資本支出及收益支出之劃分原則，以決定資產及費用入帳基礎。<br>- (五) 會計部門應依所訂資產及費用入帳基礎，將核准後之請修單及發票等 相關憑證加以登帳。<br>- (六) 會計部門應設置不動產及設備明細帳(表)，以記錄成本之增減變動。<br>- (七) 不動產及設備如供擔保或抵(質)押時，應經權責主管核准後依公司規 定程序辦理(請參閱CR-23000借款作業)，並將相關交易加以揭露及入 帳。<br>- (八) 處分不動產及設備之損益，應列為其他利益及損失項下。<br>- (九) 應不定期依訂定之盤點程序，對不動產及設備加以盤點並將結果呈權 責主管核示。<br>- (十) 不動產及設備有人為故意損壞及遺失之情形時，保管單位應調查並將 處理報告呈權責主管核示。<br>- (十一) 不動產及設備之分類、評價及揭露等帳務處理，應依「期貨商財務 報告編製準則」及一般公認會計原則之規定辦理。",
+              "children": [
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.1",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(一) 不動產及設備之保管單位應依公司自訂財產管理辦法，妥善管理並定 期維護。",
+                  "normalized_content": "(一) 不動產及設備之保管單位應依公司自訂財產管理辦法，妥善管理並定 期維護。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 39,
+                      "max": 39
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.2",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(二) 保管單位應確定所有權確實為公司所有後，根據請購單、契約、估價 單或發票，將財產歸類編號、標記及納入財產帳卡(目錄)。",
+                  "normalized_content": "(二) 保管單位應確定所有權確實為公司所有後，根據請購單、契約、估價 單或發票，將財產歸類編號、標記及納入財產帳卡(目錄)。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 62,
+                      "max": 62
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.3",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(三) 不動產及設備移管或借出時，保管單位應經權責主管核准後始得辦理。",
+                  "normalized_content": "(三) 不動產及設備移管或借出時，保管單位應經權責主管核准後始得辦理。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 35,
+                      "max": 35
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.4",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(四) 應制定資本支出及收益支出之劃分原則，以決定資產及費用入帳基礎。",
+                  "normalized_content": "(四) 應制定資本支出及收益支出之劃分原則，以決定資產及費用入帳基礎。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 35,
+                      "max": 35
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.5",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(五) 會計部門應依所訂資產及費用入帳基礎，將核准後之請修單及發票等 相關憑證加以登帳。",
+                  "normalized_content": "(五) 會計部門應依所訂資產及費用入帳基礎，將核准後之請修單及發票等 相關憑證加以登帳。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 44,
+                      "max": 44
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.6",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(六) 會計部門應設置不動產及設備明細帳(表)，以記錄成本之增減變動。",
+                  "normalized_content": "(六) 會計部門應設置不動產及設備明細帳(表)，以記錄成本之增減變動。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 35,
+                      "max": 35
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.7",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(七) 不動產及設備如供擔保或抵(質)押時，應經權責主管核准後依公司規 定程序辦理(請參閱CR-23000借款作業)，並將相關交易加以揭露及入 帳。",
+                  "normalized_content": "(七) 不動產及設備如供擔保或抵(質)押時，應經權責主管核准後依公司規 定程序辦理(請參閱CR-23000借款作業)，並將相關交易加以揭露及入 帳。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 74,
+                      "max": 74
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.8",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(八) 處分不動產及設備之損益，應列為其他利益及損失項下。",
+                  "normalized_content": "(八) 處分不動產及設備之損益，應列為其他利益及損失項下。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 29,
+                      "max": 29
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.9",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(九) 應不定期依訂定之盤點程序，對不動產及設備加以盤點並將結果呈權 責主管核示。",
+                  "normalized_content": "(九) 應不定期依訂定之盤點程序，對不動產及設備加以盤點並將結果呈權 責主管核示。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 41,
+                      "max": 41
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.10",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(十) 不動產及設備有人為故意損壞及遺失之情形時，保管單位應調查並將 處理報告呈權責主管核示。",
+                  "normalized_content": "(十) 不動產及設備有人為故意損壞及遺失之情形時，保管單位應調查並將 處理報告呈權責主管核示。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 47,
+                      "max": 47
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                },
+                {
+                  "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c3.11",
+                  "node_kind": "table_cell_item",
+                  "table_sequence": "4",
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(十一) 不動產及設備之分類、評價及揭露等帳務處理，應依「期貨商財務 報告編製準則」及一般公認會計原則之規定辦理。",
+                  "normalized_content": "(十一) 不動產及設備之分類、評價及揭露等帳務處理，應依「期貨商財務 報告編製準則」及一般公認會計原則之規定辦理。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 7,
+                      "end": 7
+                    },
+                    "line_range": {
+                      "start": 44,
+                      "end": 44
+                    },
+                    "line_char_range": {
+                      "min": 57,
+                      "max": 57
+                    }
+                  },
+                  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+                  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 44,
+                  "end": 44
+                },
+                "line_char_range": {
+                  "min": 560,
+                  "max": 560
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            },
+            {
+              "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.3.表格_4.r2.c4",
+              "node_kind": "table_cell",
+              "table_sequence": "4",
+              "cell_row": 2,
+              "cell_col": 4,
+              "is_table_header": false,
+              "header_row_count": 1,
+              "merge_tag": null,
+              "merge_text": null,
+              "merge_col_start": null,
+              "merge_col_end": null,
+              "merge_col_span": null,
+              "merge_row_start": null,
+              "merge_row_end": null,
+              "merge_row_span": null,
+              "original_content": "一、法令規章： (一)「期貨商財務報告編 製準則」 (二)一般公認會計原則 二、使用表單： (一)請購單 (二)買賣契約 (三)估價單 (四)發票 (五)財產帳卡(目錄) (六)請修單 (七)盤點表單 (八)(故意損壞及遺失)處 理報告",
+              "normalized_content": "一、法令規章： (一)「期貨商財務報告編 製準則」 (二)一般公認會計原則 二、使用表單： (一)請購單 (二)買賣契約 (三)估價單 (四)發票 (五)財產帳卡(目錄) (六)請修單 (七)盤點表單 (八)(故意損壞及遺失)處 理報告",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 44,
+                  "end": 44
+                },
+                "line_char_range": {
+                  "min": 118,
+                  "max": 118
+                }
+              },
+              "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+              "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 41,
+              "end": 45
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 713
+            }
+          },
+          "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+          "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 4
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 4,
+          "end": 4
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [
+        {
+          "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "",
+          "normalized_content": "",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": null,
+              "end": null
+            },
+            "line_range": {
+              "start": null,
+              "end": null
+            },
+            "line_char_range": {
+              "min": null,
+              "max": null
+            }
+          },
+          "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+          "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 6
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 6,
+          "end": 6
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [
+        {
+          "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "",
+          "normalized_content": "",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": null,
+              "end": null
+            },
+            "line_range": {
+              "start": null,
+              "end": null
+            },
+            "line_char_range": {
+              "min": null,
+              "max": null
+            }
+          },
+          "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+          "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 7,
+          "end": 7
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    },
+    {
+      "id": "6.FCM內控CF---伍、不動產及設備循環---114.04.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "",
+      "normalized_content": "",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": null,
+          "end": null
+        },
+        "line_range": {
+          "start": null,
+          "end": null
+        },
+        "line_char_range": {
+          "min": null,
+          "max": null
+        }
+      },
+      "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+      "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 7
+    },
+    "line_range": {
+      "start": 1,
+      "end": 37
+    },
+    "line_char_range": {
+      "min": 24,
+      "max": 33
+    }
+  },
+  "file_name": "6.FCM內控CF---伍、不動產及設備循環---114.04.md",
+  "file_stem": "6.FCM內控CF---伍、不動產及設備循環---114.04"
+}

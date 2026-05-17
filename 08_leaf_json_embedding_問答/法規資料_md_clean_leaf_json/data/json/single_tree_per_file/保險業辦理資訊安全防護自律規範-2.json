@@ -1,0 +1,1377 @@
+{
+  "id": "保險業辦理資訊安全防護自律規範-2",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 保險業辦理資訊安全防護自律規範-2\n附件二、保險業提供行動應用程式（App）作業原則",
+  "normalized_content": "# 保險業辦理資訊安全防護自律規範-2\n附件二、保險業提供行動應用程式（App）作業原則",
+  "children": [
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "一、 保險業有提供行動應用程式者，會員公司可依不同應用類別之行動應用程式\n對於安全性有不同之要求，除符合經濟部工業局「行動應用 App 基本資安\n規範」外，應遵循本作業原則。",
+      "normalized_content": "一、 保險業有提供行動應用程式者，會員公司可依不同應用類別之行動應用程式\n對於安全性有不同之要求，除符合經濟部工業局「行動應用 App 基本資安\n規範」外，應遵循本作業原則。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 5,
+          "end": 7
+        },
+        "line_char_range": {
+          "min": 14,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二、 會員公司應依個人資料保護法於行動應用程式下載前，明確告知消費者對於\n個人資料蒐集處理利用之法定事項及消費者得要求刪除資料之權利等事\n項，以保護消費者權益。",
+      "normalized_content": "二、 會員公司應依個人資料保護法於行動應用程式下載前，明確告知消費者對於\n個人資料蒐集處理利用之法定事項及消費者得要求刪除資料之權利等事\n項，以保護消費者權益。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 10,
+          "end": 12
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "三、 應用程式發布程序，應符合權責分工原則。",
+      "normalized_content": "三、 應用程式發布程序，應符合權責分工原則。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 15,
+          "end": 15
+        },
+        "line_char_range": {
+          "min": 22,
+          "max": 22
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "四、 應於發布前檢視應用程式所需權限應與提供服務相當，首次發布或權限變動\n應經資安、法遵及風控等單位同意，以利綜合評估是否符合「個人資料保護\n法」之告知義務。",
+      "normalized_content": "四、 應於發布前檢視應用程式所需權限應與提供服務相當，首次發布或權限變動\n應經資安、法遵及風控等單位同意，以利綜合評估是否符合「個人資料保護\n法」之告知義務。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 18,
+          "end": 20
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "五、 行動應用程式資安檢測作業：",
+      "normalized_content": "五、 行動應用程式資安檢測作業：",
+      "children": [
+        {
+          "id": "保險業辦理資訊安全防護自律規範-2.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 檢測範圍：",
+          "normalized_content": "(一) 檢測範圍：",
+          "children": [
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 委託專業機構辦理資安檢測時，參考經濟部工業局「行動應用 APP\n基本資安檢測基準」及OWASP公布之Mobile Top 10項目。",
+              "normalized_content": "1. 委託專業機構辦理資安檢測時，參考經濟部工業局「行動應用 APP\n基本資安檢測基準」及OWASP公布之Mobile Top 10項目。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 1
+                },
+                "line_range": {
+                  "start": 29,
+                  "end": 30
+                },
+                "line_char_range": {
+                  "min": 34,
+                  "max": 34
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 自行辦理檢測時，應對行動應用程式進行程式碼掃描或黑箱測試，並\n修正中、 高風險漏洞（如屬可承擔風險者除外）。",
+              "normalized_content": "2. 自行辦理檢測時，應對行動應用程式進行程式碼掃描或黑箱測試，並\n修正中、 高風險漏洞（如屬可承擔風險者除外）。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 1
+                },
+                "line_range": {
+                  "start": 33,
+                  "end": 34
+                },
+                "line_char_range": {
+                  "min": 23,
+                  "max": 33
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 26,
+              "end": 26
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 9
+            }
+          },
+          "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+          "file_stem": "保險業辦理資訊安全防護自律規範-2"
+        },
+        {
+          "id": "保險業辦理資訊安全防護自律規範-2.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 依行動應用程式之重要性，定期委由專業機構完成資安檢測：",
+          "normalized_content": "(二) 依行動應用程式之重要性，定期委由專業機構完成資安檢測：",
+          "children": [
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1",
+              "node_kind": "table",
+              "table_sequence": "1",
+              "cell_row": null,
+              "cell_col": null,
+              "is_table_header": null,
+              "header_row_count": 1,
+              "original_content": "[TABLE id=保險業辦理資訊安全防護自律規範-2_table_1]\n| 類別 | 定義 | 評估週期 |\n| --- | --- | --- |\n| 第一類 | 對外部提供服務或直接提供客戶自 動化服務之行動應用程式 | 每年委由專業機構完成資安檢測 |\n| 第二類 | 對內部員工（含其他通路）提供服 務，其經員工介入以提供客戶服務之 行動應用程式（如:行動投保、行動 保全、行動理賠等） | 每二年委由專業機構完成資安檢 測 |\n| 第三類 | 對內部員工（含其他通路）提供服 務，其未接觸客戶資訊或服務之行動 應用程式（如:行動差勤、行動電子 書等） | 每五年委由專業機構完成資安檢測 |\n[/TABLE id=保險業辦理資訊安全防護自律規範-2_table_1]",
+              "normalized_content": "[TABLE id=保險業辦理資訊安全防護自律規範-2_table_1]\n| 類別 | 定義 | 評估週期 |\n| --- | --- | --- |\n| 第一類 | 對外部提供服務或直接提供客戶自 動化服務之行動應用程式 | 每年委由專業機構完成資安檢測 |\n| 第二類 | 對內部員工（含其他通路）提供服 務，其經員工介入以提供客戶服務之 行動應用程式（如:行動投保、行動 保全、行動理賠等） | 每二年委由專業機構完成資安檢 測 |\n| 第三類 | 對內部員工（含其他通路）提供服 務，其未接觸客戶資訊或服務之行動 應用程式（如:行動差勤、行動電子 書等） | 每五年委由專業機構完成資安檢測 |\n[/TABLE id=保險業辦理資訊安全防護自律規範-2_table_1]",
+              "children": [
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r1.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 1,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "類別",
+                  "normalized_content": "類別",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 39,
+                      "end": 39
+                    },
+                    "line_char_range": {
+                      "min": 2,
+                      "max": 2
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r1.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 2,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "定義",
+                  "normalized_content": "定義",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 39,
+                      "end": 39
+                    },
+                    "line_char_range": {
+                      "min": 2,
+                      "max": 2
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r1.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 3,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "評估週期",
+                  "normalized_content": "評估週期",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 39,
+                      "end": 39
+                    },
+                    "line_char_range": {
+                      "min": 4,
+                      "max": 4
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r2.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "第一類",
+                  "normalized_content": "第一類",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 41,
+                      "end": 41
+                    },
+                    "line_char_range": {
+                      "min": 3,
+                      "max": 3
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r2.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "對外部提供服務或直接提供客戶自 動化服務之行動應用程式",
+                  "normalized_content": "對外部提供服務或直接提供客戶自 動化服務之行動應用程式",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 41,
+                      "end": 41
+                    },
+                    "line_char_range": {
+                      "min": 27,
+                      "max": 27
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r2.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "每年委由專業機構完成資安檢測",
+                  "normalized_content": "每年委由專業機構完成資安檢測",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 41,
+                      "end": 41
+                    },
+                    "line_char_range": {
+                      "min": 14,
+                      "max": 14
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r3.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "第二類",
+                  "normalized_content": "第二類",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 42,
+                      "end": 42
+                    },
+                    "line_char_range": {
+                      "min": 3,
+                      "max": 3
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r3.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "對內部員工（含其他通路）提供服 務，其經員工介入以提供客戶服務之 行動應用程式（如:行動投保、行動 保全、行動理賠等）",
+                  "normalized_content": "對內部員工（含其他通路）提供服 務，其經員工介入以提供客戶服務之 行動應用程式（如:行動投保、行動 保全、行動理賠等）",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 42,
+                      "end": 42
+                    },
+                    "line_char_range": {
+                      "min": 59,
+                      "max": 59
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r3.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "每二年委由專業機構完成資安檢 測",
+                  "normalized_content": "每二年委由專業機構完成資安檢 測",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 42,
+                      "end": 42
+                    },
+                    "line_char_range": {
+                      "min": 16,
+                      "max": 16
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r4.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "第三類",
+                  "normalized_content": "第三類",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 43,
+                      "end": 43
+                    },
+                    "line_char_range": {
+                      "min": 3,
+                      "max": 3
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r4.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "對內部員工（含其他通路）提供服 務，其未接觸客戶資訊或服務之行動 應用程式（如:行動差勤、行動電子 書等）",
+                  "normalized_content": "對內部員工（含其他通路）提供服 務，其未接觸客戶資訊或服務之行動 應用程式（如:行動差勤、行動電子 書等）",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 43,
+                      "end": 43
+                    },
+                    "line_char_range": {
+                      "min": 53,
+                      "max": 53
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                },
+                {
+                  "id": "保險業辦理資訊安全防護自律規範-2.5.2.表格_1.r4.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "每五年委由專業機構完成資安檢測",
+                  "normalized_content": "每五年委由專業機構完成資安檢測",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 1,
+                      "end": 1
+                    },
+                    "line_range": {
+                      "start": 43,
+                      "end": 43
+                    },
+                    "line_char_range": {
+                      "min": 15,
+                      "max": 15
+                    }
+                  },
+                  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+                  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 1
+                },
+                "line_range": {
+                  "start": 38,
+                  "end": 44
+                },
+                "line_char_range": {
+                  "min": 18,
+                  "max": 88
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 37,
+              "end": 37
+            },
+            "line_char_range": {
+              "min": 31,
+              "max": 31
+            }
+          },
+          "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+          "file_stem": "保險業辦理資訊安全防護自律規範-2"
+        },
+        {
+          "id": "保險業辦理資訊安全防護自律規範-2.5.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 會員公司應建立行動應用程式上架前資安檢測程序：",
+          "normalized_content": "(三) 會員公司應建立行動應用程式上架前資安檢測程序：",
+          "children": [
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 初次上架前，屬第一、二類者，應委由專業機構完成資安檢測；屬第\n三類者，應通過資安檢測程序。",
+              "normalized_content": "1. 初次上架前，屬第一、二類者，應委由專業機構完成資安檢測；屬第\n三類者，應通過資安檢測程序。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 50,
+                  "end": 51
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 33
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 更新上架前，應通過資安檢測程序；若涉有重大變更作業或行動應用\n程式版本大幅更新時，應委由專業機構完成資安檢測。",
+              "normalized_content": "2. 更新上架前，應通過資安檢測程序；若涉有重大變更作業或行動應用\n程式版本大幅更新時，應委由專業機構完成資安檢測。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 55,
+                  "end": 56
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 33
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.3.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 重大變更作業包括但不限於保單投保交易、涉及資金轉移、身分辨識\n及客戶權益等有重大相關項目。",
+              "normalized_content": "3. 重大變更作業包括但不限於保單投保交易、涉及資金轉移、身分辨識\n及客戶權益等有重大相關項目。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 59,
+                  "end": 60
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 33
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.3.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 如因故需緊急變更過版時，應於兩個月內完成上述檢測。\n六、 保險業委託專業機構辦理 APP 資安檢測，應訂定內部程序，其至少包含下\n列項目：",
+              "normalized_content": "4. 如因故需緊急變更過版時，應於兩個月內完成上述檢測。\n六、 保險業委託專業機構辦理 APP 資安檢測，應訂定內部程序，其至少包含下\n列項目：",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 63,
+                  "end": 65
+                },
+                "line_char_range": {
+                  "min": 4,
+                  "max": 38
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 47,
+              "end": 47
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 27
+            }
+          },
+          "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+          "file_stem": "保險業辦理資訊安全防護自律規範-2"
+        },
+        {
+          "id": "保險業辦理資訊安全防護自律規範-2.5.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 專業機構之遴選方法。",
+          "normalized_content": "(一) 專業機構之遴選方法。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 68,
+              "end": 68
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+          "file_stem": "保險業辦理資訊安全防護自律規範-2"
+        },
+        {
+          "id": "保險業辦理資訊安全防護自律規範-2.5.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 專業機構之評鑑機制。",
+          "normalized_content": "(二) 專業機構之評鑑機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 71,
+              "end": 71
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+          "file_stem": "保險業辦理資訊安全防護自律規範-2"
+        },
+        {
+          "id": "保險業辦理資訊安全防護自律規範-2.5.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 就專業機構檢測報告建立檢核機制，其應辦理檢核項目，至少包含\n下列內容：",
+          "normalized_content": "(三) 就專業機構檢測報告建立檢核機制，其應辦理檢核項目，至少包含\n下列內容：",
+          "children": [
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 檢測標的。",
+              "normalized_content": "1. 檢測標的。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 78,
+                  "end": 78
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 8
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 檢測範圍之宣告。",
+              "normalized_content": "2. 檢測範圍之宣告。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 81,
+                  "end": 81
+                },
+                "line_char_range": {
+                  "min": 11,
+                  "max": 11
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 檢測時程。",
+              "normalized_content": "3. 檢測時程。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 84,
+                  "end": 84
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 8
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 檢測方式、環境與使用之工具。",
+              "normalized_content": "4. 檢測方式、環境與使用之工具。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 87,
+                  "end": 87
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 17
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "5. 檢測執行人員與負責之項目。",
+              "normalized_content": "5. 檢測執行人員與負責之項目。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 90,
+                  "end": 90
+                },
+                "line_char_range": {
+                  "min": 16,
+                  "max": 16
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.6",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "6. 測試項目為「符合要求或不符合要求」之判定。",
+              "normalized_content": "6. 測試項目為「符合要求或不符合要求」之判定。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 93,
+                  "end": 93
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 24
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            },
+            {
+              "id": "保險業辦理資訊安全防護自律規範-2.5.6.7",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "7. 測試過程紀錄及佐證資料，不符合要求之檢測項目應於報告中提出。",
+              "normalized_content": "7. 測試過程紀錄及佐證資料，不符合要求之檢測項目應於報告中提出。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 96,
+                  "end": 96
+                },
+                "line_char_range": {
+                  "min": 33,
+                  "max": 33
+                }
+              },
+              "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+              "file_stem": "保險業辦理資訊安全防護自律規範-2"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 74,
+              "end": 75
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 33
+            }
+          },
+          "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+          "file_stem": "保險業辦理資訊安全防護自律規範-2"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 23,
+          "end": 23
+        },
+        "line_char_range": {
+          "min": 16,
+          "max": 16
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "七、 啟動應用程式時，如偵測行動裝置疑似遭破解，應提示使用者注意風險，且\n與行 動裝置有關之安全設計（如設備指定、生物識別、敏感資料保護等），\n應評估其有效性。",
+      "normalized_content": "七、 啟動應用程式時，如偵測行動裝置疑似遭破解，應提示使用者注意風險，且\n與行 動裝置有關之安全設計（如設備指定、生物識別、敏感資料保護等），\n應評估其有效性。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 99,
+          "end": 101
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "八、 行動應用程式屬第一類，對外部提供服務或直接提供客戶自動化服務者，應\n於官 網上提供應用程式之名稱、版本與下載位置。",
+      "normalized_content": "八、 行動應用程式屬第一類，對外部提供服務或直接提供客戶自動化服務者，應\n於官 網上提供應用程式之名稱、版本與下載位置。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 104,
+          "end": 105
+        },
+        "line_char_range": {
+          "min": 23,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "九、 行動應用程式屬第一類，應建立偽冒應用程式偵測機制，以維客戶權益。",
+      "normalized_content": "九、 行動應用程式屬第一類，應建立偽冒應用程式偵測機制，以維客戶權益。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 108,
+          "end": 108
+        },
+        "line_char_range": {
+          "min": 35,
+          "max": 35
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十、 採用憑證技術進行傳輸加密時，應用程式應建立可信任憑證清單並驗證完整\n憑證 鏈及其憑證有效性。",
+      "normalized_content": "十、 採用憑證技術進行傳輸加密時，應用程式應建立可信任憑證清單並驗證完整\n憑證 鏈及其憑證有效性。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 111,
+          "end": 112
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.10",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十一、 應進行身分驗證相關資訊不以明文傳輸並具備帳戶鎖定機制，以防範自動\n化程式 之登入或密碼更換嘗試。\n附錄：用語及定義",
+      "normalized_content": "十一、 應進行身分驗證相關資訊不以明文傳輸並具備帳戶鎖定機制，以防範自動\n化程式 之登入或密碼更換嘗試。\n附錄：用語及定義",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 115,
+          "end": 117
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 36
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.11",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "一、 行動裝置：係指包含但不限於智慧型手機、平板電腦等具通信及連網功\n能之設備。",
+      "normalized_content": "一、 行動裝置：係指包含但不限於智慧型手機、平板電腦等具通信及連網功\n能之設備。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 120,
+          "end": 121
+        },
+        "line_char_range": {
+          "min": 5,
+          "max": 34
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.12",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二、 專業機構：係指非會員公司之法人機構，其應具備經濟部工業局「行動\n應用 APP 基本資安自主檢測推動制度」列示之合格檢測實驗室資格。",
+      "normalized_content": "二、 專業機構：係指非會員公司之法人機構，其應具備經濟部工業局「行動\n應用 APP 基本資安自主檢測推動制度」列示之合格檢測實驗室資格。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 124,
+          "end": 125
+        },
+        "line_char_range": {
+          "min": 33,
+          "max": 34
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.13",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "三、 遭破解之行動裝置：係指透過系統程序取得手機最高權限，藉以突破手\n機作業系 統之基本防護，可能導致遭植入惡意程式。",
+      "normalized_content": "三、 遭破解之行動裝置：係指透過系統程序取得手機最高權限，藉以突破手\n機作業系 統之基本防護，可能導致遭植入惡意程式。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 3
+        },
+        "line_range": {
+          "start": 128,
+          "end": 130
+        },
+        "line_char_range": {
+          "min": 24,
+          "max": 34
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.14",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "四、 完成資安檢測：係指辦理資安檢測，並針對相關漏洞規劃修補作業，於\n一定時間 內完成修補。",
+      "normalized_content": "四、 完成資安檢測：係指辦理資安檢測，並針對相關漏洞規劃修補作業，於\n一定時間 內完成修補。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 133,
+          "end": 134
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 34
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    },
+    {
+      "id": "保險業辦理資訊安全防護自律規範-2.15",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "五、 黑箱測試：動態分析或動態程式碼安全性檢測，主要用於受測主機資訊\n不足的情 況下進行測試。\n六、 憑證：指載有簽章驗證資料，提供行動應用程式鑑別伺服器身分及資料\n傳輸加密 使用。",
+      "normalized_content": "五、 黑箱測試：動態分析或動態程式碼安全性檢測，主要用於受測主機資訊\n不足的情 況下進行測試。\n六、 憑證：指載有簽章驗證資料，提供行動應用程式鑑別伺服器身分及資料\n傳輸加密 使用。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 137,
+          "end": 140
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 34
+        }
+      },
+      "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+      "file_stem": "保險業辦理資訊安全防護自律規範-2"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 3
+    },
+    "line_range": {
+      "start": 1,
+      "end": 3
+    },
+    "line_char_range": {
+      "min": 19,
+      "max": 24
+    }
+  },
+  "file_name": "保險業辦理資訊安全防護自律規範-2.md",
+  "file_stem": "保險業辦理資訊安全防護自律規範-2"
+}

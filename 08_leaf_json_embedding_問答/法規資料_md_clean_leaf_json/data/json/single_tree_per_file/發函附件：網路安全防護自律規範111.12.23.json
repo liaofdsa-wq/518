@@ -1,0 +1,1902 @@
+{
+  "id": "發函附件：網路安全防護自律規範111.12.23",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 發函附件：網路安全防護自律規範111.12.23\n中華民國證券商業同業公會網路安全防護自律規範\n金融監督管理委員會111年12月22日金管證券字第1110365208號函准予備查\n中華民國證券商業同業公會111年12月23日中證商業一字第1110008167號函公告實施",
+  "normalized_content": "# 發函附件：網路安全防護自律規範111.12.23\n中華民國證券商業同業公會網路安全防護自律規範\n金融監督管理委員會111年12月22日金管證券字第1110365208號函准予備查\n中華民國證券商業同業公會111年12月23日中證商業一字第1110008167號函公告實施",
+  "children": [
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 目的\n為強化證券商網路安全，特訂定本自律規範。",
+      "normalized_content": "第一條 目的\n為強化證券商網路安全，特訂定本自律規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 7,
+          "end": 8
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 20
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 名詞定義",
+      "normalized_content": "第二條 名詞定義",
+      "children": [
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、資通系統：係指用以蒐集、控制、傳輸、儲存、流通、刪除資訊\n或對資訊為其他處理、使用或分享之系統。",
+          "normalized_content": "一、資通系統：係指用以蒐集、控制、傳輸、儲存、流通、刪除資訊\n或對資訊為其他處理、使用或分享之系統。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 14,
+              "end": 15
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、存取：係指存取資訊資產的各種方式，包含取得、使用、保管、\n查詢、修改、調整、銷毀等。",
+          "normalized_content": "二、存取：係指存取資訊資產的各種方式，包含取得、使用、保管、\n查詢、修改、調整、銷毀等。",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1",
+              "node_kind": "table",
+              "table_sequence": "1",
+              "cell_row": null,
+              "cell_col": null,
+              "is_table_header": null,
+              "header_row_count": 1,
+              "original_content": "[TABLE id=發函附件：網路安全防護自律規範111.12.23_table_1]\n|  |  | 外國證券商如為同集團內之傳 |\n| --- | --- | --- |\n| [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 | [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 | [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 |\n| 輸之規定。 |  |  |\n[/TABLE id=發函附件：網路安全防護自律規範111.12.23_table_1]",
+              "normalized_content": "[TABLE id=發函附件：網路安全防護自律規範111.12.23_table_1]\n|  |  | 外國證券商如為同集團內之傳 |\n| --- | --- | --- |\n| [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 | [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 | [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 |\n| 輸之規定。 |  |  |\n[/TABLE id=發函附件：網路安全防護自律規範111.12.23_table_1]",
+              "children": [
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r1.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 1,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 187,
+                      "end": 187
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r1.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 2,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 187,
+                      "end": 187
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r1.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 3,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "外國證券商如為同集團內之傳",
+                  "normalized_content": "外國證券商如為同集團內之傳",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 187,
+                      "end": 187
+                    },
+                    "line_char_range": {
+                      "min": 13,
+                      "max": 13
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r2.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "1",
+                  "merge_text": "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "merge_col_start": 1,
+                  "merge_col_end": 3,
+                  "merge_col_span": 3,
+                  "merge_row_start": 2,
+                  "merge_row_end": 2,
+                  "merge_row_span": 1,
+                  "original_content": "[@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "normalized_content": "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 189,
+                      "end": 189
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r2.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "1",
+                  "merge_text": "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "merge_col_start": 1,
+                  "merge_col_end": 3,
+                  "merge_col_span": 3,
+                  "merge_row_start": 2,
+                  "merge_row_end": 2,
+                  "merge_row_span": 1,
+                  "original_content": "[@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "normalized_content": "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 189,
+                      "end": 189
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r2.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "1",
+                  "merge_text": "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "merge_col_start": 1,
+                  "merge_col_end": 3,
+                  "merge_col_span": 3,
+                  "merge_row_start": 2,
+                  "merge_row_end": 2,
+                  "merge_row_span": 1,
+                  "original_content": "[@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "normalized_content": "外國證券商如為同集團內之傳 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 189,
+                      "end": 189
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r3.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "輸之規定。",
+                  "normalized_content": "輸之規定。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 190,
+                      "end": 190
+                    },
+                    "line_char_range": {
+                      "min": 5,
+                      "max": 5
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r3.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 190,
+                      "end": 190
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：網路安全防護自律規範111.12.23.2.2.表格_1.r3.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 190,
+                      "end": 190
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+                  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 186,
+                  "end": 191
+                },
+                "line_char_range": {
+                  "min": 15,
+                  "max": 109
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 18,
+              "end": 19
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、網路設備：係指傳輸資料、應用程式、服務和多媒體所需的網路\n通訊元件，如防火牆、路由器、交換器…等，亦為組織的網路架\n構圖包含的項目。",
+          "normalized_content": "三、網路設備：係指傳輸資料、應用程式、服務和多媒體所需的網路\n通訊元件，如防火牆、路由器、交換器…等，亦為組織的網路架\n構圖包含的項目。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 22,
+              "end": 24
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、資通安全事件：係指系統、服務或網路狀態經鑑別而顯示可能有\n違反資通安全政策或保護措施失效之狀態發生，影響資通系統機\n能運作，構成資通安全政策之威脅。",
+          "normalized_content": "四、資通安全事件：係指系統、服務或網路狀態經鑑別而顯示可能有\n違反資通安全政策或保護措施失效之狀態發生，影響資通系統機\n能運作，構成資通安全政策之威脅。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 27,
+              "end": 29
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、資訊資產：係指與資訊處理相關之資產，包括硬體、軟體、資料、\n文件及人員等(如：伺服器主機及使用者電腦之作業系統及應用\n程式等軟體資訊)。",
+          "normalized_content": "五、資訊資產：係指與資訊處理相關之資產，包括硬體、軟體、資料、\n文件及人員等(如：伺服器主機及使用者電腦之作業系統及應用\n程式等軟體資訊)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 32,
+              "end": 34
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、第一類證券商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之證券商\n或「建立證券商資通安全檢查機制-分級防護應辦事項附表」所\n列第一級、第二級、第三級證券商。",
+          "normalized_content": "六、第一類證券商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之證券商\n或「建立證券商資通安全檢查機制-分級防護應辦事項附表」所\n列第一級、第二級、第三級證券商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 37,
+              "end": 40
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、第二類證券商：係指非屬第一類證券商之證券商。",
+          "normalized_content": "七、第二類證券商：係指非屬第一類證券商之證券商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 43,
+              "end": 43
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.2.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、外國證券商：係指外資集團在台子公司或分公司。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "八、外國證券商：係指外資集團在台子公司或分公司。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 46,
+              "end": 47
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 11,
+          "end": 11
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 網路架構與網路安全管理",
+      "normalized_content": "第三條 網路架構與網路安全管理",
+      "children": [
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.3.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、網路架構圖\n應呈現證券商維持業務運作之必要網路環境設備(如：防火牆、\n路由器、交換器、系統設備、線路配置、伺服器與服務、無線網\n路)，另針對網段、路由規劃、主機 IP 位址、備援線路應有相\n關檔案紀錄。",
+          "normalized_content": "一、網路架構圖\n應呈現證券商維持業務運作之必要網路環境設備(如：防火牆、\n路由器、交換器、系統設備、線路配置、伺服器與服務、無線網\n路)，另針對網段、路由規劃、主機 IP 位址、備援線路應有相\n關檔案紀錄。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 53,
+              "end": 58
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.3.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、網路區域劃分",
+          "normalized_content": "二、網路區域劃分",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.2.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)為確保網路架構安全，應獨立劃分各工作區域並落實網段隔\n離。",
+              "normalized_content": "(一)為確保網路架構安全，應獨立劃分各工作區域並落實網段隔\n離。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 64,
+                  "end": 65
+                },
+                "line_char_range": {
+                  "min": 2,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.2.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)網段應以維持業務運作劃分區域：如隔離區(非軍事區，\nDemilitarized Zone, DMZ)、營運區(Production, Prod.)、\n測試區(Unit Test, UT 或 User Acceptance Test, UAT)及\n其他等網段。",
+              "normalized_content": "(二)網段應以維持業務運作劃分區域：如隔離區(非軍事區，\nDemilitarized Zone, DMZ)、營運區(Production, Prod.)、\n測試區(Unit Test, UT 或 User Acceptance Test, UAT)及\n其他等網段。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 68,
+                  "end": 71
+                },
+                "line_char_range": {
+                  "min": 6,
+                  "max": 48
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.2.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)證券商應定義外部網路與內部網路，外部網路連接網際網路，\n內部網路區域為組織人員與內部服務的伺服器配置區域。由\n外部網路到內部網路的流量需要經過存取控制，避免非允許\n的服務進入。",
+              "normalized_content": "(三)證券商應定義外部網路與內部網路，外部網路連接網際網路，\n內部網路區域為組織人員與內部服務的伺服器配置區域。由\n外部網路到內部網路的流量需要經過存取控制，避免非允許\n的服務進入。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 74,
+                  "end": 77
+                },
+                "line_char_range": {
+                  "min": 6,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.2.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(四)證券商之內部網段區域劃分方式可依據組織內部單位、部門、\n業務性質等，並規範不同網段(VLAN)間的存取。",
+              "normalized_content": "(四)證券商之內部網段區域劃分方式可依據組織內部單位、部門、\n業務性質等，並規範不同網段(VLAN)間的存取。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 80,
+                  "end": 81
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.2.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(五)證券商應使用適當方式隔離限制存取與特定服務，且應視區\n隔方式，定期檢視防火牆規則或存取控制清單(Access\nControl List, ACL)。",
+              "normalized_content": "(五)證券商應使用適當方式隔離限制存取與特定服務，且應視區\n隔方式，定期檢視防火牆規則或存取控制清單(Access\nControl List, ACL)。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 84,
+                  "end": 86
+                },
+                "line_char_range": {
+                  "min": 19,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 61,
+              "end": 61
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.3.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、內部網路管理",
+          "normalized_content": "三、內部網路管理",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)證券商如有提供無線網路供內/外部人員使用，無線網路存取\n保護應採用現行公開資訊已認可且無弱點之安全協定。",
+              "normalized_content": "(一)證券商如有提供無線網路供內/外部人員使用，無線網路存取\n保護應採用現行公開資訊已認可且無弱點之安全協定。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 92,
+                  "end": 93
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)證券商應建立無線網路密碼原則，以降低密碼破解之風險。",
+              "normalized_content": "(二)證券商應建立無線網路密碼原則，以降低密碼破解之風險。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 96,
+                  "end": 96
+                },
+                "line_char_range": {
+                  "min": 29,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.3.3.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)證券商如允許內/外部人員使用外部設備存取內部網路，應提\n出申請並檢視設備安全性與相關授權，並限制存取範圍。",
+              "normalized_content": "(三)證券商如允許內/外部人員使用外部設備存取內部網路，應提\n出申請並檢視設備安全性與相關授權，並限制存取範圍。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 99,
+                  "end": 100
+                },
+                "line_char_range": {
+                  "min": 25,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 89,
+              "end": 89
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 50,
+          "end": 50
+        },
+        "line_char_range": {
+          "min": 15,
+          "max": 15
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 網路設備安全管理",
+      "normalized_content": "第四條 網路設備安全管理",
+      "children": [
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、網路設備管理",
+          "normalized_content": "一、網路設備管理",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)證券商應避免使用生命週期終止(End of Service, EOS/End\nof Life, EOL)之網路設備，並針對 EOS/EOL 之網路設備擬\n定汰除相關計畫。",
+              "normalized_content": "(一)證券商應避免使用生命週期終止(End of Service, EOS/End\nof Life, EOL)之網路設備，並針對 EOS/EOL 之網路設備擬\n定汰除相關計畫。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 109,
+                  "end": 111
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 41
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)證券商應定期檢視官方發布之軟體、韌體、弱點修補程式之\n更新，將網路設備更新至最新版本或廠商建議版本。",
+              "normalized_content": "(二)證券商應定期檢視官方發布之軟體、韌體、弱點修補程式之\n更新，將網路設備更新至最新版本或廠商建議版本。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 115,
+                  "end": 116
+                },
+                "line_char_range": {
+                  "min": 23,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)證券商經由網際網路連線至內部網路進行遠距之系統維護，\n應落實身份認證機制。",
+              "normalized_content": "(三)證券商經由網際網路連線至內部網路進行遠距之系統維護，\n應落實身份認證機制。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 119,
+                  "end": 120
+                },
+                "line_char_range": {
+                  "min": 10,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.1.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(四)網路設備管理人員之管理帳號應僅限管理人員使用且不得共\n用帳號，管理帳號之密碼設定原則應遵循證券商之身份驗證\n管理規範。",
+              "normalized_content": "(四)網路設備管理人員之管理帳號應僅限管理人員使用且不得共\n用帳號，管理帳號之密碼設定原則應遵循證券商之身份驗證\n管理規範。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 123,
+                  "end": 125
+                },
+                "line_char_range": {
+                  "min": 5,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.1.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(五)證券商應限制網路設備管理使用之人員、設備、 IP、網段，\n或採用一次性密碼(One-time password, OTP)、短暫性存取\n(Temporary Privileged Access)等措施，並留存使用人員操\n作紀錄。",
+              "normalized_content": "(五)證券商應限制網路設備管理使用之人員、設備、 IP、網段，\n或採用一次性密碼(One-time password, OTP)、短暫性存取\n(Temporary Privileged Access)等措施，並留存使用人員操\n作紀錄。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 128,
+                  "end": 131
+                },
+                "line_char_range": {
+                  "min": 4,
+                  "max": 41
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.1.6",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(六)證券商所有網路設備之防護基準應依「本公會資通系統安全\n防護基準自律規範」。",
+              "normalized_content": "(六)證券商所有網路設備之防護基準應依「本公會資通系統安全\n防護基準自律規範」。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 134,
+                  "end": 135
+                },
+                "line_char_range": {
+                  "min": 10,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 106,
+              "end": 106
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、網路設備規則管理",
+          "normalized_content": "二、網路設備規則管理",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.2.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)網路存取規則、防火牆規則等新增、異動、刪除應審核使用\n者需求，經評估資通安全風險程度後進行規則變更，並保留\n相關紀錄備查。",
+              "normalized_content": "(一)網路存取規則、防火牆規則等新增、異動、刪除應審核使用\n者需求，經評估資通安全風險程度後進行規則變更，並保留\n相關紀錄備查。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 141,
+                  "end": 143
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.2.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)網路設備規則設立應以使用者角色最小授權及正面表列為原\n則。",
+              "normalized_content": "(二)網路設備規則設立應以使用者角色最小授權及正面表列為原\n則。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 146,
+                  "end": 147
+                },
+                "line_char_range": {
+                  "min": 2,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.4.2.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)證券商應至少每年檢視一次網路設備規則。",
+              "normalized_content": "(三)證券商應至少每年檢視一次網路設備規則。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 150,
+                  "end": 150
+                },
+                "line_char_range": {
+                  "min": 22,
+                  "max": 22
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 138,
+              "end": 138
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.4.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、網路設備日誌\n證券商應留存網路設備存取日誌並至少保留三年，供留存備查。\n另應防止未經授權存取，並定期檢視以確保可用性。",
+          "normalized_content": "三、網路設備日誌\n證券商應留存網路設備存取日誌並至少保留三年，供留存備查。\n另應防止未經授權存取，並定期檢視以確保可用性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 153,
+              "end": 155
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 28
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.4.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、網路設備委外\n證券商所有網路設備若委由外部廠商維運或管理應依「本公會供\n應鏈風險管理自律規範」。",
+          "normalized_content": "四、網路設備委外\n證券商所有網路設備若委由外部廠商維運或管理應依「本公會供\n應鏈風險管理自律規範」。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 158,
+              "end": 160
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 28
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 103,
+          "end": 103
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 網路連線安全",
+      "normalized_content": "第五條 網路連線安全",
+      "children": [
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、網路連線安全憑證",
+          "normalized_content": "一、網路連線安全憑證",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.5.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)證券商應確保 SSL/TLS 憑證之有效性及合法性，以維持網路\n連線之安全性。",
+              "normalized_content": "(一)證券商應確保 SSL/TLS 憑證之有效性及合法性，以維持網路\n連線之安全性。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 169,
+                  "end": 171
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 34
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.5.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)證券商如提供網路下單服務，應訂定憑證交付程序，避免非\n本人取得憑證，並搭配與登入雙因子之不同因子驗證機制交\n付憑證，及全面使用認證機制。",
+              "normalized_content": "(二)證券商如提供網路下單服務，應訂定憑證交付程序，避免非\n本人取得憑證，並搭配與登入雙因子之不同因子驗證機制交\n付憑證，及全面使用認證機制。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 174,
+                  "end": 176
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.5.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)證券商如使用網路專線與合作第三方機構網路連線，應架設\n防火牆，關閉非約定之埠號以確保內部網域安全。",
+              "normalized_content": "(三)證券商如使用網路專線與合作第三方機構網路連線，應架設\n防火牆，關閉非約定之埠號以確保內部網域安全。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 179,
+                  "end": 180
+                },
+                "line_char_range": {
+                  "min": 22,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 166,
+              "end": 166
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、網路傳輸安全\n如有國際傳輸客戶個人資料時，證券商應建立加密傳輸機制，當\n涉及客戶資訊，傳輸前應告知當事人且不違反主管機關對國際傳",
+          "normalized_content": "二、網路傳輸安全\n如有國際傳輸客戶個人資料時，證券商應建立加密傳輸機制，當\n涉及客戶資訊，傳輸前應告知當事人且不違反主管機關對國際傳",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 183,
+              "end": 185
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 28
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.5.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、遠端連線管理",
+          "normalized_content": "三、遠端連線管理",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.5.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)證券商應訂定遠端連線管理辦法，建立使用限制、組態需求、\n連線需求的遠距連線機制，亦應包含採多因子身分驗證機制、\n加密連線、採最小授權原則、留存完整使用者操作稽核軌跡、\n監控與警示異常操作行為、執行安全性漏洞更新等安控措施，\n並留存相關紀錄由權責主管定期覆核。",
+              "normalized_content": "(一)證券商應訂定遠端連線管理辦法，建立使用限制、組態需求、\n連線需求的遠距連線機制，亦應包含採多因子身分驗證機制、\n加密連線、採最小授權原則、留存完整使用者操作稽核軌跡、\n監控與警示異常操作行為、執行安全性漏洞更新等安控措施，\n並留存相關紀錄由權責主管定期覆核。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 197,
+                  "end": 201
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.5.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)證券商須透過安全的連線機制來阻擋惡意或未經授權之連線，\n並以最小權限原則設定規則及關閉非必要之埠號，並應監控\n網路流量及異常警告及中斷連線機制。",
+              "normalized_content": "(二)證券商須透過安全的連線機制來阻擋惡意或未經授權之連線，\n並以最小權限原則設定規則及關閉非必要之埠號，並應監控\n網路流量及異常警告及中斷連線機制。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 204,
+                  "end": 206
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 194,
+              "end": 194
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 163,
+          "end": 163
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 網路攻擊防護機制",
+      "normalized_content": "第六條 網路攻擊防護機制",
+      "children": [
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、具網路下單服務或設有官方網站之證券商應建立分散式阻斷服務\n之防護機制。",
+          "normalized_content": "一、具網路下單服務或設有官方網站之證券商應建立分散式阻斷服務\n之防護機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 212,
+              "end": 213
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、具有對外服務之資通系統者，應建置應用程式防火牆。",
+          "normalized_content": "二、具有對外服務之資通系統者，應建置應用程式防火牆。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 216,
+              "end": 216
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、安全性檢測",
+          "normalized_content": "三、安全性檢測",
+          "children": [
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.6.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)證券商應定期評估自身網路環境安全，例如：作業系統、網\n站伺服器、瀏覽器、防火牆及防毒版本等。",
+              "normalized_content": "(一)證券商應定期評估自身網路環境安全，例如：作業系統、網\n站伺服器、瀏覽器、防火牆及防毒版本等。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 222,
+                  "end": 223
+                },
+                "line_char_range": {
+                  "min": 19,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.6.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)證券商應定期修補網路環境之安全漏洞，並留存相關文件。",
+              "normalized_content": "(二)證券商應定期修補網路環境之安全漏洞，並留存相關文件。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 226,
+                  "end": 226
+                },
+                "line_char_range": {
+                  "min": 29,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.6.3.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)第一類證券商資通系統應定期辦理系統滲透測試。",
+              "normalized_content": "(三)第一類證券商資通系統應定期辦理系統滲透測試。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 229,
+                  "end": 229
+                },
+                "line_char_range": {
+                  "min": 25,
+                  "max": 25
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：網路安全防護自律規範111.12.23.6.3.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(四)第一類證券商應定期辦理資通安全健診，包含網路架構檢視、\n網路惡意活動檢視、使用者端電腦惡意活動檢視、伺服器主\n機惡意活動檢視及目錄伺服器設定及防火牆連線設定檢視。",
+              "normalized_content": "(四)第一類證券商應定期辦理資通安全健診，包含網路架構檢視、\n網路惡意活動檢視、使用者端電腦惡意活動檢視、伺服器主\n機惡意活動檢視及目錄伺服器設定及防火牆連線設定檢視。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 5,
+                  "end": 5
+                },
+                "line_range": {
+                  "start": 233,
+                  "end": 235
+                },
+                "line_char_range": {
+                  "min": 26,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+              "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 219,
+              "end": 219
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 7
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 4,
+          "end": 4
+        },
+        "line_range": {
+          "start": 209,
+          "end": 209
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第七條 資通安全事件通報與應變",
+      "normalized_content": "第七條 資通安全事件通報與應變",
+      "children": [
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、證券商應訂定資通安全事件內部通報機制，包含正式之通報程序\n及資通安全事件通報聯絡人。",
+          "normalized_content": "一、證券商應訂定資通安全事件內部通報機制，包含正式之通報程序\n及資通安全事件通報聯絡人。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 241,
+              "end": 242
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.7.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、於發生影響客戶權益或正常營運之資訊服務異常事件或資通安全\n事件應依「證券期貨市場資通安全事件通報應變作業注意事項」\n辦理，並採取適當應變程序及留存紀錄。",
+          "normalized_content": "二、於發生影響客戶權益或正常營運之資訊服務異常事件或資通安全\n事件應依「證券期貨市場資通安全事件通報應變作業注意事項」\n辦理，並採取適當應變程序及留存紀錄。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 245,
+              "end": 247
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：網路安全防護自律規範111.12.23.7.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、證券商遇有重大個人資料安全事故者，應立即通報主管機關。所\n稱重大個人資料安全事故，係指個人資料遭竊取、竄改、毀損、\n滅失或洩漏，將危及組織正常營運或大量當事人權益之情形。",
+          "normalized_content": "三、證券商遇有重大個人資料安全事故者，應立即通報主管機關。所\n稱重大個人資料安全事故，係指個人資料遭竊取、竄改、毀損、\n滅失或洩漏，將危及組織正常營運或大量當事人權益之情形。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 250,
+              "end": 252
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+          "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 238,
+          "end": 238
+        },
+        "line_char_range": {
+          "min": 15,
+          "max": 15
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：網路安全防護自律規範111.12.23.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第八條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+      "normalized_content": "第八條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 255,
+          "end": 257
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 30
+        }
+      },
+      "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+      "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 5
+    },
+    "line_range": {
+      "start": 1,
+      "end": 5
+    },
+    "line_char_range": {
+      "min": 22,
+      "max": 45
+    }
+  },
+  "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+  "file_stem": "發函附件：網路安全防護自律規範111.12.23"
+}

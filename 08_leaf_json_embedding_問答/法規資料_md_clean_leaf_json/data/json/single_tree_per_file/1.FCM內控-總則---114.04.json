@@ -1,0 +1,4836 @@
+{
+  "id": "1.FCM內控-總則---114.04",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 1.FCM內控-總則---114.04\n總 則",
+  "normalized_content": "# 1.FCM內控-總則---114.04\n總 則",
+  "children": [
+    {
+      "id": "1.FCM內控-總則---114.04.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "一、 訂定依據：\n「期貨商管理規則」第二條規定，期貨商應依期貨相關機構訂定之期貨商內部控制制度標準規範訂定內部控制制度。\n本標準規範依據主管機關訂定之「證券暨期貨市場各服務事業建立內部控制制度處理準則」等相關法規編製而成。",
+      "normalized_content": "一、 訂定依據：\n「期貨商管理規則」第二條規定，期貨商應依期貨相關機構訂定之期貨商內部控制制度標準規範訂定內部控制制度。\n本標準規範依據主管機關訂定之「證券暨期貨市場各服務事業建立內部控制制度處理準則」等相關法規編製而成。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 5,
+          "end": 7
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 51
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二、 本標準規範之使用：",
+      "normalized_content": "二、 本標準規範之使用：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 內部控制制度之設計，須考量公司控制環境、風險評估、控制作業、資訊與溝通、監督作業等控制因素訂定。本標準規範\n主要目的在提供形式上的範例，供各期貨商編製內部控制制度時之參考；至於實質內容，由於各期貨商規模大小、組織架\n構、管理方式不一，故本標準規範僅就該制度之控制重點作原則性規範，對各相關之內部管理控制用之規章、辦法、要點，\n如員工管理規則、印鑑使用管理規章、會計制度等，則由各期貨商就其授權、核准、執行程序及相關控制表單自行訂立書\n面制度。",
+          "normalized_content": "(一) 內部控制制度之設計，須考量公司控制環境、風險評估、控制作業、資訊與溝通、監督作業等控制因素訂定。本標準規範\n主要目的在提供形式上的範例，供各期貨商編製內部控制制度時之參考；至於實質內容，由於各期貨商規模大小、組織架\n構、管理方式不一，故本標準規範僅就該制度之控制重點作原則性規範，對各相關之內部管理控制用之規章、辦法、要點，\n如員工管理規則、印鑑使用管理規章、會計制度等，則由各期貨商就其授權、核准、執行程序及相關控制表單自行訂立書\n面制度。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 13,
+              "end": 17
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 各期貨商自訂之內部控制制度，其作業程序及控制重點至少應包括本標準規範所訂內容，並得視公司本身經營狀況自行增\n列控制重點，惟自行增列部分，不得違反相關法令規章等規定。爾後如有法令增、修訂或公司內、外在情況變動等情事，\n應即配合檢討、修正其內部控制制度內容，以確保制度之完整性及有效性。",
+          "normalized_content": "(二) 各期貨商自訂之內部控制制度，其作業程序及控制重點至少應包括本標準規範所訂內容，並得視公司本身經營狀況自行增\n列控制重點，惟自行增列部分，不得違反相關法令規章等規定。爾後如有法令增、修訂或公司內、外在情況變動等情事，\n應即配合檢討、修正其內部控制制度內容，以確保制度之完整性及有效性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 20,
+              "end": 22
+            },
+            "line_char_range": {
+              "min": 33,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.2.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 各期貨商執行業務不得違反法令、規章、內部控制制度及與委託人簽訂之受託契約等規定。",
+          "normalized_content": "(三) 各期貨商執行業務不得違反法令、規章、內部控制制度及與委託人簽訂之受託契約等規定。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 25,
+              "end": 25
+            },
+            "line_char_range": {
+              "min": 44,
+              "max": 44
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.2.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 本標準規範中各單位名稱簡稱如下：",
+          "normalized_content": "(四) 本標準規範中各單位名稱簡稱如下：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.2.4.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 金融監督管理委員會：主管機關",
+              "normalized_content": "1. 金融監督管理委員會：主管機關",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 1
+                },
+                "line_range": {
+                  "start": 31,
+                  "end": 31
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 17
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.2.4.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 臺灣期貨交易所股份有限公司：期交所",
+              "normalized_content": "2. 臺灣期貨交易所股份有限公司：期交所",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 1,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 34,
+                  "end": 34
+                },
+                "line_char_range": {
+                  "min": 20,
+                  "max": 20
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.2.4.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 中華民國期貨業商業同業公會：期貨公會",
+              "normalized_content": "3. 中華民國期貨業商業同業公會：期貨公會",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 38,
+                  "end": 38
+                },
+                "line_char_range": {
+                  "min": 21,
+                  "max": 21
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.2.4.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 財團法人證券暨期貨發展基金會：證基會",
+              "normalized_content": "4. 財團法人證券暨期貨發展基金會：證基會",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 41,
+                  "end": 41
+                },
+                "line_char_range": {
+                  "min": 21,
+                  "max": 21
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.2.4.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "5. 臺灣證券交易所股份有限公司：證交所",
+              "normalized_content": "5. 臺灣證券交易所股份有限公司：證交所",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 44,
+                  "end": 44
+                },
+                "line_char_range": {
+                  "min": 20,
+                  "max": 20
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.2.4.6",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "6. 財團法人中華民國會計研究發展基金會：會基會",
+              "normalized_content": "6. 財團法人中華民國會計研究發展基金會：會基會",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 47,
+                  "end": 47
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 24
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 28,
+              "end": 28
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 20
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 10,
+          "end": 10
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "三、 各期貨商訂立內部控制制度時，應於總則部分至少敘明下列事項：",
+      "normalized_content": "三、 各期貨商訂立內部控制制度時，應於總則部分至少敘明下列事項：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.3.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 訂定依據(請參閱期貨商管理規則第二條之規定)",
+          "normalized_content": "(一) 訂定依據(請參閱期貨商管理規則第二條之規定)",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 53,
+              "end": 53
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 內部控制制度之定義",
+          "normalized_content": "(二) 內部控制制度之定義",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 56,
+              "end": 56
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 內部控制之組成要素",
+          "normalized_content": "(三) 內部控制之組成要素",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 59,
+              "end": 59
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 公司組織結構與部門職掌",
+          "normalized_content": "(四) 公司組織結構與部門職掌",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 62,
+              "end": 62
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 15
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 業務經營原則與方針",
+          "normalized_content": "(五) 業務經營原則與方針",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 65,
+              "end": 65
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六) 內部控制制度之內容",
+          "normalized_content": "(六) 內部控制制度之內容",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 68,
+              "end": 68
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(七) 內部控制制度之設計",
+          "normalized_content": "(七) 內部控制制度之設計",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 71,
+              "end": 71
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(八) 內部稽核目的",
+          "normalized_content": "(八) 內部稽核目的",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 74,
+              "end": 74
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(九) 內部稽核作業適用範圍",
+          "normalized_content": "(九) 內部稽核作業適用範圍",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 77,
+              "end": 77
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十) 內部稽核之職能",
+          "normalized_content": "(十) 內部稽核之職能",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 80,
+              "end": 80
+            },
+            "line_char_range": {
+              "min": 11,
+              "max": 11
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十一) 內部稽核人員之職責",
+          "normalized_content": "(十一) 內部稽核人員之職責",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 83,
+              "end": 83
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.12",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十二) 內部稽核人員應注意事項",
+          "normalized_content": "(十二) 內部稽核人員應注意事項",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 3
+            },
+            "line_range": {
+              "start": 86,
+              "end": 86
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 16
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.13",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十三) 自行檢查及內部控制制度聲明書",
+          "normalized_content": "(十三) 自行檢查及內部控制制度聲明書",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 90,
+              "end": 90
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 19
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.3.14",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十四) 期貨商公司治理",
+          "normalized_content": "(十四) 期貨商公司治理",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 93,
+              "end": 93
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 50,
+          "end": 50
+        },
+        "line_char_range": {
+          "min": 32,
+          "max": 32
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "四、 內部控制制度之定義：\n依「證券暨期貨市場各服務事業建立內部控制制度處理準則」第四條之規定，內部控制制度係由服務事業經理人所設計，董事會\n通過，並由董事會、經理人及其他員工執行之管理過程，其目的在於促進事業之健全經營，以合理確保下列目標之達成：",
+      "normalized_content": "四、 內部控制制度之定義：\n依「證券暨期貨市場各服務事業建立內部控制制度處理準則」第四條之規定，內部控制制度係由服務事業經理人所設計，董事會\n通過，並由董事會、經理人及其他員工執行之管理過程，其目的在於促進事業之健全經營，以合理確保下列目標之達成：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 營運之效果及效率。",
+          "normalized_content": "(一) 營運之效果及效率。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 101,
+              "end": 101
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 報導具可靠性、及時性、透明性及符合相關規範。",
+          "normalized_content": "(二) 報導具可靠性、及時性、透明性及符合相關規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 104,
+              "end": 104
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.4.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 相關法令規章之遵循。\n前項營運之效果及效率目標，包括獲利、績效及保障資產安全等之報導，包括各服務事業內部與外部財務報導及非財務報導。\n其中外部財務報導之目標，包括確保對外之財務報表係依照各服務事業財務報告編製規範及一般公認會計原則編製，交易經適\n當核准等目標。",
+          "normalized_content": "(三) 相關法令規章之遵循。\n前項營運之效果及效率目標，包括獲利、績效及保障資產安全等之報導，包括各服務事業內部與外部財務報導及非財務報導。\n其中外部財務報導之目標，包括確保對外之財務報表係依照各服務事業財務報告編製規範及一般公認會計原則編製，交易經適\n當核准等目標。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 107,
+              "end": 110
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 55
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 96,
+          "end": 98
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 56
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "五、 內部控制制度之訂定：\n依「證券暨期貨市場各服務事業建立內部控制制度處理準則」第五條之規定，公司應以書面訂定內部控制制度(含內部稽核實施\n細則)，並經董事會通過，如有董事表示異議且有紀錄或書面聲明者，服務事業應將異議意見連同經董事會通過之內部控制制度\n送各監察人；修正時，亦同。已設置獨立董事者，內部控制制度提報董事會討論時，應充分考量各獨立董事之意見，獨立董事如\n有反對意見或保留意見，應於董事會議事錄載明。\n公司已依證券交易法規定設置審計委員會者，訂定或修正內部控制制度，應經審計委員會全體實際在任成員二分之一以上同意，\n並提董事會決議。未經審計委員會全體實際在任成員二分之一以上同意者，得由全體實際在任董事三分之二以上同意行之，並應\n於董事會議事錄載明審計委員會之決議。\n公司董事會應認知營運所面臨之風險，監督其營運結果，並對於確保建立及維持適當有效之內部控制制度負有最終之責任。",
+      "normalized_content": "五、 內部控制制度之訂定：\n依「證券暨期貨市場各服務事業建立內部控制制度處理準則」第五條之規定，公司應以書面訂定內部控制制度(含內部稽核實施\n細則)，並經董事會通過，如有董事表示異議且有紀錄或書面聲明者，服務事業應將異議意見連同經董事會通過之內部控制制度\n送各監察人；修正時，亦同。已設置獨立董事者，內部控制制度提報董事會討論時，應充分考量各獨立董事之意見，獨立董事如\n有反對意見或保留意見，應於董事會議事錄載明。\n公司已依證券交易法規定設置審計委員會者，訂定或修正內部控制制度，應經審計委員會全體實際在任成員二分之一以上同意，\n並提董事會決議。未經審計委員會全體實際在任成員二分之一以上同意者，得由全體實際在任董事三分之二以上同意行之，並應\n於董事會議事錄載明審計委員會之決議。\n公司董事會應認知營運所面臨之風險，監督其營運結果，並對於確保建立及維持適當有效之內部控制制度負有最終之責任。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 4
+        },
+        "line_range": {
+          "start": 113,
+          "end": 122
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 56
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "六、 內部控制之組成要素：\n依「證券暨期貨市場各服務事業建立內部控制制度處理準則」第七條之規定，內部控制制度應包括下列組成要素：",
+      "normalized_content": "六、 內部控制之組成要素：\n依「證券暨期貨市場各服務事業建立內部控制制度處理準則」第七條之規定，內部控制制度應包括下列組成要素：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 控制環境：係事業設計及執行內部控制制度之基礎。控制環境包括事業之誠信與道德價值、董事會及監察人治理監督責任、\n組織結構、權責分派、人力資源政策、績效衡量及獎懲等。董事會與經理人應建立內部行為準則，包括訂定董事行為準則、\n員工行為準則等事項。董事行為準則至少應包括董事發現公司有受重大損害之虞時，應儘速妥適處理，立即通知審計委員\n會或審計委員會之獨立董事成員或監察人並提報董事會，且應督導公司通報主管機關。",
+          "normalized_content": "(一) 控制環境：係事業設計及執行內部控制制度之基礎。控制環境包括事業之誠信與道德價值、董事會及監察人治理監督責任、\n組織結構、權責分派、人力資源政策、績效衡量及獎懲等。董事會與經理人應建立內部行為準則，包括訂定董事行為準則、\n員工行為準則等事項。董事行為準則至少應包括董事發現公司有受重大損害之虞時，應儘速妥適處理，立即通知審計委員\n會或審計委員會之獨立董事成員或監察人並提報董事會，且應督導公司通報主管機關。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 129,
+              "end": 132
+            },
+            "line_char_range": {
+              "min": 38,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 風險評估：係風險評估之先決條件為確立各項目標，並事業不同層級單位相連結，同時需考慮事業目標之適合性。管理階\n層應考量事業外部環境與商業模式改變之影響，以及可能發生之舞弊情事。其評估結果，可協助事業及時設計、修正及執\n行必要之控制作業。",
+          "normalized_content": "(二) 風險評估：係風險評估之先決條件為確立各項目標，並事業不同層級單位相連結，同時需考慮事業目標之適合性。管理階\n層應考量事業外部環境與商業模式改變之影響，以及可能發生之舞弊情事。其評估結果，可協助事業及時設計、修正及執\n行必要之控制作業。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 135,
+              "end": 137
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 控制作業：係指事業依據風險評估結果，採用適當政策與程序之行動，將風險控制在可承受範圍之內。控制作業之執行應\n包括事業所有層級、業務流程內之各個階段、所有科技環境等範圍及對子公司之監督與管理。",
+          "normalized_content": "(三) 控制作業：係指事業依據風險評估結果，採用適當政策與程序之行動，將風險控制在可承受範圍之內。控制作業之執行應\n包括事業所有層級、業務流程內之各個階段、所有科技環境等範圍及對子公司之監督與管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 140,
+              "end": 141
+            },
+            "line_char_range": {
+              "min": 41,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.6.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 資訊與溝通：係指事業蒐集、產生及使用來自內部與外部之攸關、具品質之資訊，以支持內部控制其他組成要素之持續運\n作，並確保資訊在事業內部，及事業與外部之間皆能進行有效溝通。內部控制制度須具備產生規劃、執行、監督等所需資\n訊及提供資訊需求者適時取得資訊之機制。",
+          "normalized_content": "(四) 資訊與溝通：係指事業蒐集、產生及使用來自內部與外部之攸關、具品質之資訊，以支持內部控制其他組成要素之持續運\n作，並確保資訊在事業內部，及事業與外部之間皆能進行有效溝通。內部控制制度須具備產生規劃、執行、監督等所需資\n訊及提供資訊需求者適時取得資訊之機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 5
+            },
+            "line_range": {
+              "start": 144,
+              "end": 146
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.6.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 監督作業：係指事業進行持續性評估、個別評估或兩者併行，以確定內部控制制度之各組成要素是否已經存在及持續運作。\n持續性評估係指不同層級營運過程中之例行評估；個別評估係由內部稽核人員、監察人或董事會等其他人員進行評估。對\n於所發現之內部控制制度缺失，應向適當層級之管理階層、董事會及監察人溝通，並及時改善。",
+          "normalized_content": "(五) 監督作業：係指事業進行持續性評估、個別評估或兩者併行，以確定內部控制制度之各組成要素是否已經存在及持續運作。\n持續性評估係指不同層級營運過程中之例行評估；個別評估係由內部稽核人員、監察人或董事會等其他人員進行評估。對\n於所發現之內部控制制度缺失，應向適當層級之管理階層、董事會及監察人溝通，並及時改善。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 150,
+              "end": 152
+            },
+            "line_char_range": {
+              "min": 42,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 4,
+          "end": 4
+        },
+        "line_range": {
+          "start": 125,
+          "end": 126
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 50
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "七、 公司組織結構與部門職掌：\n公司之內部控制制度，應訂定明確之內部組織結構、呈報體系，及適當權限與責任並載明經理人之設置、職稱、委任與解任、職\n權範圍及薪資報酬政策與制度等事項。同時應考量本事業及其子公司(依各服務事業財務報告編製規範之規定認定之)整體之營運\n活動，設計並確實執行其內部控制制度，且應隨時檢討，以因應公司內外在環境的變遷，俾確保該制度之設計及執行持續有效(有\n關各項業務之分層負責劃分，得由各期貨商於法令許可範圍內視情況調整訂定)。\n公司應於內部控制制度中訂定經理人及相關人員違反「證券暨期貨市場各服務事業建立內部控制制度處理準則」或期交所訂定之\n內部控制制度標準規範等相關規定時之處罰。",
+      "normalized_content": "七、 公司組織結構與部門職掌：\n公司之內部控制制度，應訂定明確之內部組織結構、呈報體系，及適當權限與責任並載明經理人之設置、職稱、委任與解任、職\n權範圍及薪資報酬政策與制度等事項。同時應考量本事業及其子公司(依各服務事業財務報告編製規範之規定認定之)整體之營運\n活動，設計並確實執行其內部控制制度，且應隨時檢討，以因應公司內外在環境的變遷，俾確保該制度之設計及執行持續有效(有\n關各項業務之分層負責劃分，得由各期貨商於法令許可範圍內視情況調整訂定)。\n公司應於內部控制制度中訂定經理人及相關人員違反「證券暨期貨市場各服務事業建立內部控制制度處理準則」或期交所訂定之\n內部控制制度標準規範等相關規定時之處罰。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 155,
+          "end": 161
+        },
+        "line_char_range": {
+          "min": 15,
+          "max": 57
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "八、 業務經營原則與方針：\n包括經營業務內容及範圍、業務經營原則及發展方針等應予以敘明。",
+      "normalized_content": "八、 業務經營原則與方針：\n包括經營業務內容及範圍、業務經營原則及發展方針等應予以敘明。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 164,
+          "end": 165
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 30
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "九、 內部控制制度之內容：\n公司之內部控制制度，除視公司之性質訂定各種營運循環類型之控制作業外，尚應視其需要包括對下列作業之控制：",
+      "normalized_content": "九、 內部控制制度之內容：\n公司之內部控制制度，除視公司之性質訂定各種營運循環類型之控制作業外，尚應視其需要包括對下列作業之控制：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.9.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 印鑑使用之管理。",
+          "normalized_content": "(一) 印鑑使用之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 172,
+              "end": 172
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 票據領用之管理。",
+          "normalized_content": "(二) 票據領用之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 175,
+              "end": 175
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 預算之管理。",
+          "normalized_content": "(三) 預算之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 6
+            },
+            "line_range": {
+              "start": 178,
+              "end": 178
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 財產之管理。",
+          "normalized_content": "(四) 財產之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 182,
+              "end": 182
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 背書保證之管理。",
+          "normalized_content": "(五) 背書保證之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 185,
+              "end": 185
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六) 負債承諾及或有事項之管理。",
+          "normalized_content": "(六) 負債承諾及或有事項之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 188,
+              "end": 188
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 17
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(七) 職務授權及代理人制度之執行。",
+          "normalized_content": "(七) 職務授權及代理人制度之執行。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 191,
+              "end": 191
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(八) 財務及非財務資訊之管理。",
+          "normalized_content": "(八) 財務及非財務資訊之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 194,
+              "end": 194
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 16
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(九) 關係人交易之管理。",
+          "normalized_content": "(九) 關係人交易之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 197,
+              "end": 197
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十) 財務報表編製流程之管理，包括適用國際財務報導準則之管理、會計專業判斷程序、會計政策與估計變動之流程等。",
+          "normalized_content": "(十) 財務報表編製流程之管理，包括適用國際財務報導準則之管理、會計專業判斷程序、會計政策與估計變動之流程等。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 200,
+              "end": 200
+            },
+            "line_char_range": {
+              "min": 55,
+              "max": 55
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十一) 對子公司之監督與管理。",
+          "normalized_content": "(十一) 對子公司之監督與管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 203,
+              "end": 203
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 16
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.12",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十二) 法令遵循制度。",
+          "normalized_content": "(十二) 法令遵循制度。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 206,
+              "end": 206
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.13",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十三) 金融檢查報告之管理。",
+          "normalized_content": "(十三) 金融檢查報告之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 209,
+              "end": 209
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 15
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.14",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十四) 金融消費者保護之管理。",
+          "normalized_content": "(十四) 金融消費者保護之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 212,
+              "end": 212
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 16
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.15",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十五) 客戶資料保密。",
+          "normalized_content": "(十五) 客戶資料保密。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 215,
+              "end": 215
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.16",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十六) 重大事件（如：重大違規、遭受重大損失之虞等）處理及通報機制之管理。",
+          "normalized_content": "(十六) 重大事件（如：重大違規、遭受重大損失之虞等）處理及通報機制之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 218,
+              "end": 218
+            },
+            "line_char_range": {
+              "min": 38,
+              "max": 38
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.17",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十七) 檢舉制度。",
+          "normalized_content": "(十七) 檢舉制度。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 221,
+              "end": 221
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 10
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.18",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十八) 作業委託他人處理之管理。",
+          "normalized_content": "(十八) 作業委託他人處理之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 224,
+              "end": 224
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 17
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.19",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十九) 其他經主管機關指定之事項。",
+          "normalized_content": "(十九) 其他經主管機關指定之事項。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 227,
+              "end": 227
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.20",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二十) 董事會議事運作之管理及股務作業之管理（股票公開發行之公司適用）。",
+          "normalized_content": "(二十) 董事會議事運作之管理及股務作業之管理（股票公開發行之公司適用）。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 7
+            },
+            "line_range": {
+              "start": 230,
+              "end": 230
+            },
+            "line_char_range": {
+              "min": 37,
+              "max": 37
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.21",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二十一) 公司已依證券交易法規定設置審計委員會者，其內部控制制度，應包括審計委員會議事運作之管理。",
+          "normalized_content": "(二十一) 公司已依證券交易法規定設置審計委員會者，其內部控制制度，應包括審計委員會議事運作之管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 234,
+              "end": 234
+            },
+            "line_char_range": {
+              "min": 50,
+              "max": 50
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.22",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二十二) 薪資報酬委員會運作之管理（股票已上市或在證券商營業處所買賣之公司適用）。",
+          "normalized_content": "(二十二) 薪資報酬委員會運作之管理（股票已上市或在證券商營業處所買賣之公司適用）。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 237,
+              "end": 237
+            },
+            "line_char_range": {
+              "min": 42,
+              "max": 42
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.23",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二十三) 防範內線交易之管理（股票已上市或在證券商營業處所買賣之公司、金控及上市櫃公司之期貨子公司適用）。",
+          "normalized_content": "(二十三) 防範內線交易之管理（股票已上市或在證券商營業處所買賣之公司、金控及上市櫃公司之期貨子公司適用）。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 240,
+              "end": 240
+            },
+            "line_char_range": {
+              "min": 54,
+              "max": 54
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.24",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二十四) 防制洗錢及打擊資恐機制及相關法令之遵循管理，包括辨識、衡量、監控洗錢及資恐風險之管理機制。",
+          "normalized_content": "(二十四) 防制洗錢及打擊資恐機制及相關法令之遵循管理，包括辨識、衡量、監控洗錢及資恐風險之管理機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 243,
+              "end": 243
+            },
+            "line_char_range": {
+              "min": 51,
+              "max": 51
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.25",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二十五) 設有國內外分公司（或子公司）者，應建立集團整體性防制洗錢及打擊資恐計畫，包括在符合國外分公司（或子公司）\n當地法令下，以防制洗錢及打擊資恐為目的之集團內資訊分享政策及程序。\n故為便於內部控制制度之建立，宜將公司內部之主要活動作系統性之劃分，以相互關連之各項作業形成交易循環，建立彼此之\n關係。公司之一般活動可劃分為下列八大單元：",
+          "normalized_content": "(二十五) 設有國內外分公司（或子公司）者，應建立集團整體性防制洗錢及打擊資恐計畫，包括在符合國外分公司（或子公司）\n當地法令下，以防制洗錢及打擊資恐為目的之集團內資訊分享政策及程序。\n故為便於內部控制制度之建立，宜將公司內部之主要活動作系統性之劃分，以相互關連之各項作業形成交易循環，建立彼此之\n關係。公司之一般活動可劃分為下列八大單元：",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 246,
+              "end": 249
+            },
+            "line_char_range": {
+              "min": 21,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.26",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 業務及收入循環",
+          "normalized_content": "(一) 業務及收入循環",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 252,
+              "end": 252
+            },
+            "line_char_range": {
+              "min": 11,
+              "max": 11
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.27",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 採購及付款循環",
+          "normalized_content": "(二) 採購及付款循環",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 255,
+              "end": 255
+            },
+            "line_char_range": {
+              "min": 11,
+              "max": 11
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.28",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 薪工循環",
+          "normalized_content": "(三) 薪工循環",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 258,
+              "end": 258
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.29",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 融資循環",
+          "normalized_content": "(四) 融資循環",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 261,
+              "end": 261
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.30",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 不動產及設備循環",
+          "normalized_content": "(五) 不動產及設備循環",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 264,
+              "end": 264
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.31",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六) 投資循環",
+          "normalized_content": "(六) 投資循環",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 267,
+              "end": 267
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 8
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.32",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(七) 電腦作業與資訊提供",
+          "normalized_content": "(七) 電腦作業與資訊提供",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 270,
+              "end": 270
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.33",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(八) 管理控制制度\n公司使用電腦化資訊系統處理者，其內部控制制度除資訊部門與使用者部門應明確劃分權責外，至少應包括下列控制作業：",
+          "normalized_content": "(八) 管理控制制度\n公司使用電腦化資訊系統處理者，其內部控制制度除資訊部門與使用者部門應明確劃分權責外，至少應包括下列控制作業：",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 8
+            },
+            "line_range": {
+              "start": 273,
+              "end": 274
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 54
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.34",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 資訊處理部門之功能及職責劃分。",
+          "normalized_content": "(一) 資訊處理部門之功能及職責劃分。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 278,
+              "end": 278
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 19
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.35",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 系統開發及程式修改之控制。",
+          "normalized_content": "(二) 系統開發及程式修改之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 281,
+              "end": 281
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 17
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.36",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 編製系統文書之控制。",
+          "normalized_content": "(三) 編製系統文書之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 284,
+              "end": 284
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.37",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 程式及資料之存取控制。",
+          "normalized_content": "(四) 程式及資料之存取控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 287,
+              "end": 287
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 15
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.38",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 資料輸出入之控制。",
+          "normalized_content": "(五) 資料輸出入之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 290,
+              "end": 290
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 13
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.39",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六) 資料處理之控制。",
+          "normalized_content": "(六) 資料處理之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 293,
+              "end": 293
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.40",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(七) 檔案及設備之安全控制。",
+          "normalized_content": "(七) 檔案及設備之安全控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 296,
+              "end": 296
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 15
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.41",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(八) 硬體及系統軟體之購置、使用及維護之控制。",
+          "normalized_content": "(八) 硬體及系統軟體之購置、使用及維護之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 299,
+              "end": 299
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.42",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(九) 系統復原計畫制度及測試程序之控制。",
+          "normalized_content": "(九) 系統復原計畫制度及測試程序之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 302,
+              "end": 302
+            },
+            "line_char_range": {
+              "min": 21,
+              "max": 21
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.43",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十) 資通安全檢查之控制。",
+          "normalized_content": "(十) 資通安全檢查之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 305,
+              "end": 305
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.9.44",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(十一) 依規定向主管機關指定網站進行公開資訊申報者，其相關作業之控制。",
+          "normalized_content": "(十一) 依規定向主管機關指定網站進行公開資訊申報者，其相關作業之控制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 308,
+              "end": 308
+            },
+            "line_char_range": {
+              "min": 36,
+              "max": 36
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 168,
+          "end": 169
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 51
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.10",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十、 內部控制制度之設計：\n內部控制制度之建立與設計，應針對各公司之特定情況而設計。公司之管理階層、部門主管、企劃幕僚、內部稽核人員，以及各\n業務單位相關人員，應共同參與內部控制制度之設計作業：",
+      "normalized_content": "十、 內部控制制度之設計：\n內部控制制度之建立與設計，應針對各公司之特定情況而設計。公司之管理階層、部門主管、企劃幕僚、內部稽核人員，以及各\n業務單位相關人員，應共同參與內部控制制度之設計作業：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.10.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 設計之內容包括：",
+          "normalized_content": "(一) 設計之內容包括：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.10.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 製訂各交易循環之作業程序。",
+              "normalized_content": "1. 製訂各交易循環之作業程序。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 8,
+                  "end": 8
+                },
+                "line_range": {
+                  "start": 319,
+                  "end": 319
+                },
+                "line_char_range": {
+                  "min": 16,
+                  "max": 16
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.10.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 設計各作業程序之控制重點。",
+              "normalized_content": "2. 設計各作業程序之控制重點。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 8,
+                  "end": 9
+                },
+                "line_range": {
+                  "start": 322,
+                  "end": 322
+                },
+                "line_char_range": {
+                  "min": 16,
+                  "max": 16
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.10.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 設計使用之表單。",
+              "normalized_content": "3. 設計使用之表單。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 9,
+                  "end": 9
+                },
+                "line_range": {
+                  "start": 326,
+                  "end": 326
+                },
+                "line_char_range": {
+                  "min": 11,
+                  "max": 11
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 8,
+              "end": 8
+            },
+            "line_range": {
+              "start": 316,
+              "end": 316
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.10.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 設計之原則包括：",
+          "normalized_content": "(二) 設計之原則包括：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.10.2.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 依各項業務實際需要規劃作業流程，採分段作業。在每一流程或循環中，設定若干控制重點，以合理確保各項作業目標之\n達成。",
+              "normalized_content": "1. 依各項業務實際需要規劃作業流程，採分段作業。在每一流程或循環中，設定若干控制重點，以合理確保各項作業目標之\n達成。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 9,
+                  "end": 9
+                },
+                "line_range": {
+                  "start": 332,
+                  "end": 333
+                },
+                "line_char_range": {
+                  "min": 3,
+                  "max": 56
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.10.2.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 各項業務應視其性質分由不同單位或職掌處理，不由任一單位或個人全程包辦，且其職掌不應有利益衝突情形，並應符合\n牽制原則；如辦理資金出納者，不應兼辦帳務，以達相互牽制及避免利益衝突之效果。",
+              "normalized_content": "2. 各項業務應視其性質分由不同單位或職掌處理，不由任一單位或個人全程包辦，且其職掌不應有利益衝突情形，並應符合\n牽制原則；如辦理資金出納者，不應兼辦帳務，以達相互牽制及避免利益衝突之效果。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 9,
+                  "end": 9
+                },
+                "line_range": {
+                  "start": 336,
+                  "end": 337
+                },
+                "line_char_range": {
+                  "min": 38,
+                  "max": 56
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.10.2.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 依各項作業之控制重點訂定內部稽核作業，其作業內容應力求表格化，俾利稽核、追蹤及考評。",
+              "normalized_content": "3. 依各項作業之控制重點訂定內部稽核作業，其作業內容應力求表格化，俾利稽核、追蹤及考評。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 9,
+                  "end": 9
+                },
+                "line_range": {
+                  "start": 340,
+                  "end": 340
+                },
+                "line_char_range": {
+                  "min": 45,
+                  "max": 45
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 9,
+              "end": 9
+            },
+            "line_range": {
+              "start": 329,
+              "end": 329
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 12
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 8,
+          "end": 8
+        },
+        "line_range": {
+          "start": 311,
+          "end": 313
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 56
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.11",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十一、 內部稽核目的：\n內部稽核之目的，在於協助董事會及經理人檢查及覆核內部控制制度之缺失及衡量營運之效果及效率，並適時提供改進建\n議，以確保內部控制制度得以持續有效實施及作為檢討修正內部控制制度之依據。",
+      "normalized_content": "十一、 內部稽核目的：\n內部稽核之目的，在於協助董事會及經理人檢查及覆核內部控制制度之缺失及衡量營運之效果及效率，並適時提供改進建\n議，以確保內部控制制度得以持續有效實施及作為檢討修正內部控制制度之依據。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 9,
+          "end": 9
+        },
+        "line_range": {
+          "start": 343,
+          "end": 345
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 53
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.12",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十二、 內部稽核之職能：\n內部稽核職能之目的及範圍通常包括用以評估並改善企業之治理、風險管理及內部控制流程有效性之確信及諮詢工作，該等\n工作例示如下：",
+      "normalized_content": "十二、 內部稽核之職能：\n內部稽核職能之目的及範圍通常包括用以評估並改善企業之治理、風險管理及內部控制流程有效性之確信及諮詢工作，該等\n工作例示如下：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.12.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一)與治理有關之工作：\n內部稽核職能可評估治理流程是否達成下列目標：",
+          "normalized_content": "(一)與治理有關之工作：\n內部稽核職能可評估治理流程是否達成下列目標：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.12.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1.道德及價值。",
+              "normalized_content": "1.道德及價值。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 9,
+                  "end": 9
+                },
+                "line_range": {
+                  "start": 357,
+                  "end": 357
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 8
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2.績效管理及課責性。",
+              "normalized_content": "2.績效管理及課責性。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 9,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 360,
+                  "end": 360
+                },
+                "line_char_range": {
+                  "min": 11,
+                  "max": 11
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3.告知組織之適當內部單位與風險及控制有關之資訊。",
+              "normalized_content": "3.告知組織之適當內部單位與風險及控制有關之資訊。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 364,
+                  "end": 364
+                },
+                "line_char_range": {
+                  "min": 25,
+                  "max": 25
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.1.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4.治理單位、查核人員、內部稽核人員與管理階層間之有效溝通。",
+              "normalized_content": "4.治理單位、查核人員、內部稽核人員與管理階層間之有效溝通。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 367,
+                  "end": 367
+                },
+                "line_char_range": {
+                  "min": 30,
+                  "max": 30
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 9,
+              "end": 9
+            },
+            "line_range": {
+              "start": 353,
+              "end": 354
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 22
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.12.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二)與風險管理有關之工作：",
+          "normalized_content": "(二)與風險管理有關之工作：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.12.2.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1.內部稽核職能可協助辨認並評估重大暴險，以及改善風險管理與內部控制（包含財務報導流程之有效性）。",
+              "normalized_content": "1.內部稽核職能可協助辨認並評估重大暴險，以及改善風險管理與內部控制（包含財務報導流程之有效性）。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 373,
+                  "end": 373
+                },
+                "line_char_range": {
+                  "min": 49,
+                  "max": 49
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.2.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2.內部稽核職能可協助執行偵查舞弊之程序。",
+              "normalized_content": "2.內部稽核職能可協助執行偵查舞弊之程序。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 376,
+                  "end": 376
+                },
+                "line_char_range": {
+                  "min": 21,
+                  "max": 21
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 10,
+              "end": 10
+            },
+            "line_range": {
+              "start": 370,
+              "end": 370
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.12.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三)與內部控制有關之工作：",
+          "normalized_content": "(三)與內部控制有關之工作：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.12.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 內部控制之評估：\n內部稽核職能可藉由評估控制之設計及執行，並提出改善建議，對內部控制提供確信。例如，內部稽核職能可能規劃及執\n行測試或其他程序，俾就內部控制（包含與查核攸關之控制）之設計、付諸實行及執行有效性向管理階層及治理單位提供\n確信。",
+              "normalized_content": "1. 內部控制之評估：\n內部稽核職能可藉由評估控制之設計及執行，並提出改善建議，對內部控制提供確信。例如，內部稽核職能可能規劃及執\n行測試或其他程序，俾就內部控制（包含與查核攸關之控制）之設計、付諸實行及執行有效性向管理階層及治理單位提供\n確信。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 382,
+                  "end": 385
+                },
+                "line_char_range": {
+                  "min": 3,
+                  "max": 53
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 財務及營運資訊之檢查：\n內部稽核職能可複核用以辨認、認列、衡量、分類及報導財務與營運資訊之方法（包含對交易、餘額及流程之測試），以\n及對個別項目執行特定查詢。",
+              "normalized_content": "2. 財務及營運資訊之檢查：\n內部稽核職能可複核用以辨認、認列、衡量、分類及報導財務與營運資訊之方法（包含對交易、餘額及流程之測試），以\n及對個別項目執行特定查詢。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 388,
+                  "end": 390
+                },
+                "line_char_range": {
+                  "min": 13,
+                  "max": 53
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.3.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 營運活動之複核：\n內部稽核職能可複核營運活動（包含企業之非財務活動）之效率與效果。",
+              "normalized_content": "3. 營運活動之複核：\n內部稽核職能可複核營運活動（包含企業之非財務活動）之效率與效果。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 10
+                },
+                "line_range": {
+                  "start": 393,
+                  "end": 394
+                },
+                "line_char_range": {
+                  "min": 11,
+                  "max": 32
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.12.3.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 法令遵循之複核：\n內部稽核職能可複核法令及其他外部規定之遵循，以及管理階層訂定之政策及程序與其他內部規定之遵循。",
+              "normalized_content": "4. 法令遵循之複核：\n內部稽核職能可複核法令及其他外部規定之遵循，以及管理階層訂定之政策及程序與其他內部規定之遵循。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 10,
+                  "end": 11
+                },
+                "line_range": {
+                  "start": 397,
+                  "end": 398
+                },
+                "line_char_range": {
+                  "min": 11,
+                  "max": 47
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 10,
+              "end": 10
+            },
+            "line_range": {
+              "start": 379,
+              "end": 379
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 14
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 9,
+          "end": 9
+        },
+        "line_range": {
+          "start": 348,
+          "end": 350
+        },
+        "line_char_range": {
+          "min": 7,
+          "max": 54
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.13",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十三、 內部稽核實施細則之項目\n公司之內部稽核實施細則至少應包括下列項目：",
+      "normalized_content": "十三、 內部稽核實施細則之項目\n公司之內部稽核實施細則至少應包括下列項目：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.13.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 內部稽核單位之目的、職權及責任。",
+          "normalized_content": "(一) 內部稽核單位之目的、職權及責任。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 406,
+              "end": 406
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 20
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.13.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 對內部控制制度進行評估，以衡量現行政策、程序之有效性及遵循程度與其對各項營運活動之影響。",
+          "normalized_content": "(二) 對內部控制制度進行評估，以衡量現行政策、程序之有效性及遵循程度與其對各項營運活動之影響。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 409,
+              "end": 409
+            },
+            "line_char_range": {
+              "min": 48,
+              "max": 48
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.13.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 釐定稽核項目、時間、程序及方法。",
+          "normalized_content": "(三) 釐定稽核項目、時間、程序及方法。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 412,
+              "end": 412
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 20
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 11,
+          "end": 11
+        },
+        "line_range": {
+          "start": 402,
+          "end": 403
+        },
+        "line_char_range": {
+          "min": 15,
+          "max": 21
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.14",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十四、 內部稽核作業適用範圍：",
+      "normalized_content": "十四、 內部稽核作業適用範圍：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.14.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 內部稽核人員辦理稽核事宜，依公司內部控制制度規定辦理。",
+          "normalized_content": "(一) 內部稽核人員辦理稽核事宜，依公司內部控制制度規定辦理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 418,
+              "end": 418
+            },
+            "line_char_range": {
+              "min": 31,
+              "max": 31
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.14.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 內部稽核工作執行範圍包括公司各單位及所屬分支機構。",
+          "normalized_content": "(二) 內部稽核工作執行範圍包括公司各單位及所屬分支機構。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 421,
+              "end": 421
+            },
+            "line_char_range": {
+              "min": 29,
+              "max": 29
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.14.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 內部稽核人員辦理內部稽核工作，分定期及不定期二類，定期性稽核，由內部稽核人員依公司年度稽核計畫執行；不定期性\n稽核，由內部稽核人員依指示或業務需要辦理。",
+          "normalized_content": "(三) 內部稽核人員辦理內部稽核工作，分定期及不定期二類，定期性稽核，由內部稽核人員依公司年度稽核計畫執行；不定期性\n稽核，由內部稽核人員依指示或業務需要辦理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 424,
+              "end": 425
+            },
+            "line_char_range": {
+              "min": 21,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.14.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 總公司應定期對其分支機構督導查核其內部稽核作業，其作業週期係每半年每家分公司至少查核乙次。",
+          "normalized_content": "(四) 總公司應定期對其分支機構督導查核其內部稽核作業，其作業週期係每半年每家分公司至少查核乙次。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 11,
+              "end": 11
+            },
+            "line_range": {
+              "start": 428,
+              "end": 428
+            },
+            "line_char_range": {
+              "min": 49,
+              "max": 49
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 11,
+          "end": 11
+        },
+        "line_range": {
+          "start": 415,
+          "end": 415
+        },
+        "line_char_range": {
+          "min": 15,
+          "max": 15
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.15",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十五、 內部稽核之組織編制\n公司應設置隸屬於董事會之內部稽核單位，並依其規模、業務狀況及管理需要，配置適任及適當人數之專任內部稽核人員，並\n應設置職務代理人，其代理執行稽核業務應依證券暨期貨市場各服務事業建立內部控制制度處理準則規定辦理，應設有內部稽\n核主管，綜理稽核業務，其應具備領導及有效督導稽核工作之能力。內部稽核主管之任免應經董事會通過。已設置獨立董事\n者，獨立董事如有反對意見或保留意見者，應於董事會議事錄載明。已依證券交易法規定設置審計委員會者，內部稽核主管之\n任免應經審計委員會全體實際在任成員二分之一以上同意，並提董事會決議。未獲審計委員會全體實際在任成員二分之一以上\n同意者，得由全體實際在任董事三分之二以上同意行之，並於董事會議事錄載明審計委員會之決議。並應於董事會通過之日起\n五日內向主管機關申報。內部稽核單位之人事任用、免職、升遷、獎懲、輪調及考核等，應由稽核主管簽報，報經董事長核定\n後辦理。但涉及其他管理、營業單位人事者，應事先洽商人事單位轉報總經理同意後，再行簽報董事長核定。",
+      "normalized_content": "十五、 內部稽核之組織編制\n公司應設置隸屬於董事會之內部稽核單位，並依其規模、業務狀況及管理需要，配置適任及適當人數之專任內部稽核人員，並\n應設置職務代理人，其代理執行稽核業務應依證券暨期貨市場各服務事業建立內部控制制度處理準則規定辦理，應設有內部稽\n核主管，綜理稽核業務，其應具備領導及有效督導稽核工作之能力。內部稽核主管之任免應經董事會通過。已設置獨立董事\n者，獨立董事如有反對意見或保留意見者，應於董事會議事錄載明。已依證券交易法規定設置審計委員會者，內部稽核主管之\n任免應經審計委員會全體實際在任成員二分之一以上同意，並提董事會決議。未獲審計委員會全體實際在任成員二分之一以上\n同意者，得由全體實際在任董事三分之二以上同意行之，並於董事會議事錄載明審計委員會之決議。並應於董事會通過之日起\n五日內向主管機關申報。內部稽核單位之人事任用、免職、升遷、獎懲、輪調及考核等，應由稽核主管簽報，報經董事長核定\n後辦理。但涉及其他管理、營業單位人事者，應事先洽商人事單位轉報總經理同意後，再行簽報董事長核定。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 11,
+          "end": 12
+        },
+        "line_range": {
+          "start": 431,
+          "end": 440
+        },
+        "line_char_range": {
+          "min": 13,
+          "max": 55
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.16",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十六、 內部稽核人員之職責：",
+      "normalized_content": "十六、 內部稽核人員之職責：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.16.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 內部稽核人員秉承公司最高主管指揮監督，執行公司內部稽核工作。",
+          "normalized_content": "(一) 內部稽核人員秉承公司最高主管指揮監督，執行公司內部稽核工作。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 12,
+              "end": 12
+            },
+            "line_range": {
+              "start": 446,
+              "end": 446
+            },
+            "line_char_range": {
+              "min": 34,
+              "max": 34
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.16.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 內部稽核人員執行工作遇有疑問時，應於獲得解釋及徹底瞭解後，方得提出處理意見。",
+          "normalized_content": "(二) 內部稽核人員執行工作遇有疑問時，應於獲得解釋及徹底瞭解後，方得提出處理意見。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 12,
+              "end": 12
+            },
+            "line_range": {
+              "start": 449,
+              "end": 449
+            },
+            "line_char_range": {
+              "min": 42,
+              "max": 42
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.16.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 內部稽核人員執行工作時，如發現員工有不當情事，除與其直屬主管連繫外，應即向公司最高主管報告，不得直接處理。",
+          "normalized_content": "(三) 內部稽核人員執行工作時，如發現員工有不當情事，除與其直屬主管連繫外，應即向公司最高主管報告，不得直接處理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 12,
+              "end": 12
+            },
+            "line_range": {
+              "start": 452,
+              "end": 452
+            },
+            "line_char_range": {
+              "min": 57,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.16.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 內部稽核人員執行工作時，得調閱一切檔案，受查單位不得拒絕或隱匿，如屬機密性之檔案，應先報准後始得調閱。",
+          "normalized_content": "(四) 內部稽核人員執行工作時，得調閱一切檔案，受查單位不得拒絕或隱匿，如屬機密性之檔案，應先報准後始得調閱。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 12,
+              "end": 12
+            },
+            "line_range": {
+              "start": 455,
+              "end": 455
+            },
+            "line_char_range": {
+              "min": 55,
+              "max": 55
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.16.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 內部稽核人員對所見異常事項，應詳加調查、瞭解及持續追蹤，並據實於稽核報告及追蹤報告中揭露。",
+          "normalized_content": "(五) 內部稽核人員對所見異常事項，應詳加調查、瞭解及持續追蹤，並據實於稽核報告及追蹤報告中揭露。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 12,
+              "end": 12
+            },
+            "line_range": {
+              "start": 458,
+              "end": 458
+            },
+            "line_char_range": {
+              "min": 49,
+              "max": 49
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 12,
+          "end": 12
+        },
+        "line_range": {
+          "start": 443,
+          "end": 443
+        },
+        "line_char_range": {
+          "min": 14,
+          "max": 14
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.17",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十七、 內部稽核人員應注意事項：",
+      "normalized_content": "十七、 內部稽核人員應注意事項：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.17.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 內部稽核人員應秉持超然獨立之精神，以客觀公正之立場，確實執行職務，並盡專業上應有之注意，除定期向監察人報告稽\n核業務外，稽核主管並應列席董事會報告。內部稽核人員執行業務應本誠實信用原則，並不得有下列情事：",
+          "normalized_content": "(一) 內部稽核人員應秉持超然獨立之精神，以客觀公正之立場，確實執行職務，並盡專業上應有之注意，除定期向監察人報告稽\n核業務外，稽核主管並應列席董事會報告。內部稽核人員執行業務應本誠實信用原則，並不得有下列情事：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 明知公司之營運活動、報導及相關法令規章遵循情況有直接損害受益人、客戶或利害關係人之情事，而予以隱飾或作不\n實、不當之揭露。",
+              "normalized_content": "1. 明知公司之營運活動、報導及相關法令規章遵循情況有直接損害受益人、客戶或利害關係人之情事，而予以隱飾或作不\n實、不當之揭露。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 12,
+                  "end": 12
+                },
+                "line_range": {
+                  "start": 468,
+                  "end": 469
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 55
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 因職務上之廢弛，致損及公司、受益人、客戶或利害關係人之權益等情事。",
+              "normalized_content": "2. 因職務上之廢弛，致損及公司、受益人、客戶或利害關係人之權益等情事。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 12,
+                  "end": 12
+                },
+                "line_range": {
+                  "start": 472,
+                  "end": 472
+                },
+                "line_char_range": {
+                  "min": 36,
+                  "max": 36
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 逾越稽核職權範圍以外之行為或有其他不正當情事，意圖為自己或第三人之利益，違背其職務之行為或侵占公司資產。",
+              "normalized_content": "3. 逾越稽核職權範圍以外之行為或有其他不正當情事，意圖為自己或第三人之利益，違背其職務之行為或侵占公司資產。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 12,
+                  "end": 12
+                },
+                "line_range": {
+                  "start": 475,
+                  "end": 475
+                },
+                "line_char_range": {
+                  "min": 55,
+                  "max": 55
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 對於以前曾服務之部門，於一年內進行稽核作業。但主管機關另有規定者，不在此限。",
+              "normalized_content": "4. 對於以前曾服務之部門，於一年內進行稽核作業。但主管機關另有規定者，不在此限。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 12,
+                  "end": 13
+                },
+                "line_range": {
+                  "start": 478,
+                  "end": 478
+                },
+                "line_char_range": {
+                  "min": 41,
+                  "max": 41
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "5. 與自身有利害關係或利益衝突案件未予迴避。",
+              "normalized_content": "5. 與自身有利害關係或利益衝突案件未予迴避。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 13,
+                  "end": 13
+                },
+                "line_range": {
+                  "start": 482,
+                  "end": 482
+                },
+                "line_char_range": {
+                  "min": 23,
+                  "max": 23
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.6",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "6. 未配合辦理主管機關指示查核事項或提供相關資料。",
+              "normalized_content": "6. 未配合辦理主管機關指示查核事項或提供相關資料。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 13,
+                  "end": 13
+                },
+                "line_range": {
+                  "start": 485,
+                  "end": 485
+                },
+                "line_char_range": {
+                  "min": 26,
+                  "max": 26
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.7",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "7. 直接或間接提供、承諾、要求或收受不合理禮物、款待或其他任何形式之不正當利益。",
+              "normalized_content": "7. 直接或間接提供、承諾、要求或收受不合理禮物、款待或其他任何形式之不正當利益。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 13,
+                  "end": 13
+                },
+                "line_range": {
+                  "start": 488,
+                  "end": 488
+                },
+                "line_char_range": {
+                  "min": 41,
+                  "max": 41
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.17.1.8",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "8. 其他違反法令或經主管機關規定不得為之行為。",
+              "normalized_content": "8. 其他違反法令或經主管機關規定不得為之行為。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 13,
+                  "end": 13
+                },
+                "line_range": {
+                  "start": 491,
+                  "end": 491
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 24
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 12,
+              "end": 12
+            },
+            "line_range": {
+              "start": 464,
+              "end": 465
+            },
+            "line_char_range": {
+              "min": 47,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 內部稽核人員應持續參加主管機關或專業機構或公司自行舉辦之內部稽核講習及各項專業課程，以提昇稽核品質及能力。",
+          "normalized_content": "(二) 內部稽核人員應持續參加主管機關或專業機構或公司自行舉辦之內部稽核講習及各項專業課程，以提昇稽核品質及能力。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 494,
+              "end": 494
+            },
+            "line_char_range": {
+              "min": 57,
+              "max": 57
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 稽核程序按稽核計畫進行，避免不必要之討論與諮詢，儘量減少影響受查單位經辦人員本身之工作，遇有不明瞭之事項，應\n於適當時間提出詢問，至徹底瞭解為止。",
+          "normalized_content": "(三) 稽核程序按稽核計畫進行，避免不必要之討論與諮詢，儘量減少影響受查單位經辦人員本身之工作，遇有不明瞭之事項，應\n於適當時間提出詢問，至徹底瞭解為止。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 497,
+              "end": 498
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 勿與受查單位人員爭論制度上之不完備，發現錯誤情事不得當面批評，受查單位人員如有申訴或建議，應細心聆聽，勿與辯\n論。",
+          "normalized_content": "(四) 勿與受查單位人員爭論制度上之不完備，發現錯誤情事不得當面批評，受查單位人員如有申訴或建議，應細心聆聽，勿與辯\n論。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 501,
+              "end": 502
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 內部稽核人員應充分瞭解現行相關法令，並熟諳公司現行內部控制各種制度、規章，尚應透徹瞭解受查單位之單行辦法及特\n殊情況。",
+          "normalized_content": "(五) 內部稽核人員應充分瞭解現行相關法令，並熟諳公司現行內部控制各種制度、規章，尚應透徹瞭解受查單位之單行辦法及特\n殊情況。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 505,
+              "end": 506
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六) 內部稽核人員應事前熟知受查單位之歷史背景、重要資料及以往稽核報告內容。",
+          "normalized_content": "(六) 內部稽核人員應事前熟知受查單位之歷史背景、重要資料及以往稽核報告內容。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 509,
+              "end": 509
+            },
+            "line_char_range": {
+              "min": 39,
+              "max": 39
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(七) 內部稽核人員對查核結果應予合理判斷，此項判斷應有可靠之理論依據，獲得足夠而適切之證明。",
+          "normalized_content": "(七) 內部稽核人員對查核結果應予合理判斷，此項判斷應有可靠之理論依據，獲得足夠而適切之證明。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 512,
+              "end": 512
+            },
+            "line_char_range": {
+              "min": 47,
+              "max": 47
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.17.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(八) 內部稽核人員執行查核工作係接觸公司第一手機密檔案資料，應嚴格保密，並應提高警覺，注意文件安全，以防失落。",
+          "normalized_content": "(八) 內部稽核人員執行查核工作係接觸公司第一手機密檔案資料，應嚴格保密，並應提高警覺，注意文件安全，以防失落。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 13,
+              "end": 13
+            },
+            "line_range": {
+              "start": 515,
+              "end": 515
+            },
+            "line_char_range": {
+              "min": 56,
+              "max": 56
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 12,
+          "end": 12
+        },
+        "line_range": {
+          "start": 461,
+          "end": 461
+        },
+        "line_char_range": {
+          "min": 16,
+          "max": 16
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.18",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十八、 年度稽核計畫\n公司內部稽核單位應依風險評估結果擬訂年度稽核計畫，據以評估公司之內部控制制度。且至少應將法令規章遵循事項、取得\n或處分資產、從事衍生性商品交易、為他人背書保證之管理及關係人交易之管理等重大財務業務行為之控制作業、對子公司之\n監督與管理、適用國際會計準則之控制作業、資通安全檢查等列為每年年度稽核計畫之稽核項目。\n公司係金融消費者保護法所定之事業，每年年度稽核計畫，尚應包括對金融消費者保護之管理。\n股票公開發行之公司，除應包括前二項之稽核項目外，尚應包括董事會議事運作之管理。股票已上市或在證券商營業處所買賣\n之公司，其每年年度稽核計畫，尚應包括薪資報酬委員會運作之管理。\n公司已設置審計委員會者，年度稽核計畫，尚應包括審計委員會議事運作之管理。\n公司屬洗錢防制法所稱之金融機構者，年度稽核計畫應包括防制洗錢及打擊資恐及其相關法令遵循之管理。\n公司年度稽核計畫應經董事會通過；修正時，亦同。已設立獨立董事者，將年度稽核計畫提報董事會討論時，應充分考量各獨\n立董事之意見，獨立董事如有反對意見或保留意見，應於董事會議事錄載明。\n公司應依期交所所訂格式內容、方式及申報時間向期交所申報年度稽核計畫及其執行情形、所見異常事項改善情形。",
+      "normalized_content": "十八、 年度稽核計畫\n公司內部稽核單位應依風險評估結果擬訂年度稽核計畫，據以評估公司之內部控制制度。且至少應將法令規章遵循事項、取得\n或處分資產、從事衍生性商品交易、為他人背書保證之管理及關係人交易之管理等重大財務業務行為之控制作業、對子公司之\n監督與管理、適用國際會計準則之控制作業、資通安全檢查等列為每年年度稽核計畫之稽核項目。\n公司係金融消費者保護法所定之事業，每年年度稽核計畫，尚應包括對金融消費者保護之管理。\n股票公開發行之公司，除應包括前二項之稽核項目外，尚應包括董事會議事運作之管理。股票已上市或在證券商營業處所買賣\n之公司，其每年年度稽核計畫，尚應包括薪資報酬委員會運作之管理。\n公司已設置審計委員會者，年度稽核計畫，尚應包括審計委員會議事運作之管理。\n公司屬洗錢防制法所稱之金融機構者，年度稽核計畫應包括防制洗錢及打擊資恐及其相關法令遵循之管理。\n公司年度稽核計畫應經董事會通過；修正時，亦同。已設立獨立董事者，將年度稽核計畫提報董事會討論時，應充分考量各獨\n立董事之意見，獨立董事如有反對意見或保留意見，應於董事會議事錄載明。\n公司應依期交所所訂格式內容、方式及申報時間向期交所申報年度稽核計畫及其執行情形、所見異常事項改善情形。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 13,
+          "end": 14
+        },
+        "line_range": {
+          "start": 518,
+          "end": 530
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 55
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.19",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "十九、 稽核報告\n稽核報告應依規定格式填寫，包括查核日期、查核項目、查核經過內容(所見事實、違反何種規章、所採措施如何)及改進建議\n等，且裝訂成冊並於封面註明起迄時間，妥為保管；其中稽核報告(含查核明細表)、工作底稿及相關資料至少應保存五年。但對\n事實未發生之查核項目得於稽核報告上註明即可，毋庸檢附相關查核明細表及工作底稿。\n稽核報告之完成期限，每日查核部分(含隨案查核)應於查核日後二個營業日內完成，每週查核部分應於當期稽核報告受查期間之\n後五個營業日內完成，每月、每季、每半年及每年查核部分應於當期稽核報告受查期間之後十個營業日內完成。受查期間係指\n前次查核日至本次查核日之前一日止，且期間之長短應配合查核作業週期而不宜任意變更。\n公司內部稽核人員應與受查單位就年度稽核項目查核結果充分溝通，對於評估所發現之內部控制制度缺失及異常事項(包括主管\n機關或自律機構檢查所發現、內部稽核作業所發現、內部控制制度聲明書所列、自行評估及會計師專案審查所發現之各項缺\n失)，應據實揭露於稽核報告，並於該報告陳核後加以追蹤，至少按季作成追蹤報告並提報董事會至改善為止，以確定相關單位\n業已及時採取適當之改善措施。總分公司間應建立異常事項即時通報機制，以確保分公司異常事項能即時通報總公司稽核主\n管。且公司應將內部控制制度缺失、異常事項及改善情形，列為各部門績效考核之重要項目。\n稽核報告及追蹤報告陳核後，應於稽核項目完成之次月底前交付各監察人查閱。內部稽核人員如發現重大違規情事或公司有受\n重大損失之虞等重大事件時，應立即作成報告陳核，並通知各監察人。如對前揭缺失事項所提改進建議不為管理階層採納，將\n肇致公司重大損失者，亦應作成報告陳核及通知各監察人，並通報主管機關。設有獨立董事者，應一併交付或通知獨立董事。\n公司於主管機關或國外分公司（或子公司）當地主管機關檢查結束或收到檢查報告後，總（母）公司之內部稽核單位應依重大\n性原則，即時通報董事及監察人，並提報最近一次董事會報告。報告事項應包括檢查溝通會議內容、主要檢查缺失、遭主管機\n關調降評等、主管機關要求採行之重大缺失改善方案或可能採行之處分措施。\n分公司稽核報告應至少每月一次由總公司稽核主管彙整陳核最高主管。\n公司內部稽核報告如採無紙化之電子方式製作，應依期交所106.12.27台期輔字第10604011600號函相關規定辦理。",
+      "normalized_content": "十九、 稽核報告\n稽核報告應依規定格式填寫，包括查核日期、查核項目、查核經過內容(所見事實、違反何種規章、所採措施如何)及改進建議\n等，且裝訂成冊並於封面註明起迄時間，妥為保管；其中稽核報告(含查核明細表)、工作底稿及相關資料至少應保存五年。但對\n事實未發生之查核項目得於稽核報告上註明即可，毋庸檢附相關查核明細表及工作底稿。\n稽核報告之完成期限，每日查核部分(含隨案查核)應於查核日後二個營業日內完成，每週查核部分應於當期稽核報告受查期間之\n後五個營業日內完成，每月、每季、每半年及每年查核部分應於當期稽核報告受查期間之後十個營業日內完成。受查期間係指\n前次查核日至本次查核日之前一日止，且期間之長短應配合查核作業週期而不宜任意變更。\n公司內部稽核人員應與受查單位就年度稽核項目查核結果充分溝通，對於評估所發現之內部控制制度缺失及異常事項(包括主管\n機關或自律機構檢查所發現、內部稽核作業所發現、內部控制制度聲明書所列、自行評估及會計師專案審查所發現之各項缺\n失)，應據實揭露於稽核報告，並於該報告陳核後加以追蹤，至少按季作成追蹤報告並提報董事會至改善為止，以確定相關單位\n業已及時採取適當之改善措施。總分公司間應建立異常事項即時通報機制，以確保分公司異常事項能即時通報總公司稽核主\n管。且公司應將內部控制制度缺失、異常事項及改善情形，列為各部門績效考核之重要項目。\n稽核報告及追蹤報告陳核後，應於稽核項目完成之次月底前交付各監察人查閱。內部稽核人員如發現重大違規情事或公司有受\n重大損失之虞等重大事件時，應立即作成報告陳核，並通知各監察人。如對前揭缺失事項所提改進建議不為管理階層採納，將\n肇致公司重大損失者，亦應作成報告陳核及通知各監察人，並通報主管機關。設有獨立董事者，應一併交付或通知獨立董事。\n公司於主管機關或國外分公司（或子公司）當地主管機關檢查結束或收到檢查報告後，總（母）公司之內部稽核單位應依重大\n性原則，即時通報董事及監察人，並提報最近一次董事會報告。報告事項應包括檢查溝通會議內容、主要檢查缺失、遭主管機\n關調降評等、主管機關要求採行之重大缺失改善方案或可能採行之處分措施。\n分公司稽核報告應至少每月一次由總公司稽核主管彙整陳核最高主管。\n公司內部稽核報告如採無紙化之電子方式製作，應依期交所106.12.27台期輔字第10604011600號函相關規定辦理。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 14,
+          "end": 15
+        },
+        "line_range": {
+          "start": 533,
+          "end": 553
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 60
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.20",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二十、 分支機構不設專職內部稽核人員規範：\n公司基於本身業務及管理之考量，在不影響公司經營風險下，分支機構得不設專職之內部稽核人員，但必須指派專人辦理分支\n機構自行查核作業。公司採此種自行查核作業者，除應準用上述十一至十九之規定外，自行查核人員之資格條件、人數配置、\n查核項目、頻率及格式與其他有關事項，並須符合下列規定：",
+      "normalized_content": "二十、 分支機構不設專職內部稽核人員規範：\n公司基於本身業務及管理之考量，在不影響公司經營風險下，分支機構得不設專職之內部稽核人員，但必須指派專人辦理分支\n機構自行查核作業。公司採此種自行查核作業者，除應準用上述十一至十九之規定外，自行查核人員之資格條件、人數配置、\n查核項目、頻率及格式與其他有關事項，並須符合下列規定：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.20.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 自行查核人員之資格條件：自行查核人員應具備期貨商負責人及業務員管理規則第五條所定資格條件，並依期貨商負責人及\n業務員管理規則第八條規定，向中華民國期貨業商業同業公會辦理業務員登記。其人員在職教育訓練以參加中華民國期貨業\n商業同業公會內部稽核人員在職訓練為限。",
+          "normalized_content": "(一) 自行查核人員之資格條件：自行查核人員應具備期貨商負責人及業務員管理規則第五條所定資格條件，並依期貨商負責人及\n業務員管理規則第八條規定，向中華民國期貨業商業同業公會辦理業務員登記。其人員在職教育訓練以參加中華民國期貨業\n商業同業公會內部稽核人員在職訓練為限。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 15,
+              "end": 16
+            },
+            "line_range": {
+              "start": 562,
+              "end": 565
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.20.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 自行查核人員之人數配置：由財務業務人員兼辦者，每一分支機構應設置至少二人，且不得就自己負責之業務進行查核；由\n非財務業務人員兼辦者，每一分支機構應設置至少一人。",
+          "normalized_content": "(二) 自行查核人員之人數配置：由財務業務人員兼辦者，每一分支機構應設置至少二人，且不得就自己負責之業務進行查核；由\n非財務業務人員兼辦者，每一分支機構應設置至少一人。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 16,
+              "end": 16
+            },
+            "line_range": {
+              "start": 568,
+              "end": 569
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.20.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 查核項目、頻率及格式：分支機構辦理自行查核作業，其查核項目、頻率及格式均比照上述十九內部稽核報告(含查核明細表、\n查核工作底稿及相關資料等)相關規範內容辦理。",
+          "normalized_content": "(三) 查核項目、頻率及格式：分支機構辦理自行查核作業，其查核項目、頻率及格式均比照上述十九內部稽核報告(含查核明細表、\n查核工作底稿及相關資料等)相關規範內容辦理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 16,
+              "end": 16
+            },
+            "line_range": {
+              "start": 572,
+              "end": 573
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 60
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.20.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 採專人辦理分支機構自行查核作業者，應加強分支機構之督導查核，方式如下：",
+          "normalized_content": "(四) 採專人辦理分支機構自行查核作業者，應加強分支機構之督導查核，方式如下：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 內部稽核作業(自行查核作業)之督導查核：由總公司指派內部稽核人員至少每半年對每家分支機構至少依「查核分支機構\n內部稽核作業評核表」項目查核一次。",
+              "normalized_content": "1. 內部稽核作業(自行查核作業)之督導查核：由總公司指派內部稽核人員至少每半年對每家分支機構至少依「查核分支機構\n內部稽核作業評核表」項目查核一次。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 16,
+                  "end": 16
+                },
+                "line_range": {
+                  "start": 579,
+                  "end": 580
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 57
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 財務業務作業之督導查核得自下列(1)(2)擇一辦理：",
+              "normalized_content": "2. 財務業務作業之督導查核得自下列(1)(2)擇一辦理：",
+              "children": [
+                {
+                  "id": "1.FCM內控-總則---114.04.20.4.2.1",
+                  "node_kind": "normal",
+                  "table_sequence": null,
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(1)由總公司指派內部稽核人員至少每半年對每家分支機構至少依「查核分支機構財務業務作業報告表」項目實際查核一次，\n不得以複核方式辦理。公司並應視管理需要及分支機構實際狀況，加強查核之項目（例如過去曾發生之重大缺失事項）、\n頻率及深度。",
+                  "normalized_content": "(1)由總公司指派內部稽核人員至少每半年對每家分支機構至少依「查核分支機構財務業務作業報告表」項目實際查核一次，\n不得以複核方式辦理。公司並應視管理需要及分支機構實際狀況，加強查核之項目（例如過去曾發生之重大缺失事項）、\n頻率及深度。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_range": {
+                      "start": 586,
+                      "end": 588
+                    },
+                    "line_char_range": {
+                      "min": 6,
+                      "max": 56
+                    }
+                  },
+                  "file_name": "1.FCM內控-總則---114.04.md",
+                  "file_stem": "1.FCM內控-總則---114.04"
+                },
+                {
+                  "id": "1.FCM內控-總則---114.04.20.4.2.2",
+                  "node_kind": "normal",
+                  "table_sequence": null,
+                  "cell_row": null,
+                  "cell_col": null,
+                  "original_content": "(2)公司應於每年底前檢附下列 B項之相關資料向期交所函報次一年度另以「財務業務作業專案查核」取代一次「查核分支\n機構財務業務作業報告表」，並依下列事項辦理：",
+                  "normalized_content": "(2)公司應於每年底前檢附下列 B項之相關資料向期交所函報次一年度另以「財務業務作業專案查核」取代一次「查核分支\n機構財務業務作業報告表」，並依下列事項辦理：",
+                  "children": [
+                    {
+                      "id": "1.FCM內控-總則---114.04.20.4.2.2.1",
+                      "node_kind": "normal",
+                      "table_sequence": null,
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "A.由總公司指派內部稽核人員每年對每家分支機構至少依「查核分支機構財務業務作業報告表」項目實際查核一次，不得\n以複核方式辦理，且受查期間應含括前一次查核日至本次查核日前一日止。",
+                      "normalized_content": "A.由總公司指派內部稽核人員每年對每家分支機構至少依「查核分支機構財務業務作業報告表」項目實際查核一次，不得\n以複核方式辦理，且受查期間應含括前一次查核日至本次查核日前一日止。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 16,
+                          "end": 17
+                        },
+                        "line_range": {
+                          "start": 595,
+                          "end": 596
+                        },
+                        "line_char_range": {
+                          "min": 33,
+                          "max": 54
+                        }
+                      },
+                      "file_name": "1.FCM內控-總則---114.04.md",
+                      "file_stem": "1.FCM內控-總則---114.04"
+                    },
+                    {
+                      "id": "1.FCM內控-總則---114.04.20.4.2.2.2",
+                      "node_kind": "normal",
+                      "table_sequence": null,
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "B.由總公司指派內部稽核人員每年對每家分支機構辦理一次「財務業務作業專案查核」，受查期間至少應含括查核日前完\n整六個月，專案查核項目應參酌下列事項據以規劃查核重點並設計查核項目，且留存評估紀錄：",
+                      "normalized_content": "B.由總公司指派內部稽核人員每年對每家分支機構辦理一次「財務業務作業專案查核」，受查期間至少應含括查核日前完\n整六個月，專案查核項目應參酌下列事項據以規劃查核重點並設計查核項目，且留存評估紀錄：",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 17,
+                          "end": 17
+                        },
+                        "line_range": {
+                          "start": 600,
+                          "end": 601
+                        },
+                        "line_char_range": {
+                          "min": 42,
+                          "max": 54
+                        }
+                      },
+                      "file_name": "1.FCM內控-總則---114.04.md",
+                      "file_stem": "1.FCM內控-總則---114.04"
+                    },
+                    {
+                      "id": "1.FCM內控-總則---114.04.20.4.2.2.3",
+                      "node_kind": "normal",
+                      "table_sequence": null,
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "a.內部業務性質、作業流程等，以風險為基礎，辨識公司高風險項目。",
+                      "normalized_content": "a.內部業務性質、作業流程等，以風險為基礎，辨識公司高風險項目。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 17,
+                          "end": 17
+                        },
+                        "line_range": {
+                          "start": 604,
+                          "end": 604
+                        },
+                        "line_char_range": {
+                          "min": 32,
+                          "max": 32
+                        }
+                      },
+                      "file_name": "1.FCM內控-總則---114.04.md",
+                      "file_stem": "1.FCM內控-總則---114.04"
+                    },
+                    {
+                      "id": "1.FCM內控-總則---114.04.20.4.2.2.4",
+                      "node_kind": "normal",
+                      "table_sequence": null,
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "b.參考近期同業、自身重大違失項目或主管機關之年度檢查重點。",
+                      "normalized_content": "b.參考近期同業、自身重大違失項目或主管機關之年度檢查重點。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 17,
+                          "end": 17
+                        },
+                        "line_range": {
+                          "start": 607,
+                          "end": 607
+                        },
+                        "line_char_range": {
+                          "min": 30,
+                          "max": 30
+                        }
+                      },
+                      "file_name": "1.FCM內控-總則---114.04.md",
+                      "file_stem": "1.FCM內控-總則---114.04"
+                    },
+                    {
+                      "id": "1.FCM內控-總則---114.04.20.4.2.2.5",
+                      "node_kind": "normal",
+                      "table_sequence": null,
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "c.針對新開辦業務，瞭解各分支機構之作業落實程度及遵法情形。",
+                      "normalized_content": "c.針對新開辦業務，瞭解各分支機構之作業落實程度及遵法情形。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 17,
+                          "end": 17
+                        },
+                        "line_range": {
+                          "start": 610,
+                          "end": 610
+                        },
+                        "line_char_range": {
+                          "min": 30,
+                          "max": 30
+                        }
+                      },
+                      "file_name": "1.FCM內控-總則---114.04.md",
+                      "file_stem": "1.FCM內控-總則---114.04"
+                    },
+                    {
+                      "id": "1.FCM內控-總則---114.04.20.4.2.2.6",
+                      "node_kind": "normal",
+                      "table_sequence": null,
+                      "cell_row": null,
+                      "cell_col": null,
+                      "original_content": "d.其他重要事項。",
+                      "normalized_content": "d.其他重要事項。",
+                      "children": [],
+                      "metadata": {
+                        "page_range": {
+                          "start": 17,
+                          "end": 17
+                        },
+                        "line_range": {
+                          "start": 613,
+                          "end": 613
+                        },
+                        "line_char_range": {
+                          "min": 9,
+                          "max": 9
+                        }
+                      },
+                      "file_name": "1.FCM內控-總則---114.04.md",
+                      "file_stem": "1.FCM內控-總則---114.04"
+                    }
+                  ],
+                  "metadata": {
+                    "page_range": {
+                      "start": 16,
+                      "end": 16
+                    },
+                    "line_range": {
+                      "start": 591,
+                      "end": 592
+                    },
+                    "line_char_range": {
+                      "min": 22,
+                      "max": 56
+                    }
+                  },
+                  "file_name": "1.FCM內控-總則---114.04.md",
+                  "file_stem": "1.FCM內控-總則---114.04"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 16,
+                  "end": 16
+                },
+                "line_range": {
+                  "start": 583,
+                  "end": 583
+                },
+                "line_char_range": {
+                  "min": 29,
+                  "max": 29
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 公司並應視管理需要及分支機構實際狀況，每年提出加強查核之項目(例如過去曾發生之重大缺失事項)、頻率及深度。",
+              "normalized_content": "3. 公司並應視管理需要及分支機構實際狀況，每年提出加強查核之項目(例如過去曾發生之重大缺失事項)、頻率及深度。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 17,
+                  "end": 17
+                },
+                "line_range": {
+                  "start": 616,
+                  "end": 616
+                },
+                "line_char_range": {
+                  "min": 56,
+                  "max": 56
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 查核報告檢送作業：上開內部稽核作業(自行查核作業)及財務業務作業之督導查核，公司應於查核之次月五日前將「查核分\n支機構內部稽核作業評核表」(包含內部稽核作業評核表、內部稽核作業工作底稿及覆核項目之查核明細表與工作底稿等之\n完整稽核報告)」、「查核分支機構財務業務作業報告表」(包含查核明細表、查核工作底稿及相關資料) 及「財務業務作業專\n案查核報告」（包含評估紀錄、查核工作底稿及相關資料），檢送期交所申報。",
+              "normalized_content": "4. 查核報告檢送作業：上開內部稽核作業(自行查核作業)及財務業務作業之督導查核，公司應於查核之次月五日前將「查核分\n支機構內部稽核作業評核表」(包含內部稽核作業評核表、內部稽核作業工作底稿及覆核項目之查核明細表與工作底稿等之\n完整稽核報告)」、「查核分支機構財務業務作業報告表」(包含查核明細表、查核工作底稿及相關資料) 及「財務業務作業專\n案查核報告」（包含評估紀錄、查核工作底稿及相關資料），檢送期交所申報。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 17,
+                  "end": 17
+                },
+                "line_range": {
+                  "start": 619,
+                  "end": 622
+                },
+                "line_char_range": {
+                  "min": 35,
+                  "max": 58
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.5",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "5. 總公司稽核部門應就因作業疏失而遭受主管機關或期貨相關機構處分(指主管機關或相關機構函請改善以上之處分或處置)\n之分公司加強輔導與查核，並於受處分後每三個月至少執行一次無預警查核，直至總公司稽核部門評估業已改善為止，並\n留存相關紀錄；另總公司稽核部門並應將前開分公司受處分之缺失事項周知所有分公司並留存通知紀錄，請其他分公司自\n行查核人員亦對該等缺失事項注意查核。",
+              "normalized_content": "5. 總公司稽核部門應就因作業疏失而遭受主管機關或期貨相關機構處分(指主管機關或相關機構函請改善以上之處分或處置)\n之分公司加強輔導與查核，並於受處分後每三個月至少執行一次無預警查核，直至總公司稽核部門評估業已改善為止，並\n留存相關紀錄；另總公司稽核部門並應將前開分公司受處分之缺失事項周知所有分公司並留存通知紀錄，請其他分公司自\n行查核人員亦對該等缺失事項注意查核。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 17,
+                  "end": 17
+                },
+                "line_range": {
+                  "start": 625,
+                  "end": 628
+                },
+                "line_char_range": {
+                  "min": 18,
+                  "max": 57
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.6",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "6. 公司應針對全體分公司經理人及相關從業人員加強宣導內控落實之責任及法令遵循之義務，以強調遵法精神，並將相關宣\n導資料建檔備查。",
+              "normalized_content": "6. 公司應針對全體分公司經理人及相關從業人員加強宣導內控落實之責任及法令遵循之義務，以強調遵法精神，並將相關宣\n導資料建檔備查。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 17,
+                  "end": 18
+                },
+                "line_range": {
+                  "start": 631,
+                  "end": 632
+                },
+                "line_char_range": {
+                  "min": 8,
+                  "max": 56
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.7",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "7. 公司應就分公司執行自行查核作業之良窳，列入分公司經理人、督導主管及自行查核人員年度績效考核項目，並留存紀錄，\n若對重大違規事項有隱匿之情事者，應依公司獎懲規定予以處分，以強化自行查核品質。",
+              "normalized_content": "7. 公司應就分公司執行自行查核作業之良窳，列入分公司經理人、督導主管及自行查核人員年度績效考核項目，並留存紀錄，\n若對重大違規事項有隱匿之情事者，應依公司獎懲規定予以處分，以強化自行查核品質。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 18,
+                  "end": 18
+                },
+                "line_range": {
+                  "start": 636,
+                  "end": 637
+                },
+                "line_char_range": {
+                  "min": 39,
+                  "max": 57
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.8",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "8. 分公司因投資人檢舉案或外部查核單位查核發現顯有內控內稽作業未予落實之情形，除應依主管機關或外部查核單位之規\n定及要求辦理外，總公司稽核部門並應就該分公司加強輔導與查核，並留存輔導與查核相關資料。",
+              "normalized_content": "8. 分公司因投資人檢舉案或外部查核單位查核發現顯有內控內稽作業未予落實之情形，除應依主管機關或外部查核單位之規\n定及要求辦理外，總公司稽核部門並應就該分公司加強輔導與查核，並留存輔導與查核相關資料。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 18,
+                  "end": 18
+                },
+                "line_range": {
+                  "start": 640,
+                  "end": 641
+                },
+                "line_char_range": {
+                  "min": 43,
+                  "max": 56
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.20.4.9",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "9. 分公司自行查核結果除應依規報總公司稽核部門彙陳外，總公司稽核部門應視自行查核結果中所列缺失事項之輕重程度，\n即時陳報董事會，於必要時應加強輔導與查核。",
+              "normalized_content": "9. 分公司自行查核結果除應依規報總公司稽核部門彙陳外，總公司稽核部門應視自行查核結果中所列缺失事項之輕重程度，\n即時陳報董事會，於必要時應加強輔導與查核。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 18,
+                  "end": 18
+                },
+                "line_range": {
+                  "start": 644,
+                  "end": 645
+                },
+                "line_char_range": {
+                  "min": 21,
+                  "max": 56
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 16,
+              "end": 16
+            },
+            "line_range": {
+              "start": 576,
+              "end": 576
+            },
+            "line_char_range": {
+              "min": 39,
+              "max": 39
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.20.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 公司得自行決定分支機構係採專人辦理分支機構自行查核作業者或派任駐點稽核，惟應於每年 12 月向期交所函報次 1 年度\n查核制度(新設分支機構應於開業前申報)，未函報者，視為分支機構採設專職內部稽核人員之制度。另經申報後，同一年度\n不得變更查核制度。",
+          "normalized_content": "(五) 公司得自行決定分支機構係採專人辦理分支機構自行查核作業者或派任駐點稽核，惟應於每年 12 月向期交所函報次 1 年度\n查核制度(新設分支機構應於開業前申報)，未函報者，視為分支機構採設專職內部稽核人員之制度。另經申報後，同一年度\n不得變更查核制度。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 18,
+              "end": 18
+            },
+            "line_range": {
+              "start": 648,
+              "end": 650
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 62
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.20.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六)其他：應遵守主管機關及期交所就期貨商內部稽核制度或作業所為之規定。",
+          "normalized_content": "(六)其他：應遵守主管機關及期交所就期貨商內部稽核制度或作業所為之規定。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 18,
+              "end": 18
+            },
+            "line_range": {
+              "start": 653,
+              "end": 653
+            },
+            "line_char_range": {
+              "min": 36,
+              "max": 36
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 15,
+          "end": 15
+        },
+        "line_range": {
+          "start": 556,
+          "end": 559
+        },
+        "line_char_range": {
+          "min": 21,
+          "max": 55
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.21",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二十一、 自行評估及內部控制制度聲明書：",
+      "normalized_content": "二十一、 自行評估及內部控制制度聲明書：",
+      "children": [
+        {
+          "id": "1.FCM內控-總則---114.04.21.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(一) 自行評估內部控制制度之目的，在落實自我監督之機制、及時因應環境改變，以調整內部控制制度之設計，並提昇內部稽核\n部門的稽核品質及效率；其評估之範圍，應涵蓋各類內部控制制度之設計及執行。\n執行前項評估，應於內部控制制度訂定自行評估作業之程序及方法。\n公司應注意相關法令規章遵循事項並依風險評估結果，決定前項自行評估作業程序及方法，並至少包含下列項目：",
+          "normalized_content": "(一) 自行評估內部控制制度之目的，在落實自我監督之機制、及時因應環境改變，以調整內部控制制度之設計，並提昇內部稽核\n部門的稽核品質及效率；其評估之範圍，應涵蓋各類內部控制制度之設計及執行。\n執行前項評估，應於內部控制制度訂定自行評估作業之程序及方法。\n公司應注意相關法令規章遵循事項並依風險評估結果，決定前項自行評估作業程序及方法，並至少包含下列項目：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.21.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 確定應進行測試之控制作業。",
+              "normalized_content": "1. 確定應進行測試之控制作業。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 18,
+                  "end": 18
+                },
+                "line_range": {
+                  "start": 665,
+                  "end": 665
+                },
+                "line_char_range": {
+                  "min": 16,
+                  "max": 16
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.21.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 確認應納入自行評估之營運單位。",
+              "normalized_content": "2. 確認應納入自行評估之營運單位。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 18,
+                  "end": 19
+                },
+                "line_range": {
+                  "start": 668,
+                  "end": 668
+                },
+                "line_char_range": {
+                  "min": 18,
+                  "max": 18
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.21.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 評估各項控制作業設計之有效性。",
+              "normalized_content": "3. 評估各項控制作業設計之有效性。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 19,
+                  "end": 19
+                },
+                "line_range": {
+                  "start": 672,
+                  "end": 672
+                },
+                "line_char_range": {
+                  "min": 18,
+                  "max": 18
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.21.1.4",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "4. 評估各項控制作業執行之有效性。",
+              "normalized_content": "4. 評估各項控制作業執行之有效性。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 19,
+                  "end": 19
+                },
+                "line_range": {
+                  "start": 675,
+                  "end": 675
+                },
+                "line_char_range": {
+                  "min": 18,
+                  "max": 18
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 18,
+              "end": 18
+            },
+            "line_range": {
+              "start": 659,
+              "end": 662
+            },
+            "line_char_range": {
+              "min": 30,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.21.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(二) 自行評估內部控制制度，應先督促內部各單位及子公司每年至少辦理自行評估一次，再由內部稽核單位覆核各單位之自行評\n估報告，併同稽核單位所發現之內部控制缺失及異常事項改善情形，以作為董事會及總經理評估事業整體內部控制制度有效\n性及出具內部控制制度聲明書之主要依據。",
+          "normalized_content": "(二) 自行評估內部控制制度，應先督促內部各單位及子公司每年至少辦理自行評估一次，再由內部稽核單位覆核各單位之自行評\n估報告，併同稽核單位所發現之內部控制缺失及異常事項改善情形，以作為董事會及總經理評估事業整體內部控制制度有效\n性及出具內部控制制度聲明書之主要依據。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 19,
+              "end": 19
+            },
+            "line_range": {
+              "start": 678,
+              "end": 680
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.21.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(三) 前項自行評估應作成工作底稿，併同自行評估報告及相關資料至少保存五年。",
+          "normalized_content": "(三) 前項自行評估應作成工作底稿，併同自行評估報告及相關資料至少保存五年。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 19,
+              "end": 19
+            },
+            "line_range": {
+              "start": 683,
+              "end": 683
+            },
+            "line_char_range": {
+              "min": 38,
+              "max": 38
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.21.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(四) 公司自行評估內部控制制度之結果，以內部控制制度是否能合理確保下列事項，分為有效之內部控制制度或有重大缺失之內\n部控制制度：",
+          "normalized_content": "(四) 公司自行評估內部控制制度之結果，以內部控制制度是否能合理確保下列事項，分為有效之內部控制制度或有重大缺失之內\n部控制制度：",
+          "children": [
+            {
+              "id": "1.FCM內控-總則---114.04.21.4.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "1. 董事會及總經理瞭解營運之效果及效率目標達成程度。",
+              "normalized_content": "1. 董事會及總經理瞭解營運之效果及效率目標達成程度。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 19,
+                  "end": 19
+                },
+                "line_range": {
+                  "start": 690,
+                  "end": 690
+                },
+                "line_char_range": {
+                  "min": 27,
+                  "max": 27
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.21.4.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "2. 報導係屬可靠、及時、透明及符合相關規範。",
+              "normalized_content": "2. 報導係屬可靠、及時、透明及符合相關規範。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 19,
+                  "end": 19
+                },
+                "line_range": {
+                  "start": 693,
+                  "end": 693
+                },
+                "line_char_range": {
+                  "min": 23,
+                  "max": 23
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            },
+            {
+              "id": "1.FCM內控-總則---114.04.21.4.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "3. 已遵循相關法令規章。",
+              "normalized_content": "3. 已遵循相關法令規章。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 19,
+                  "end": 19
+                },
+                "line_range": {
+                  "start": 696,
+                  "end": 696
+                },
+                "line_char_range": {
+                  "min": 13,
+                  "max": 13
+                }
+              },
+              "file_name": "1.FCM內控-總則---114.04.md",
+              "file_stem": "1.FCM內控-總則---114.04"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 19,
+              "end": 19
+            },
+            "line_range": {
+              "start": 686,
+              "end": 687
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.21.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(五) 每年應自行評估內部控制制度設計及執行之有效性，並依主管機關規定格式作成內部控制制度聲明書，除事業之相關法令另\n有規定外，應於每會計年度終了後三個月內申報主管機關備查。\n公司已依證券交易法規定設置審計委員會者，前項內部控制制度設計及執行之有效性，應經審計委員會全體實際在任成員二\n分之一以上同意，並提董事會決議。未獲審計委員會全體實際在任成員二分之一以上同意者，得由全體實際在任董事三分之\n二以上同意行之，並於董事會議事錄載明審計委員會之決議。\n內部控制制度聲明書應先經董事會通過；修正時，亦同。",
+          "normalized_content": "(五) 每年應自行評估內部控制制度設計及執行之有效性，並依主管機關規定格式作成內部控制制度聲明書，除事業之相關法令另\n有規定外，應於每會計年度終了後三個月內申報主管機關備查。\n公司已依證券交易法規定設置審計委員會者，前項內部控制制度設計及執行之有效性，應經審計委員會全體實際在任成員二\n分之一以上同意，並提董事會決議。未獲審計委員會全體實際在任成員二分之一以上同意者，得由全體實際在任董事三分之\n二以上同意行之，並於董事會議事錄載明審計委員會之決議。\n內部控制制度聲明書應先經董事會通過；修正時，亦同。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 19,
+              "end": 20
+            },
+            "line_range": {
+              "start": 699,
+              "end": 704
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        },
+        {
+          "id": "1.FCM內控-總則---114.04.21.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "(六) 前項內部控制制度聲明書，應於主管機關指定網站辦理公告申報，免再將書面資料申報主管機關備查，並應依規定刊登於年\n報、股票公開發行說明書及公開說明書或投資說明書。",
+          "normalized_content": "(六) 前項內部控制制度聲明書，應於主管機關指定網站辦理公告申報，免再將書面資料申報主管機關備查，並應依規定刊登於年\n報、股票公開發行說明書及公開說明書或投資說明書。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 20,
+              "end": 20
+            },
+            "line_range": {
+              "start": 708,
+              "end": 709
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 58
+            }
+          },
+          "file_name": "1.FCM內控-總則---114.04.md",
+          "file_stem": "1.FCM內控-總則---114.04"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 18,
+          "end": 18
+        },
+        "line_range": {
+          "start": 656,
+          "end": 656
+        },
+        "line_char_range": {
+          "min": 20,
+          "max": 20
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.22",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二十二、 期貨商公司治理：\n為提升公司營運品質，增加競爭優勢，並促進期貨市場健全發展，公司宜積極參採「期貨商公司治理實務守則」，據以建構並實\n施公司治理制度。",
+      "normalized_content": "二十二、 期貨商公司治理：\n為提升公司營運品質，增加競爭優勢，並促進期貨市場健全發展，公司宜積極參採「期貨商公司治理實務守則」，據以建構並實\n施公司治理制度。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 20,
+          "end": 20
+        },
+        "line_range": {
+          "start": 712,
+          "end": 714
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 56
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    },
+    {
+      "id": "1.FCM內控-總則---114.04.23",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "二十三、風險管理機制：\n公司應訂定適當之風險管理政策與程序，建立獨立有效風險管理機制，以評估及監督整體風險承擔能力、已承受風險現況、決\n定風險因應策略及風險管理程序遵循情形。",
+      "normalized_content": "二十三、風險管理機制：\n公司應訂定適當之風險管理政策與程序，建立獨立有效風險管理機制，以評估及監督整體風險承擔能力、已承受風險現況、決\n定風險因應策略及風險管理程序遵循情形。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 20,
+          "end": 20
+        },
+        "line_range": {
+          "start": 717,
+          "end": 719
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 55
+        }
+      },
+      "file_name": "1.FCM內控-總則---114.04.md",
+      "file_stem": "1.FCM內控-總則---114.04"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 20
+    },
+    "line_range": {
+      "start": 1,
+      "end": 3
+    },
+    "line_char_range": {
+      "min": 3,
+      "max": 21
+    }
+  },
+  "file_name": "1.FCM內控-總則---114.04.md",
+  "file_stem": "1.FCM內控-總則---114.04"
+}

@@ -1,0 +1,2000 @@
+{
+  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 附件一_金融機構提供自動櫃員機系統安全作業規範1140709\n金融機構提供自動櫃員機系統安全作業規範\n本會105年12月22日第12屆第2次理監事聯席會議通過\n金管會106年2月13日金管銀國字第10600014760號函洽悉\n本會107年1月25日第12屆第14次理監事聯席會議通過\n金管會107年5月15日金管銀國字第10702042100號函洽悉\n本會114年5月29日第14屆第25次理監事聯席會議通過\n金管會114年7月9日金管銀國字第1140219887號函修正後洽悉",
+  "normalized_content": "# 附件一_金融機構提供自動櫃員機系統安全作業規範1140709\n金融機構提供自動櫃員機系統安全作業規範\n本會105年12月22日第12屆第2次理監事聯席會議通過\n金管會106年2月13日金管銀國字第10600014760號函洽悉\n本會107年1月25日第12屆第14次理監事聯席會議通過\n金管會107年5月15日金管銀國字第10702042100號函洽悉\n本會114年5月29日第14屆第25次理監事聯席會議通過\n金管會114年7月9日金管銀國字第1140219887號函修正後洽悉",
+  "children": [
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 目的\n金融機構提供自動櫃員機(以下簡稱 ATM)服務，除符合「金融機構\n辦理電子銀行業務安全控管作業基準」外，為確保金融機構 ATM\n系統安全，特定本作業規範。",
+      "normalized_content": "第一條 目的\n金融機構提供自動櫃員機(以下簡稱 ATM)服務，除符合「金融機構\n辦理電子銀行業務安全控管作業基準」外，為確保金融機構 ATM\n系統安全，特定本作業規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 11,
+          "end": 14
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 32
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 用詞定義如下：",
+      "normalized_content": "第二條 用詞定義如下：",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 兩項以上技術：係指「金融機構辦理電子銀行業務安全控管作\n業基準」之兩項以上技術相關規定。",
+          "normalized_content": "一、 兩項以上技術：係指「金融機構辦理電子銀行業務安全控管作\n業基準」之兩項以上技術相關規定。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 20,
+              "end": 21
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 30
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 ATM 之相關伺服器：係指與 ATM 網路連接並提供服務，如派版伺\n服器負責安裝或更新 ATM 內檔案或修改 ATM 環境設定、監控伺\n服器負責監控 ATM 實體或系統執行狀態、安全更新伺服器負責\n更新 ATM 作業系統或應用程式、防毒伺服器負責更新防毒軟體\n或病毒碼、網域控制伺服器負責管理網域存取權限、白名單伺\n服器負責管理 ATM 檔案存取權限等。",
+          "normalized_content": "二、 ATM 之相關伺服器：係指與 ATM 網路連接並提供服務，如派版伺\n服器負責安裝或更新 ATM 內檔案或修改 ATM 環境設定、監控伺\n服器負責監控 ATM 實體或系統執行狀態、安全更新伺服器負責\n更新 ATM 作業系統或應用程式、防毒伺服器負責更新防毒軟體\n或病毒碼、網域控制伺服器負責管理網域存取權限、白名單伺\n服器負責管理 ATM 檔案存取權限等。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 24,
+              "end": 29
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 36
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 17,
+          "end": 17
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 11
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 開發測試",
+      "normalized_content": "第三條 開發測試",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 開發單位應以 ATM 應用程式進行原始碼掃描並提供掃描報告。",
+          "normalized_content": "一、 開發單位應以 ATM 應用程式進行原始碼掃描並提供掃描報告。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 35,
+              "end": 35
+            },
+            "line_char_range": {
+              "min": 33,
+              "max": 33
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 開發單位應以兩人以上授權或採用兩項以上技術進行版本控\n管，並交付派版程式清單、程式異動前後差異比對表、程式變\n更內容及原始碼掃描報告。",
+          "normalized_content": "二、 開發單位應以兩人以上授權或採用兩項以上技術進行版本控\n管，並交付派版程式清單、程式異動前後差異比對表、程式變\n更內容及原始碼掃描報告。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 38,
+              "end": 40
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 29
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 金融機構應檢視、測試及風險評估後，依據原始碼掃描報告，\n判定是否進行派版。",
+          "normalized_content": "三、 金融機構應檢視、測試及風險評估後，依據原始碼掃描報告，\n判定是否進行派版。",
+          "children": [
+            {
+              "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1",
+              "node_kind": "table",
+              "table_sequence": "1",
+              "cell_row": null,
+              "cell_col": null,
+              "is_table_header": null,
+              "header_row_count": 1,
+              "original_content": "[TABLE id=附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1]\n| Application | Filename | Description/Purpose |\n| --- | --- | --- |\n| Address Resolution Protocol | arp.exe | Display/edit network address |\n| File Transfer Protocol | ftp.exe | Transfer files between two hosts |\n| NetBios over TCP/IP | nbtstat.exe | Display network information |\n| Name Server Lookup | nslookup.exe | Display network information |\n| Remote Copy Program | rcp.exe | Copy files |\n| TCP/IP Route Command Application | route.exe | Display/edit network settings |\n| Remote Shell Application | rsh.exe | Execute command on remote computer |\n| Terminal Emulation Protocol | telnet.exe | Connect to a remote computer |\n[/TABLE id=附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1]",
+              "normalized_content": "[TABLE id=附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1]\n| Application | Filename | Description/Purpose |\n| --- | --- | --- |\n| Address Resolution Protocol | arp.exe | Display/edit network address |\n| File Transfer Protocol | ftp.exe | Transfer files between two hosts |\n| NetBios over TCP/IP | nbtstat.exe | Display network information |\n| Name Server Lookup | nslookup.exe | Display network information |\n| Remote Copy Program | rcp.exe | Copy files |\n| TCP/IP Route Command Application | route.exe | Display/edit network settings |\n| Remote Shell Application | rsh.exe | Execute command on remote computer |\n| Terminal Emulation Protocol | telnet.exe | Connect to a remote computer |\n[/TABLE id=附件一_金融機構提供自動櫃員機系統安全作業規範1140709_table_1]",
+              "children": [
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r1.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 1,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Application",
+                  "normalized_content": "Application",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 171,
+                      "end": 171
+                    },
+                    "line_char_range": {
+                      "min": 11,
+                      "max": 11
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r1.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 2,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Filename",
+                  "normalized_content": "Filename",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 171,
+                      "end": 171
+                    },
+                    "line_char_range": {
+                      "min": 8,
+                      "max": 8
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r1.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 3,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Description/Purpose",
+                  "normalized_content": "Description/Purpose",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 171,
+                      "end": 171
+                    },
+                    "line_char_range": {
+                      "min": 19,
+                      "max": 19
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r2.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Address Resolution Protocol",
+                  "normalized_content": "Address Resolution Protocol",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 173,
+                      "end": 173
+                    },
+                    "line_char_range": {
+                      "min": 27,
+                      "max": 27
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r2.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "arp.exe",
+                  "normalized_content": "arp.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 173,
+                      "end": 173
+                    },
+                    "line_char_range": {
+                      "min": 7,
+                      "max": 7
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r2.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Display/edit network address",
+                  "normalized_content": "Display/edit network address",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 173,
+                      "end": 173
+                    },
+                    "line_char_range": {
+                      "min": 28,
+                      "max": 28
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r3.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "File Transfer Protocol",
+                  "normalized_content": "File Transfer Protocol",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 174,
+                      "end": 174
+                    },
+                    "line_char_range": {
+                      "min": 22,
+                      "max": 22
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r3.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "ftp.exe",
+                  "normalized_content": "ftp.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 174,
+                      "end": 174
+                    },
+                    "line_char_range": {
+                      "min": 7,
+                      "max": 7
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r3.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Transfer files between two hosts",
+                  "normalized_content": "Transfer files between two hosts",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 174,
+                      "end": 174
+                    },
+                    "line_char_range": {
+                      "min": 32,
+                      "max": 32
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r4.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "NetBios over TCP/IP",
+                  "normalized_content": "NetBios over TCP/IP",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 175,
+                      "end": 175
+                    },
+                    "line_char_range": {
+                      "min": 19,
+                      "max": 19
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r4.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "nbtstat.exe",
+                  "normalized_content": "nbtstat.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 175,
+                      "end": 175
+                    },
+                    "line_char_range": {
+                      "min": 11,
+                      "max": 11
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r4.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Display network information",
+                  "normalized_content": "Display network information",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 175,
+                      "end": 175
+                    },
+                    "line_char_range": {
+                      "min": 27,
+                      "max": 27
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r5.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 5,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Name Server Lookup",
+                  "normalized_content": "Name Server Lookup",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 176,
+                      "end": 176
+                    },
+                    "line_char_range": {
+                      "min": 18,
+                      "max": 18
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r5.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 5,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "nslookup.exe",
+                  "normalized_content": "nslookup.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 176,
+                      "end": 176
+                    },
+                    "line_char_range": {
+                      "min": 12,
+                      "max": 12
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r5.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 5,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Display network information",
+                  "normalized_content": "Display network information",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 176,
+                      "end": 176
+                    },
+                    "line_char_range": {
+                      "min": 27,
+                      "max": 27
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r6.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 6,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Remote Copy Program",
+                  "normalized_content": "Remote Copy Program",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 177,
+                      "end": 177
+                    },
+                    "line_char_range": {
+                      "min": 19,
+                      "max": 19
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r6.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 6,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "rcp.exe",
+                  "normalized_content": "rcp.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 177,
+                      "end": 177
+                    },
+                    "line_char_range": {
+                      "min": 7,
+                      "max": 7
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r6.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 6,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Copy files",
+                  "normalized_content": "Copy files",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 177,
+                      "end": 177
+                    },
+                    "line_char_range": {
+                      "min": 10,
+                      "max": 10
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r7.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 7,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "TCP/IP Route Command Application",
+                  "normalized_content": "TCP/IP Route Command Application",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 178,
+                      "end": 178
+                    },
+                    "line_char_range": {
+                      "min": 32,
+                      "max": 32
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r7.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 7,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "route.exe",
+                  "normalized_content": "route.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 178,
+                      "end": 178
+                    },
+                    "line_char_range": {
+                      "min": 9,
+                      "max": 9
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r7.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 7,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Display/edit network settings",
+                  "normalized_content": "Display/edit network settings",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 178,
+                      "end": 178
+                    },
+                    "line_char_range": {
+                      "min": 29,
+                      "max": 29
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r8.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 8,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Remote Shell Application",
+                  "normalized_content": "Remote Shell Application",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 179,
+                      "end": 179
+                    },
+                    "line_char_range": {
+                      "min": 24,
+                      "max": 24
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r8.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 8,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "rsh.exe",
+                  "normalized_content": "rsh.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 179,
+                      "end": 179
+                    },
+                    "line_char_range": {
+                      "min": 7,
+                      "max": 7
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r8.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 8,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Execute command on remote computer",
+                  "normalized_content": "Execute command on remote computer",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 179,
+                      "end": 179
+                    },
+                    "line_char_range": {
+                      "min": 34,
+                      "max": 34
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r9.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 9,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Terminal Emulation Protocol",
+                  "normalized_content": "Terminal Emulation Protocol",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 180,
+                      "end": 180
+                    },
+                    "line_char_range": {
+                      "min": 27,
+                      "max": 27
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r9.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 9,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "telnet.exe",
+                  "normalized_content": "telnet.exe",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 180,
+                      "end": 180
+                    },
+                    "line_char_range": {
+                      "min": 10,
+                      "max": 10
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                },
+                {
+                  "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.3.3.表格_1.r9.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 9,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "Connect to a remote computer",
+                  "normalized_content": "Connect to a remote computer",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 4,
+                      "end": 4
+                    },
+                    "line_range": {
+                      "start": 180,
+                      "end": 180
+                    },
+                    "line_char_range": {
+                      "min": 28,
+                      "max": 28
+                    }
+                  },
+                  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+                  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 4,
+                  "end": 4
+                },
+                "line_range": {
+                  "start": 170,
+                  "end": 181
+                },
+                "line_char_range": {
+                  "min": 19,
+                  "max": 80
+                }
+              },
+              "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+              "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 43,
+              "end": 44
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 30
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 32,
+          "end": 32
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 交付派版",
+      "normalized_content": "第四條 交付派版",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 派版單位應驗證開發單位交付檔案之完整性(如 MD5)及來源辨識\n性(如 ZIP 加密)。",
+          "normalized_content": "一、 派版單位應驗證開發單位交付檔案之完整性(如 MD5)及來源辨識\n性(如 ZIP 加密)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 50,
+              "end": 51
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 34
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 派版單位應掃描開發單位交付檔案有無惡意程式(如病毒、插\n件、後門等)。",
+          "normalized_content": "二、 派版單位應掃描開發單位交付檔案有無惡意程式(如病毒、插\n件、後門等)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 54,
+              "end": 55
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 30
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.4.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 派版單位應於派版後進行覆核作業，確保無不當派版情形。",
+          "normalized_content": "三、 派版單位應於派版後進行覆核作業，確保無不當派版情形。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 58,
+              "end": 58
+            },
+            "line_char_range": {
+              "min": 29,
+              "max": 29
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 47,
+          "end": 47
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 存取限制",
+      "normalized_content": "第五條 存取限制",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應刪除 ATM 不必要之作業系統服務及應用程式(如附件)。",
+          "normalized_content": "一、 應刪除 ATM 不必要之作業系統服務及應用程式(如附件)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 65,
+              "end": 65
+            },
+            "line_char_range": {
+              "min": 32,
+              "max": 32
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 應禁止 ATM 之作業系統啟用 AutoPlay 功能。",
+          "normalized_content": "二、 應禁止 ATM 之作業系統啟用 AutoPlay 功能。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 68,
+              "end": 68
+            },
+            "line_char_range": {
+              "min": 31,
+              "max": 31
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 採用 IP 連線之 ATM 其可執行程式應建立白名單管控，白名單異\n動作業應經兩人以上授權或採用兩項以上技術進行管控；異動\nATM 可執行程式前，ATM 應驗證異動作業來源正確性。",
+          "normalized_content": "三、 採用 IP 連線之 ATM 其可執行程式應建立白名單管控，白名單異\n動作業應經兩人以上授權或採用兩項以上技術進行管控；異動\nATM 可執行程式前，ATM 應驗證異動作業來源正確性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 71,
+              "end": 73
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 36
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 以具異動權限之帳號登入派版伺服器、監控伺服器及安全更新\n伺服器之作業系統或應用程式者應採用兩人以上授權或採用兩\n項以上技術進行管控。",
+          "normalized_content": "四、 以具異動權限之帳號登入派版伺服器、監控伺服器及安全更新\n伺服器之作業系統或應用程式者應採用兩人以上授權或採用兩\n項以上技術進行管控。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 76,
+              "end": 78
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 30
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 ATM BIOS 應指定可開機之儲存媒體並移除不必要之設備 (如\nCD-ROM 或外接式儲存媒體)。",
+          "normalized_content": "五、 ATM BIOS 應指定可開機之儲存媒體並移除不必要之設備 (如\nCD-ROM 或外接式儲存媒體)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 81,
+              "end": 82
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 35
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.5.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 本款規定公布後新採購之 ATM，其吐鈔模組與 ATM 控制主機間之\n通訊指令應受保護並具有授權機制，以防止植入未經授權程\n式、竄改指令或竄改韌體。",
+          "normalized_content": "六、 本款規定公布後新採購之 ATM，其吐鈔模組與 ATM 控制主機間之\n通訊指令應受保護並具有授權機制，以防止植入未經授權程\n式、竄改指令或竄改韌體。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 85,
+              "end": 87
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 36
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 62,
+          "end": 62
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 架構區隔",
+      "normalized_content": "第六條 架構區隔",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應透過設備隔離機制(如防火牆、虛擬私有網路（Virtual Private\nNetwork，VPN）、網閘等)管制 ATM、ATM 之相關伺服器，其中\n針對 ATM 及 ATM 之相關伺服器應限制不得連接網際網路、開發\n測試網段及內部辦公區網段，惟防毒伺服器及網域控制伺服器\n因提供服務之目的(如更新病毒碼、時間校時、DNS 查詢、身分\n確認等)除外。",
+          "normalized_content": "一、 應透過設備隔離機制(如防火牆、虛擬私有網路（Virtual Private\nNetwork，VPN）、網閘等)管制 ATM、ATM 之相關伺服器，其中\n針對 ATM 及 ATM 之相關伺服器應限制不得連接網際網路、開發\n測試網段及內部辦公區網段，惟防毒伺服器及網域控制伺服器\n因提供服務之目的(如更新病毒碼、時間校時、DNS 查詢、身分\n確認等)除外。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 93,
+              "end": 98
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 40
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 執行派版作業之工作站應設置於經管制之作業室，且不得連接\n網際網路。",
+          "normalized_content": "二、 執行派版作業之工作站應設置於經管制之作業室，且不得連接\n網際網路。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 101,
+              "end": 102
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 30
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 ATM 之派版伺服器僅能於執行作業(如 ATM 派版、資安作業、\n系統更新)時開機或連線，並於作業完畢後立即關機、離線或停\n用連線埠，惟增加下列安全防護機制者除外。",
+          "normalized_content": "三、 ATM 之派版伺服器僅能於執行作業(如 ATM 派版、資安作業、\n系統更新)時開機或連線，並於作業完畢後立即關機、離線或停\n用連線埠，惟增加下列安全防護機制者除外。",
+          "children": [
+            {
+              "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 僅能透過本機或執行派版作業之工作站登入。",
+              "normalized_content": "(一) 僅能透過本機或執行派版作業之工作站登入。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 110,
+                  "end": 110
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 24
+                }
+              },
+              "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+              "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+            },
+            {
+              "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 依最小授權原則進行派版伺服器各項安全控管設定(如派版\n功能僅限授權派版專用帳號)。",
+              "normalized_content": "(二) 依最小授權原則進行派版伺服器各項安全控管設定(如派版\n功能僅限授權派版專用帳號)。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 113,
+                  "end": 114
+                },
+                "line_char_range": {
+                  "min": 14,
+                  "max": 30
+                }
+              },
+              "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+              "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+            },
+            {
+              "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.6.3.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三) 採用兩項以上技術進行身分確認，並使用硬體設備保護敏感\n資料；該硬體設備應具有資料輸出管控機制、遮蔽作用之塗\n層保護機制、破壞偵測與歸零清除保護機制、開機自我測試\n機制、防止電磁干擾保護機制或其他足以保護設備內敏感資\n料之安全設計(如動態密碼產生器)。",
+              "normalized_content": "(三) 採用兩項以上技術進行身分確認，並使用硬體設備保護敏感\n資料；該硬體設備應具有資料輸出管控機制、遮蔽作用之塗\n層保護機制、破壞偵測與歸零清除保護機制、開機自我測試\n機制、防止電磁干擾保護機制或其他足以保護設備內敏感資\n料之安全設計(如動態密碼產生器)。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 117,
+                  "end": 122
+                },
+                "line_char_range": {
+                  "min": 17,
+                  "max": 30
+                }
+              },
+              "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+              "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 105,
+              "end": 107
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 35
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 90,
+          "end": 90
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第七條 監控警示",
+      "normalized_content": "第七條 監控警示",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應監控 ATM、ATM 之相關伺服器及網路設備之系統事件及連線紀\n錄，如有異常應及時處理。",
+          "normalized_content": "一、 應監控 ATM、ATM 之相關伺服器及網路設備之系統事件及連線紀\n錄，如有異常應及時處理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 128,
+              "end": 129
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 35
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.7.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 連線至 ATM 派版伺服器之工作站與其他網段之資料傳遞，應留\n存連線紀錄以利追蹤異常存取。",
+          "normalized_content": "二、 連線至 ATM 派版伺服器之工作站與其他網段之資料傳遞，應留\n存連線紀錄以利追蹤異常存取。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 132,
+              "end": 133
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 33
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 125,
+          "end": 125
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第八條 汰換計畫\n採用 IP 連線之 ATM，若該設備之作業系統原廠已不再提供安全更\n新者，金融機構應提出汰換計畫，並提報董(理)事會或經其授權\n之經理部門核定，未汰換期間應有補強措施(如採用具 Virtual\nPatching 功能之 WAF 或 IPS、或採網段隔離機制並限制同網段主\n機間連線及資源存取)，且應儘速完成補強措施或汰換，以防範已\n知資安漏洞。",
+      "normalized_content": "第八條 汰換計畫\n採用 IP 連線之 ATM，若該設備之作業系統原廠已不再提供安全更\n新者，金融機構應提出汰換計畫，並提報董(理)事會或經其授權\n之經理部門核定，未汰換期間應有補強措施(如採用具 Virtual\nPatching 功能之 WAF 或 IPS、或採網段隔離機制並限制同網段主\n機間連線及資源存取)，且應儘速完成補強措施或汰換，以防範已\n知資安漏洞。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 136,
+          "end": 142
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 38
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第九條 人工派版",
+      "normalized_content": "第九條 人工派版",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.9.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 採用 USB、CD-ROM 人工派版者，須由指定人員使用經銀行確認\n之 ATM 應用程式進行換版。",
+          "normalized_content": "一、 採用 USB、CD-ROM 人工派版者，須由指定人員使用經銀行確認\n之 ATM 應用程式進行換版。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 148,
+              "end": 149
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 36
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.9.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 應定期對指定人員(如保全)進行查核。",
+          "normalized_content": "二、 應定期對指定人員(如保全)進行查核。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 152,
+              "end": 152
+            },
+            "line_char_range": {
+              "min": 21,
+              "max": 21
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 145,
+          "end": 145
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    },
+    {
+      "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.10",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第十條 資安防護與演練",
+      "normalized_content": "第十條 資安防護與演練",
+      "children": [
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.10.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 ATM 之相關伺服器、伺服器之工作站應安裝防毒軟體，並確認正\n確來源之病毒碼後即時更新；派版伺服器應先更新病毒碼後再\n進行作業。",
+          "normalized_content": "一、 ATM 之相關伺服器、伺服器之工作站應安裝防毒軟體，並確認正\n確來源之病毒碼後即時更新；派版伺服器應先更新病毒碼後再\n進行作業。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 158,
+              "end": 160
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 33
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.10.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 應每半年針對 ATM 相關之伺服器進行弱點掃描。",
+          "normalized_content": "二、 應每半年針對 ATM 相關之伺服器進行弱點掃描。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 163,
+              "end": 163
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 27
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        },
+        {
+          "id": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.10.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應建立監控與事故應變機制並每年進行程序演練。\n附件：不必要之作業系統服務及應用程式\n下表僅提供參考，如有必要使用應導入必要管控機制。",
+          "normalized_content": "三、 應建立監控與事故應變機制並每年進行程序演練。\n附件：不必要之作業系統服務及應用程式\n下表僅提供參考，如有必要使用應導入必要管控機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 4
+            },
+            "line_range": {
+              "start": 166,
+              "end": 169
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 25
+            }
+          },
+          "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+          "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 4
+        },
+        "line_range": {
+          "start": 155,
+          "end": 155
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 11
+        }
+      },
+      "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+      "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 4
+    },
+    "line_range": {
+      "start": 1,
+      "end": 9
+    },
+    "line_char_range": {
+      "min": 19,
+      "max": 34
+    }
+  },
+  "file_name": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709.md",
+  "file_stem": "附件一_金融機構提供自動櫃員機系統安全作業規範1140709"
+}

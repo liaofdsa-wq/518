@@ -1,0 +1,3182 @@
+{
+  "id": "發函附件：資通系統安全防護基準自律規範111.12.23",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 發函附件：資通系統安全防護基準自律規範111.12.23\n中華民國證券商業同業公會資通系統安全防護基準自律規範\n金融監督管理委員會111年12月22日金管證券字第1110365208號函准予備查\n中華民國證券商業同業公會111年12月23日中證商業一字第1110008167號函公告實施",
+  "normalized_content": "# 發函附件：資通系統安全防護基準自律規範111.12.23\n中華民國證券商業同業公會資通系統安全防護基準自律規範\n金融監督管理委員會111年12月22日金管證券字第1110365208號函准予備查\n中華民國證券商業同業公會111年12月23日中證商業一字第1110008167號函公告實施",
+  "children": [
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 目的\n為使證券商強化資通系統安全防護，特訂定本自律規範。",
+      "normalized_content": "第一條 目的\n為使證券商強化資通系統安全防護，特訂定本自律規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 7,
+          "end": 8
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 25
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 名詞定義",
+      "normalized_content": "第二條 名詞定義",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 資通系統：係指用以蒐集、控制、傳輸、儲存、流通、刪除資訊\n或對資訊為其他處理、使用或分享之系統。",
+          "normalized_content": "一、 資通系統：係指用以蒐集、控制、傳輸、儲存、流通、刪除資訊\n或對資訊為其他處理、使用或分享之系統。",
+          "children": [
+            {
+              "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1",
+              "node_kind": "table",
+              "table_sequence": "1",
+              "cell_row": null,
+              "cell_col": null,
+              "is_table_header": null,
+              "header_row_count": 1,
+              "original_content": "[TABLE id=發函附件：資通系統安全防護基準自律規範111.12.23_table_1]\n| [@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， | [@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， | [@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， |\n| --- | --- | --- |\n| [@2] 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 | [@2] 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 |  |\n| [@3] 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同 | [@3] 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同 |  |\n| [@4] 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得 | [@4] 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得 |  |\n| 排除國際傳輸之規定。 |  |  |\n[/TABLE id=發函附件：資通系統安全防護基準自律規範111.12.23_table_1]",
+              "normalized_content": "[TABLE id=發函附件：資通系統安全防護基準自律規範111.12.23_table_1]\n| [@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， | [@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， | [@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， |\n| --- | --- | --- |\n| [@2] 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 | [@2] 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 |  |\n| [@3] 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同 | [@3] 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同 |  |\n| [@4] 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得 | [@4] 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得 |  |\n| 排除國際傳輸之規定。 |  |  |\n[/TABLE id=發函附件：資通系統安全防護基準自律規範111.12.23_table_1]",
+              "children": [
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r1.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 1,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": "1",
+                  "merge_text": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "merge_col_start": 1,
+                  "merge_col_end": 3,
+                  "merge_col_span": 3,
+                  "merge_row_start": 1,
+                  "merge_row_end": 1,
+                  "merge_row_span": 1,
+                  "original_content": "[@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 309,
+                      "end": 309
+                    },
+                    "line_char_range": {
+                      "min": 34,
+                      "max": 34
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r1.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 2,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": "1",
+                  "merge_text": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "merge_col_start": 1,
+                  "merge_col_end": 3,
+                  "merge_col_span": 3,
+                  "merge_row_start": 1,
+                  "merge_row_end": 1,
+                  "merge_row_span": 1,
+                  "original_content": "[@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 309,
+                      "end": 309
+                    },
+                    "line_char_range": {
+                      "min": 34,
+                      "max": 34
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r1.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 1,
+                  "cell_col": 3,
+                  "is_table_header": true,
+                  "header_row_count": 1,
+                  "merge_tag": "1",
+                  "merge_text": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "merge_col_start": 1,
+                  "merge_col_end": 3,
+                  "merge_col_span": 3,
+                  "merge_row_start": 1,
+                  "merge_row_end": 1,
+                  "merge_row_span": 1,
+                  "original_content": "[@1] 如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制，",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 309,
+                      "end": 309
+                    },
+                    "line_char_range": {
+                      "min": 34,
+                      "max": 34
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r2.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "2",
+                  "merge_text": "當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機",
+                  "merge_col_start": 1,
+                  "merge_col_end": 2,
+                  "merge_col_span": 2,
+                  "merge_row_start": 2,
+                  "merge_row_end": 2,
+                  "merge_row_span": 1,
+                  "original_content": "[@2] 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 311,
+                      "end": 311
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r2.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "2",
+                  "merge_text": "當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機",
+                  "merge_col_start": 1,
+                  "merge_col_end": 2,
+                  "merge_col_span": 2,
+                  "merge_row_start": 2,
+                  "merge_row_end": 2,
+                  "merge_row_span": 1,
+                  "original_content": "[@2] 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 311,
+                      "end": 311
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r2.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 2,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 311,
+                      "end": 311
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r3.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "3",
+                  "merge_text": "關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同",
+                  "merge_col_start": 1,
+                  "merge_col_end": 2,
+                  "merge_col_span": 2,
+                  "merge_row_start": 3,
+                  "merge_row_end": 3,
+                  "merge_row_span": 1,
+                  "original_content": "[@3] 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 312,
+                      "end": 312
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r3.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "3",
+                  "merge_text": "關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同",
+                  "merge_col_start": 1,
+                  "merge_col_end": 2,
+                  "merge_col_span": 2,
+                  "merge_row_start": 3,
+                  "merge_row_end": 3,
+                  "merge_row_span": 1,
+                  "original_content": "[@3] 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 312,
+                      "end": 312
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r3.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 3,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 312,
+                      "end": 312
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r4.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "4",
+                  "merge_text": "集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得",
+                  "merge_col_start": 1,
+                  "merge_col_end": 2,
+                  "merge_col_span": 2,
+                  "merge_row_start": 4,
+                  "merge_row_end": 4,
+                  "merge_row_span": 1,
+                  "original_content": "[@4] 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 313,
+                      "end": 313
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r4.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": "4",
+                  "merge_text": "集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得",
+                  "merge_col_start": 1,
+                  "merge_col_end": 2,
+                  "merge_col_span": 2,
+                  "merge_row_start": 4,
+                  "merge_row_end": 4,
+                  "merge_row_span": 1,
+                  "original_content": "[@4] 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得",
+                  "normalized_content": "如有國際傳輸客戶個人機敏資料時，證券商應建立加密傳輸機制， 當涉及客戶資訊，傳輸前應告知取得當事人授權且不違反主管機 關對國際傳輸之限制，並留存完整稽核紀錄。外國證券商如為同 集團內之傳輸，其間傳輸方式已符合所在國當地的法令規定，得",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 313,
+                      "end": 313
+                    },
+                    "line_char_range": {
+                      "min": 33,
+                      "max": 33
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r4.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 4,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 313,
+                      "end": 313
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r5.c1",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 5,
+                  "cell_col": 1,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "排除國際傳輸之規定。",
+                  "normalized_content": "排除國際傳輸之規定。",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 314,
+                      "end": 314
+                    },
+                    "line_char_range": {
+                      "min": 10,
+                      "max": 10
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r5.c2",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 5,
+                  "cell_col": 2,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 314,
+                      "end": 314
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                },
+                {
+                  "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.1.表格_1.r5.c3",
+                  "node_kind": "table_cell",
+                  "table_sequence": "1",
+                  "cell_row": 5,
+                  "cell_col": 3,
+                  "is_table_header": false,
+                  "header_row_count": 1,
+                  "merge_tag": null,
+                  "merge_text": null,
+                  "merge_col_start": null,
+                  "merge_col_end": null,
+                  "merge_col_span": null,
+                  "merge_row_start": null,
+                  "merge_row_end": null,
+                  "merge_row_span": null,
+                  "original_content": "",
+                  "normalized_content": "",
+                  "children": [],
+                  "metadata": {
+                    "page_range": {
+                      "start": 6,
+                      "end": 6
+                    },
+                    "line_range": {
+                      "start": 314,
+                      "end": 314
+                    },
+                    "line_char_range": {
+                      "min": 0,
+                      "max": 0
+                    }
+                  },
+                  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+                  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+                }
+              ],
+              "metadata": {
+                "page_range": {
+                  "start": 6,
+                  "end": 6
+                },
+                "line_range": {
+                  "start": 308,
+                  "end": 315
+                },
+                "line_char_range": {
+                  "min": 19,
+                  "max": 112
+                }
+              },
+              "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+              "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 14,
+              "end": 15
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 核心系統：係指直接提供客戶交易或支持交易業務持續運作之必\n要系統(如交易系統、報價系統、中台風控、盤後結算系統、帳\n務系統等維持交易業務之必要系統)，其餘皆為非核心系統。",
+          "normalized_content": "二、 核心系統：係指直接提供客戶交易或支持交易業務持續運作之必\n要系統(如交易系統、報價系統、中台風控、盤後結算系統、帳\n務系統等維持交易業務之必要系統)，其餘皆為非核心系統。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 18,
+              "end": 20
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 非客戶帳號：係指非客戶所使用之資通系統帳號(如：提供內部\n人員、管理者及廠商等所使用之資通系統帳號)。",
+          "normalized_content": "三、 非客戶帳號：係指非客戶所使用之資通系統帳號(如：提供內部\n人員、管理者及廠商等所使用之資通系統帳號)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 23,
+              "end": 24
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 資訊資產：係指與資訊處理相關之資產，包括硬體、軟體、資料\n及文件等。",
+          "normalized_content": "四、 資訊資產：係指與資訊處理相關之資產，包括硬體、軟體、資料\n及文件等。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 27,
+              "end": 28
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 第一類證券商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之證券商\n或「建立證券商資通安全檢查機制-分級防護應辦事項附表」所\n列第一級、第二級、第三級證券商。",
+          "normalized_content": "五、 第一類證券商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之證券商\n或「建立證券商資通安全檢查機制-分級防護應辦事項附表」所\n列第一級、第二級、第三級證券商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 31,
+              "end": 34
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 第二類證券商：係指非屬第一類證券商之證券商。",
+          "normalized_content": "六、 第二類證券商：係指非屬第一類證券商之證券商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 37,
+              "end": 37
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 25
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.2.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 外國證券商：係指外資集團在台子公司或分公司。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "七、 外國證券商：係指外資集團在台子公司或分公司。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 40,
+              "end": 41
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 11,
+          "end": 11
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 資通系統存取控制",
+      "normalized_content": "第三條 資通系統存取控制",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應建立資通系統帳號管理機制，包含帳號之申請、建立、修改、\n啟用、停用及刪除之程序。",
+          "normalized_content": "一、 應建立資通系統帳號管理機制，包含帳號之申請、建立、修改、\n啟用、停用及刪除之程序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 47,
+              "end": 48
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 如有核准臨時或緊急使用之資通系統帳號，於作業結束後，應即\n時刪除或禁用該等資通系統帳號。",
+          "normalized_content": "二、 如有核准臨時或緊急使用之資通系統帳號，於作業結束後，應即\n時刪除或禁用該等資通系統帳號。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 51,
+              "end": 52
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應定期(至少每半年一次)審查資通系統帳號及權限之適切性，並\n視審查結果停用資通系統閒置帳號。",
+          "normalized_content": "三、 應定期(至少每半年一次)審查資通系統帳號及權限之適切性，並\n視審查結果停用資通系統閒置帳號。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 55,
+              "end": 56
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 32
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 第一類證券商應定義核心系統之閒置時間或可使用期限與核心\n系統之使用情況及條件(如：帳號類型與功能限制、操作時段限\n制、來源位址限制、連線數量及可存取資源等)。",
+          "normalized_content": "四、 第一類證券商應定義核心系統之閒置時間或可使用期限與核心\n系統之使用情況及條件(如：帳號類型與功能限制、操作時段限\n制、來源位址限制、連線數量及可存取資源等)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 60,
+              "end": 62
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 第一類證券商應依公司規定之情況及條件使用核心系統，逾越所\n定之許可閒置時間或可使用期限時，系統宜自動將使用者帳號登\n出。",
+          "normalized_content": "五、 第一類證券商應依公司規定之情況及條件使用核心系統，逾越所\n定之許可閒置時間或可使用期限時，系統宜自動將使用者帳號登\n出。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 65,
+              "end": 67
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 提供網際網路下單服務之證券商，應每日針對核心系統帳號、非\n客戶帳號登入嘗試紀錄等進行監控及分析，如發現帳號違常使用\n時回報管理者並進行後續處理。",
+          "normalized_content": "六、 提供網際網路下單服務之證券商，應每日針對核心系統帳號、非\n客戶帳號登入嘗試紀錄等進行監控及分析，如發現帳號違常使用\n時回報管理者並進行後續處理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 70,
+              "end": 72
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 不得使用客戶之顯性資料(如統一編號、身分證號、手機號碼、\n電子郵件帳號、信用卡號、存款帳號等)作為唯一之識別，否則\n應另行增設使用者代號以資識別。",
+          "normalized_content": "七、 不得使用客戶之顯性資料(如統一編號、身分證號、手機號碼、\n電子郵件帳號、信用卡號、存款帳號等)作為唯一之識別，否則\n應另行增設使用者代號以資識別。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 75,
+              "end": 77
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 資通系統帳號應定義人員角色及責任，授權應採最小權限原則，\n僅允許使用者(或代表使用者行為之程序)依公司部門權責及業\n務功能，完成作業所需之授權存取。",
+          "normalized_content": "八、 資通系統帳號應定義人員角色及責任，授權應採最小權限原則，\n僅允許使用者(或代表使用者行為之程序)依公司部門權責及業\n務功能，完成作業所需之授權存取。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 80,
+              "end": 82
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 應訂定遠端連線管理辦法，建立使用限制、組態需求、連線需求\n及文件化，對於任一允許之遠端存取類型，均應先取得授權，並\n留存相關紀錄。外國證券商如有標準較佳之規範則從其規範；若\n無，則應遵守本國的規範。",
+          "normalized_content": "九、 應訂定遠端連線管理辦法，建立使用限制、組態需求、連線需求\n及文件化，對於任一允許之遠端存取類型，均應先取得授權，並\n留存相關紀錄。外國證券商如有標準較佳之規範則從其規範；若\n無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 85,
+              "end": 88
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 應於伺服器端完成資通系統帳號權限登入驗證作業。外國證券商\n如有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "十、 應於伺服器端完成資通系統帳號權限登入驗證作業。外國證券商\n如有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 91,
+              "end": 92
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十一、 組織應監控使用外部網路遠端連線存取組織內部網段之連線。\n外國證券商如有標準較佳之規範則從其規範；若無，則應遵守\n本國的規範。",
+          "normalized_content": "十一、 組織應監控使用外部網路遠端連線存取組織內部網段之連線。\n外國證券商如有標準較佳之規範則從其規範；若無，則應遵守\n本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 95,
+              "end": 97
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.12",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十二、 資通系統之遠端存取應採用連線加密機制。外國證券商如有標\n準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "十二、 資通系統之遠端存取應採用連線加密機制。外國證券商如有標\n準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 100,
+              "end": 101
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.3.13",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十三、 資通系統遠端存取之來源應為公司已核准之存取控制點。外國\n證券商如有標準較佳之規範則從其規範；若無，則應遵守本國\n的規範。",
+          "normalized_content": "十三、 資通系統遠端存取之來源應為公司已核准之存取控制點。外國\n證券商如有標準較佳之規範則從其規範；若無，則應遵守本國\n的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 104,
+              "end": 106
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 44,
+          "end": 44
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 電腦稽核紀錄(日誌)與可歸責性",
+      "normalized_content": "第四條 電腦稽核紀錄(日誌)與可歸責性",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應訂定核心系統電腦稽核紀錄(日誌)之記錄時間週期及保存政\n策，並至少保存三年。",
+          "normalized_content": "一、 應訂定核心系統電腦稽核紀錄(日誌)之記錄時間週期及保存政\n策，並至少保存三年。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 3
+            },
+            "line_range": {
+              "start": 112,
+              "end": 114
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 核心系統電腦稽核紀錄(日誌)應確有記錄特定事件之功能，並決\n定應記錄之特定資通系統事件。",
+          "normalized_content": "二、 核心系統電腦稽核紀錄(日誌)應確有記錄特定事件之功能，並決\n定應記錄之特定資通系統事件。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 117,
+              "end": 118
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 32
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 核心系統電腦稽核紀錄(日誌)應記錄管理者帳號所執行之各項\n功能，並逐日覆核使用結果。",
+          "normalized_content": "三、 核心系統電腦稽核紀錄(日誌)應記錄管理者帳號所執行之各項\n功能，並逐日覆核使用結果。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 121,
+              "end": 122
+            },
+            "line_char_range": {
+              "min": 13,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 應定期審查核心系統產生之電腦稽核紀錄(日誌)。",
+          "normalized_content": "四、 應定期審查核心系統產生之電腦稽核紀錄(日誌)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 125,
+              "end": 125
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 核心系統之電腦稽核紀錄(日誌)應包含事件類型、發生時間、發\n生位置及任何與事件相關之使用者身分識別等資訊，並應依組織\n所訂之資通安全政策及相關法令要求及組織業務需求納入其他\n相關資訊。",
+          "normalized_content": "五、 核心系統之電腦稽核紀錄(日誌)應包含事件類型、發生時間、發\n生位置及任何與事件相關之使用者身分識別等資訊，並應依組織\n所訂之資通安全政策及相關法令要求及組織業務需求納入其他\n相關資訊。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 128,
+              "end": 131
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 32
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 核心系統應依據電腦稽核紀錄(日誌)儲存需求，配置所需之儲存\n容量。",
+          "normalized_content": "六、 核心系統應依據電腦稽核紀錄(日誌)儲存需求，配置所需之儲存\n容量。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 134,
+              "end": 135
+            },
+            "line_char_range": {
+              "min": 3,
+              "max": 32
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 於核心系統電腦稽核紀錄(日誌)應建立監控機制，處理失效時，\n應採取適當之行動。",
+          "normalized_content": "七、 於核心系統電腦稽核紀錄(日誌)應建立監控機制，處理失效時，\n應採取適當之行動。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 138,
+              "end": 139
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 32
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 資通系統應使用系統內部時鐘產生電腦稽核紀錄(日誌)所需時\n戳，並可以對應到世界協調時間(UTC)或格林威治標準時間(GMT)。",
+          "normalized_content": "八、 資通系統應使用系統內部時鐘產生電腦稽核紀錄(日誌)所需時\n戳，並可以對應到世界協調時間(UTC)或格林威治標準時間(GMT)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 142,
+              "end": 143
+            },
+            "line_char_range": {
+              "min": 31,
+              "max": 34
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 資通系統內部時鐘應定期與基準時間源進行同步。",
+          "normalized_content": "九、 資通系統內部時鐘應定期與基準時間源進行同步。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 146,
+              "end": 146
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 25
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 對電腦稽核紀錄(日誌)之存取管理，僅限於有權限之使用者。",
+          "normalized_content": "十、 對電腦稽核紀錄(日誌)之存取管理，僅限於有權限之使用者。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 149,
+              "end": 149
+            },
+            "line_char_range": {
+              "min": 31,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.4.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十一、 核心系統應運用適當方式確保電腦稽核紀錄(日誌)機制之完\n整性。",
+          "normalized_content": "十一、 核心系統應運用適當方式確保電腦稽核紀錄(日誌)機制之完\n整性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 152,
+              "end": 153
+            },
+            "line_char_range": {
+              "min": 3,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 109,
+          "end": 109
+        },
+        "line_char_range": {
+          "min": 19,
+          "max": 19
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 營運持續管理",
+      "normalized_content": "第五條 營運持續管理",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應訂定核心系統可容忍資料損失之時間要求。",
+          "normalized_content": "一、 應訂定核心系統可容忍資料損失之時間要求。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 159,
+              "end": 159
+            },
+            "line_char_range": {
+              "min": 23,
+              "max": 23
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 證券商應執行核心系統程式原始碼與資料備份。",
+          "normalized_content": "二、 證券商應執行核心系統程式原始碼與資料備份。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 162,
+              "end": 162
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應定期測試核心系統備份資訊，以驗證備份媒體之可靠性及資訊\n之完整性。",
+          "normalized_content": "三、 應定期測試核心系統備份資訊，以驗證備份媒體之可靠性及資訊\n之完整性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 165,
+              "end": 166
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 第一類證券商應將核心系統之備份還原，作為營運持續計畫測試\n之一部分。",
+          "normalized_content": "四、 第一類證券商應將核心系統之備份還原，作為營運持續計畫測試\n之一部分。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 169,
+              "end": 170
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 第一類證券商核心系統之軟體及備份檔案，應儲存在與運作系統\n不同地點之獨立設施或防火櫃中。",
+          "normalized_content": "五、 第一類證券商核心系統之軟體及備份檔案，應儲存在與運作系統\n不同地點之獨立設施或防火櫃中。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 4
+            },
+            "line_range": {
+              "start": 173,
+              "end": 174
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 應訂定核心系統從中斷後至重新恢復服務之可容忍時間要求。",
+          "normalized_content": "六、 應訂定核心系統從中斷後至重新恢復服務之可容忍時間要求。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 178,
+              "end": 178
+            },
+            "line_char_range": {
+              "min": 30,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 核心系統原服務中斷時，應於可容忍時間內，由備援設備或其他\n方式取代並提供服務。",
+          "normalized_content": "七、 核心系統原服務中斷時，應於可容忍時間內，由備援設備或其他\n方式取代並提供服務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 181,
+              "end": 182
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.5.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 應建立對於重大資訊系統事件或天然災害之應變程序，並確認相\n對應之資源，以確保重大災害對於重要營運業務之影響在其合理\n範圍內。",
+          "normalized_content": "八、 應建立對於重大資訊系統事件或天然災害之應變程序，並確認相\n對應之資源，以確保重大災害對於重要營運業務之影響在其合理\n範圍內。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 185,
+              "end": 187
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 156,
+          "end": 156
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 身分驗證管理",
+      "normalized_content": "第六條 身分驗證管理",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 資通系統應具備唯一識別及鑑別公司內部、外部使用者(或代表\n公司使用者行為之程序)之功能，禁止使用共用帳號。",
+          "normalized_content": "一、 資通系統應具備唯一識別及鑑別公司內部、外部使用者(或代表\n公司使用者行為之程序)之功能，禁止使用共用帳號。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 193,
+              "end": 194
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 透過網際網路使用帳號登入系統時，應採用多因子認證機制。",
+          "normalized_content": "二、 透過網際網路使用帳號登入系統時，應採用多因子認證機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 197,
+              "end": 197
+            },
+            "line_char_range": {
+              "min": 30,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 使用者使用預設密碼登入資通系統時，應於登入後要求立即變更\n預設密碼後方可繼續作業。",
+          "normalized_content": "三、 使用者使用預設密碼登入資通系統時，應於登入後要求立即變更\n預設密碼後方可繼續作業。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 200,
+              "end": 201
+            },
+            "line_char_range": {
+              "min": 12,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 資通系統不以明文傳輸身分驗證相關資訊。",
+          "normalized_content": "四、 資通系統不以明文傳輸身分驗證相關資訊。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 204,
+              "end": 204
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 22
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 資通系統具備帳戶鎖定機制，帳號登入進行身分驗證失敗達三次\n後，至少十五分鐘內不允許該帳號繼續嘗試登入。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "五、 資通系統具備帳戶鎖定機制，帳號登入進行身分驗證失敗達三次\n後，至少十五分鐘內不允許該帳號繼續嘗試登入。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 207,
+              "end": 209
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 屬電子式交易資通系統，使用者密碼輸入錯誤次數達三次者，應\n記錄登入失敗事件、鎖定該登入帳號並中斷連線；受理解除鎖定\n之申請時，應確實辨認身分，並留存相關紀錄後，始得解除鎖定。",
+          "normalized_content": "六、 屬電子式交易資通系統，使用者密碼輸入錯誤次數達三次者，應\n記錄登入失敗事件、鎖定該登入帳號並中斷連線；受理解除鎖定\n之申請時，應確實辨認身分，並留存相關紀錄後，始得解除鎖定。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 212,
+              "end": 214
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 資通系統如使用密碼進行驗證時，應採用優質密碼設定，設定密\n碼最長使用期限為三個月，檢核密碼最短使用期限及密碼歷程記\n錄為三代，如為客戶帳號者，除優質密碼設定外，其餘密碼設定\n可依公司自行規範辦理。外國證券商如有標準較佳之規範則從其\n規範；若無，則應遵守本國的規範。",
+          "normalized_content": "七、 資通系統如使用密碼進行驗證時，應採用優質密碼設定，設定密\n碼最長使用期限為三個月，檢核密碼最短使用期限及密碼歷程記\n錄為三代，如為客戶帳號者，除優質密碼設定外，其餘密碼設定\n可依公司自行規範辦理。外國證券商如有標準較佳之規範則從其\n規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 217,
+              "end": 221
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 核心系統身分驗證機制應防範自動化程式之登入或密碼更換嘗\n試，非核心系統宜防範自動化程式之登入或密碼更換嘗試。",
+          "normalized_content": "八、 核心系統身分驗證機制應防範自動化程式之登入或密碼更換嘗\n試，非核心系統宜防範自動化程式之登入或密碼更換嘗試。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 224,
+              "end": 225
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 提供對外服務之核心系統密碼重設機制對使用者重新身分確認\n後，發送一次性及具有時效性符記(如：網站連結或一次性密碼\nOne-time password(OTP)至使用者登記之電子信箱或手機)或其\n他驗證身分方式，非核心系統密碼重設後宜有驗證身分方式。",
+          "normalized_content": "九、 提供對外服務之核心系統密碼重設機制對使用者重新身分確認\n後，發送一次性及具有時效性符記(如：網站連結或一次性密碼\nOne-time password(OTP)至使用者登記之電子信箱或手機)或其\n他驗證身分方式，非核心系統密碼重設後宜有驗證身分方式。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 5
+            },
+            "line_range": {
+              "start": 228,
+              "end": 231
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 39
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 應遮蔽資通系統鑑別過程中之資訊。",
+          "normalized_content": "十、 應遮蔽資通系統鑑別過程中之資訊。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 235,
+              "end": 235
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 19
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.6.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十一、 資通系統如以密碼進行資通系統鑑別時，該密碼應加密或經雜\n湊處理後儲存。",
+          "normalized_content": "十一、 資通系統如以密碼進行資通系統鑑別時，該密碼應加密或經雜\n湊處理後儲存。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 238,
+              "end": 239
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 4,
+          "end": 4
+        },
+        "line_range": {
+          "start": 190,
+          "end": 190
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第七條 系統與服務獲得",
+      "normalized_content": "第七條 系統與服務獲得",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 資通系統於系統需求分析階段，應針對資通系統安全需求(含機\n密性、可用性、完整性)進行確認。",
+          "normalized_content": "一、 資通系統於系統需求分析階段，應針對資通系統安全需求(含機\n密性、可用性、完整性)進行確認。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 245,
+              "end": 246
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 應根據核心系統功能與要求，識別可能影響系統之威脅，進行風\n險分析及評估。",
+          "normalized_content": "二、 應根據核心系統功能與要求，識別可能影響系統之威脅，進行風\n險分析及評估。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 249,
+              "end": 250
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應將核心系統風險評估結果回饋需求階段之檢核項目，並提出安\n全需求修正。",
+          "normalized_content": "三、 應將核心系統風險評估結果回饋需求階段之檢核項目，並提出安\n全需求修正。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 253,
+              "end": 254
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 資通系統應針對安全需求實作必要控制措施。",
+          "normalized_content": "四、 資通系統應針對安全需求實作必要控制措施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 257,
+              "end": 257
+            },
+            "line_char_range": {
+              "min": 23,
+              "max": 23
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 資通系統應注意避免軟體常見漏洞及實作必要控制措施。",
+          "normalized_content": "五、 資通系統應注意避免軟體常見漏洞及實作必要控制措施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 260,
+              "end": 260
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 28
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 核心系統應針對風險評估用者頁面僅顯示簡短錯誤訊息及代碼，\n不包含詳細之錯誤訊息。",
+          "normalized_content": "六、 核心系統應針對風險評估用者頁面僅顯示簡短錯誤訊息及代碼，\n不包含詳細之錯誤訊息。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 263,
+              "end": 264
+            },
+            "line_char_range": {
+              "min": 11,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 提供網際網路下單服務之證券商核心系統上架前及系統更新時\n應執行「源碼掃描」安全檢測。",
+          "normalized_content": "七、 提供網際網路下單服務之證券商核心系統上架前及系統更新時\n應執行「源碼掃描」安全檢測。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 267,
+              "end": 268
+            },
+            "line_char_range": {
+              "min": 14,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 提供網際網路下單服務之證券商應定期（至少每半年乙次）辦理\n資通系統「弱點掃描」安全檢測。",
+          "normalized_content": "八、 提供網際網路下單服務之證券商應定期（至少每半年乙次）辦理\n資通系統「弱點掃描」安全檢測。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 271,
+              "end": 272
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 提供網際網路下單服務之證券商，應定期對提供網際網路服務之\n核心系統辦理「滲透測試」安全檢測。",
+          "normalized_content": "九、 提供網際網路下單服務之證券商，應定期對提供網際網路服務之\n核心系統辦理「滲透測試」安全檢測。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 275,
+              "end": 276
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 於部署環境中應針對資通系統相關安全威脅與漏洞，進行更新與\n修補，並關閉不必要服務及埠口。",
+          "normalized_content": "十、 於部署環境中應針對資通系統相關安全威脅與漏洞，進行更新與\n修補，並關閉不必要服務及埠口。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 279,
+              "end": 280
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十一、 應檢視現有之核心系統，應設定使用優質密碼設定，且應避免\n使用預設密碼。",
+          "normalized_content": "十一、 應檢視現有之核心系統，應設定使用優質密碼設定，且應避免\n使用預設密碼。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 283,
+              "end": 284
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.12",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十二、 資通系統發展生命週期之維運階段，應執行版本控制與變更管\n理。",
+          "normalized_content": "十二、 資通系統發展生命週期之維運階段，應執行版本控制與變更管\n理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 287,
+              "end": 288
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.13",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十三、 證券商如委外辦理核心系統開發應將系統發展生命週期各階\n段安全需求(含機密性、可用性、完整性)納入委外契約。",
+          "normalized_content": "十三、 證券商如委外辦理核心系統開發應將系統發展生命週期各階\n段安全需求(含機密性、可用性、完整性)納入委外契約。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 291,
+              "end": 292
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.14",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十四、 資通系統正式作業環境應與開發、測試作業環境區隔。",
+          "normalized_content": "十四、 資通系統正式作業環境應與開發、測試作業環境區隔。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 6
+            },
+            "line_range": {
+              "start": 295,
+              "end": 295
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 28
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.7.15",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十五、 應儲存與管理資通系統發展生命週期之相關文件。",
+          "normalized_content": "十五、 應儲存與管理資通系統發展生命週期之相關文件。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 299,
+              "end": 299
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 242,
+          "end": 242
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 11
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第八條 系統與通訊保護",
+      "normalized_content": "第八條 系統與通訊保護",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 核心系統透過網際網路及內部網路傳輸個人或機敏資料應採用\n加密傳輸機制，以防止未授權之資訊揭露或偵測資訊之變更(傳\n輸過程中如有替代之實體保護措施者，則無需採加密傳輸機制)。",
+          "normalized_content": "一、 核心系統透過網際網路及內部網路傳輸個人或機敏資料應採用\n加密傳輸機制，以防止未授權之資訊揭露或偵測資訊之變更(傳\n輸過程中如有替代之實體保護措施者，則無需採加密傳輸機制)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 305,
+              "end": 307
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 ，",
+          "normalized_content": "二、 ，",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 318,
+              "end": 318
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 4
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 加密機制應使用公開、國際機構驗證且未遭破解之演算法。",
+          "normalized_content": "三、 加密機制應使用公開、國際機構驗證且未遭破解之演算法。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 321,
+              "end": 321
+            },
+            "line_char_range": {
+              "min": 29,
+              "max": 29
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 加密機制之金鑰或憑證應定期更換。",
+          "normalized_content": "四、 加密機制之金鑰或憑證應定期更換。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 324,
+              "end": 324
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 19
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 加密機制宜支援演算法最大長度金鑰。",
+          "normalized_content": "五、 加密機制宜支援演算法最大長度金鑰。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 327,
+              "end": 327
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 20
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 加密機制於伺服器端之金鑰保管宜訂定管理規範及實施應有之\n安全防護措施。",
+          "normalized_content": "六、 加密機制於伺服器端之金鑰保管宜訂定管理規範及實施應有之\n安全防護措施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 330,
+              "end": 331
+            },
+            "line_char_range": {
+              "min": 7,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 第一類證券商核心系統重要組態設定檔案及其他具保護需求之\n資訊應加密或以其他適當方式儲存。",
+          "normalized_content": "七、 第一類證券商核心系統重要組態設定檔案及其他具保護需求之\n資訊應加密或以其他適當方式儲存。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 334,
+              "end": 335
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.8.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 加解密程式或具變更權限之公用程式(如資料庫工具程式)應列\n管並限制使用，防止未經授權存取並保留稽核軌跡。",
+          "normalized_content": "八、 加解密程式或具變更權限之公用程式(如資料庫工具程式)應列\n管並限制使用，防止未經授權存取並保留稽核軌跡。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 338,
+              "end": 339
+            },
+            "line_char_range": {
+              "min": 23,
+              "max": 31
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 6,
+          "end": 6
+        },
+        "line_range": {
+          "start": 302,
+          "end": 302
+        },
+        "line_char_range": {
+          "min": 11,
+          "max": 11
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第九條 系統與資訊完整性",
+      "normalized_content": "第九條 系統與資訊完整性",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.9.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 資通系統之漏洞修復針對不同風險研訂適當修補措施及完成時\n間。",
+          "normalized_content": "一、 資通系統之漏洞修復針對不同風險研訂適當修補措施及完成時\n間。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 345,
+              "end": 346
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.9.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 如發現資通系統有被入侵跡象時，應通報公司權責人員進行處\n理。",
+          "normalized_content": "二、 如發現資通系統有被入侵跡象時，應通報公司權責人員進行處\n理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 349,
+              "end": 350
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.9.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應監控核心系統，以偵測攻擊與未授權之連線，並識別資通系\n統之未授權使用。",
+          "normalized_content": "三、 應監控核心系統，以偵測攻擊與未授權之連線，並識別資通系\n統之未授權使用。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 6
+            },
+            "line_range": {
+              "start": 353,
+              "end": 354
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.9.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 核心系統宜採用自動化工具監控進出之通信流量，並於發現不\n尋常或未授權之活動時，針對該事件進行分析。",
+          "normalized_content": "四、 核心系統宜採用自動化工具監控進出之通信流量，並於發現不\n尋常或未授權之活動時，針對該事件進行分析。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 6,
+              "end": 7
+            },
+            "line_range": {
+              "start": 357,
+              "end": 358
+            },
+            "line_char_range": {
+              "min": 21,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 6,
+          "end": 6
+        },
+        "line_range": {
+          "start": 342,
+          "end": 342
+        },
+        "line_char_range": {
+          "min": 12,
+          "max": 12
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第十條 個人資料保護",
+      "normalized_content": "第十條 個人資料保護",
+      "children": [
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 為維護所保有個人資料資通系統之安全，應採取下列資料安全\n管理措施：",
+          "normalized_content": "一、 為維護所保有個人資料資通系統之安全，應採取下列資料安全\n管理措施：",
+          "children": [
+            {
+              "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)訂定各類設備或儲存媒體之使用規範，及報廢或轉作他用時，\n應採取防範資料洩漏之適當措施。",
+              "normalized_content": "(一)訂定各類設備或儲存媒體之使用規範，及報廢或轉作他用時，\n應採取防範資料洩漏之適當措施。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 369,
+                  "end": 370
+                },
+                "line_char_range": {
+                  "min": 15,
+                  "max": 30
+                }
+              },
+              "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+              "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)針對所保有之個人資料內容，有加密之需要者，於蒐集、處\n理或利用時，採取適當之加密措施。",
+              "normalized_content": "(二)針對所保有之個人資料內容，有加密之需要者，於蒐集、處\n理或利用時，採取適當之加密措施。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 373,
+                  "end": 374
+                },
+                "line_char_range": {
+                  "min": 16,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+              "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三)作業過程有備份個人資料之需要時，對備份資料予以適當保\n護。",
+              "normalized_content": "(三)作業過程有備份個人資料之需要時，對備份資料予以適當保\n護。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 377,
+                  "end": 378
+                },
+                "line_char_range": {
+                  "min": 2,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+              "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 365,
+              "end": 366
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 為維護保有個人資料資通系統安全，應依執行業務之必要，設\n定相關人員接觸個人資料之權限及控管其接觸情形，並與所屬\n人員約定保密義務。",
+          "normalized_content": "二、 為維護保有個人資料資通系統安全，應依執行業務之必要，設\n定相關人員接觸個人資料之權限及控管其接觸情形，並與所屬\n人員約定保密義務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 381,
+              "end": 383
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 應針對資通系統所保有之個人資料進行風險評估及控管。",
+          "normalized_content": "三、 應針對資通系統所保有之個人資料進行風險評估及控管。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 386,
+              "end": 386
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 28
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 保有個人資料之資通系統應建置留存個人資料使用稽核軌跡\n（如登入帳號、系統功能、時間、系統名稱、查詢指令或結果）\n或辨識機制，以利個人資料外洩時得以追蹤個人資料使用狀況。",
+          "normalized_content": "四、 保有個人資料之資通系統應建置留存個人資料使用稽核軌跡\n（如登入帳號、系統功能、時間、系統名稱、查詢指令或結果）\n或辨識機制，以利個人資料外洩時得以追蹤個人資料使用狀況。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 389,
+              "end": 391
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 29
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 保有個人資料之資通系統應建立個人資料外洩防護機制，管制\n個人資料檔案透過輸出入裝置、通訊軟體、系統操作複製至網\n頁或網路檔案等方式傳輸，並應留存相關紀錄、軌跡及證據。",
+          "normalized_content": "五、 保有個人資料之資通系統應建立個人資料外洩防護機制，管制\n個人資料檔案透過輸出入裝置、通訊軟體、系統操作複製至網\n頁或網路檔案等方式傳輸，並應留存相關紀錄、軌跡及證據。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 394,
+              "end": 396
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        },
+        {
+          "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 資通系統如刪除、停止處理或利用所保有之個人資料後，應留\n存下列紀錄：",
+          "normalized_content": "六、 資通系統如刪除、停止處理或利用所保有之個人資料後，應留\n存下列紀錄：",
+          "children": [
+            {
+              "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.6.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)刪除、停止處理或利用之方法、時間。",
+              "normalized_content": "(一)刪除、停止處理或利用之方法、時間。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 403,
+                  "end": 403
+                },
+                "line_char_range": {
+                  "min": 20,
+                  "max": 20
+                }
+              },
+              "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+              "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+            },
+            {
+              "id": "發函附件：資通系統安全防護基準自律規範111.12.23.10.6.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)將刪除、停止處理或利用之個人資料移轉其他對象者，其移\n轉之原因、對象、方法、時間，及該對象蒐集、處理或利用\n之合法依據。",
+              "normalized_content": "(二)將刪除、停止處理或利用之個人資料移轉其他對象者，其移\n轉之原因、對象、方法、時間，及該對象蒐集、處理或利用\n之合法依據。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 7,
+                  "end": 7
+                },
+                "line_range": {
+                  "start": 406,
+                  "end": 408
+                },
+                "line_char_range": {
+                  "min": 6,
+                  "max": 29
+                }
+              },
+              "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+              "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 7,
+              "end": 7
+            },
+            "line_range": {
+              "start": 399,
+              "end": 400
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 30
+            }
+          },
+          "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+          "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 7,
+          "end": 7
+        },
+        "line_range": {
+          "start": 362,
+          "end": 362
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    },
+    {
+      "id": "發函附件：資通系統安全防護基準自律規範111.12.23.11",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第十一條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+      "normalized_content": "第十一條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 7,
+          "end": 7
+        },
+        "line_range": {
+          "start": 411,
+          "end": 413
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 30
+        }
+      },
+      "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+      "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 7
+    },
+    "line_range": {
+      "start": 1,
+      "end": 5
+    },
+    "line_char_range": {
+      "min": 26,
+      "max": 45
+    }
+  },
+  "file_name": "發函附件：資通系統安全防護基準自律規範111.12.23.md",
+  "file_stem": "發函附件：資通系統安全防護基準自律規範111.12.23"
+}

@@ -1,0 +1,7146 @@
+[
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 1 條",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "第 1 條"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "第 1 條\n中華民國人壽保險商業同業公會與中華民國產物保險商業同業公會為督促會員\n公司資訊業務與相關資訊資產之安全，發揚自律精神，防範資訊處理作業過程發\n生影響資訊及系統機密性、完整性及可用性之安全事件，確保各會員公司資訊處\n理作業能安全有效地運作，特訂定本自律規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "2.1",
+    "path_names": [
+      "第 2 條",
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、資訊資產：包含軟體、硬體、環境、文件、通訊、資料、人員等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "2.2",
+    "path_names": [
+      "第 2 條",
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、自攜裝置：係指非屬公司資產、透過該裝置以無線或有線通訊方式連接至會\n員公司內部網路，存取作業系統或檔案服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "2.3",
+    "path_names": [
+      "第 2 條",
+      "三、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "三、雲端服務：係指服務提供者以租借方式提供個人或企業得承租其網路、伺服\n器、儲存空間、基礎設施、資安設備、系統軟體、應用程式、分析與計算等\n資源，以達資源共享之服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 3 條",
+    "level": 0,
+    "sibling_order": 3,
+    "path_key": "3",
+    "path_names": [
+      "第 3 條"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "第 3 條\n各會員公司辦理資訊安全作業除應依據各該公司訂立之資安處理程序及其應注\n意事項外，並應符合依本自律規範辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "4.1",
+    "path_names": [
+      "第 4 條",
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、應要求所聘任之員工簽署資訊安全保密切結書、雇佣契約、工作手冊，明訂\n員工應遵守資訊安全保密協定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "4.2",
+    "path_names": [
+      "第 4 條",
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、有委外業務者，應於委外契約中明訂資訊安全保密協定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "4.3",
+    "path_names": [
+      "第 4 條",
+      "三、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "三、應透過每年定期、適當之教育訓練或宣導，告知內部員工應遵循之資訊安全\n規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "4.4",
+    "path_names": [
+      "第 4 條",
+      "四、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "四、管理階層應督導員工遵循公司既定之資訊安全規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "4.5",
+    "path_names": [
+      "第 4 條",
+      "五、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "五、員工職務異動時，應依既定程序辦理資訊資產退回與存取權限之變更或取消。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "4.6",
+    "path_names": [
+      "第 4 條",
+      "六、"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "六、應每年檢討資訊安全政策及資訊作業相關管理與操作規範，並於發生重大變\n更（如新頒布法令法規）時審查，以持續確保其合宜性、適切性及有效性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "4.7",
+    "path_names": [
+      "第 4 條",
+      "七、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "七、應依據作業流程，識別人員、表單、設備、軟體、系統等資產，建立資產清\n冊、網路架構圖、組織架構圖及負責人，並定期清點以維持其正確性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "4.8",
+    "path_names": [
+      "第 4 條",
+      "八、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "八、應定義人員角色及責任並區隔相互衝突的角色。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "5.1",
+    "path_names": [
+      "第 4 條",
+      "一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "一、應建立人員之註冊、異動及撤銷註冊程序，用以配置適當之存取權限；人員\n離調職時應儘速移除權限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "5.2",
+    "path_names": [
+      "第 4 條",
+      "二、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "二、應列管硬體設備、應用軟體、系統軟體之最高權限帳號及具程式異動、參數\n變更權限之帳號。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "5.3",
+    "path_names": [
+      "第 4 條",
+      "三、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "三、應確認人員之身分及存取權限，必要時得限定其使用之機器或網路位置\n（IP）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "5.4",
+    "path_names": [
+      "第 4 條",
+      "四、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "四、人員超過一定時間未操作個人電腦時，應設定密碼啟動螢幕保護程式或登出\n系統。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "5.5",
+    "path_names": [
+      "第 4 條",
+      "五、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "五、登入作業系統進行系統異動或資料庫存取時，應留存操作紀錄，除利用系統\n代登外，應於使用後儘速變更密碼；但因故無法變更密碼者，應建立監控機\n制，避免未授權變更，並於使用後覆核其操作紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "5.6",
+    "path_names": [
+      "第 4 條",
+      "六、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "六、帳號應採一人一號管理，避免多人共用同一個帳號為原則，如有共用需求，\n申請及使用須有其他補強管控方式(如使用後更換密碼、代登入機制、密碼\n拆分保管等)，並留存操作紀錄且應能區分人員身分。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "5.7.1",
+    "path_names": [
+      "第 4 條",
+      "七、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)訂定密碼檢核邏輯。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "5.7.2",
+    "path_names": [
+      "第 4 條",
+      "七、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)提供給人員使用之帳號於使用後三個月內應變更密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "5.7.3",
+    "path_names": [
+      "第 4 條",
+      "七、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)提供給系統使用之帳號應採取適當之管控措施（如限制人工登入、監控\n告警）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "5.8",
+    "path_names": [
+      "第 4 條",
+      "八、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "八、加解密程式或具變更權限之公用程式（如資料庫工具程式）應列管並限制使\n用，防止未經授權存取並保留稽核軌跡。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 9,
+    "path_key": "5.9",
+    "path_names": [
+      "第 4 條",
+      "九、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "九、最高權限帳號使用時應先取得權責主管或授權人員同意並保留稽核軌跡。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十、",
+    "level": 1,
+    "sibling_order": 10,
+    "path_key": "5.10",
+    "path_names": [
+      "第 4 條",
+      "十、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十、具最高權限帳號、特殊功能(如程式或軟體異動、參數或組態變更權限等)\n權限帳號應和日常維運用帳號區隔，並每月抽查使用結果，以防範未經授\n權使用；如為核心資通系統，應於該等帳號被使用後，覆核使用結果。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十一、",
+    "level": 1,
+    "sibling_order": 11,
+    "path_key": "5.11",
+    "path_names": [
+      "第 4 條",
+      "十一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十一、 提供網際網路服務之伺服器及 AD(網域服務)主機，對於最高權限帳號\n及特殊功能權限帳號，應採雙因子認證或納入特權帳號管理系統強化授\n權及監控。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十二、",
+    "level": 1,
+    "sibling_order": 12,
+    "path_key": "5.12",
+    "path_names": [
+      "第 4 條",
+      "十二、"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "十二、 應針對第一類及第二類電腦系統依最小權限(least privilege)及僅知原\n則(need-to-know)配發權限予人員使用並定期審查帳號、權限之合理性\n及異常存取紀錄，以符合職務分工及牽制原則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "6.1",
+    "path_names": [
+      "第 5 條",
+      "一、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "一、訂定資訊系統開發及程式修改作業程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "6.2",
+    "path_names": [
+      "第 5 條",
+      "二、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "二、核心資訊系統應包括但不限於核保出單、保全（批改）、理賠、保費（收費）\n系統。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "6.3.1.1",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 應建立架構審查機制，從應用程式、資料庫、資安、網路、平台、營\n運等面向進行評估，並評估一次過版或平行運轉可行性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "6.3.1.2",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 應檢視相關設備容量，評估營運及業務需求所需備載容量。應建置擬\n真測試環境（如UAT），測試新系統或功能相容於既有營運環境之架\n構、設備及參數。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "6.3.1.3",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "3. 應訂定測試計劃與產出標準，依計劃以及影響範圍進行各項測試。測\n試應含功能測試 （如單元、整合、迴歸等），及非功能性測試（如\n相容性、尖峰量壓力測試及複合情境等）項目，並進行整體性演練。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "6.3.1.4",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "4."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "4. 應進行上線變更審查及風險評估，辨識複雜度及影響範圍，並檢視測\n試個案及上線復原計畫之完整性，與建立多個檢核點及啟動復原之決\n策條件。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "6.3.1.5",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "5."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "5. 應預留復原作業及上線驗證時間。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "6.",
+    "level": 3,
+    "sibling_order": 6,
+    "path_key": "6.3.1.6",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "6."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "6. 應要求設備提供廠商與委外開發廠商於上線支援時，能緊急提供備品、\n問題查找及修改人力。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "7.",
+    "level": 3,
+    "sibling_order": 7,
+    "path_key": "6.3.1.7",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "7."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "7. 應召開上線協調會議，安排工作項目並確保各項準備到位。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "8.",
+    "level": 3,
+    "sibling_order": 8,
+    "path_key": "6.3.1.8",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(一)",
+      "8."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "8. 應提前公告並進行教育訓練（含異常話術）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "6.3.2.1",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(二)",
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 依上線計畫逐步執行，檢視每一個檢核點，必要時召開復原決策會議。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "6.3.2.2",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(二)",
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 執行系統及資料備份，以因應復原時所需。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "6.3.2.3",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(二)",
+      "3."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "3. 驗證各項變更作業，確保如預期結果。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "6.3.2.4",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(二)",
+      "4."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "4. 驗證各項資料內容，確保資料完整性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "6.3.2.5",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(二)",
+      "5."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "5. 逐步啟動各項作業並監控網路及系統，確保提供足夠資源。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "6.3.3.1",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 持續系統監控，確保資料正確、功能正常、系統穩定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "6.3.3.2",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 落實事故應變，以消費者權益及持續營運優先處理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "6.3.3.3",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(三)",
+      "3."
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "page_start": 3,
+    "page_end": 4,
+    "content": "3. 集中管理問題並適時調配各單位資源。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "6.3.3.4",
+    "path_names": [
+      "第 5 條",
+      "三、",
+      "(三)",
+      "4."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "4. 追蹤問題原因，提出短中長期改善方案並持續追蹤。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 6 條",
+    "level": 0,
+    "sibling_order": 7,
+    "path_key": "7",
+    "path_names": [
+      "第 6 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 6 條\n各會員公司應建立資安防禦機制，並依據保險業辦理電腦系統資訊安全評估作業\n原則（如附件一）辦理各項資訊安全評估作業，以改善並提升網路與資訊系統安\n全防護能力。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 7 條",
+    "level": 0,
+    "sibling_order": 8,
+    "path_key": "8",
+    "path_names": [
+      "第 7 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 7 條\n各會員公司若有開發並提供行動裝置應用程式，應依據保險業提供行動裝置應用\n程式作業原則（如附件二）辦理，以確保行動應用程式（App ）安全防護能力，\n並保障消費者權益。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 8 條",
+    "level": 0,
+    "sibling_order": 9,
+    "path_key": "9",
+    "path_names": [
+      "第 8 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 8 條\n各會員公司若有運用新興科技（包含雲端服務、社群媒體、生物特徵資料及自攜\n裝置等），需依據保險業運用新興科技作業原則（如附件三）辦理，以建立完善\n之控管機制，降低新興科技之運用風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 9 條",
+    "level": 0,
+    "sibling_order": 10,
+    "path_key": "10",
+    "path_names": [
+      "第 9 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 9 條\n各會員公司若有運用物聯網設備，需依據保險業物聯網設備作業準則（如附件四）\n辦理，以強化物聯網設備之安全。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 10 條",
+    "level": 0,
+    "sibling_order": 11,
+    "path_key": "11",
+    "path_names": [
+      "第 10 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 10 條\n各會員公司辦理電子商務，應遵循下列事項：依據保險業經營電子商務自律規範\n及保險業電子商務身分驗證之資訊安全作業準則（如附件五）辦理，並建立安全\n有效之驗證機制，減少身分冒用及詐騙情事發生，以確保電子商務之資訊安全。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 11 條",
+    "level": 0,
+    "sibling_order": 12,
+    "path_key": "12",
+    "path_names": [
+      "第 11 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 11 條\n各會員公司應訂定設備報廢作業程序，報廢前應將機密性、敏感性資料及授權軟\n體予以移除、實施安全性覆寫或實體破壞，應確保報廢之電腦硬碟及儲存媒體儲\n存之資料不可還原，並留存報廢紀錄，若委託第三者銷毀時，應簽訂保密合約。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "13.1",
+    "path_names": [
+      "第 12 條",
+      "一、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "一、針對營運環境調整、資料傳輸及加密機制、機敏資料防護、稽核軌跡留存、\n異常行為監控及對外遠端存取設備進行評估及強化，系統及設備如有重大漏\n洞應立即處理及因應，降低業務運作風險，確保整體保險系統穩定及安全。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "13.2",
+    "path_names": [
+      "第 12 條",
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、針對使用之視訊會議系統、VPN及VDI 等設備，應訂定相關使用規範並落實\n各項安全管控作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "13.3",
+    "path_names": [
+      "第 12 條",
+      "三、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "三、應使用會員公司配發之裝置或設備，或使用資料不落地之機制，方得辦理遠\n端作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 13 條",
+    "level": 0,
+    "sibling_order": 14,
+    "path_key": "14",
+    "path_names": [
+      "第 13 條"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "page_start": 4,
+    "page_end": 5,
+    "content": "第 13 條\n各會員公司應加強資訊安全事故管理。\n各會員公司若發生資通安全事件，足以影響保險業信譽、或危及保險業正常營運、\n或金融秩序情事者，應依「保險業通報重大偶發事件之範圍申報程序及其他應遵\n循事項」規定辦理通報及回報各所屬公會，並採取適當處理措施，以控制資安事\n件影響範圍之擴大。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "15.1.1",
+    "path_names": [
+      "第 14 條",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(一)應至少每季進行一次作業系統之弱點掃描，會員公司依掃描結果應進行\n風險評估，評估為高風險以上之弱點應於 2個月內修補或完成補償性控\n制措施，評估為中、低風險應訂定適當措施及完成時間，執行矯正、紀\n錄處理情形並追蹤改善。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "15.1.2",
+    "path_names": [
+      "第 14 條",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(二)新系統或系統功能首次上線前及至少每半年應針對異動程式進行程式\n碼掃描或黑箱測試，並針對其掃描或測試結果進行風險評估，及針對不\n同風險訂定適當措施及完成時間，執行矯正、記錄處理情形並追蹤改善；\n如無異動者則不在此限，但仍應參照「保險業電腦系統資訊安全評估作\n業原則」辦理電腦系統分類及評估週期相關作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "15.2.1",
+    "path_names": [
+      "第 14 條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(一)應至少每半年進行一次作業系統之弱點掃描，會員公司依掃描結果應進\n行風險評估，評估為高風險以上之弱點應於 3個月內修補或完成補償性\n控制措施，評估為中、低風險應訂定適當措施及完成時間，執行矯正、\n紀錄處理情形並追蹤改善。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "15.2.2",
+    "path_names": [
+      "第 14 條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(二)如為開放式系統，新系統或系統功能首次上線前及至少每半年應針對異\n動程式進行程式碼掃描或黑箱測試，並針對其掃描或測試結果進行風險\n評估，及針對不同風險訂定適當措施及完成時間，執行矯正、記錄處理\n情形並追蹤改善；如無異動者則不在此限，但仍應參照「保險業電腦系\n統資訊安全評估作業原則」辦理電腦系統分類及評估週期相關作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "16.1",
+    "path_names": [
+      "第 15 條",
+      "一、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "一、系統發展生命週期之維運（包含開發、測試）時，須注意版本控制與變更管\n理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "16.2",
+    "path_names": [
+      "第 15 條",
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、應定期審核資訊系統帳號之建立、修改及刪除。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "16.3",
+    "path_names": [
+      "第 15 條",
+      "三、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "三、應建立帳號管理機制，包含帳號之申請及刪除之程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "16.4",
+    "path_names": [
+      "第 15 條",
+      "四、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "四、應定期檢視防火牆規則，以確保現行控制之有效性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "17.1",
+    "path_names": [
+      "第 16 條",
+      "一、"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "一、服務提供廠商應具備資訊安全相關認證或已有資通安全維護之相關措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "17.2.1",
+    "path_names": [
+      "第 16 條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(一) 各會員公司應制定有關審核廠商資格之內控機制，並就作業委外提供廠\n商進行評選審查作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "17.2.2",
+    "path_names": [
+      "第 16 條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(二) 將資訊安全相關認證納入遴選項目，且應訂定內部程序，其至少包含作\n業委外廠商遴選機制、合約或協議簽訂、作業委外廠商管理要項、產品\n交付和驗收或維運等項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "17.2.3",
+    "path_names": [
+      "第 16 條",
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(三) 各會員公司應將資訊安全或個人資料隱私管理相關認證納入資訊系統\n之作業委外廠商評估項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "17.2.4",
+    "path_names": [
+      "第 16 條",
+      "二、",
+      "(四)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(四) 各會員公司之資訊系統委外時，應依據委外廠商規模或作業特性，評估\n進行委外廠商監督。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "17.3.1",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(一) 應建立作業委外廠商管理規範，其內容應含作業委外廠商之人員管控，\n並建立適當檢驗機制，以確保管理機制有效落實。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "17.3.2",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(二) 各會員公司之資訊系統委外廠商管理時，其管理項目應納入對委外廠商\n存取資訊之控管機制、對委外廠商服務之資訊安全管理措施查核機制、\n發生資安事故時委外廠商通知機制與應處時效要求、與委外廠商關係終\n止管理機制等項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "17.3.3",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(三)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(三) 作業委外廠商進行軟、硬體維運時，應具備資通安全維護之措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "17.3.4",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(四)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(四) 若作業委外內容有重大變更或重大事件時，應審查是否影響相關資訊安\n全管理制度或依循標準之要求並評估其風險，採取適當控制措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "17.3.5.1",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(五)",
+      "1."
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "1. 服務供應廠商履行合約或協議時所提供軟體（或交付標的物）為交付\n產品，需具備合法性且不得違反智慧財產權之規定或侵害第三人合法\n權益。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "17.3.5.2",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(五)",
+      "2."
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "2. 作業委外廠商進行資訊系統開發或維運時，若涉及客戶、員工個人資\n料，需考量具個人資料安全防範措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "17.3.5.3",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(五)",
+      "3."
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "3. 應約定資安檢測與弱點修補之責任與時效要求。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "17.3.5.4",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(五)",
+      "4."
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "4. 應訂定相關資訊安全管理責任。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "17.3.5.5",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(五)",
+      "5."
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "5. 委外廠商交付之系統或程式，應確保無惡意程式及後門程式，或提供\n相關掃描報告。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(六)",
+    "level": 2,
+    "sibling_order": 6,
+    "path_key": "17.3.6",
+    "path_names": [
+      "第 16 條",
+      "三、",
+      "(六)"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "page_start": 6,
+    "page_end": 7,
+    "content": "(六)資訊系統作業委外終止或結束時，委外廠商應提供移轉服務，將留存\n資料移回至各會員公司自行處理，並應刪除或銷毀全數資料，且提供\n刪除或銷毀之佐證資訊與紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "17.4.1",
+    "path_names": [
+      "第 16 條",
+      "四、",
+      "(一)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(一)定期進行查核作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "17.4.2",
+    "path_names": [
+      "第 16 條",
+      "四、",
+      "(二)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(二)辦理作業委外稽核時，於簽訂之合約應載明保留相關之稽核權利，得\n自行或委託獨立單位對委外廠商監督及查核之權責行為。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "17.4.3",
+    "path_names": [
+      "第 16 條",
+      "四、",
+      "(三)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(三)執行委外稽核作業後，應對稽核紀錄之文件進行複審及保存並由需求\n單位進行存查。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "17.4.4",
+    "path_names": [
+      "第 16 條",
+      "四、",
+      "(四)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(四)提供委外稽核服務的廠商須通過政府資通安全建議的相關證照或可參\n照「保險業電腦系統資訊安全評估作業原則」之第柒點要求。\n各會員公司辦理資訊系統委外作業項目，有涉及核心資訊系統者，除應依前項各\n款規定辦理外，應併同遵循「保險業核心資通系統作業委外資安注意事項」（如\n附件六）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "18.1",
+    "path_names": [
+      "第 17 條",
+      "一、"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "一、應評估各系統產生之事件日誌紀錄（內容包含但不限於事件類型、發生時間、\n發生位置、使用者身分識別等資訊）之保留機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "18.2.1",
+    "path_names": [
+      "第 17 條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(一)紀錄至少需保留 180天。如涉及個人資料之日誌紀錄者，保留期限應依\n個人資料保護法等相關規定辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "18.2.2",
+    "path_names": [
+      "第 17 條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(二)事件日誌應設有存取限制，並應用適當方式確保完整性；另應依據事件\n日誌紀錄之儲存需求配置容量，且定期將日誌紀錄送至原系統外之其他\n系統進行集中管理，或建置日誌伺服器等相關方案滿足以上需求。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "18.2.3",
+    "path_names": [
+      "第 17 條",
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(三)應定期審查系統管理者活動以識別異常或潛在資安事件並保留紀錄，設\n定合適告警指標並定期檢討修訂；或將相關事件日誌納入資訊安全事件\n之監控管理機制範圍。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "18.2.4",
+    "path_names": [
+      "第 17 條",
+      "二、",
+      "(四)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(四)應訂定日誌處理失效之告警及應處機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "18.2.5",
+    "path_names": [
+      "第 17 條",
+      "二、",
+      "(五)"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "(五)系統內部時間應定期進行基準時間源進行同步。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "19.1",
+    "path_names": [
+      "第 18 條",
+      "一、"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "page_start": 7,
+    "page_end": 8,
+    "content": "一、就保險業與跨機構合作夥伴共同使用之網際網路應用系統（如網路投保、網\n路要保等直接提供客戶自動化服務之系統），其系統管控機制應包括資料傳\n輸之保密方式、系統使用權限之區隔及系統帳號權限控管等相關資訊安全機\n制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "19.2",
+    "path_names": [
+      "第 18 條",
+      "二、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "二、與跨機構合作夥伴合約簽訂時，應進行風險評估並規劃風險處置措施，並於\n雙方簽訂備忘錄或契約中載明相關要求，其內容需包含資訊安全及保戶個人\n資料保護相關條款、禁止多人共用同一帳號，以及相關業務往來之查核機制\n或控管措施，以確保資訊安全維護能力與水準。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "19.3",
+    "path_names": [
+      "第 18 條",
+      "三、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "三、提供跨機構合作夥伴資訊服務者，應採用雙因子驗證或相關身分驗證方式，\n並應定期辦理帳號密碼變更及帳號清查。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "20.1",
+    "path_names": [
+      "第 19 條",
+      "一、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "一、保險業對外提供之網站服務應建立 https 安全連線，以確保連線之機密性與\n完整性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "20.2",
+    "path_names": [
+      "第 19 條",
+      "二、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "二、 內部網路應依正式營運、測試、辦公室等使用目的區隔網段，網路區域間連\n接應進行控管，如以防火牆、虛擬區域網路 VLAN 或實體線路加以區隔；正\n式營運內應再依電腦系統分類或系統功能或服務特性進行網段區隔。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "20.3",
+    "path_names": [
+      "第 19 條",
+      "三、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "三、人員使用外部網路連線內部電腦系統時，應使用虛擬私有網路（VPN）或虛\n擬桌面（Virtual Desktop）之方式連線，並採多因子驗證，且須進行異常\n連線管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "20.4",
+    "path_names": [
+      "第 19 條",
+      "四、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "四、保險業網際網路應用系統，須建立防火牆（Firewall）、網站應用程式防火\n牆（WAF）防護機制、入侵偵測及防禦機制，並定期檢視其防護規則及參數\n設定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "20.5",
+    "path_names": [
+      "第 19 條",
+      "五、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "五、員工電腦應建立上網行為管理措施，並啟用偵測惡意連線機制，確保阻斷外\n部惡意連線。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "20.6",
+    "path_names": [
+      "第 19 條",
+      "六、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "六、為強化正式伺服器主機的安全控管機制，於使用特權帳號進行正式伺服器主\n機管理作業時，應經主管審核後，透過特權帳號管理（PAM）或跳板機等管\n理系統或獨立的管制網段才可連線正式伺服器主機，並留存稽核軌跡，以確\n保正式伺服器網段的連線安全性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "20.7",
+    "path_names": [
+      "第 19 條",
+      "七、"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "七、應關閉非必要之網路服務，限制對網際網路非必要之連線。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 20 條",
+    "level": 0,
+    "sibling_order": 21,
+    "path_key": "21",
+    "path_names": [
+      "第 20 條"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "第 20 條\n各會員公司應將本自律規範內容，納入內稽內控制度中，並定期辦理查核。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "第 21 條",
+    "level": 0,
+    "sibling_order": 22,
+    "path_key": "22",
+    "path_names": [
+      "第 21 條"
+    ],
+    "pages": [
+      8
+    ],
+    "page_start": 8,
+    "page_end": 8,
+    "content": "第 21 條\n各會員公司如有違反本自律規範之情事，經查證屬實者且違反情節較輕者，得\n先予書面糾正；如情節較重大者，提報經各所屬公會理事會通過後，處以新台\n幣伍萬元以上，貳拾萬元以下之罰款；前述處理情形並應於一個月內報主管機\n關。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "壹、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "23.1",
+    "path_names": [
+      "第 22 條",
+      "壹、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "壹、前言\n為確保保險業提供電腦系統具有一致性基本系統安全防護能力，擬透過各項資訊\n安全評估 作業，發現資安威脅與弱點，藉以實施技術面與管理面相關控制措施，\n以改善並提升網路 與資訊系統安全防護能力，訂定本辦法。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "貳、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "23.2",
+    "path_names": [
+      "第 22 條",
+      "貳、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "貳、評估範圍",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "23.3",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "一、保險業應就整體電腦系統（含自建與委外維運）依據本作業原則建構一套評\n估計 畫，基於持續營運及保障客戶權益，依資訊資產之重要性及影響程度\n進行分類，定 期或分階段辦理資訊安全評估作業，並提交「電腦系統資訊\n安全評估報告」，辦理 矯正預防措施，並定期追蹤檢討。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "23.4",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "二、評估計畫應報董（理）事會或經其授權之經理部門核定，但外國保險業在台\n分公司， 得授權由在中華民國負責人為之。評估計畫至少每三年重新審視\n一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "參、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "23.5",
+    "path_names": [
+      "第 22 條",
+      "參、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "參、電腦系統分類及評估週期",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "23.6",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "一、電腦系統依其重要性分為三類：",
+    "is_leaf": true,
+    "table_count": 2,
+    "tables": [
+      {
+        "table_id": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_1",
+        "cr": 1,
+        "ml": null,
+        "start_page": 10,
+        "raw_markdown": "[TABLE id=保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_1]\n| 電腦系 統類別 | 定義 | 評估週期 |\n| --- | --- | --- |\n| 第一類 | 可由外部 Internet 直接連線之網際 網路應用系統及核心資訊系統 | 每年至少辦理一次資訊安全評估作 業 |\n| 第二類 | 存放大量客戶資料之系統（如檔案伺 服器、資料倉儲、客服及行銷等系統） | 每三年至少辦理一次資訊安全評估 作業 |\n| 第三類 | 非核心資訊系統（如人資、總務等系 統） | 每五年至少辦理一次資訊安全評估 作業 |\n[/TABLE id=保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_1]",
+        "column_count": 3,
+        "header_rows": [
+          {
+            "row_index": 1,
+            "raw_cells": [
+              "電腦系 統類別",
+              "定義",
+              "評估週期"
+            ],
+            "resolved_cells": [
+              "電腦系 統類別",
+              "定義",
+              "評估週期"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "data_rows": [
+          {
+            "row_index": 2,
+            "raw_cells": [
+              "第一類",
+              "可由外部 Internet 直接連線之網際 網路應用系統及核心資訊系統",
+              "每年至少辦理一次資訊安全評估作 業"
+            ],
+            "resolved_cells": [
+              "第一類",
+              "可由外部 Internet 直接連線之網際 網路應用系統及核心資訊系統",
+              "每年至少辦理一次資訊安全評估作 業"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "row_index": 3,
+            "raw_cells": [
+              "第二類",
+              "存放大量客戶資料之系統（如檔案伺 服器、資料倉儲、客服及行銷等系統）",
+              "每三年至少辦理一次資訊安全評估 作業"
+            ],
+            "resolved_cells": [
+              "第二類",
+              "存放大量客戶資料之系統（如檔案伺 服器、資料倉儲、客服及行銷等系統）",
+              "每三年至少辦理一次資訊安全評估 作業"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "row_index": 4,
+            "raw_cells": [
+              "第三類",
+              "非核心資訊系統（如人資、總務等系 統）",
+              "每五年至少辦理一次資訊安全評估 作業"
+            ],
+            "resolved_cells": [
+              "第三類",
+              "非核心資訊系統（如人資、總務等系 統）",
+              "每五年至少辦理一次資訊安全評估 作業"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "unresolved_merge_count": 0
+      },
+      {
+        "table_id": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_2",
+        "cr": 1,
+        "ml": null,
+        "start_page": 10,
+        "raw_markdown": "[TABLE id=保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_2]\n| 電腦系 |\n| --- |\n| 統類別 |\n[/TABLE id=保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_2]",
+        "column_count": 1,
+        "header_rows": [
+          {
+            "row_index": 1,
+            "raw_cells": [
+              "電腦系"
+            ],
+            "resolved_cells": [
+              "電腦系"
+            ],
+            "merge_tags": [
+              null
+            ]
+          }
+        ],
+        "data_rows": [
+          {
+            "row_index": 2,
+            "raw_cells": [
+              "統類別"
+            ],
+            "resolved_cells": [
+              "統類別"
+            ],
+            "merge_tags": [
+              null
+            ]
+          }
+        ],
+        "unresolved_merge_count": 0
+      }
+    ]
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "23.7",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "二、 單一系統而為數眾多且財產權歸屬於公司之設備得以抽測方式辦理，抽測比\n例每次至少應占該系統全部設備之 10%或 100 台以上。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "23.8",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "三、 單一系統發生重大資訊安全事件，應於三個月內重新完成資訊安全評估作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "肆、",
+    "level": 1,
+    "sibling_order": 9,
+    "path_key": "23.9",
+    "path_names": [
+      "第 22 條",
+      "肆、"
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "肆、資訊安全評估作業",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.10.1.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      10
+    ],
+    "page_start": 10,
+    "page_end": 10,
+    "content": "1. 檢視網路架構之配置、資訊設備安全管理規則之妥適性等，以評估可\n能之風險，採取必要因應措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.10.1.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      10,
+      11
+    ],
+    "page_start": 10,
+    "page_end": 11,
+    "content": "2. 檢視單點故障最大衝擊與風險承擔能力。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.1.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "3. 檢視對於持續營運所採取相關措施之妥適性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.1.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)",
+      "4."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "4. 適時參考金融資安資訊分享與分析中心（F-ISAC）所發布之資安威脅\n情資及資安防護建議，並採取相關措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "23.10.1.5",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)",
+      "5."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "5. 檢視伺服器應依電腦系統分類或系統功能或服務特性進行網段區隔。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "6.",
+    "level": 3,
+    "sibling_order": 6,
+    "path_key": "23.10.1.6",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)",
+      "6."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "6. 檢視邊界防護設備（包含閘道器、路由器、防火牆、防護裝置等設備）\n與外部網路連接之網點，是否設立防火牆控管內外部網路資料傳輸及\n資源存取，並限制非必要之連線對象與服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.10.2.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(二)",
+      "1."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "1. 檢視網路設備、伺服器及物聯網設備之存取紀錄及帳號權限，識別異\n常紀錄與確認警示機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.10.2.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(二)",
+      "2."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "2. 檢視資安設備（如：防火牆、入侵偵測或防禦、惡意軟體防護、資料\n外洩防護、垃圾郵件過濾、網路釣魚偵測、網頁防護等）之監控紀錄，\n識別異常紀錄與確認警示機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.2.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(二)",
+      "3."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "3. 檢視網路是否存在異常連線或異常網域名稱解析伺服器（Domain\nName System Server ,DNS Server）查詢或監控進出之通訊流量，並\n比對是否為已知惡意 IP、中繼站或有符合網路惡意行為的特徵。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.2.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(二)",
+      "4."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "4. 檢視是否訂定偵測偽冒網站之處理措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.10.3.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "1. 辦理網路設備、伺服器、終端設備及物聯網設備等設備的弱點掃描與\n修補作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.10.3.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "2. 檢測終端機及伺服器是否存在惡意程式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.3.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(三)",
+      "3."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "3. 檢測系統帳號登入密碼複雜度；檢視外部連接密碼（如檔案傳輸（File\nTransfer Protocol, FTP）連線、資料庫連線等）之儲存保護機制與\n存取控制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.3.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(三)",
+      "4."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "4. 辦理物聯網設備檢測作業時，依據「保險業使用物聯網設備作業準則」\n第四、五、六、七條之安全控管規範進行評估。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.10.4.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(四)",
+      "1."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "1. 進行滲透測試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.10.4.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(四)",
+      "2."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "2. 進行伺服器應用系統之程式原始碼掃描或黑箱測試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.4.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(四)",
+      "3."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "3. 檢視伺服器目錄及網頁之存取權限建立對外網站網頁防竄改機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.4.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(四)",
+      "4."
+    ],
+    "pages": [
+      11
+    ],
+    "page_start": 11,
+    "page_end": 11,
+    "content": "4. 檢視系統是否有異常的授權連線、CPU資源異常耗用及異常之資料庫\n存取行為等情況。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.10.5.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(五)",
+      "1."
+    ],
+    "pages": [
+      11,
+      12
+    ],
+    "page_start": 11,
+    "page_end": 12,
+    "content": "1. 提供https、SFTP者應進行弱點掃描。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.10.5.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(五)",
+      "2."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "2. 程式原始碼掃描或滲透測試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.5.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(五)",
+      "3."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "3. 敏感性資料保護檢測（如記憶體、儲存媒體）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.5.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(五)",
+      "4."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "4. 金鑰保護檢測。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "23.10.5.5",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(五)",
+      "5."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "5. 採最小權限原則，僅允許使用者依任務及業務功能所需完成指派之授\n權存取控管。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.10.6.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)",
+      "1."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "1. 檢視伺服器（如網域服務Active Directory）有關「密碼設定原則」\n與「帳號鎖定原則」設定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.10.6.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)",
+      "2."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "2. 檢視防火牆是否開啟具有安全性風險的通訊埠或非必要通訊埠，連線\n設定是否有安全性弱點。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.6.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)",
+      "3."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "3. 檢視系統存取限制（如存取控制清單 Access Control List）及特權\n帳號管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.6.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)",
+      "4."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "4. 檢視作業系統、防毒軟體、辦公軟體及應用軟體等之更新設定及更新\n狀態。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "23.10.6.5",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)",
+      "5."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "5. 檢視金鑰之儲存保護機制與存取控制等安全措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "6.",
+    "level": 3,
+    "sibling_order": 6,
+    "path_key": "23.10.6.6",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)",
+      "6."
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "6. 檢視從外部網路連回內部時需確認使用者身分。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(1)",
+    "level": 4,
+    "sibling_order": 1,
+    "path_key": "23.10.7.1.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "1.",
+      "(1)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(1) 提升硬體設備之可靠性：包含預防硬體設備故障與備用硬體設備\n設置之對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(2)",
+    "level": 4,
+    "sibling_order": 2,
+    "path_key": "23.10.7.1.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "1.",
+      "(2)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(2) 提升軟體系統之可靠性：包含提升軟體開發品質與提升軟體維護\n品質對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(3)",
+    "level": 4,
+    "sibling_order": 3,
+    "path_key": "23.10.7.1.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "1.",
+      "(3)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(3) 提升營運可靠性之對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(4)",
+    "level": 4,
+    "sibling_order": 4,
+    "path_key": "23.10.7.1.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "1.",
+      "(4)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(4) 故障之早期發現與早期復原對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(5)",
+    "level": 4,
+    "sibling_order": 5,
+    "path_key": "23.10.7.1.5",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "1.",
+      "(5)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(5) 災變對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(6)",
+    "level": 4,
+    "sibling_order": 6,
+    "path_key": "23.10.7.1.6",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "1.",
+      "(6)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(6) 備份之系統備份媒體，須擬定驗證計畫，並驗證備份媒體之可靠\n性及資訊之完整性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(1)",
+    "level": 4,
+    "sibling_order": 1,
+    "path_key": "23.10.7.2.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "2.",
+      "(1)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(1) 資料保護：包含防止洩漏、防止破壞篡改與相對應檢測之對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(2)",
+    "level": 4,
+    "sibling_order": 2,
+    "path_key": "23.10.7.2.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "2.",
+      "(2)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(2) 防止非法使用：包含存取權限確認、應用範圍限制、防止非法偽\n造、限制外部網路存取及偵測與因應之對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(3)",
+    "level": 4,
+    "sibling_order": 3,
+    "path_key": "23.10.7.2.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "2.",
+      "(3)"
+    ],
+    "pages": [
+      12
+    ],
+    "page_start": 12,
+    "page_end": 12,
+    "content": "(3) 防止非法程式：包含防禦、偵測與復原對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.10.7.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "3."
+    ],
+    "pages": [
+      12,
+      13
+    ],
+    "page_start": 12,
+    "page_end": 13,
+    "content": "3. 檢視電腦系統是否符合「保險業辦理資訊安全防護自律規範」、「保\n險業經營電子商務自律規範」、「保險業辦理電子保單簽發作業自律\n規範」、「保險業經營行動服務自律規範」及主管機關相關函文之要\n求。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.10.7.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)",
+      "4."
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "4. 如有使用 SWIFT 系統者，需檢視電腦系統之 SWIFT 系統是否符合\nSWIFT公布之 Customer Security Programme 規範及公會相關函文之\n要求，若與本作業原則衝突，依 SWIFT公布為主。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 11,
+    "path_key": "23.11",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "二、第一類、第二類及第三類電腦系統應依前項評估項目全部納入資訊安全評估\n作業以確保評估作業之有效性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "伍、",
+    "level": 1,
+    "sibling_order": 12,
+    "path_key": "23.12",
+    "path_names": [
+      "第 22 條",
+      "伍、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "伍、強化系統運作可用性之資安措施\n辦理電子商務業務者，應強化系統運作可用性之資安措施【如導入分散式阻斷服\n務攻擊（DDoS）流量清洗、線路流量監控與備援及訂定 DDoS 防禦與應變作業程\n序等】，並定期辦理 DDoS實際演練。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "陸、",
+    "level": 1,
+    "sibling_order": 13,
+    "path_key": "23.13",
+    "path_names": [
+      "第 22 條",
+      "陸、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "陸、社交工程演練\n每年應至少一次針對使用電腦系統人員，於安全監控範圍內，寄發演練郵件，加\n強資通安 全教育，以期防範惡意程式透過社交方式入侵。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "柒、",
+    "level": 1,
+    "sibling_order": 14,
+    "path_key": "23.14",
+    "path_names": [
+      "第 22 條",
+      "柒、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "柒、評估單位資格與責任",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 15,
+    "path_key": "23.15",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "一、評估單位可委由外部專業機構或由會員公司內部單位進行。如為外部專業機\n構，該機構應與資安評估標的無利害關係，若為內部單位，應獨立於原電腦\n系統開發與維護等相關單位。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.16.1",
+    "path_names": [
+      "第 22 條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "(一)具備資訊安全管理知識，如持有國際資訊安全經理人（Certified\nInformation Security Manager,CISM） 證 書 或 通 過 國 際 資 安\n管 理 系 統 主 導 稽 核 員（Information Security Management\nSystem Lead Auditor,ISO 27001 LA）考試合格等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.16.2",
+    "path_names": [
+      "第 22 條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "(二)具備資訊安全技術能力，如國際資訊安全系統專家（Certified\nInformationSystems Security Professional,CISSP）證書等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.16.3",
+    "path_names": [
+      "第 22 條",
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "(三)具備模擬駭客攻擊能力，如滲透專家（Certified Ethical Hacking,\nCEH）證書或事件處理專家（Certified Incident Handler,CIH）證書\n等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.16.4",
+    "path_names": [
+      "第 22 條",
+      "二、",
+      "(四)"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "(四)熟悉金融領域載具應用、系統開發或稽核經驗。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 17,
+    "path_key": "23.17",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "三、相關檢視文件、檢測紀錄檔、組態參數、程式原始碼、側錄封包資料等與本\n案相關之全部資料，評估單位應簽立保密切結書並提供適當保護措施，以防\n止資料外洩。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 18,
+    "path_key": "23.18",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "四、評估單位及人員不得隱瞞缺失、不實陳述、洩露資料及不當利用等情事。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "捌、",
+    "level": 1,
+    "sibling_order": 19,
+    "path_key": "23.19",
+    "path_names": [
+      "第 22 條",
+      "捌、"
+    ],
+    "pages": [
+      13
+    ],
+    "page_start": 13,
+    "page_end": 13,
+    "content": "捌、 評估報告",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 20,
+    "path_key": "23.20",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      13,
+      14
+    ],
+    "page_start": 13,
+    "page_end": 14,
+    "content": "一、 「電腦系統資訊安全評估報告」內容應至少包含評估人員資格、評估範圍、\n評估作業項目與標的、評估紀錄、評估時所發現之缺失項目、缺失嚴重程度、\n缺失類別、風險說明、具體改善建議及社交演練結果。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 21,
+    "path_key": "23.21",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "content": "二、 會員公司應依據評估報告內容缺失程度區分風險等級，並擬定各風險對應之\n控管措施及處理時限，送稽核單位進行缺失改善事項之追蹤覆查。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 22,
+    "path_key": "23.22",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      14
+    ],
+    "page_start": 14,
+    "page_end": 14,
+    "content": "三、 評估報告缺失覆查應提報董（理）事會或經其授權之經理部門，但外國保險\n業在台分公司，得由總公司授權之人員為之，以落實由高階管理階層督導缺\n失改善。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 23,
+    "path_key": "23.23",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      14,
+      15
+    ],
+    "page_start": 14,
+    "page_end": 15,
+    "content": "四、 評估報告應併同缺失改善等相關文件至少保存五年。\n附件二、保險業提供行動應用程式（App）作業原則",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 24,
+    "path_key": "23.24",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "一、 保險業有提供行動應用程式者，會員公司可依不同應用類別之行動應用程式\n對於安全性有不同之要求，除符合經濟部工業局「行動應用 App 基本資安\n規範」外，應遵循本作業原則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 25,
+    "path_key": "23.25",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "二、 會員公司應依個人資料保護法於行動應用程式下載前，明確告知消費者對於\n個人資料蒐集處理利用之法定事項及消費者得要求刪除資料之權利等事項，\n以保護消費者權益。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 26,
+    "path_key": "23.26",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "三、 應用程式發布程序，應符合權責分工原則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 27,
+    "path_key": "23.27",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "四、 應於發布前檢視應用程式所需權限應與提供服務相當，首次發布或權限變動\n應經資安、法遵及風控等單位同意，以利綜合評估是否符合「個人資料保護\n法」之告知義務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.28.1.1",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "1. 委託專業機構辦理資安檢測時，參考經濟部工業局「行動應用 APP基\n本資安檢測基準」及 OWASP公布之 Mobile Top 10項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.28.1.2",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "2. 自行辦理檢測時，應對行動應用程式進行程式碼掃描或黑箱測試，並\n修正中、 高風險漏洞（如屬可承擔風險者除外）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.28.2",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      15
+    ],
+    "page_start": 15,
+    "page_end": 15,
+    "content": "(二)依行動應用程式之重要性，定期委由專業機構完成資安檢測：",
+    "is_leaf": true,
+    "table_count": 1,
+    "tables": [
+      {
+        "table_id": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_3",
+        "cr": 1,
+        "ml": null,
+        "start_page": 15,
+        "raw_markdown": "[TABLE id=保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_3]\n| 類別 | 定義 | 評估週期 |\n| --- | --- | --- |\n| 第一類 | 對外部提供服務或直接提供客戶自 動化服務之行動應用程式 | 每年委由專業機構完成資安檢測 |\n| 第二類 | 對內部員工（含其他通路）提供服務， 其經員工介入以提供客戶服務之行 動應用程式（如:行動投保、行動保 全、行動理賠等） | 每二年委由專業機構完成資安檢 測 |\n| 第三類 | 對內部員工（含其他通路）提供服務， 其未接觸客戶資訊或服務之行動應 用程式（如:行動差勤、行動電子書 等） | 每五年委由專業機構完成資安檢測 |\n[/TABLE id=保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 )_table_3]",
+        "column_count": 3,
+        "header_rows": [
+          {
+            "row_index": 1,
+            "raw_cells": [
+              "類別",
+              "定義",
+              "評估週期"
+            ],
+            "resolved_cells": [
+              "類別",
+              "定義",
+              "評估週期"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "data_rows": [
+          {
+            "row_index": 2,
+            "raw_cells": [
+              "第一類",
+              "對外部提供服務或直接提供客戶自 動化服務之行動應用程式",
+              "每年委由專業機構完成資安檢測"
+            ],
+            "resolved_cells": [
+              "第一類",
+              "對外部提供服務或直接提供客戶自 動化服務之行動應用程式",
+              "每年委由專業機構完成資安檢測"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "row_index": 3,
+            "raw_cells": [
+              "第二類",
+              "對內部員工（含其他通路）提供服務， 其經員工介入以提供客戶服務之行 動應用程式（如:行動投保、行動保 全、行動理賠等）",
+              "每二年委由專業機構完成資安檢 測"
+            ],
+            "resolved_cells": [
+              "第二類",
+              "對內部員工（含其他通路）提供服務， 其經員工介入以提供客戶服務之行 動應用程式（如:行動投保、行動保 全、行動理賠等）",
+              "每二年委由專業機構完成資安檢 測"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "row_index": 4,
+            "raw_cells": [
+              "第三類",
+              "對內部員工（含其他通路）提供服務， 其未接觸客戶資訊或服務之行動應 用程式（如:行動差勤、行動電子書 等）",
+              "每五年委由專業機構完成資安檢測"
+            ],
+            "resolved_cells": [
+              "第三類",
+              "對內部員工（含其他通路）提供服務， 其未接觸客戶資訊或服務之行動應 用程式（如:行動差勤、行動電子書 等）",
+              "每五年委由專業機構完成資安檢測"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "unresolved_merge_count": 0
+      }
+    ]
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.28.3.1",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      15,
+      16
+    ],
+    "page_start": 15,
+    "page_end": 16,
+    "content": "1. 初次上架前，屬第一、二類者，應委由專業機構完成資安檢測；屬第\n三類者，應通過資安檢測程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.28.3.2",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "2. 更新上架前，應通過資安檢測程序；若涉有重大變更作業或行動應用\n程式版本大幅更新時，應委由專業機構完成資安檢測。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.28.3.3",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)",
+      "3."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "3. 重大變更作業包括但不限於保單投保交易、涉及資金轉移、身分辨識\n及客戶權益等有重大相關項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.28.3.4",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)",
+      "4."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "4. 如因故需緊急變更過版時，應於兩個月內完成上述檢測。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.29.1",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(一)"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "(一)專業機構之遴選方法。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.29.2",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(二)"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "(二)專業機構之評鑑機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.29.3.1",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "1. 檢測標的。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.29.3.2",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "2. 檢測範圍之宣告。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.29.3.3",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "3."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "3. 檢測時程。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "23.29.3.4",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "4."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "4. 檢測方式、環境與使用之工具。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "23.29.3.5",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "5."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "5. 檢測執行人員與負責之項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "6.",
+    "level": 3,
+    "sibling_order": 6,
+    "path_key": "23.29.3.6",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "6."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "6. 測試項目為「符合要求或不符合要求」之判定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "7.",
+    "level": 3,
+    "sibling_order": 7,
+    "path_key": "23.29.3.7",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)",
+      "7."
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "7. 測試過程紀錄及佐證資料，不符合要求之檢測項目應於報告中提出。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 30,
+    "path_key": "23.30",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "七、 啟動應用程式時，如偵測行動裝置疑似遭破解，應提示使用者注意風險，且\n與行 動裝置有關之安全設計（如設備指定、生物識別、敏感資料保護等），\n應評估其有效性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 31,
+    "path_key": "23.31",
+    "path_names": [
+      "第 22 條",
+      "八、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "八、 行動應用程式屬第一類，對外部提供服務或直接提供客戶自動化服務者，應\n於官 網上提供應用程式之名稱、版本與下載位置。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 32,
+    "path_key": "23.32",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "九、 行動應用程式屬第一類，應建立偽冒應用程式偵測機制，以維客戶權益。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十、",
+    "level": 1,
+    "sibling_order": 33,
+    "path_key": "23.33",
+    "path_names": [
+      "第 22 條",
+      "十、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "十、 採用憑證技術進行傳輸加密時，應用程式應建立可信任憑證清單並驗證完整\n憑證 鏈及其憑證有效性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十一、",
+    "level": 1,
+    "sibling_order": 34,
+    "path_key": "23.34",
+    "path_names": [
+      "第 22 條",
+      "十一、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "十一、 應進行身分驗證相關資訊不以明文傳輸並具備帳戶鎖定機制，以防範自動\n化程式之登入或密碼更換嘗試。\n附錄：用語及定義",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 35,
+    "path_key": "23.35",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "一、行動裝置：係指包含但不限於智慧型手機、平板電腦等具通信及連網功能之\n設備。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 36,
+    "path_key": "23.36",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      16
+    ],
+    "page_start": 16,
+    "page_end": 16,
+    "content": "二、專業機構：係指非會員公司之法人機構，其應具備經濟部工業局「行動應用\nAPP 基本資安自主檢測推動制度」列示之合格檢測實驗室資格。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 37,
+    "path_key": "23.37",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      16,
+      17
+    ],
+    "page_start": 16,
+    "page_end": 17,
+    "content": "三、遭破解之行動裝置：係指透過系統程序取得手機最高權限，藉以突破手機作\n業系統之基本防護，可能導致遭植入惡意程式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 38,
+    "path_key": "23.38",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "content": "四、完成資安檢測：係指辦理資安檢測，並針對相關漏洞規劃修補作業，於一定\n時間內完成修補。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 39,
+    "path_key": "23.39",
+    "path_names": [
+      "第 22 條",
+      "五、"
+    ],
+    "pages": [
+      17
+    ],
+    "page_start": 17,
+    "page_end": 17,
+    "content": "五、黑箱測試：動態分析或動態程式碼安全性檢測，主要用於受測主機資訊不足\n的情況下進行測試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 40,
+    "path_key": "23.40",
+    "path_names": [
+      "第 22 條",
+      "六、"
+    ],
+    "pages": [
+      17,
+      18
+    ],
+    "page_start": 17,
+    "page_end": 18,
+    "content": "六、憑證：指載有簽章驗證資料，提供行動應用程式鑑別伺服器身分及資料傳輸\n加密使用。\n附件三、保險業運用新興科技作業原則",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "壹、",
+    "level": 1,
+    "sibling_order": 41,
+    "path_key": "23.41",
+    "path_names": [
+      "第 22 條",
+      "壹、"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "壹、 為協助保險業適當管理運用新興科技之風險，並保障消費者權益，特訂定本\n作業原則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "貳、",
+    "level": 1,
+    "sibling_order": 42,
+    "path_key": "23.42",
+    "path_names": [
+      "第 22 條",
+      "貳、"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "貳、 雲端服務安全控管",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.43.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(一) 雲端服務：係指服務提供者以租借方式提供個人或企業得承租其網路、\n伺服器、儲存空間、基礎設施、資安設備、系統軟體、應用程式、分析\n與計算等資源，以達資源共享之服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.43.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(二) 軟體即服務（SaaS）：雲端服務業者提供軟體使用，承租人能使用軟體，\n但並不掌控軟體、作業系統、硬體。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.43.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(三) 平台即服務（PaaS）：雲端服務業者提供作業系統使用，承租人能於此\n作業系統操作其軟體，可掌控運作軟體的環境也擁有作業系統部分掌控\n權，但並不掌控作業系統、硬體。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.43.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(四)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(四) 基礎設施即服務（IaaS）：雲端服務業者提供基礎運算資源（如處理能\n力、儲存空間、網路元件或中介軟體），承租人能掌控作業系統、儲存\n空間、已部署的應用程式及網路元件（如防火牆、負載平衡器等），但\n並不掌控雲端基礎運算資源。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 44,
+    "path_key": "23.44",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "二、 本安全控管範圍不包含僅提供會員公司內部使用且不涉及客戶資料處理之\n服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 45,
+    "path_key": "23.45",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "三、 應制定雲端服務管理政策，至少每年檢視一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 46,
+    "path_key": "23.46",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "四、 若使用雲端服務涉及保險業作業委託他人處理應注意事項之範疇，應依據其\n規定辦理監督與查核、境外規定要求、緊急應變及營運持續計畫等機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.47.1",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(一) 應評估雲端服務提供者之合格條件、服務水準、復原時間、備援機制、\n權責歸屬及資訊安全防護等項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.47.2",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(二) 應評估雲端服務提供之平台、協定、介面、檔案格式等，以確保互通性\n與可移植性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.47.3",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(三) 應確保雲端服務提供者提供之資源與其他承租人所使用之資源各自獨\n立，互不影響（如防火牆區隔）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.47.4",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(四) 應與雲端服務提供者簽訂服務協議，維持所需之服務水準並定期提出報\n告與操作 紀錄（如服務水準報告、系統變更紀錄、作業系統映像檔存\n取紀錄等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "23.47.5",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(五)"
+    ],
+    "pages": [
+      18
+    ],
+    "page_start": 18,
+    "page_end": 18,
+    "content": "(五) 保險業應確保資料之刪除、銷毀或不可復原，並留存必要之佐證紀錄以\n供查驗。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 48,
+    "path_key": "23.48",
+    "path_names": [
+      "第 22 條",
+      "六、"
+    ],
+    "pages": [
+      18,
+      19
+    ],
+    "page_start": 18,
+    "page_end": 19,
+    "content": "六、 應針對所傳輸或儲存之客戶資料或敏感資料，建置適當之保護設備或技術，\n採取適當之存取管制（如資料加密）。採用加密演算法者，應能妥善保護加\n密金鑰（如使用硬體安全模組）；另應明訂客戶資料保存期限及應留存之相\n關重要軌跡紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 49,
+    "path_key": "23.49",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "七、 應監控並建立資訊安全事件通報程序。遇事件發生時，相關單位及人員應依\n循前述通報程序辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 50,
+    "path_key": "23.50",
+    "path_names": [
+      "第 22 條",
+      "八、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "八、 應於服務合約終止或轉移時，將使用之作業系統映像檔、儲存空間、快取空\n間、備份媒體、客戶資料或敏感資料等全數刪除或銷毀，並留存刪除或銷毀\n之紀錄，以供事後確認。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 51,
+    "path_key": "23.51",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "九、 應遵循「個人資料保護法」，資料當事人如申請行使其權利，要求停止處理\n或利用其資料，應確保其資料皆從雲端刪除或提供相關佐證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十、",
+    "level": 1,
+    "sibling_order": 52,
+    "path_key": "23.52",
+    "path_names": [
+      "第 22 條",
+      "十、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "十、 提供電子商務服務者，應符合「保險業經營電子商務自律規範」及「保險業\n電子商務身分驗證之資訊安全作業準則」規定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "參、",
+    "level": 1,
+    "sibling_order": 53,
+    "path_key": "23.53",
+    "path_names": [
+      "第 22 條",
+      "參、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "參、 社群媒體控管程序",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 54,
+    "path_key": "23.54",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "一、社群媒體係指一交流平台，參與者透過與其他單一或多位參與者單向分享或\n雙向互動，進行內容產出、知識分享、討論共創之平台。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 55,
+    "path_key": "23.55",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "二、本控管程序不包含會員公司內部使用或與個別客戶溝通使用之平台。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 56,
+    "path_key": "23.56",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "三、應制定社群媒體管理政策，至少每年檢視一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 57,
+    "path_key": "23.57",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "四、應制定社群媒體使用守則，明確列出可接受使用之社群媒體、功能及使用規\n則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 58,
+    "path_key": "23.58",
+    "path_names": [
+      "第 22 條",
+      "五、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "五、應制定會員公司發言規範，明確定義各角色被授予之發言權責，並避免非授\n權之公務言論發表。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 59,
+    "path_key": "23.59",
+    "path_names": [
+      "第 22 條",
+      "六、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "六、應制定內容過濾與監視政策，其監視內容應至少包含防止客戶隱私及會員公\n司機密外洩、非授權或偽冒身分發言及不可有攻擊或詆毀同業之情事。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 60,
+    "path_key": "23.60",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "七、應制定不當發言之緊急應變程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 61,
+    "path_key": "23.61",
+    "path_names": [
+      "第 22 條",
+      "八、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "八、應制定社群媒體異常事件通報程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 62,
+    "path_key": "23.62",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "九、如有不當發言，應留存通聯紀錄，以供日後調查使用。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "肆、",
+    "level": 1,
+    "sibling_order": 63,
+    "path_key": "23.63",
+    "path_names": [
+      "第 22 條",
+      "肆、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "肆、 自攜裝置安全控管",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 64,
+    "path_key": "23.64",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "一、自攜裝置係指非屬公司資產、透過該裝置以無線或有線通訊方式連接至會員\n公司內部網路，存取作業系統或檔案服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 65,
+    "path_key": "23.65",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "二、應制定自攜裝置管理政策，至少每年檢視一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 66,
+    "path_key": "23.66",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "三、應列出允許使用之自攜裝置類型、作業系統、應用系統或服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 67,
+    "path_key": "23.67",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "四、對自攜裝置所採取之相關措施，應先取得裝置持有者同意，以避免爭議。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 68,
+    "path_key": "23.68",
+    "path_names": [
+      "第 22 條",
+      "五、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "五、應列冊管理使用人員與裝置，至少每年審閱一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 69,
+    "path_key": "23.69",
+    "path_names": [
+      "第 22 條",
+      "六、"
+    ],
+    "pages": [
+      19
+    ],
+    "page_start": 19,
+    "page_end": 19,
+    "content": "六、應建置使用人員身分與裝置識別機制(如帳號密碼識別、裝置識別碼 )。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 70,
+    "path_key": "23.70",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      19,
+      20
+    ],
+    "page_start": 19,
+    "page_end": 20,
+    "content": "七、應制定自攜裝置連網環境標準，如未符合標準(如作業系統疑似遭破解或提\n權、未 安裝病毒防護、重大漏洞未修復)，應限制其連網功能。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 71,
+    "path_key": "23.71",
+    "path_names": [
+      "第 22 條",
+      "八、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "八、應建置自攜裝置資料保護措施(如資料加密或遮罩)，並採取適當之存取管制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 72,
+    "path_key": "23.72",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "九、應制定自攜裝置遺失處理程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "伍、",
+    "level": 1,
+    "sibling_order": 73,
+    "path_key": "23.73",
+    "path_names": [
+      "第 22 條",
+      "伍、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "伍、 生物特徵資料安全控管",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.74.1",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(一)原始生物特徵資料:是指透過感應器(如掃描器、照相機)所擷取的原始\n資料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.74.2",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(二)假名標識符:是指用於生物特徵比對之資料，其內容不為原始生物特徵\n資料之一部份。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.74.3",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(三)輔助資料:是指一演算法或機制，用來將原始生物特徵資料分離產生假\n名標識符。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.74.4",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(四)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(四)生物特徵資料:指包含原始生物特徵資料、假名標識符及輔助資料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "23.74.5",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(五)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(五)身分識別資料:為非生物特徵資料之個人資料(如身分證字號、出生日期\n等)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(六)",
+    "level": 2,
+    "sibling_order": 6,
+    "path_key": "23.74.6",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(六)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(六)錯誤拒絕率:是指同一人卻因比對其留存之生物特徵資料誤認為不同特\n徵而拒絕的機率。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(七)",
+    "level": 2,
+    "sibling_order": 7,
+    "path_key": "23.74.7",
+    "path_names": [
+      "第 22 條",
+      "一、",
+      "(七)"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "(七)錯誤接受率:是指不同人卻因比對其留存之生物特徵資料誤認為相同特\n徵而接受的機率。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 75,
+    "path_key": "23.75",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "二、運用生物特徵資料做為識別客戶身分時，其蒐集、處理及利用之行為，應納\n入個資管理機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 76,
+    "path_key": "23.76",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "三、應針對生物識別機制，建立其錯誤接受率及錯誤拒絕率之標準，並每年定期\n檢視。若不符合會員公司要求時，應建立補償措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 77,
+    "path_key": "23.77",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "四、應於蒐集生物特徵資料時，取得客戶同意，並讓客戶充份了解所蒐集之目的\n及方式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 78,
+    "path_key": "23.78",
+    "path_names": [
+      "第 22 條",
+      "五、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "五、生物特徵資料儲存於會員公司內部系統時，應將原始生物特徵資料去識別化\n使其難以還原、將原始生物特徵資料及假名標識符進行加密儲存、 將生物\n特徵資料分別儲存於不同之儲存媒體(如資料庫)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 79,
+    "path_key": "23.79",
+    "path_names": [
+      "第 22 條",
+      "六、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "六、應考量現行業務情況，必要時更新客戶之生物特徵資料，以確保生物特徵資\n料不會隨時間而失效(如人臉辨識、聲紋辨識等)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 80,
+    "path_key": "23.80",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "七、當會員公司無法以生物特徵資料識別客戶時，應提供重新蒐集生物特徵資料\n之管道。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 81,
+    "path_key": "23.81",
+    "path_names": [
+      "第 22 條",
+      "八、"
+    ],
+    "pages": [
+      20
+    ],
+    "page_start": 20,
+    "page_end": 20,
+    "content": "八、應確保生物特徵資料於傳輸過程中之訊息隱密性、完整性、不可重複性及來\n源辨識性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 82,
+    "path_key": "23.82",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      20,
+      21
+    ],
+    "page_start": 20,
+    "page_end": 21,
+    "content": "九、應於首次使用生物辨識技術、每年定期及技術有重大變更時(如輔助資料、\n技術提供商)，經資訊部門檢視該技術足以有效識別客戶身分，其評估範圍\n包含但不限於模擬偽冒生物特徵資料、確認符合相關法規要求、確認生物辨\n識機制、作業流程及補償措施之風險控管。\n附件四、保險業使用物聯網設備作業準則",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 83,
+    "path_key": "23.83",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "一、 為確保保險業使用物聯網(Internet of Things,IoT)設備之安全性，以確保\n適當管理運用物聯網設備之風險，並保障消費者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 84,
+    "path_key": "23.84",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "二、 本作業準則所稱物聯網設備係指具實際連線於 Internet 或 Intranet 之辦\n公公用設備（包括但不限於事務機、網路電話機、傳真機及印表機）、門禁\n監控（包括但不限於門禁、DVR等）、環境管控（包括但不限於環境感測器、\n網路攝影機）等實體裝置或設備。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 85,
+    "path_key": "23.85",
+    "path_names": [
+      "第 22 條",
+      "三、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "三、 應建立物聯網設備管理清冊並至少每年更新一次，以識別設備用途、設備IP、\n存放位置與管理人員，評估適當之實體環境控管措施及存取權限管制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 86,
+    "path_key": "23.86",
+    "path_names": [
+      "第 22 條",
+      "四、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "四、 設備應具備安全性更新機制，以維持設備之整體安全性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 87,
+    "path_key": "23.87",
+    "path_names": [
+      "第 22 條",
+      "五、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "五、 為確保經授權之使用者始得進行資料存取、設備管理及安全性更新等操作，\n設備應 具備身分驗證機制，並應進行初始密碼變更，密碼長度不應少於八\n位，建議採英數字混合使用，且宜包含大小寫英文字母或符號，並以最小權\n限原則針對不同的使用 者身分進行授權，若設備現階段未能符合本條所要\n求之控管措施，則依本作業準則第九條規定辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 88,
+    "path_key": "23.88",
+    "path_names": [
+      "第 22 條",
+      "六、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "六、 設備以無線連接網路者，應採用具加密協定之無線存取點連接網路，並以網\n路卡卡號白名單等機制進行設備綁定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 89,
+    "path_key": "23.89",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "七、 設備應關閉不必要之網路連線及服務，限制其對網際網路不必要之網路連線；\n並避免使用對外公開之網際網路位置，如設備採用公開的網際網路位置，應\n於設備前端設置防火牆以防護，並採用白名單方式進行存取過濾或該物聯網\n設備不與公司內部網路介接。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 90,
+    "path_key": "23.90",
+    "path_names": [
+      "第 22 條",
+      "八、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "八、 應與設備供應商簽訂資訊安全相關協議，以明確約定相關責任。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 91,
+    "path_key": "23.91",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "九、 設備存在已知弱點且無法修補或更新，無法落實前述安全控管規範，應限制\n網際網路連線能力，加強存取控制或進行網路連線行為監控；並視需要訂定\n汰換期程。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十、",
+    "level": 1,
+    "sibling_order": 92,
+    "path_key": "23.92",
+    "path_names": [
+      "第 22 條",
+      "十、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "十、 採購物聯網設備時，應優先採購經濟部與國家通訊傳播委員會共同發布物聯\n網資安標章認驗證制度之具有安全標章之物聯網設備。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十一、",
+    "level": 1,
+    "sibling_order": 93,
+    "path_key": "23.93",
+    "path_names": [
+      "第 22 條",
+      "十一、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "十一、 應每年對物聯網設備使用及管理人員安排適當之資訊安全教育訓練。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十二、",
+    "level": 1,
+    "sibling_order": 94,
+    "path_key": "23.94",
+    "path_names": [
+      "第 22 條",
+      "十二、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "十二、 汰換物聯網設備時，應訂定汰除作業程序以避免儲存於物聯網設備資料外\n洩。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "十三、",
+    "level": 1,
+    "sibling_order": 95,
+    "path_key": "23.95",
+    "path_names": [
+      "第 22 條",
+      "十三、"
+    ],
+    "pages": [
+      21
+    ],
+    "page_start": 21,
+    "page_end": 21,
+    "content": "十三、 針對不具備遠端操控介面功能之感測器，仍應遵循本作業準則三、七、八、",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 96,
+    "path_key": "23.96",
+    "path_names": [
+      "第 22 條",
+      "九、"
+    ],
+    "pages": [
+      21,
+      22
+    ],
+    "page_start": 21,
+    "page_end": 22,
+    "content": "九、十二之要求辦理。\n附件五、保險業網路電子商務身分驗證之資訊安全作業準則",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 97,
+    "path_key": "23.97",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "一、 為協助保險業使用網路身分驗證時，可建立有效的安全驗證機制，以確保減\n少身分冒用及詐騙情事發生，降低保戶與各公司之機敏資料外洩之風險，特\n訂定本作業準則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.98.1",
+    "path_names": [
+      "第 22 條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(一) 網路身分驗證：係指於網路應用系統通過特定的身分驗證機制，以確認\n是否為客戶本人。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.98.2",
+    "path_names": [
+      "第 22 條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(二) 多因子驗證（Multi-Factor Authentication,MFA）：係指為強化帳號密\n碼管理，降低系統相關帳號密碼遭假冒或竊用之風險，提高系統整體安\n全性並使用二種以上因子驗證方式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.99.1",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(一)應至少8位數。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.99.2",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(二)應採英數字混合使用，且宜包含大小寫英文字母或符號。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.99.3",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(三)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(三)不得使用客戶之統一編號及身分證字號等顯性資料作為密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.99.4",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(四)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(四)不應訂為相同的英數字、連續英文字或連號數字，預設密碼不在此限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "23.99.5",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(五)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(五)密碼與代號/帳號不應相同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(六)",
+    "level": 2,
+    "sibling_order": 6,
+    "path_key": "23.99.6",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(六)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(六)密碼連續錯誤達五次，各公司應做妥善處理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(七)",
+    "level": 2,
+    "sibling_order": 7,
+    "path_key": "23.99.7",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(七)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(七)變更密碼不得與前一次相同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(八)",
+    "level": 2,
+    "sibling_order": 8,
+    "path_key": "23.99.8",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(八)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(八)首次登入時，應強制變更預設密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(九)",
+    "level": 2,
+    "sibling_order": 9,
+    "path_key": "23.99.9",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(九)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(九)密碼超過一年未變更，各公司應妥善提醒客戶密碼變更事宜。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.99.10.1",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(十)",
+      "1."
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "1. 密碼於儲存時應先進行不可逆運算（如雜湊演算法），雜湊值應進行\n加密保護或加入不可得知的資料運算。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.99.10.2",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(十)",
+      "2."
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "2. 採用加密演算法者，其金鑰應儲存於軟體式金鑰管理器並與原資料\n庫區隔，或搭配經第三方認證（如 FIPS 140-2 Level 3 以上）之\n硬體安全模組並限制明文匯出功能等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.100.1",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(一)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(一)應至少6位數。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.100.2",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(二)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(二)密碼與帳號不應相同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.100.3",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(三)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(三)輸入密碼連續錯誤達五次，該密碼即失效。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.100.4",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(四)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(四)每次密碼有效性不得逾 5分鐘，逾時即需重新申請發給新密碼。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.101.1",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(一)內政部核發之自然人憑證與行動自然人憑證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.101.2",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      22
+    ],
+    "page_start": 22,
+    "page_end": 22,
+    "content": "(二)金融機構核發之金融憑證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.101.3",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      22,
+      23
+    ],
+    "page_start": 22,
+    "page_end": 23,
+    "content": "(三)金融行動身分識別聯盟之「金融機構辦理快速身分識別機制」(金融\nFIDO) 。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.101.4",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(四)Mobile ID 行動身分識別服務應由提供手機門號之電信業者進行身分\n驗證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "23.101.5",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(五)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(五)除第一款至第四款規定之認證方式外，於其他法令或相關函釋另有規定\n者，從其規定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.102.1",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(一)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(一)用戶與保險業所約定之資訊，且無第三人知悉（如密碼、圖形鎖、手勢\n等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.102.2",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(二)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(二)用戶所持有之設備，保險業應確認該設備為用戶與保險業所約定持有之\n實體設備（如密碼產生器、密碼卡、晶片卡、電腦、行動裝置、憑證載\n具等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.102.3",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(三)用戶提供給保險業其所擁有之生物特徵（如指紋、臉部、虹膜、聲音、\n掌紋、靜脈、簽名等），保險業應直接或間接驗證該生物特徵。間接驗\n證係指由用戶端設備（如行動裝置）驗證或委由第三方驗證，僅讀取驗\n證結果，必要時應增加驗證來源辨識。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 103,
+    "path_key": "23.103",
+    "path_names": [
+      "第 22 條",
+      "七、"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "七、各會員公司電子商務應用系統得採用國際組織 FIDO聯盟之身分驗證機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.104.1",
+    "path_names": [
+      "第 22 條",
+      "八、",
+      "(一)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(一)建立身份驗證機制應防範自動化程式之登入或密碼更換嘗試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.104.2",
+    "path_names": [
+      "第 22 條",
+      "八、",
+      "(二)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(二)當進行密碼重設機制(如忘記密碼)時，應針對使用者重新身分確認，並\n發送一次性及具有時效性符記。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.104.3",
+    "path_names": [
+      "第 22 條",
+      "八、",
+      "(三)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(三)供應商或合作廠商之網路身分驗證，應依合作性質建立適當控管機制，\n如限制登入 IP及加強進行登入身分核實。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.105.1",
+    "path_names": [
+      "第 22 條",
+      "九、",
+      "(一)"
+    ],
+    "pages": [
+      23
+    ],
+    "page_start": 23,
+    "page_end": 23,
+    "content": "(一)當進行網路投保及網路保險服務時，應符合保險業辦理電子商務應注意\n事項規範之規定辦理網路投保業務需進行身分驗證作業。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.105.2",
+    "path_names": [
+      "第 22 條",
+      "九、",
+      "(二)"
+    ],
+    "pages": [
+      23,
+      24
+    ],
+    "page_start": 23,
+    "page_end": 24,
+    "content": "(二)當進行保全/理賠聯盟鏈契約變更及理賠申請時，應符合保全/理賠聯盟\n鏈業務應遵循事項規範推播通知業務進行註冊及身分驗證作業，同時也\n應符合保險業辦理電子商務應注意事項之網路保險服務之身分驗證作\n業之規範以及所屬可執行事項。\n附件六、保險業核心資通系統作業委外資安注意事項",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 106,
+    "path_key": "23.106",
+    "path_names": [
+      "第 22 條",
+      "一、"
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "一、本注意事項目的\n為協助保險業於辦理核心資通系統作業委外過程，於各階段(包括「計畫作\n業」、「招標」、「決標」、「履約管理」、「驗收」及「保固作業」等)考量相關\n資訊安全需求，以適當管理供應鏈風險，提升相關系統作業委外安全，特訂\n定本注意事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 107,
+    "path_key": "23.107",
+    "path_names": [
+      "第 22 條",
+      "二、"
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "二、本注意事項所稱核心資通系統，係指核心資訊系統與涉及核心業務持續運作\n之重要資訊系統。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.108.1.1",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "1. 篩選適合委託辦理之業務項目，確定該項業務委外之資訊安全可行性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.108.1.2",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "2. 將資安列入成本估算項目，進行效益分析。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.108.1.3",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "3. 評估資訊系統作業委外資安風險與對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.108.2",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "(二)核心資通系統作業委外開發案，專案成員中應有資安人員參與。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.108.3.1",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "1. 委外業務涉及敏感性或含資安疑慮時，應識別委外廠商之限制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.108.3.2",
+    "path_names": [
+      "第 22 條",
+      "三、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "2. 宜邀請廠商提出資安對應措施方案。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.109.1.1",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "1. 採購產品或服務之資安要求事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.109.1.2",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "2. 明定資安要求事項之服務水準（如：系統可用率、安全管控機制、稽\n核作業、資安檢測與弱點修補之責任與義務等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.109.1.3",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "3. 未符合資安要求事項或服務水準時，應訂定罰責標準，依損害程度向\n委外廠商進行求償或罰款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.109.2",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(二)"
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "(二) 準備保密協議書。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.109.3.1",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "1. 委外廠商之資安能量，評估核心系統是否承接過多會員公司之專案及\n其因應措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.109.3.2",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "2. 要求委外廠商允許經授權之第三方稽核，以確認所定義資安要求事項\n之遵循性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "23.109.3.3",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(三)",
+      "3."
+    ],
+    "pages": [
+      24
+    ],
+    "page_start": 24,
+    "page_end": 24,
+    "content": "3. 委外廠商對其提供產品或服務之資安管理機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.109.4",
+    "path_names": [
+      "第 22 條",
+      "四、",
+      "(四)"
+    ],
+    "pages": [
+      24,
+      25
+    ],
+    "page_start": 24,
+    "page_end": 25,
+    "content": "(四) 評估委外位置與提供產品或服務之位置，對資安是否有不利影響，並納\n入評估項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.110.1",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(一) 應訂定相關資訊安全管理責任，載明與委外廠商雙方之資安角色與責任，\n若有分包，需一併確認分包計畫可能產生之資安風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.110.2",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(二) 資訊安全事件之通報流程及處理程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.110.3",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(三) 委外廠商履行合約或協議時所提供軟體(或交付標的物)為交付產品，需\n具備合法性且不得違反智慧財產權之規定或侵害第三人合法權益，確認\n軟體(含元件)之使用版權及安全性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.110.4",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(四) 委外廠商進行資訊系統開發或維運時，若涉及客戶、員工個人資料，需\n考量具個人資料安全防範措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "23.110.5",
+    "path_names": [
+      "第 22 條",
+      "五、",
+      "(五)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(五) 委外廠商提供之優規產品或服務，仍需確認可能產生之資安風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.111.1",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(一)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(一) 建立委外廠商管理規範，其內容應含委外廠商之人員管控，雙方皆應指\n定專案負責人，負責督導及辦理各項資安要求事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.111.2",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(二)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(二) 持續識別資訊系統作業委外風險，並採取適當管控措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.111.3",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(三)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(三) 監督廠商於人員、實體環境及委外管理等資安要求事項是否落實執行，\n並建立適當檢驗機制，以確保管理機制有效落實。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.111.4",
+    "path_names": [
+      "第 22 條",
+      "六、",
+      "(四)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(四) 委外廠商對相關作業人員進行資訊安全教育訓練，使其充分了解資安政\n策及責任。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.112.1",
+    "path_names": [
+      "第 22 條",
+      "七、",
+      "(一)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(一) 顧問訓練類：確認使用檢測工具的安全性和教育訓練時安裝軟體的安全\n性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "23.112.2.1",
+    "path_names": [
+      "第 22 條",
+      "七、",
+      "(二)",
+      "1."
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "1. 要求委外廠商揭露第三方程式元件之來源與授權。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "23.112.2.2",
+    "path_names": [
+      "第 22 條",
+      "七、",
+      "(二)",
+      "2."
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "2. 要求委外廠商提供資訊系統之安全性檢測證明，如：源碼檢測、弱點\n掃描或滲透測試等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "23.112.3",
+    "path_names": [
+      "第 22 條",
+      "七、",
+      "(三)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(三) 維運管理類：每半年執行系統弱點掃描。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "23.112.4",
+    "path_names": [
+      "第 22 條",
+      "七、",
+      "(四)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(四) 雲端服務類：確認雲端服務供應商宣稱之資安認證範圍（含功能）。\n委外關係終止或結束時，應依本自律規範第十六條第一項之規定辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.113.1",
+    "path_names": [
+      "第 22 條",
+      "八、",
+      "(一)"
+    ],
+    "pages": [
+      25
+    ],
+    "page_start": 25,
+    "page_end": 25,
+    "content": "(一) 保固服務：系統異常造成運作中斷或部分無法正常運作時，如可歸責於\n廠商時，廠商應依契約規定，履行保固服務或進行異常管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.113.2",
+    "path_names": [
+      "第 22 條",
+      "八、",
+      "(二)"
+    ],
+    "pages": [
+      25,
+      26
+    ],
+    "page_start": 25,
+    "page_end": 26,
+    "content": "(二) 異常管理：系統若有重大資安問題，應有變更計畫，評估潛在資安衝擊\n及提供變更及復原程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "23.114.1",
+    "path_names": [
+      "第 22 條",
+      "九、",
+      "(一)"
+    ],
+    "pages": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "content": "(一)於籌獲套裝軟體時，應確認可能產生之資安風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範(113.07.18金管保綜字第1130138369號 ).md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "23.114.2",
+    "path_names": [
+      "第 22 條",
+      "九、",
+      "(二)"
+    ],
+    "pages": [
+      26
+    ],
+    "page_start": 26,
+    "page_end": 26,
+    "content": "(二)核心資通系統作業委外服務案中，委外廠商有須結合第三方服務提供者\n(Third-party Service Provider,TSP)方能提供完整服務之情形，應將\nTSP可能產生之資安風險納入評估。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

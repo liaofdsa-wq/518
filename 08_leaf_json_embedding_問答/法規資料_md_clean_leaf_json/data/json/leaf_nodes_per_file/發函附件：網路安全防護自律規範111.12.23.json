@@ -1,0 +1,998 @@
+[
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "第一條",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "第一條"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "第一條 目的\n為強化證券商網路安全，特訂定本自律規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "2.1",
+    "path_names": [
+      "第二條",
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、資通系統：係指用以蒐集、控制、傳輸、儲存、流通、刪除資訊\n或對資訊為其他處理、使用或分享之系統。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "2.2",
+    "path_names": [
+      "第二條",
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、存取：係指存取資訊資產的各種方式，包含取得、使用、保管、\n查詢、修改、調整、銷毀等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "2.3",
+    "path_names": [
+      "第二條",
+      "三、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "三、網路設備：係指傳輸資料、應用程式、服務和多媒體所需的網路\n通訊元件，如防火牆、路由器、交換器…等，亦為組織的網路架\n構圖包含的項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "2.4",
+    "path_names": [
+      "第二條",
+      "四、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "四、資通安全事件：係指系統、服務或網路狀態經鑑別而顯示可能有\n違反資通安全政策或保護措施失效之狀態發生，影響資通系統機\n能運作，構成資通安全政策之威脅。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "2.5",
+    "path_names": [
+      "第二條",
+      "五、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "五、資訊資產：係指與資訊處理相關之資產，包括硬體、軟體、資料、\n文件及人員等(如：伺服器主機及使用者電腦之作業系統及應用\n程式等軟體資訊)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "2.6",
+    "path_names": [
+      "第二條",
+      "六、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "六、第一類證券商：係指依「證券暨期貨市場各服務事業建立內部控\n制制度處理準則」第三十六條之二條文指派資訊安全長之證券商\n或「建立證券商資通安全檢查機制-分級防護應辦事項附表」所\n列第一級、第二級、第三級證券商。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "2.7",
+    "path_names": [
+      "第二條",
+      "七、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "七、第二類證券商：係指非屬第一類證券商之證券商。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "2.8",
+    "path_names": [
+      "第二條",
+      "八、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "八、外國證券商：係指外資集團在台子公司或分公司。外國證券商如\n有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "3.1",
+    "path_names": [
+      "第三條",
+      "一、"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "一、網路架構圖\n應呈現證券商維持業務運作之必要網路環境設備(如：防火牆、\n路由器、交換器、系統設備、線路配置、伺服器與服務、無線網\n路)，另針對網段、路由規劃、主機 IP 位址、備援線路應有相\n關檔案紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.2.1",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)為確保網路架構安全，應獨立劃分各工作區域並落實網段隔\n離。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.2.2",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)網段應以維持業務運作劃分區域：如隔離區(非軍事區，\nDemilitarized Zone, DMZ)、營運區(Production, Prod.)、\n測試區(Unit Test, UT 或 User Acceptance Test, UAT)及\n其他等網段。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "3.2.3",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)證券商應定義外部網路與內部網路，外部網路連接網際網路，\n內部網路區域為組織人員與內部服務的伺服器配置區域。由\n外部網路到內部網路的流量需要經過存取控制，避免非允許\n的服務進入。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "3.2.4",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(四)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(四)證券商之內部網段區域劃分方式可依據組織內部單位、部門、\n業務性質等，並規範不同網段(VLAN)間的存取。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "3.2.5",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(五)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(五)證券商應使用適當方式隔離限制存取與特定服務，且應視區\n隔方式，定期檢視防火牆規則或存取控制清單(Access\nControl List, ACL)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.3.1",
+    "path_names": [
+      "第三條",
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)證券商如有提供無線網路供內/外部人員使用，無線網路存取\n保護應採用現行公開資訊已認可且無弱點之安全協定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.3.2",
+    "path_names": [
+      "第三條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)證券商應建立無線網路密碼原則，以降低密碼破解之風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "3.3.3",
+    "path_names": [
+      "第三條",
+      "三、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)證券商如允許內/外部人員使用外部設備存取內部網路，應提\n出申請並檢視設備安全性與相關授權，並限制存取範圍。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "4.1.1",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "(一)證券商應避免使用生命週期終止(End of Service, EOS/End\nof Life, EOL)之網路設備，並針對 EOS/EOL 之網路設備擬\n定汰除相關計畫。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "4.1.2",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(二)證券商應定期檢視官方發布之軟體、韌體、弱點修補程式之\n更新，將網路設備更新至最新版本或廠商建議版本。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "4.1.3",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(三)證券商經由網際網路連線至內部網路進行遠距之系統維護，\n應落實身份認證機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "4.1.4",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(四)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(四)網路設備管理人員之管理帳號應僅限管理人員使用且不得共\n用帳號，管理帳號之密碼設定原則應遵循證券商之身份驗證\n管理規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "4.1.5",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(五)證券商應限制網路設備管理使用之人員、設備、 IP、網段，\n或採用一次性密碼(One-time password, OTP)、短暫性存取\n(Temporary Privileged Access)等措施，並留存使用人員操\n作紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(六)",
+    "level": 2,
+    "sibling_order": 6,
+    "path_key": "4.1.6",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(六)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(六)證券商所有網路設備之防護基準應依「本公會資通系統安全\n防護基準自律規範」。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "4.2.1",
+    "path_names": [
+      "第四條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(一)網路存取規則、防火牆規則等新增、異動、刪除應審核使用\n者需求，經評估資通安全風險程度後進行規則變更，並保留\n相關紀錄備查。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "4.2.2",
+    "path_names": [
+      "第四條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(二)網路設備規則設立應以使用者角色最小授權及正面表列為原\n則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "4.2.3",
+    "path_names": [
+      "第四條",
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(三)證券商應至少每年檢視一次網路設備規則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "4.3",
+    "path_names": [
+      "第四條",
+      "三、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "三、網路設備日誌\n證券商應留存網路設備存取日誌並至少保留三年，供留存備查。\n另應防止未經授權存取，並定期檢視以確保可用性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "4.4",
+    "path_names": [
+      "第四條",
+      "四、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "四、網路設備委外\n證券商所有網路設備若委由外部廠商維運或管理應依「本公會供\n應鏈風險管理自律規範」。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "5.1.1",
+    "path_names": [
+      "第五條",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "page_start": 3,
+    "page_end": 4,
+    "content": "(一)證券商應確保 SSL/TLS 憑證之有效性及合法性，以維持網路\n連線之安全性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "5.1.2",
+    "path_names": [
+      "第五條",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(二)證券商如提供網路下單服務，應訂定憑證交付程序，避免非\n本人取得憑證，並搭配與登入雙因子之不同因子驗證機制交\n付憑證，及全面使用認證機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "5.1.3",
+    "path_names": [
+      "第五條",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(三)證券商如使用網路專線與合作第三方機構網路連線，應架設\n防火牆，關閉非約定之埠號以確保內部網域安全。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "5.2",
+    "path_names": [
+      "第五條",
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、網路傳輸安全\n如有國際傳輸客戶個人資料時，證券商應建立加密傳輸機制，當\n涉及客戶資訊，傳輸前應告知當事人且不違反主管機關對國際傳",
+    "is_leaf": true,
+    "table_count": 1,
+    "tables": [
+      {
+        "table_id": "發函附件：網路安全防護自律規範111.12.23_table_1",
+        "cr": 1,
+        "ml": null,
+        "start_page": 4,
+        "raw_markdown": "[TABLE id=發函附件：網路安全防護自律規範111.12.23_table_1]\n|  |  | 外國證券商如為同集團內之傳 |\n| --- | --- | --- |\n| [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 | [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 | [@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳 |\n| 輸之規定。 |  |  |\n[/TABLE id=發函附件：網路安全防護自律規範111.12.23_table_1]",
+        "column_count": 3,
+        "header_rows": [
+          {
+            "row_index": 1,
+            "raw_cells": [
+              "",
+              "",
+              "外國證券商如為同集團內之傳"
+            ],
+            "resolved_cells": [
+              "",
+              "",
+              "外國證券商如為同集團內之傳"
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "data_rows": [
+          {
+            "row_index": 2,
+            "raw_cells": [
+              "[@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+              "[@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+              "[@1] 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳"
+            ],
+            "resolved_cells": [
+              "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+              "輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳",
+              "外國證券商如為同集團內之傳 輸，其間傳輸方式已符合所在國當地的法令規定，得排除國際傳"
+            ],
+            "merge_tags": [
+              "1",
+              "1",
+              "1"
+            ]
+          },
+          {
+            "row_index": 3,
+            "raw_cells": [
+              "輸之規定。",
+              "",
+              ""
+            ],
+            "resolved_cells": [
+              "輸之規定。",
+              "",
+              ""
+            ],
+            "merge_tags": [
+              null,
+              null,
+              null
+            ]
+          }
+        ],
+        "unresolved_merge_count": 0
+      }
+    ]
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "5.3.1",
+    "path_names": [
+      "第五條",
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(一)證券商應訂定遠端連線管理辦法，建立使用限制、組態需求、\n連線需求的遠距連線機制，亦應包含採多因子身分驗證機制、\n加密連線、採最小授權原則、留存完整使用者操作稽核軌跡、\n監控與警示異常操作行為、執行安全性漏洞更新等安控措施，\n並留存相關紀錄由權責主管定期覆核。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "5.3.2",
+    "path_names": [
+      "第五條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(二)證券商須透過安全的連線機制來阻擋惡意或未經授權之連線，\n並以最小權限原則設定規則及關閉非必要之埠號，並應監控\n網路流量及異常警告及中斷連線機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "6.1",
+    "path_names": [
+      "第六條",
+      "一、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "一、具網路下單服務或設有官方網站之證券商應建立分散式阻斷服務\n之防護機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "6.2",
+    "path_names": [
+      "第六條",
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、具有對外服務之資通系統者，應建置應用程式防火牆。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "6.3.1",
+    "path_names": [
+      "第六條",
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(一)證券商應定期評估自身網路環境安全，例如：作業系統、網\n站伺服器、瀏覽器、防火牆及防毒版本等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "6.3.2",
+    "path_names": [
+      "第六條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(二)證券商應定期修補網路環境之安全漏洞，並留存相關文件。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "6.3.3",
+    "path_names": [
+      "第六條",
+      "三、",
+      "(三)"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "page_start": 4,
+    "page_end": 5,
+    "content": "(三)第一類證券商資通系統應定期辦理系統滲透測試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "6.3.4",
+    "path_names": [
+      "第六條",
+      "三、",
+      "(四)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(四)第一類證券商應定期辦理資通安全健診，包含網路架構檢視、\n網路惡意活動檢視、使用者端電腦惡意活動檢視、伺服器主\n機惡意活動檢視及目錄伺服器設定及防火牆連線設定檢視。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "7.1",
+    "path_names": [
+      "第七條",
+      "一、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "一、證券商應訂定資通安全事件內部通報機制，包含正式之通報程序\n及資通安全事件通報聯絡人。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "7.2",
+    "path_names": [
+      "第七條",
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、於發生影響客戶權益或正常營運之資訊服務異常事件或資通安全\n事件應依「證券期貨市場資通安全事件通報應變作業注意事項」\n辦理，並採取適當應變程序及留存紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "7.3",
+    "path_names": [
+      "第七條",
+      "三、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "三、證券商遇有重大個人資料安全事故者，應立即通報主管機關。所\n稱重大個人資料安全事故，係指個人資料遭竊取、竄改、毀損、\n滅失或洩漏，將危及組織正常營運或大量當事人權益之情形。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：網路安全防護自律規範111.12.23.md",
+    "node_name": "第八條",
+    "level": 0,
+    "sibling_order": 8,
+    "path_key": "8",
+    "path_names": [
+      "第八條"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第八條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

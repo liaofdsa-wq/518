@@ -1,0 +1,1792 @@
+[
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、為使本自律規範適用範圍擴及電子QR Code保單，爰修正規範名稱（修正條\n文第2條第3至5項）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 2,
+    "path_key": "2",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "二、釐正原第5項誤植之文字(修正條文第2條第5項)。\n保險業辦理電子保單簽發及辦理電子化保險契約條款保單\n作業自律規範\n93年6月28日財政部台財保字第0930705614號函同意備查訂定\n103年8月26日金融監督管理委員會金管保综字第10302093141、10302093142號函准予備查修正\n110年10月6日金融監督管理委員會金管保綜字第1100430396號函同意備查修正\n111年9月5日金融監督管理委員會金管保綜字第1110437350號函同意備查修正\n113年4月29日金融監督管理委員會金管保綜字第1130132274號函同意備查修正",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 一 章",
+    "level": 0,
+    "sibling_order": 3,
+    "path_key": "3",
+    "path_names": [
+      "第 一 章"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "第 一 章 總則",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 1 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "3.1",
+    "path_names": [
+      "第 一 章",
+      "第 1 條"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "第 1 條\n為落實保險業簽發電子保單之紀錄保存、內部安全控制及契約範本等作業之管\n理，依據保險業設立許可及管理辦法第二十二條第二項規定訂定本自律規範。\n為督促各會員公司落實辦理電子化保險契約條款保單之紀錄保存、內部安全控\n制及契約範本等作業，亦納入本自律規範之適用。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 2 條",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "3.2",
+    "path_names": [
+      "第 一 章",
+      "第 2 條"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "第 2 條\n保險業簽發電子保單及辦理電子化保險契約條款保單作業，除法令另有規定\n外，應依據本自律規範辦理。\n前項所稱電子保單係指保險業與要保人訂立保險契約，並約定以電子文件方式\n簽發之保險單或暫保單。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第一項",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.2.1",
+    "path_names": [
+      "第 一 章",
+      "第 2 條",
+      "第一項"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "第一項所稱電子化保險契約條款保單，係指保險業與要保人訂定保險契約，並\n約定以紙本或電子文件搭配 QR Code或網址方式，提供保險契約條款簽發之保\n險單或暫保單。\n前項所稱以紙本或電子文件搭配 QR Code 或網址方式係指將保單內容拆分為以\n下二部份文件，以不同形式提供保戶：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 4,
+    "path_key": "4",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "一、紙本或電子文件：為具簽名、個人資料等文件，如要保書、條款審閱期間\n確認聲明書、重要事項告知書、QR Code 或網址等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 5,
+    "path_key": "5",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "二、電子化保險契約條款：保險契約條款以 QR Code、或網址之形式，印製於\n紙本文件、或載於電子文件提供保戶。\n保險公司應於要保文件中，取得保戶同意以紙本、或電子文件搭配 QR Code、\n或網址之形式提供保單。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 二 章",
+    "level": 0,
+    "sibling_order": 6,
+    "path_key": "6",
+    "path_names": [
+      "第 二 章"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "第 二 章 紀錄保存",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 3 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "6.1",
+    "path_names": [
+      "第 二 章",
+      "第 3 條"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "第 3 條\n保險業簽發電子保單及辦理電子化保險契約條款者，應至少保存下列項目之紀\n錄：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 7,
+    "path_key": "7",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "一、保險業向憑證機構申請使用、變更或廢止憑證等相關紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 8,
+    "path_key": "8",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "二、憑證載具啟用紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 9,
+    "path_key": "9",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "三、與簽發電子保單及辦理電子化保險契約條款有關之所有交易資料紀錄。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 4 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "9.1",
+    "path_names": [
+      "三、",
+      "第 4 條"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "第 4 條\n保險業保存已簽發電子保單及辦理電子化保險契約條款保單相關交易資料紀錄\n時，應使用加密之特定媒體儲存並委託公信第三者保存，並定期製作備份資\n料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 5 條",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "9.2",
+    "path_names": [
+      "三、",
+      "第 5 條"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "第 5 條\n已歸檔儲存之電子保單及電子化保險契約條款保單相關交易資料紀錄（以下簡\n稱歸檔資料），其保存期限於保險契約期滿或終止後至少五年；用以處理歸檔資\n料之應用程式保存期限亦同。\n已逾保存期間之歸檔資料如欲銷毀，應採取適當之安全防範措施，避免洩\n漏個人資料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 6 條",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "9.3",
+    "path_names": [
+      "三、",
+      "第 6 條"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "第 6 條\n保險業管理已簽發電子保單及辦理電子化保險契約條款之歸檔資料，應依下列\n原則控管：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 10,
+    "path_key": "10",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "一、不得新增、修改或刪除歸檔資料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 11,
+    "path_key": "11",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "二、必要時得將歸檔資料移至另一儲存媒體儲存，但應提供適當的保護，\n且保護等級應不低於原保護等級。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 12,
+    "path_key": "12",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "三、歸檔資料應存放於安全處所。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 13,
+    "path_key": "13",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "四、歸檔資料之管理應訂定相關作業程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "五、",
+    "level": 0,
+    "sibling_order": 14,
+    "path_key": "14",
+    "path_names": [
+      "五、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "五、應對歸檔資料之歸檔時間加以紀錄及管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "六、",
+    "level": 0,
+    "sibling_order": 15,
+    "path_key": "15",
+    "path_names": [
+      "六、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "六、欲取得歸檔資料者，除法令另有規定外，須提出申請並經允許後始得\n為之。歸檔資料之調閱，如涉及個人資料者，應依個人資料保護法相\n關規定辦理，未涉及個人資料者，則依內部調閱程序辦理。\n保險業委託公信第三者管理電子保單及電子化保險契約條款保單資料之控管原\n則，亦同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 三 章",
+    "level": 0,
+    "sibling_order": 16,
+    "path_key": "16",
+    "path_names": [
+      "第 三 章"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "第 三 章 內部安全控制",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 7 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "16.1",
+    "path_names": [
+      "第 三 章",
+      "第 7 條"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "page_start": 3,
+    "page_end": 4,
+    "content": "第 7 條\n保險業對於電腦網路設備安全之防護，應符合下列條件：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 17,
+    "path_key": "17",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "一、所有電腦網路設備應安置於安全地點。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 18,
+    "path_key": "18",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、安置電腦網路設備之地點應加裝不斷電系統或備用發電機，並依法令\n規定設置必要及合格之消防安全設施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 19,
+    "path_key": "19",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "三、安置電腦網路設備之地點應建立安全維護及人員進出之控管機制。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 8 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "19.1",
+    "path_names": [
+      "三、",
+      "第 8 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 8 條\n保險業簽發電子保單及辦理電子化保險契約條款者，應就網路管理之緊急事故\n應變與災害復原處理訂\n定下列程序：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 20,
+    "path_key": "20",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "一、緊急事故通報程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 21,
+    "path_key": "21",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、緊急事故應變程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 22,
+    "path_key": "22",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "三、災害復原程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 23,
+    "path_key": "23",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "四、測試程序。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 9 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "23.1",
+    "path_names": [
+      "四、",
+      "第 9 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 9 條\n為確保電子保單及電子化保險契約條款資訊安全，保險業應訂定網路安全規劃\n與管理作業，以達成整體網路作業之安全管理。\n前項網路安全規劃與管理作業應包括下列項目：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 24,
+    "path_key": "24",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "一、網路安全政策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 25,
+    "path_key": "25",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、網路安全服務管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 26,
+    "path_key": "26",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "三、網路安全連結。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 27,
+    "path_key": "27",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "四、主機設備安全防護。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "五、",
+    "level": 0,
+    "sibling_order": 28,
+    "path_key": "28",
+    "path_names": [
+      "五、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "五、身分識別和驗證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "六、",
+    "level": 0,
+    "sibling_order": 29,
+    "path_key": "29",
+    "path_names": [
+      "六、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "六、網域劃分與安全控制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "七、",
+    "level": 0,
+    "sibling_order": 30,
+    "path_key": "30",
+    "path_names": [
+      "七、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "七、防火牆安全管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "八、",
+    "level": 0,
+    "sibling_order": 31,
+    "path_key": "31",
+    "path_names": [
+      "八、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "八、遠端連線控制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "九、",
+    "level": 0,
+    "sibling_order": 32,
+    "path_key": "32",
+    "path_names": [
+      "九、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "九、網路安全監控。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "十、",
+    "level": 0,
+    "sibling_order": 33,
+    "path_key": "33",
+    "path_names": [
+      "十、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "十、監控處理程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "十一、",
+    "level": 0,
+    "sibling_order": 34,
+    "path_key": "34",
+    "path_names": [
+      "十一、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "十一、事件安全記錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "十二、",
+    "level": 0,
+    "sibling_order": 35,
+    "path_key": "35",
+    "path_names": [
+      "十二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "十二、入侵偵測檢視。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "十三、",
+    "level": 0,
+    "sibling_order": 36,
+    "path_key": "36",
+    "path_names": [
+      "十三、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "十三、防範電腦病毒及惡意軟體之攻擊。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 10 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "36.1",
+    "path_names": [
+      "十三、",
+      "第 10 條"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "第 10 條\n保險業應依下列原則管理負責電子保單及電子化保險契約條款作業之人員：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 37,
+    "path_key": "37",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "page_start": 4,
+    "page_end": 5,
+    "content": "一、就資訊系統與人員之管理及權責分工訂定相關作業辦法，並與員工簽署書\n面約定及定期宣導，以提醒員工注意。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 38,
+    "path_key": "38",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、訂定人員違反資訊安全規定之處理程序，並明訂處理電子保單及電子化保\n險契約條款相關交易資料之授權處理層級。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 39,
+    "path_key": "39",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "三、作業人員應定期接受有關資訊安全之訓練，並作成紀錄。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 11 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "39.1",
+    "path_names": [
+      "三、",
+      "第 11 條"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第 11 條\n保險業處理電子保單及電子化保險契約條款保單業務，如有依據保險業作業委\n託他人處理應注意事項辦理時，除依據第七條規定辦理外，應遵循下列原則：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 40,
+    "path_key": "40",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "一、事先研擬委外服務計畫書。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 41,
+    "path_key": "41",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、慎選具有足夠安全管理能力及經驗之廠商作為委辦對象。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 42,
+    "path_key": "42",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "三、事前審慎評估可能潛在之各項風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 43,
+    "path_key": "43",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "四、與委外廠商簽訂適當的資訊安全協定及課予相關安全管理責任，並納\n入契約條款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "五、",
+    "level": 0,
+    "sibling_order": 44,
+    "path_key": "44",
+    "path_names": [
+      "五、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "五、逐年檢討評估委外廠商之履約情形，如有未履行或未達約定之服務水\n準者，應要求檢討改進，必要時得終止部分或全部契約，並依法追究\n其責任。",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 12 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "44.1",
+    "path_names": [
+      "五、",
+      "第 12 條"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第 12 條\n保險業之電子保單及電子化保險契約條款安全稽核，應至少包含下列項目：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 45,
+    "path_key": "45",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "一、是否留有足供安全稽核之記錄資訊。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 46,
+    "path_key": "46",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、是否已建立防範不法入侵之機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 47,
+    "path_key": "47",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "三、是否已建立安全修復機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 48,
+    "path_key": "48",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "四、是否有定期更新修補程式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "五、",
+    "level": 0,
+    "sibling_order": 49,
+    "path_key": "49",
+    "path_names": [
+      "五、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "五、是否已建立警示系統，對於安全違例事件的發生能立即採取有效防範\n措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 四 章",
+    "level": 0,
+    "sibling_order": 50,
+    "path_key": "50",
+    "path_names": [
+      "第 四 章"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第 四 章 數位簽章作業管理",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 13 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "50.1",
+    "path_names": [
+      "第 四 章",
+      "第 13 條"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第 13 條\n保險業以電子文件方式簽發保險單或暫保單及辦理電子化保險契約條款時，應\n以數位簽章簽署。\n前項作業應列入「保險業內部控制制度及內部稽核作業手冊」中，以作為日後\n稽核之依據。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 14 條",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "50.2",
+    "path_names": [
+      "第 四 章",
+      "第 14 條"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第 14 條\n保險業採用數位簽章時，應與憑證機構簽訂契約，並依本規範之規定辦理\n。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 15 條",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "50.3",
+    "path_names": [
+      "第 四 章",
+      "第 15 條"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "page_start": 5,
+    "page_end": 6,
+    "content": "第 15 條\n保險業採用數位簽章機制時，應擬訂緊急應變計畫，以避免影響要保人之\n權益。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 16 條",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "50.4",
+    "path_names": [
+      "第 四 章",
+      "第 16 條"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "第 16 條\n保險業應依下列標準選擇憑證機構：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 51,
+    "path_key": "51",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "一、憑證機構之組織及性質",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（一）",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "51.1",
+    "path_names": [
+      "一、",
+      "（一）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（一）依公司法設立、辦理公司登記且符合相關營業項目之股份有限公司\n。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（二）",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "51.2",
+    "path_names": [
+      "一、",
+      "（二）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（二）以網路認證服務為主要營業項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（三）",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "51.3",
+    "path_names": [
+      "一、",
+      "（三）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（三）須具備公信第三者之特性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（四）",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "51.4",
+    "path_names": [
+      "一、",
+      "（四）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（四）所發行之憑證已符合電子簽章法及相關法令之規定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 52,
+    "path_key": "52",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "二、憑證機構之數位簽章機制",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（一）",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "52.1",
+    "path_names": [
+      "二、",
+      "（一）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（一）作業制度已符合電子簽章法及相關法令之規定。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（二）",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "52.2",
+    "path_names": [
+      "二、",
+      "（二）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（二）簽章金鑰（公開金鑰及私密金鑰）長度不低於 1024 位元（bits）\n，加密金鑰長度不低於 40 位元（bits）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "三、",
+    "level": 0,
+    "sibling_order": 53,
+    "path_key": "53",
+    "path_names": [
+      "三、"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "三、憑證機構簽證電腦系統之安全性",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（一）",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "53.1",
+    "path_names": [
+      "三、",
+      "（一）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（一）憑證機構簽發憑證之私密金鑰（Private Key） 須儲存於硬體亂碼\n化設備，任何情況下均不得以明碼方式輸出於硬體設備之外。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（二）",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "53.2",
+    "path_names": [
+      "三、",
+      "（二）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（二）擁有自有之獨立機房及憑證簽發營運系統，具備嚴謹之安全設施，\n並不得與其他業務共用同一設備。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（三）",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "53.3",
+    "path_names": [
+      "三、",
+      "（三）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（三）擁有一套網路及軟硬體備援系統，可以執行營運數位簽章系統異常\n時之備援與系統回復。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（四）",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "53.4",
+    "path_names": [
+      "三、",
+      "（四）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（四）營運之電腦機房及相關設備須設置國內，以利主管機關查核。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "四、",
+    "level": 0,
+    "sibling_order": 54,
+    "path_key": "54",
+    "path_names": [
+      "四、"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "四、憑證機構之作業制度",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（一）",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "54.1",
+    "path_names": [
+      "四、",
+      "（一）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（一）對於憑證紀錄保存期限於保險契約期滿或終止後至少五年。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（二）",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "54.2",
+    "path_names": [
+      "四、",
+      "（二）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（二）對憑證資料應妥善保管並負保密之責。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（三）",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "54.3",
+    "path_names": [
+      "四、",
+      "（三）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（三）禁止委託其他機構代為處理數位簽章業務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "五、",
+    "level": 0,
+    "sibling_order": 55,
+    "path_key": "55",
+    "path_names": [
+      "五、"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "五、憑證機構之內部稽核與控管",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（一）",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "55.1",
+    "path_names": [
+      "五、",
+      "（一）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（一）全部憑證作業，由實體設備的操作到憑證作業系統的執行，皆須確\n實留存相關作業文件及稽核紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "（二）",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "55.2",
+    "path_names": [
+      "五、",
+      "（二）"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "（二）除了管理與作業人員外，並設置安控稽核部門及稽核人員，負責查\n核相關業務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 五 章",
+    "level": 0,
+    "sibling_order": 56,
+    "path_key": "56",
+    "path_names": [
+      "第 五 章"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "page_start": 6,
+    "page_end": 7,
+    "content": "第 五 章 契約範本",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 17 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "56.1",
+    "path_names": [
+      "第 五 章",
+      "第 17 條"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "第 17 條\n保險業與消費者約定以電子文件方式簽發保險單或暫保單或電子化保險契約條\n款保單者，應本公平合理、平等互惠及誠信原則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 六 章",
+    "level": 0,
+    "sibling_order": 57,
+    "path_key": "57",
+    "path_names": [
+      "第 六 章"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "第 六 章 附則",
+    "is_leaf": false,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 18 條",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "57.1",
+    "path_names": [
+      "第 六 章",
+      "第 18 條"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "第 18 條\n為因應資訊技術之發展與進步，保險業應定期審視本自律規範內容進行調\n整修正。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理電子保單簽發及辦理電子化保險契約條款保單作業自律規範.md",
+    "node_name": "第 19 條",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "57.2",
+    "path_names": [
+      "第 六 章",
+      "第 19 條"
+    ],
+    "pages": [
+      7
+    ],
+    "page_start": 7,
+    "page_end": 7,
+    "content": "第 19 條\n本自律規範由中華民國人壽保險商業同業公會與中華民國產物保險商業同\n業公會共同訂定，經各該公會理事會通過，並報請主管機關備查後實施；\n修正時亦同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

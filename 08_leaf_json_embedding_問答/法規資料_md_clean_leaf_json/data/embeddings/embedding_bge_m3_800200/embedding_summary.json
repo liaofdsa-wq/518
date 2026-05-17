@@ -1,0 +1,20 @@
+{
+  "mode": "800200",
+  "model": "BAAI/bge-m3",
+  "source_root": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md",
+  "record_count": 1564,
+  "embedding_dim": 1024,
+  "chunk_size": 800,
+  "chunk_overlap": 200,
+  "normalize_embeddings": true,
+  "batch_size": 8,
+  "sample_size": null,
+  "doc_type_counts": {
+    "fixed_chunk_800_200": 1564
+  },
+  "files": {
+    "metadata": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_800200\\metadata.jsonl",
+    "embeddings": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_800200\\embeddings.npy",
+    "preview": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_800200\\embedding_preview.csv"
+  }
+}

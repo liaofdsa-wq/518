@@ -1,0 +1,19 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "mode": "table",
+  "record_count": 11369,
+  "sample_size": null,
+  "embedding_dim": 1024,
+  "doc_type_counts": {
+    "leaf": 0,
+    "table_chunk": 11369
+  },
+  "sources": {
+    "summary_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\summary"
+  },
+  "files": {
+    "embeddings": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table\\embeddings.npy",
+    "metadata": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table\\metadata.jsonl",
+    "preview_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table\\embedding_preview.csv"
+  }
+}

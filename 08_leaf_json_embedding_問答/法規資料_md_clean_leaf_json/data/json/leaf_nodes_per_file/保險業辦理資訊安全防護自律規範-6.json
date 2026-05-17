@@ -1,0 +1,695 @@
+[
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "一、",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、 本注意事項目的\n為協助保險業於辦理核心資通系統作業委外過程，於各階段(包括「計畫作\n業」、「招標」、「決標」、「履約管理」、「驗收」及「保固作業」等)考量相關\n資訊安全需求，以適當管理供應鏈風險，提升相關系統作業委外安全，特訂\n定本注意事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "二、",
+    "level": 0,
+    "sibling_order": 2,
+    "path_key": "2",
+    "path_names": [
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、 本注意事項所稱核心資通系統，係指核心資訊系統與涉及核心業務持續\n運作之重要資訊系統。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "1.",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.1.1",
+    "path_names": [
+      "三、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "1. 篩選適合委託辦理之業務項目，確定該項業務委外之資訊安全可行\n性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "2.",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.1.2",
+    "path_names": [
+      "三、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "2. 將資安列入成本估算項目，進行效益分析。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "3.",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "3.1.3",
+    "path_names": [
+      "三、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "3. 評估資訊系統作業委外資安風險與對策。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "3.2",
+    "path_names": [
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二) 核心資通系統作業委外開發案，專案成員中應有資安人員參與。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "1.",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.3.1",
+    "path_names": [
+      "三、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "1. 委外業務涉及敏感性或含資安疑慮時，應識別委外廠商之限制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "2.",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.3.2",
+    "path_names": [
+      "三、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "2. 宜邀請廠商提出資安對應措施方案。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "1.",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "4.1.1",
+    "path_names": [
+      "四、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "1. 採購產品或服務之資安要求事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "2.",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "4.1.2",
+    "path_names": [
+      "四、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "2. 明定資安要求事項之服務水準（如：系統可用率、安全管控機制、稽\n核作業、資安檢測與弱點修補之責任與義務等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "3.",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "4.1.3",
+    "path_names": [
+      "四、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "3. 未符合資安要求事項或服務水準時，應訂定罰責標準，依損害程度向\n委外廠商進行求償或罰款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "4.2",
+    "path_names": [
+      "四、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二) 準備保密協議書。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "1.",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "4.3.1",
+    "path_names": [
+      "四、",
+      "(三)",
+      "1."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "1. 委外廠商之資安能量，評估核心系統是否承接過多會員公司之專案及\n其因應措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "2.",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "4.3.2",
+    "path_names": [
+      "四、",
+      "(三)",
+      "2."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "2. 要求委外廠商允許經授權之第三方稽核，以確認所定義資安要求事項\n之遵循性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "3.",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "4.3.3",
+    "path_names": [
+      "四、",
+      "(三)",
+      "3."
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "3. 委外廠商對其提供產品或服務之資安管理機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "4.4",
+    "path_names": [
+      "四、",
+      "(四)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(四) 評估委外位置與提供產品或服務之位置，對資安是否有不利影響，並納\n入評估項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "5.1",
+    "path_names": [
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一) 應訂定相關資訊安全管理責任，載明與委外廠商雙方之資安角色與責\n任，若有分包，需一併確認分包計畫可能產生之資安風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "5.2",
+    "path_names": [
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二) 資訊安全事件之通報流程及處理程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "5.3",
+    "path_names": [
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三) 委外廠商履行合約或協議時所提供軟體(或交付標的物)為交付產品，需\n具備合法性且不得違反智慧財產權之規定或侵害第三人合法權益，確認\n軟體(含元件)之使用版權及安全性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "5.4",
+    "path_names": [
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(四) 委外廠商進行資訊系統開發或維運時，若涉及客戶、員工個人資料，需\n考量具個人資料安全防範措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(五)",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "5.5",
+    "path_names": [
+      "五、",
+      "(五)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(五) 委外廠商提供之優規產品或服務，仍需確認可能產生之資安風險。\n六、 履約管理階段",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "5.6",
+    "path_names": [
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一) 建立委外廠商管理規範，其內容應含委外廠商之人員管控，雙方皆應指\n定專案負責人，負責督導及辦理各項資安要求事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "5.7",
+    "path_names": [
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二) 持續識別資訊系統作業委外風險，並採取適當管控措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "5.8",
+    "path_names": [
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三) 監督廠商於人員、實體環境及委外管理等資安要求事項是否落實執行，\n並建立適當檢驗機制，以確保管理機制有效落實。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 9,
+    "path_key": "5.9",
+    "path_names": [
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(四) 委外廠商對相關作業人員進行資訊安全教育訓練，使其充分了解資安政\n策及責任。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "6.1",
+    "path_names": [
+      "七、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一) 顧問訓練類：確認使用檢測工具的安全性和教育訓練時安裝軟體的安全\n性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "1.",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "6.2.1",
+    "path_names": [
+      "七、",
+      "(二)",
+      "1."
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "1. 要求委外廠商揭露第三方程式元件之來源與授權。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "2.",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "6.2.2",
+    "path_names": [
+      "七、",
+      "(二)",
+      "2."
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "2. 要求委外廠商提供資訊系統之安全性檢測證明，如：源碼檢測、弱點\n掃描或滲透測試等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "6.3",
+    "path_names": [
+      "七、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三) 維運管理類：每半年執行系統弱點掃描。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "6.4",
+    "path_names": [
+      "七、",
+      "(四)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(四) 雲端服務類：確認雲端服務供應商宣稱之資安認證範圍（含功能）。\n委外關係終止或結束時，應依本自律規範第十六條第一項之規定辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "7.1",
+    "path_names": [
+      "八、",
+      "(一)"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "(一) 保固服務：系統異常造成運作中斷或部分無法正常運作時，如可歸責\n於廠商時，廠商應依契約規定，履行保固服務或進行異常管理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "7.2",
+    "path_names": [
+      "八、",
+      "(二)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(二) 異常管理：系統若有重大資安問題，應有變更計畫，評估潛在資安衝\n擊及提供變更及復原程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "8.1",
+    "path_names": [
+      "九、",
+      "(一)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(一) 於籌獲套裝軟體時，應確認可能產生之資安風險。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-6.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "8.2",
+    "path_names": [
+      "九、",
+      "(二)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(二) 核心資通系統作業委外服務案中，委外廠商有須結合第三方服務提\n供者(Third-party Service Provider,TSP)方能提供完整服務之情形，\n應將TSP可能產生之資安風險納入評估。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

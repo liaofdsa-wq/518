@@ -1,0 +1,94 @@
+{
+  "source_root": "C:\\Users\\user\\Desktop\\大三下\\EY\\法規資料_md_clean",
+  "table_count": 1885,
+  "merged_group_count": 1460,
+  "manual_candidate_count": 65,
+  "style_counts": {
+    "僅欄名": 1588,
+    "欄列皆有名": 289,
+    "無欄無列名": 6,
+    "僅列名": 2
+  },
+  "top_signatures": [
+    [
+      "僅欄名|cols=4|header=1|row_header=0|graphic=0",
+      808
+    ],
+    [
+      "僅欄名|cols=3|header=1|row_header=0|graphic=0",
+      320
+    ],
+    [
+      "僅欄名|cols=1|header=1|row_header=0|graphic=0",
+      309
+    ],
+    [
+      "欄列皆有名|cols=4|header=1|row_header=1|graphic=0",
+      118
+    ],
+    [
+      "欄列皆有名|cols=5|header=1|row_header=1|graphic=0",
+      105
+    ],
+    [
+      "僅欄名|cols=2|header=1|row_header=0|graphic=0",
+      70
+    ],
+    [
+      "僅欄名|cols=5|header=1|row_header=0|graphic=0",
+      55
+    ],
+    [
+      "欄列皆有名|cols=10|header=1|row_header=1|graphic=0",
+      32
+    ],
+    [
+      "欄列皆有名|cols=8|header=1|row_header=1|graphic=0",
+      23
+    ],
+    [
+      "僅欄名|cols=8|header=1|row_header=0|graphic=0",
+      12
+    ],
+    [
+      "僅欄名|cols=16|header=1|row_header=0|graphic=0",
+      7
+    ],
+    [
+      "欄列皆有名|cols=3|header=1|row_header=1|graphic=0",
+      6
+    ],
+    [
+      "僅欄名|cols=9|header=1|row_header=0|graphic=0",
+      5
+    ],
+    [
+      "欄列皆有名|cols=7|header=1|row_header=1|graphic=0",
+      3
+    ],
+    [
+      "無欄無列名|cols=2|header=0|row_header=0|graphic=0",
+      3
+    ],
+    [
+      "欄列皆有名|cols=2|header=1|row_header=1|graphic=0",
+      2
+    ],
+    [
+      "僅欄名|cols=10|header=1|row_header=0|graphic=0",
+      2
+    ],
+    [
+      "無欄無列名|cols=1|header=0|row_header=0|graphic=0",
+      2
+    ],
+    [
+      "無欄無列名|cols=8|header=0|row_header=0|graphic=0",
+      1
+    ],
+    [
+      "僅列名|cols=8|header=0|row_header=1|graphic=0",
+      1
+    ]
+  ]
+}

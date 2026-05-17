@@ -1,0 +1,938 @@
+[
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "壹、",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "壹、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "壹、 為協助保險業適當管理運用新興科技之風險，並保障消費者權益，特訂定本\n作業原則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "2.1.1",
+    "path_names": [
+      "貳、",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一) 雲端服務：係指服務提供者以租借方式提供個人或企業得承租其網路、\n伺服器、儲存空間、基礎設施、資安設備、系統軟體、應用程式、分析\n與計算等資源，以達資源共享之服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "2.1.2",
+    "path_names": [
+      "貳、",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二) 軟體即服務（SaaS）：雲端服務業者提供軟體使用，承租人能使用軟體，\n但並不掌控軟體、作業系統、硬體。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "2.1.3",
+    "path_names": [
+      "貳、",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(三) 平台即服務（PaaS）：雲端服務業者提供作業系統使用，承租人能於此\n作業系統操作其軟體，可掌控運作軟體的環境也擁有作業系統部分掌控\n權，但並不掌控作業系統、硬體。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "2.1.4",
+    "path_names": [
+      "貳、",
+      "一、",
+      "(四)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(四) 基礎設施即服務（IaaS）：雲端服務業者提供基礎運算資源（如處理能\n力、儲存空間、網路元件或中介軟體），承租人能掌控作業系統、儲存\n空間、已部署的應用程式及網路元件（如防火牆、負載平衡器等），但\n並不掌控雲端基礎運算資源。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "2.2",
+    "path_names": [
+      "貳、",
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、 本安全控管範圍不包含僅提供會員公司內部使用且不涉及客戶資料處理之\n服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "2.3",
+    "path_names": [
+      "貳、",
+      "三、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "三、 應制定雲端服務管理政策，至少每年檢視一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "2.4",
+    "path_names": [
+      "貳、",
+      "四、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "四、 若使用雲端服務涉及保險業作業委託他人處理應注意事項之範疇，應依據其\n規定辦理監督與查核、境外規定要求、緊急應變及營運持續計畫等機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "2.5.1",
+    "path_names": [
+      "貳、",
+      "五、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一) 應評估雲端服務提供者之合格條件、服務水準、復原時間、備援機制、\n權責歸屬及資訊安全防護等項目。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "2.5.2",
+    "path_names": [
+      "貳、",
+      "五、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二) 應評估雲端服務提供之平台、協定、介面、檔案格式等，以確保互通性\n與可移植性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "2.5.3",
+    "path_names": [
+      "貳、",
+      "五、",
+      "(三)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(三) 應確保雲端服務提供者提供之資源與其他承租人所使用之資源各自獨\n立，互不影響（如防火牆區隔）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "2.5.4",
+    "path_names": [
+      "貳、",
+      "五、",
+      "(四)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(四) 應與雲端服務提供者簽訂服務協議，維持所需之服務水準並定期提出報\n告與操作 紀錄（如服務水準報告、系統變更紀錄、作業系統映像檔存\n取紀錄等）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "2.5.5",
+    "path_names": [
+      "貳、",
+      "五、",
+      "(五)"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "(五) 保險業應確保資料之刪除、銷毀或不可復原，並留存必要之佐證紀錄以\n供查驗。\n六、 應針對所傳輸或儲存之客戶資料或敏感資料，建置適當之保護設備或技術，\n採取適當之存取管制（如資料加密）。採用加密演算法者，應能妥善保護加\n密金鑰（如使用硬體安全模組）；另應明訂客戶資料保存期限及應留存之相\n關重要軌跡紀錄。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "2.6",
+    "path_names": [
+      "貳、",
+      "七、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "七、 應監控並建立資訊安全事件通報程序。遇事件發生時，相關單位及人員應依\n循前述通報程序辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "2.7",
+    "path_names": [
+      "貳、",
+      "八、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "八、 應於服務合約終止或轉移時，將使用之作業系統映像檔、儲存空間、快取空\n間、備份媒體、客戶資料或敏感資料等全數刪除或銷毀，並留存刪除或銷毀\n之紀錄，以供事後確認。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "2.8",
+    "path_names": [
+      "貳、",
+      "九、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "九、 應遵循「個人資料保護法」，資料當事人如申請行使其權利，要求停止處理\n或利用其資料，應確保其資料皆從雲端刪除或提供相關佐證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "十、",
+    "level": 1,
+    "sibling_order": 9,
+    "path_key": "2.9",
+    "path_names": [
+      "貳、",
+      "十、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十、 提供電子商務服務者，應符合「保險業經營電子商務自律規範」及「保險業\n電子商務身分驗證之資訊安全作業準則」規定。\n參、 社群媒體控管程序",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 10,
+    "path_key": "2.10",
+    "path_names": [
+      "貳、",
+      "一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "一、社群媒體係指一交流平台，參與者透過與其他單一或多位參與者單向分享或\n雙向 互動，進行內容產出、知識分享、討論共創之平台。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 11,
+    "path_key": "2.11",
+    "path_names": [
+      "貳、",
+      "二、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "二、本控管程序不包含會員公司內部使用或與個別客戶溝通使用之平台。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 12,
+    "path_key": "2.12",
+    "path_names": [
+      "貳、",
+      "三、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "三、應制定社群媒體管理政策，至少每年檢視一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 13,
+    "path_key": "2.13",
+    "path_names": [
+      "貳、",
+      "四、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "四、應制定社群媒體使用守則，明確列出可接受使用之社群媒體、功能及使用規\n則。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 14,
+    "path_key": "2.14",
+    "path_names": [
+      "貳、",
+      "五、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "五、應制定會員公司發言規範，明確定義各角色被授予之發言權責，並避免非授\n權之公務言論發表。\n六、應制定內容過濾與監視政策，其監視內容應至少包含防止客戶隱私及會員公\n司機 密外洩、非授權或偽冒身分發言及不可有攻擊或詆毀同業之情事。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 15,
+    "path_key": "2.15",
+    "path_names": [
+      "貳、",
+      "七、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "七、應制定不當發言之緊急應變程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 16,
+    "path_key": "2.16",
+    "path_names": [
+      "貳、",
+      "八、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "八、應制定社群媒體異常事件通報程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 17,
+    "path_key": "2.17",
+    "path_names": [
+      "貳、",
+      "九、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "九、如有不當發言，應留存通聯紀錄，以供日後調查使用。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "3.1",
+    "path_names": [
+      "肆、",
+      "一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "一、自攜裝置係指非屬公司資產、透過該裝置以無線或有線通訊方式連接至會員\n公司 內部網路，存取作業系統或檔案服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "3.2",
+    "path_names": [
+      "肆、",
+      "二、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "二、應制定自攜裝置管理政策，至少每年檢視一次。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "3.3",
+    "path_names": [
+      "肆、",
+      "三、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "三、應列出允許使用之自攜裝置類型、作業系統、應用系統或服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "3.4",
+    "path_names": [
+      "肆、",
+      "四、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "四、對自攜裝置所採取之相關措施，應先取得裝置持有者同意，以避免爭議。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "3.5",
+    "path_names": [
+      "肆、",
+      "五、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "五、應列冊管理使用人員與裝置，至少每年審閱一次。\n六、應建置使用人員身分與裝置識別機制(如帳號密碼識別、裝置識別碼 )。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "3.6",
+    "path_names": [
+      "肆、",
+      "七、"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "七、應制定自攜裝置連網環境標準，如未符合標準(如作業系統疑似遭破解或提\n權、未 安裝病毒防護、重大漏洞未修復)，應限制其連網功能。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "3.7",
+    "path_names": [
+      "肆、",
+      "八、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "八、應建置自攜裝置資料保護措施(如資料加密或遮罩)，並採取適當之存取管\n制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "3.8",
+    "path_names": [
+      "肆、",
+      "九、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "九、應制定自攜裝置遺失處理程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "4.1.1",
+    "path_names": [
+      "伍、",
+      "一、",
+      "(一)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(一)原始生物特徵資料:是指透過感應器(如掃描器、照相機)所擷取的原始\n資料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "4.1.2",
+    "path_names": [
+      "伍、",
+      "一、",
+      "(二)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(二)假名標識符:是指用於生物特徵比對之資料，其內容不為原始生物特徵\n資料之一部份。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "4.1.3",
+    "path_names": [
+      "伍、",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(三)輔助資料:是指一演算法或機制，用來將原始生物特徵資料分離產生假\n名標識符。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "4.1.4",
+    "path_names": [
+      "伍、",
+      "一、",
+      "(四)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(四)生物特徵資料:指包含原始生物特徵資料、假名標識符及輔助資料。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(五)",
+    "level": 2,
+    "sibling_order": 5,
+    "path_key": "4.1.5",
+    "path_names": [
+      "伍、",
+      "一、",
+      "(五)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(五)身分識別資料:為非生物特徵資料之個人資料(如身分證字號、出生日期\n等)。\n(六)錯誤拒絕率:是指同一人卻因比對其留存之生物特徵資料誤認為不同特\n徵而拒絕的機率。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "(七)",
+    "level": 2,
+    "sibling_order": 6,
+    "path_key": "4.1.6",
+    "path_names": [
+      "伍、",
+      "一、",
+      "(七)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(七)錯誤接受率:是指不同人卻因比對其留存之生物特徵資料誤認為相同特\n徵而接受的機率。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "4.2",
+    "path_names": [
+      "伍、",
+      "二、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "二、運用生物特徵資料做為識別客戶身分時，其蒐集、處理及利用之行為，應納\n入個資管理機制。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "4.3",
+    "path_names": [
+      "伍、",
+      "三、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "三、應針對生物識別機制，建立其錯誤接受率及錯誤拒絕率之標準，並每年定期\n檢視。若不符合會員公司要求時，應建立補償措施。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "4.4",
+    "path_names": [
+      "伍、",
+      "四、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "四、應於蒐集生物特徵資料時，取得客戶同意，並讓客戶充份了解所蒐集之目的\n及方式。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "4.5",
+    "path_names": [
+      "伍、",
+      "五、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "五、生物特徵資料儲存於會員公司內部系統時，應將原始生物特徵資料去識別化\n使其難以還原、將原始生物特徵資料及假名標識符進行加密儲存、 將生物\n特徵資料分別儲存於不同之儲存媒體(如資料庫)。\n六、應考量現行業務情況，必要時更新客戶之生物特徵資料，以確保生物特徵資\n料不會隨時間而失效(如人臉辨識、聲紋辨識等)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "七、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "4.6",
+    "path_names": [
+      "伍、",
+      "七、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "七、當會員公司無法以生物特徵資料識別客戶時，應提供重新蒐集生物特徵資料\n之管道。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 7,
+    "path_key": "4.7",
+    "path_names": [
+      "伍、",
+      "八、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "八、應確保生物特徵資料於傳輸過程中之訊息隱密性、完整性、不可重複性及來\n源辨識性。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "保險業辦理資訊安全防護自律規範-3.md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "4.8",
+    "path_names": [
+      "伍、",
+      "九、"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "九、應於首次使用生物辨識技術、每年定期及技術有重大變更時(如輔助資料、\n技術提供商)，經資訊部門檢視該技術足以有效識別客戶身分，其評估範圍\n包含但不限於模擬偽冒生物特徵資料、確認符合相關法規要求、確認生物辨\n識機制、作業流程及補償措施之風險控管。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

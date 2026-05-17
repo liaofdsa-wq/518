@@ -1,0 +1,839 @@
+{
+  "id": "中華民國證券商業同業公會資訊作業韌性自律規範",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 中華民國證券商業同業公會資訊作業韌性自律規範\n中華民國證券商業同業公會資訊作業韌性自律規範\n金融監督管理委員會 112年8月15日金管證券字第1120344733號號函准予備查\n中華民國證券商業同業公會112年8月17日中證商業一字第1120004366號公告實施",
+  "normalized_content": "# 中華民國證券商業同業公會資訊作業韌性自律規範\n中華民國證券商業同業公會資訊作業韌性自律規範\n金融監督管理委員會 112年8月15日金管證券字第1120344733號號函准予備查\n中華民國證券商業同業公會112年8月17日中證商業一字第1120004366號公告實施",
+  "children": [
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 目的\n為協助證券商於核心系統遭受中斷事故時，能有效執行應變措施並將\n損害降低至可承受範圍，爰訂定本自律規範。",
+      "normalized_content": "第一條 目的\n為協助證券商於核心系統遭受中斷事故時，能有效執行應變措施並將\n損害降低至可承受範圍，爰訂定本自律規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 7,
+          "end": 9
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 名詞定義",
+      "normalized_content": "第二條 名詞定義",
+      "children": [
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 資訊作業韌性：資訊作業面臨損害、異常或中斷服務時的處理\n能力與應變彈性。",
+          "normalized_content": "一、 資訊作業韌性：資訊作業面臨損害、異常或中斷服務時的處理\n能力與應變彈性。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 15,
+              "end": 16
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 核心業務：係指直接提供客戶交易或支持交易業務持續運作之\n必要業務。",
+          "normalized_content": "二、 核心業務：係指直接提供客戶交易或支持交易業務持續運作之\n必要業務。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 19,
+              "end": 20
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 核心系統：係指直接提供客戶交易或支持交易業務持續運作之\n必要系統，其餘皆為非核心系統。",
+          "normalized_content": "三、 核心系統：係指直接提供客戶交易或支持交易業務持續運作之\n必要系統，其餘皆為非核心系統。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 23,
+              "end": 24
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 營運衝擊分析(Business Impact Analysis，BIA)：評估核心系\n統中斷時可能對組織造成之衝擊。",
+          "normalized_content": "四、 營運衝擊分析(Business Impact Analysis，BIA)：評估核心系\n統中斷時可能對組織造成之衝擊。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 27,
+              "end": 28
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 45
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 復原時間目標(Recovery Time Objective，RTO)：中斷事故發\n生後，核心系統從中斷事故發生到回復至最小可接受服務水準\n之目標時間。",
+          "normalized_content": "五、 復原時間目標(Recovery Time Objective，RTO)：中斷事故發\n生後，核心系統從中斷事故發生到回復至最小可接受服務水準\n之目標時間。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 31,
+              "end": 33
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 44
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 資料復原點目標(Recovery Point Objective，RPO)：中斷事故\n發生時，核心系統可承受之資料損失量所訂之值。",
+          "normalized_content": "六、 資料復原點目標(Recovery Point Objective，RPO)：中斷事故\n發生時，核心系統可承受之資料損失量所訂之值。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 36,
+              "end": 37
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 45
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 最小可接受服務水準：核心業務於復原時間目標(RTO)內回復之\n最低限度運作水準。",
+          "normalized_content": "七、 最小可接受服務水準：核心業務於復原時間目標(RTO)內回復之\n最低限度運作水準。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 40,
+              "end": 41
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 33
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、 第一類證券商：係指依「證券暨期貨市場各服務事業建立內部\n控制制度處理準則」第三十六條之二條文指派資訊安全長之證\n券商或「建立證券商資通安全檢查機制-分級防護應辦事項附表」\n所列第一級、第二級、第三級證券商。",
+          "normalized_content": "八、 第一類證券商：係指依「證券暨期貨市場各服務事業建立內部\n控制制度處理準則」第三十六條之二條文指派資訊安全長之證\n券商或「建立證券商資通安全檢查機制-分級防護應辦事項附表」\n所列第一級、第二級、第三級證券商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 44,
+              "end": 47
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 第二類證券商：係指非屬第一類證券商之證券商。",
+          "normalized_content": "九、 第二類證券商：係指非屬第一類證券商之證券商。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 50,
+              "end": 50
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 25
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.2.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 外國證券商：係指外資集團在台子公司或分公司。外國證券商\n如有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "normalized_content": "十、 外國證券商：係指外資集團在台子公司或分公司。外國證券商\n如有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 54,
+              "end": 55
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 12,
+          "end": 12
+        },
+        "line_char_range": {
+          "min": 8,
+          "max": 8
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 營運持續管理\n證券商營運持續管理應參考證交所「建立證券商資通安全檢查機制」\n之營運持續管理相關規定辦理。",
+      "normalized_content": "第三條 營運持續管理\n證券商營運持續管理應參考證交所「建立證券商資通安全檢查機制」\n之營運持續管理相關規定辦理。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 58,
+          "end": 60
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 資訊作業韌性管理組織\n證券商就資訊作業韌性進行任務編組及配置適當人力，辦理下列事項：",
+      "normalized_content": "第四條 資訊作業韌性管理組織\n證券商就資訊作業韌性進行任務編組及配置適當人力，辦理下列事項：",
+      "children": [
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、識別核心業務及其對應之核心系統。",
+          "normalized_content": "一、識別核心業務及其對應之核心系統。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 67,
+              "end": 67
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、執行營運衝擊分析，評估核心系統中斷造成之衝擊程度，並依核\n心系統之復原時間目標(RTO)、資料復原點目標(RPO)，作為恢復\n核心系統、備份備援規劃及執行復原作業之依據。",
+          "normalized_content": "二、執行營運衝擊分析，評估核心系統中斷造成之衝擊程度，並依核\n心系統之復原時間目標(RTO)、資料復原點目標(RPO)，作為恢復\n核心系統、備份備援規劃及執行復原作業之依據。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 70,
+              "end": 72
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 33
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 63,
+          "end": 64
+        },
+        "line_char_range": {
+          "min": 14,
+          "max": 31
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 備份備援機制",
+      "normalized_content": "第五條 備份備援機制",
+      "children": [
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 制定資料備份機制時，宜考量「3-2-1 備份原則」。",
+          "normalized_content": "一、 制定資料備份機制時，宜考量「3-2-1 備份原則」。",
+          "children": [
+            {
+              "id": "中華民國證券商業同業公會資訊作業韌性自律規範.5.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 至少製作三份備份。",
+              "normalized_content": "(一) 至少製作三份備份。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 81,
+                  "end": 81
+                },
+                "line_char_range": {
+                  "min": 13,
+                  "max": 13
+                }
+              },
+              "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+              "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+            },
+            {
+              "id": "中華民國證券商業同業公會資訊作業韌性自律規範.5.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 將備份分別存放在兩種不同儲存媒體。",
+              "normalized_content": "(二) 將備份分別存放在兩種不同儲存媒體。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 84,
+                  "end": 84
+                },
+                "line_char_range": {
+                  "min": 21,
+                  "max": 21
+                }
+              },
+              "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+              "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+            },
+            {
+              "id": "中華民國證券商業同業公會資訊作業韌性自律規範.5.1.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三) 至少一份放在異地保存。",
+              "normalized_content": "(三) 至少一份放在異地保存。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 87,
+                  "end": 87
+                },
+                "line_char_range": {
+                  "min": 15,
+                  "max": 15
+                }
+              },
+              "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+              "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 78,
+              "end": 78
+            },
+            "line_char_range": {
+              "min": 29,
+              "max": 29
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 依據核心系統特性、業務單位需求與復原時間目標(RTO)，制定\n適當之系統備援架構。。",
+          "normalized_content": "二、 依據核心系統特性、業務單位需求與復原時間目標(RTO)，制定\n適當之系統備援架構。。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 90,
+              "end": 91
+            },
+            "line_char_range": {
+              "min": 11,
+              "max": 33
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 75,
+          "end": 75
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 機房設置規劃",
+      "normalized_content": "第六條 機房設置規劃",
+      "children": [
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、規劃備援機房時應遵循政府建築及消防相關法令法規，考量支援\n設施包含電力供給、空調配置、環境監控與告警等配置。",
+          "normalized_content": "一、規劃備援機房時應遵循政府建築及消防相關法令法規，考量支援\n設施包含電力供給、空調配置、環境監控與告警等配置。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 97,
+              "end": 98
+            },
+            "line_char_range": {
+              "min": 25,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、第一類證券商應設置異地備援機房。",
+          "normalized_content": "二、第一類證券商應設置異地備援機房。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 101,
+              "end": 101
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 18
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、證券商規劃主/備援中心搬移或新建規劃時，異地備援機房地點\n與場所之選擇，宜考量與主機房非同一災難或失效影響之地理位\n置為原則。",
+          "normalized_content": "三、證券商規劃主/備援中心搬移或新建規劃時，異地備援機房地點\n與場所之選擇，宜考量與主機房非同一災難或失效影響之地理位\n置為原則。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 3
+            },
+            "line_range": {
+              "start": 104,
+              "end": 106
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 30
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 94,
+          "end": 94
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 10
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第七條 災害應變機制\n當災害發生造成資訊作業異常或中斷時，應辨識風險情境，就各項風\n險情境擬定各系統之應變、減災或復原措施相關作業流程。",
+      "normalized_content": "第七條 災害應變機制\n當災害發生造成資訊作業異常或中斷時，應辨識風險情境，就各項風\n險情境擬定各系統之應變、減災或復原措施相關作業流程。",
+      "children": [
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應辨識可能造成中斷之風險情境，依據證交所「天然災害侵襲處\n理措施」、證交所「建立證券商資通安全檢查機制」及「證券期\n貨市場資通安全事件通報應變作業注意事項」制定緊急應變措\n施及緊急處理程序。",
+          "normalized_content": "一、 應辨識可能造成中斷之風險情境，依據證交所「天然災害侵襲處\n理措施」、證交所「建立證券商資通安全檢查機制」及「證券期\n貨市場資通安全事件通報應變作業注意事項」制定緊急應變措\n施及緊急處理程序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 115,
+              "end": 118
+            },
+            "line_char_range": {
+              "min": 9,
+              "max": 31
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        },
+        {
+          "id": "中華民國證券商業同業公會資訊作業韌性自律規範.7.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 針對與資訊系統有關之資訊安全或服務異常事件，依據「證券期\n貨市場資通安全事件通報應變作業注意事項」制定緊急通報程\n序。",
+          "normalized_content": "二、 針對與資訊系統有關之資訊安全或服務異常事件，依據「證券期\n貨市場資通安全事件通報應變作業注意事項」制定緊急通報程\n序。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 121,
+              "end": 123
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 31
+            }
+          },
+          "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+          "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 110,
+          "end": 112
+        },
+        "line_char_range": {
+          "min": 10,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第八條 資訊作業韌性之認知及能力訓練\n證券商就資訊作業韌性之任務編組人員，依據證交所「建立證券商資\n通安全檢查機制」所屬資安分級，應定期辦理資訊作業演練並留存紀\n錄。",
+      "normalized_content": "第八條 資訊作業韌性之認知及能力訓練\n證券商就資訊作業韌性之任務編組人員，依據證交所「建立證券商資\n通安全檢查機制」所屬資安分級，應定期辦理資訊作業演練並留存紀\n錄。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 126,
+          "end": 129
+        },
+        "line_char_range": {
+          "min": 2,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    },
+    {
+      "id": "中華民國證券商業同業公會資訊作業韌性自律規範.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第九條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+      "normalized_content": "第九條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 132,
+          "end": 134
+        },
+        "line_char_range": {
+          "min": 6,
+          "max": 30
+        }
+      },
+      "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+      "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 3
+    },
+    "line_range": {
+      "start": 1,
+      "end": 5
+    },
+    "line_char_range": {
+      "min": 22,
+      "max": 43
+    }
+  },
+  "file_name": "中華民國證券商業同業公會資訊作業韌性自律規範.md",
+  "file_stem": "中華民國證券商業同業公會資訊作業韌性自律規範"
+}

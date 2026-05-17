@@ -1,0 +1,309 @@
+[
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "1.",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "1."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "1. 委由約定出入金帳戶之往來銀行辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "2.",
+    "level": 0,
+    "sibling_order": 2,
+    "path_key": "2",
+    "path_names": [
+      "2."
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "2. 以自然人憑證、銀行帳戶或晶片金融卡辦理線上身分驗證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "3.",
+    "level": 0,
+    "sibling_order": 3,
+    "path_key": "3",
+    "path_names": [
+      "3."
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "3. 經線上傳送可同時辨識國民身分證及臉部之照片，並輔以\n期貨商客戶保證金專戶約定出金帳戶。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "4.",
+    "level": 0,
+    "sibling_order": 4,
+    "path_key": "4",
+    "path_names": [
+      "4."
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "4. 經由視訊影像方式確認。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "5.",
+    "level": 0,
+    "sibling_order": 5,
+    "path_key": "5",
+    "path_names": [
+      "5."
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "5. 於同一期貨商已開立證券買賣帳戶。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "6.",
+    "level": 0,
+    "sibling_order": 6,
+    "path_key": "6",
+    "path_names": [
+      "6."
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "6. 經由行動身分識別（Mobile ID）方式確認，相關身分認\n證應遵循事項由本公司另訂之。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "7.",
+    "level": 0,
+    "sibling_order": 7,
+    "path_key": "7",
+    "path_names": [
+      "7."
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "7. 經由金融行動身分識別標準化機制(金融 Fast ID)方式確\n認，相關身分驗證機制應遵循「金融機構辦理快速身分識\n別機制安全控管作業指引」辦理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "8.",
+    "level": 0,
+    "sibling_order": 8,
+    "path_key": "8",
+    "path_names": [
+      "8."
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "8. 其他足以確認委託人身分為本人。\n以前項方式確認身分者，期貨商應輔以手機簡訊傳送一次\n性安全密碼（One Time Password - OTP，簡訊確認碼）或\n由專人電訪等方式強化驗證。\n法人採通信或電子化方式開戶者，以本國公司法登記股東\n為3人以下之公司為限，且其負責人及股東均為本國國籍成年\n自然人。期貨商受理其開戶應對其負責人採第一項及法人採\n工商憑證進行身分驗證。\n第 三 點 期貨商以第二點方式確認身分者，除以自然人憑證或以銀\n行帳戶辦理線上身分驗證並輔以視訊方式確認申請人為本人\n外，對採其他確認方式之委託人，其盤中未沖銷部位及新增\n委託合計所需保證金使用額度不得超過新臺幣 100萬元。針\n對依上述方式申請開戶之委託人，期貨商得自行決定徵信方\n式。\n法人採通信或電子化方式開戶者，其盤中未沖銷部位及新\n增委託合計所需保證金使用額度，以其負責人依前項規定辦\n理。\n第 四 點 期貨商以第二點方式確認身分者，日後需放寬保證金使用\n額度限制，經下列任一方式進行委託人身分驗證者，不受第\n三點之限制，惟期貨商仍應依相關規定重新辦理徵信，且同\n一委託人於同一期貨商之同一營業處所開立一戶以上期貨交\n易帳戶者須逐戶辦理確認。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "1.",
+    "level": 0,
+    "sibling_order": 9,
+    "path_key": "9",
+    "path_names": [
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 採臨櫃辦理者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "2.",
+    "level": 0,
+    "sibling_order": 10,
+    "path_key": "10",
+    "path_names": [
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 以自然人憑證辦理線上身分驗證並輔以視訊影像方式確認。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "3.",
+    "level": 0,
+    "sibling_order": 11,
+    "path_key": "11",
+    "path_names": [
+      "3."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "3. 經由行動身分識別(Mobile ID)方式確認。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "4.",
+    "level": 0,
+    "sibling_order": 12,
+    "path_key": "12",
+    "path_names": [
+      "4."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "4. 以銀行帳戶辦理線上身分驗證（不含以網路方式所開立之\n第三類數位存款帳戶）。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "5.",
+    "level": 0,
+    "sibling_order": 13,
+    "path_key": "13",
+    "path_names": [
+      "5."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "5. 經由金融行動身分識別標準化機制(金融 Fast ID)方式確\n認，相關身分驗證機制應遵循「金融機構辦理快速身分識\n別機制安全控管作業指引」辦理。\n第 五 點 期貨商受理通信或電子化方式辦理開戶，須於網頁提供開\n戶契約、風險預告書及相關資料予委託人審閱，並對委託人\n以第二點方式確認其為本人身分，委託人在網頁之開戶契約、\n風險預告書及相關資料確認點選「同意」，以自然人憑證簽\n章功能或電子憑證下載驗證機制線上簽署或列印上述相關資\n料簽章後，以電子方式上傳或通訊寄回期貨商。其簽署程序\n如下：",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "1.",
+    "level": 0,
+    "sibling_order": 14,
+    "path_key": "14",
+    "path_names": [
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 開戶契約、風險預告書及相關資料之內容需逐條（段）勾\n選。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "2.",
+    "level": 0,
+    "sibling_order": 15,
+    "path_key": "15",
+    "path_names": [
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 點選進入相關內容後至同意簽署確認前，其畫面停留之時\n間以可以適當閱讀該完整內容為依據。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "期貨商受理通信或電子化方式開戶應行注意事項.md",
+    "node_name": "3.",
+    "level": 0,
+    "sibling_order": 16,
+    "path_key": "16",
+    "path_names": [
+      "3."
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "page_start": 3,
+    "page_end": 4,
+    "content": "3. 期貨商收到委託人以自然人憑證簽章功能或電子憑證下載\n驗證機制線上簽署，或列印上述相關資料簽章後，以電子\n方式上傳或通訊寄回後，可以電子郵件、網址、簡訊等方\n式傳送開戶契約、風險預告書及相關資料副本予委託人，\n委託人應以同方式確認回傳後始生效。\n第 六 點 期貨商依本注意事項辦理，應自行訂定通信或電子化方式\n辦理開戶之相關作業程序，及開戶所需相關證明文件資料之\n傳遞方式，並列於內部控制制度。\n第 七 點 期貨商依本注意事項辦理相關作業之軌跡、簽署紀錄及相\n關資料，均視為開戶契約之一部分，應妥善保存，其保存年\n限依本公司「期貨商、結算會員帳表憑證保存年限表」之規\n定辦理。\n第 八 點 期貨商受理通信或電子化方式辦理開戶，應於網站以顯著\n方式提示線上申辦流程及注意事項。\n第 九 點 期貨商依本注意事項辦理得暫緩留存委託人印鑑卡或簽名\n樣式，俟委託人日後有當面辦理委託買賣或其他作業時，再\n臨櫃留存印鑑卡及簽名樣式，惟應於公司內部控制制度自行\n訂定適當之控管機制及查核程序。\n第 十 點 期貨商委託期貨交易輔助人受理委託人以通信或電子化方\n式辦理開戶，應依本注意事項辦理之；本注意事項未規定者，\n依本公司業務規則及其他相關規定辦理。\n第 十一點 本注意事項報經主管機關核備後公告實施；修正時亦同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

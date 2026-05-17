@@ -1,0 +1,1467 @@
+{
+  "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30",
+  "node_kind": "root",
+  "table_sequence": null,
+  "cell_row": null,
+  "cell_col": null,
+  "original_content": "# 附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30\n附\n金融機構資通系統與服務供應鏈風險管理規範 件\n一\n本會111年11月14日第14屆第2次理監事聯席會議討論通過\n金管會112年3月29日金管銀國字第1120270185號函洽悉\n本會113年1月25日第14屆第13次理監事聯席會議核議通過\n金管會113年5月6日金管銀國字第1130207638號函洽悉\n本會114年6月26日第14屆第7次理事會議核議通過\n金管會114年9月24日金管銀國字第1140222565號函洽悉",
+  "normalized_content": "# 附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30\n附\n金融機構資通系統與服務供應鏈風險管理規範 件\n一\n本會111年11月14日第14屆第2次理監事聯席會議討論通過\n金管會112年3月29日金管銀國字第1120270185號函洽悉\n本會113年1月25日第14屆第13次理監事聯席會議核議通過\n金管會113年5月6日金管銀國字第1130207638號函洽悉\n本會114年6月26日第14屆第7次理事會議核議通過\n金管會114年9月24日金管銀國字第1140222565號函洽悉",
+  "children": [
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.1",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第一條 中華民國銀行商業同業公會全國聯合會(以下稱本會)為確保\n銀行資通系統委外具有一致性之供應鏈資訊安全風險管理，特訂\n定本規範。",
+      "normalized_content": "第一條 中華民國銀行商業同業公會全國聯合會(以下稱本會)為確保\n銀行資通系統委外具有一致性之供應鏈資訊安全風險管理，特訂\n定本規範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 13,
+          "end": 15
+        },
+        "line_char_range": {
+          "min": 5,
+          "max": 31
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.2",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第二條 本規範所稱金融機構資通系統與服務供應鏈，係指提供銀行\n資通系統之軟硬體產品開發、建置或維運服務的組織或個人(以下\n稱供應商)，包含其受託者與跨機構合作夥伴。\n適用於本規範之資訊服務係指提供與電腦系統軟體或硬體有\n關之服務形態，包含系統發展類、維運管理類及雲端服務類。\n核心資通系統及第一類電腦系統均適用本規範；第二類及第\n三類電腦系統以當次合約採購金額為新臺幣壹仟萬元以上者，適\n用本規範。\n銀行之資通系統供應鏈如為雲端服務、物聯網設備業者，除\n本規範外，亦應遵循金融監督管理委員會及本會所訂定之相關規\n範。",
+      "normalized_content": "第二條 本規範所稱金融機構資通系統與服務供應鏈，係指提供銀行\n資通系統之軟硬體產品開發、建置或維運服務的組織或個人(以下\n稱供應商)，包含其受託者與跨機構合作夥伴。\n適用於本規範之資訊服務係指提供與電腦系統軟體或硬體有\n關之服務形態，包含系統發展類、維運管理類及雲端服務類。\n核心資通系統及第一類電腦系統均適用本規範；第二類及第\n三類電腦系統以當次合約採購金額為新臺幣壹仟萬元以上者，適\n用本規範。\n銀行之資通系統供應鏈如為雲端服務、物聯網設備業者，除\n本規範外，亦應遵循金融監督管理委員會及本會所訂定之相關規\n範。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 18,
+          "end": 28
+        },
+        "line_char_range": {
+          "min": 2,
+          "max": 30
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第三條 本規範用詞定義如下：",
+      "normalized_content": "第三條 本規範用詞定義如下：",
+      "children": [
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、核心業務：由銀行依業務運作中斷對客戶影響數等風險評估\n結果予以決定，評估範圍如：存款業務、放款業務、匯款業\n務、外匯業務等。",
+          "normalized_content": "一、核心業務：由銀行依業務運作中斷對客戶影響數等風險評估\n結果予以決定，評估範圍如：存款業務、放款業務、匯款業\n務、外匯業務等。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 34,
+              "end": 36
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、核心資通系統：支持核心業務持續運作必要之系統或設備。",
+          "normalized_content": "二、核心資通系統：支持核心業務持續運作必要之系統或設備。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 39,
+              "end": 39
+            },
+            "line_char_range": {
+              "min": 28,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、第一類電腦系統：直接提供客戶自動化服務或對營運有重大\n影響之系統(如：電子銀行、分行櫃台、ATM 自動化服務、\nSWIFT 等系統)。",
+          "normalized_content": "三、第一類電腦系統：直接提供客戶自動化服務或對營運有重大\n影響之系統(如：電子銀行、分行櫃台、ATM 自動化服務、\nSWIFT 等系統)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 42,
+              "end": 44
+            },
+            "line_char_range": {
+              "min": 11,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、第二類電腦系統：經人工介入以直接或間接提供客戶服務之\n系統(如：作業中心、客戶服務等系統)。",
+          "normalized_content": "四、第二類電腦系統：經人工介入以直接或間接提供客戶服務之\n系統(如：作業中心、客戶服務等系統)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 1
+            },
+            "line_range": {
+              "start": 47,
+              "end": 48
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、第三類電腦系統：未接觸客戶資訊或服務且對營運無影響之\n系統或設備(如：人資、財會、總務等系統、物聯網設備)。",
+          "normalized_content": "五、第三類電腦系統：未接觸客戶資訊或服務且對營運無影響之\n系統或設備(如：人資、財會、總務等系統、物聯網設備)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 1,
+              "end": 2
+            },
+            "line_range": {
+              "start": 51,
+              "end": 52
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、供應鏈資訊安全風險：源自供應商的資訊安全議題(如：離職\n員工持有系統帳號、密碼及原始碼、對外服務系統管控不周\n或其他資訊安全事件等)，可能對銀行資通系統與資訊服務的\n機密性、完整性或可用性造成衝擊。",
+          "normalized_content": "六、供應鏈資訊安全風險：源自供應商的資訊安全議題(如：離職\n員工持有系統帳號、密碼及原始碼、對外服務系統管控不周\n或其他資訊安全事件等)，可能對銀行資通系統與資訊服務的\n機密性、完整性或可用性造成衝擊。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 56,
+              "end": 59
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、邊際防護：管控銀行與供應商之網路介接以限制未經授權之\n網路傳輸存取(如：內外網路架構、存取控制及資料傳輸\n等)。",
+          "normalized_content": "七、邊際防護：管控銀行與供應商之網路介接以限制未經授權之\n網路傳輸存取(如：內外網路架構、存取控制及資料傳輸\n等)。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 62,
+              "end": 64
+            },
+            "line_char_range": {
+              "min": 3,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、機敏資料：係指如登入帳號、固定密碼、重要參數、晶片金\n融卡基碼、憑證私鑰、個人資料及製卡個人化資料等。",
+          "normalized_content": "八、機敏資料：係指如登入帳號、固定密碼、重要參數、晶片金\n融卡基碼、憑證私鑰、個人資料及製卡個人化資料等。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 67,
+              "end": 68
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 實質受益人：指對供應商提供之產品或服務具最終所有權或\n控制權之自然人。",
+          "normalized_content": "九、 實質受益人：指對供應商提供之產品或服務具最終所有權或\n控制權之自然人。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 71,
+              "end": 72
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.3.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、 控制權來源國：指直接、間接持有提供該產品或服務之供應\n商股份或資本超過百分之二十五者所屬國家。",
+          "normalized_content": "十、 控制權來源國：指直接、間接持有提供該產品或服務之供應\n商股份或資本超過百分之二十五者所屬國家。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 75,
+              "end": 76
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 1,
+          "end": 1
+        },
+        "line_range": {
+          "start": 31,
+          "end": 31
+        },
+        "line_char_range": {
+          "min": 14,
+          "max": 14
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第四條 資通系統與服務委外前，應分析及規劃下列供應鏈資訊安全\n事項：",
+      "normalized_content": "第四條 資通系統與服務委外前，應分析及規劃下列供應鏈資訊安全\n事項：",
+      "children": [
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 應針對擬委外之項目執行資訊安全可行性分析：",
+          "normalized_content": "一、 應針對擬委外之項目執行資訊安全可行性分析：",
+          "children": [
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 分析委外項目之資訊安全風險(如：可能受影響之資訊\n資產、流程及作業環境)與委外可行性，並依據分析結\n果擬訂資訊安全要求。",
+              "normalized_content": "(一) 分析委外項目之資訊安全風險(如：可能受影響之資訊\n資產、流程及作業環境)與委外可行性，並依據分析結\n果擬訂資訊安全要求。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 86,
+                  "end": 88
+                },
+                "line_char_range": {
+                  "min": 10,
+                  "max": 28
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            },
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 將擬委外項目之資訊安全要求列入成本估算。",
+              "normalized_content": "(二) 將擬委外項目之資訊安全要求列入成本估算。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 91,
+                  "end": 91
+                },
+                "line_char_range": {
+                  "min": 24,
+                  "max": 24
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 83,
+              "end": 83
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 24
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 委外開發項目如有下列情形者，其專案成員應有資訊安全人\n員參與，以協助管理資訊安全風險：",
+          "normalized_content": "二、 委外開發項目如有下列情形者，其專案成員應有資訊安全人\n員參與，以協助管理資訊安全風險：",
+          "children": [
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4.2.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)屬核心資通系統與第一類電腦系統。",
+              "normalized_content": "(一)屬核心資通系統與第一類電腦系統。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 98,
+                  "end": 98
+                },
+                "line_char_range": {
+                  "min": 19,
+                  "max": 19
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            },
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.4.2.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)屬第二或第三類電腦系統，且供應商於合約期間得存取\n銀行機敏資料。",
+              "normalized_content": "(二)屬第二或第三類電腦系統，且供應商於合約期間得存取\n銀行機敏資料。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 101,
+                  "end": 102
+                },
+                "line_char_range": {
+                  "min": 7,
+                  "max": 27
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 94,
+              "end": 95
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 79,
+          "end": 80
+        },
+        "line_char_range": {
+          "min": 3,
+          "max": 30
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第五條 選擇供應商前，應執行下列事項：",
+      "normalized_content": "第五條 選擇供應商前，應執行下列事項：",
+      "children": [
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、應依據委外項目之性質訂定供應商需求建議書，內容應明\n列：",
+          "normalized_content": "一、應依據委外項目之性質訂定供應商需求建議書，內容應明\n列：",
+          "children": [
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.1.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一)供應商需符合之專業資格與資訊安全要求。",
+              "normalized_content": "(一)供應商需符合之專業資格與資訊安全要求。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 112,
+                  "end": 112
+                },
+                "line_char_range": {
+                  "min": 22,
+                  "max": 22
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            },
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.1.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二)資訊安全要求之服務水準。",
+              "normalized_content": "(二)資訊安全要求之服務水準。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 2
+                },
+                "line_range": {
+                  "start": 115,
+                  "end": 115
+                },
+                "line_char_range": {
+                  "min": 15,
+                  "max": 15
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 108,
+              "end": 109
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、選擇供應商過程，如涉及銀行資訊交換，銀行應備妥保密協\n議書，並於資訊交換前完成簽署。",
+          "normalized_content": "二、選擇供應商過程，如涉及銀行資訊交換，銀行應備妥保密協\n議書，並於資訊交換前完成簽署。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 118,
+              "end": 119
+            },
+            "line_char_range": {
+              "min": 15,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、應執行安全評估以選任合適之供應商：",
+          "normalized_content": "三、應執行安全評估以選任合適之供應商：",
+          "children": [
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.3.1",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(一) 注意作業委託供應商對銀行服務集中度之適度分散，如\n存在集中度過高之疑慮，應依評估結果擬訂對應之風險\n處理措施。",
+              "normalized_content": "(一) 注意作業委託供應商對銀行服務集中度之適度分散，如\n存在集中度過高之疑慮，應依評估結果擬訂對應之風險\n處理措施。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 2,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 125,
+                  "end": 128
+                },
+                "line_char_range": {
+                  "min": 5,
+                  "max": 28
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            },
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.3.2",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(二) 供應商對所委託項目之資訊安全管理機制。",
+              "normalized_content": "(二) 供應商對所委託項目之資訊安全管理機制。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 131,
+                  "end": 131
+                },
+                "line_char_range": {
+                  "min": 23,
+                  "max": 23
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            },
+            {
+              "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.5.3.3",
+              "node_kind": "normal",
+              "table_sequence": null,
+              "cell_row": null,
+              "cell_col": null,
+              "original_content": "(三) 供應商與其產品或服務提供地、實質受益人或控制權來\n源國是否符合國內相關規範要求，以確保客戶資料安\n全，降低資通風險。",
+              "normalized_content": "(三) 供應商與其產品或服務提供地、實質受益人或控制權來\n源國是否符合國內相關規範要求，以確保客戶資料安\n全，降低資通風險。",
+              "children": [],
+              "metadata": {
+                "page_range": {
+                  "start": 3,
+                  "end": 3
+                },
+                "line_range": {
+                  "start": 134,
+                  "end": 136
+                },
+                "line_char_range": {
+                  "min": 9,
+                  "max": 28
+                }
+              },
+              "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+              "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+            }
+          ],
+          "metadata": {
+            "page_range": {
+              "start": 2,
+              "end": 2
+            },
+            "line_range": {
+              "start": 122,
+              "end": 122
+            },
+            "line_char_range": {
+              "min": 19,
+              "max": 19
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 2,
+          "end": 2
+        },
+        "line_range": {
+          "start": 105,
+          "end": 105
+        },
+        "line_char_range": {
+          "min": 19,
+          "max": 19
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第六條 供應商之委託契約或相關文件中，應明確約定下列事項：",
+      "normalized_content": "第六條 供應商之委託契約或相關文件中，應明確約定下列事項：",
+      "children": [
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、 要求供應商遵守相關法令法規及其他適當資訊安全國際標準\n要求，並訂定供應商未符合資訊安全要求或服務水準時之罰\n責標準。",
+          "normalized_content": "一、 要求供應商遵守相關法令法規及其他適當資訊安全國際標準\n要求，並訂定供應商未符合資訊安全要求或服務水準時之罰\n責標準。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 142,
+              "end": 144
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、 定義銀行與供應商之資訊安全權責，規範供應商應實施之資\n訊安全要求，應包含人員管理、資訊存取與傳輸安全管控機\n制等，以落實資通系統供應鏈邊際防護。",
+          "normalized_content": "二、 定義銀行與供應商之資訊安全權責，規範供應商應實施之資\n訊安全要求，應包含人員管理、資訊存取與傳輸安全管控機\n制等，以落實資通系統供應鏈邊際防護。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 147,
+              "end": 149
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、 非經金融機構書面同意，不得將作業複委託他人。委外契約\n中應定義委託業務得否複委託、得複委託之範圍與對象，及\n複委託受託者應具備之資訊安全措施。",
+          "normalized_content": "三、 非經金融機構書面同意，不得將作業複委託他人。委外契約\n中應定義委託業務得否複委託、得複委託之範圍與對象，及\n複委託受託者應具備之資訊安全措施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 152,
+              "end": 154
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、 依據資料之機密等級、資料處理流程與傳輸方式，要求供應\n商實施資料安全管控。",
+          "normalized_content": "四、 依據資料之機密等級、資料處理流程與傳輸方式，要求供應\n商實施資料安全管控。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 157,
+              "end": 158
+            },
+            "line_char_range": {
+              "min": 10,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、 與供應商約定各項服務要求，如：服務品質、水準、效能、\n供應商資訊安全事件應變與通報程序、資訊安全事件損害賠\n償責任、系統或程式定期檢測與修復要求、保固服務、異常\n管理等。",
+          "normalized_content": "五、 與供應商約定各項服務要求，如：服務品質、水準、效能、\n供應商資訊安全事件應變與通報程序、資訊安全事件損害賠\n償責任、系統或程式定期檢測與修復要求、保固服務、異常\n管理等。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 161,
+              "end": 164
+            },
+            "line_char_range": {
+              "min": 4,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、 保留對供應商之稽核權。若供應商發生可能影響受託業務之\n資通安全事件時，應確保其本身、金融監督管理委員會及中\n央銀行，或其指定之人能取得供應商辦理受託業務之相關資\n訊，包括資通安全控管機制及相關系統之查核報告，及實地\n查核權力。",
+          "normalized_content": "六、 保留對供應商之稽核權。若供應商發生可能影響受託業務之\n資通安全事件時，應確保其本身、金融監督管理委員會及中\n央銀行，或其指定之人能取得供應商辦理受託業務之相關資\n訊，包括資通安全控管機制及相關系統之查核報告，及實地\n查核權力。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 167,
+              "end": 171
+            },
+            "line_char_range": {
+              "min": 5,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、 訂定資通系統功能需求或資訊建置要求，以及任何可能相關\n的開發方法、技術或實作，應包含資訊安全要求或控制措\n施。",
+          "normalized_content": "七、 訂定資通系統功能需求或資訊建置要求，以及任何可能相關\n的開發方法、技術或實作，應包含資訊安全要求或控制措\n施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 174,
+              "end": 176
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、訂定產品或服務之交付驗收程序和標準。",
+          "normalized_content": "八、訂定產品或服務之交付驗收程序和標準。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 179,
+              "end": 179
+            },
+            "line_char_range": {
+              "min": 20,
+              "max": 20
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、 明確約定供應商應確保交付之產品及其服務組件來源為合法\n取得或經合法授權使用，且產品或服務提供地、實質受益人\n或控制權來源國符合國內相關規範要求。",
+          "normalized_content": "九、 明確約定供應商應確保交付之產品及其服務組件來源為合法\n取得或經合法授權使用，且產品或服務提供地、實質受益人\n或控制權來源國符合國內相關規範要求。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 3
+            },
+            "line_range": {
+              "start": 182,
+              "end": 184
+            },
+            "line_char_range": {
+              "min": 18,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.10",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十、要求供應商確保交付之資通系統或程式，包含供應商提供之\n產品及其服務組件，無惡意程式及後門程式，並取得相關安\n全性測試結果或供應商安全性承諾。",
+          "normalized_content": "十、要求供應商確保交付之資通系統或程式，包含供應商提供之\n產品及其服務組件，無惡意程式及後門程式，並取得相關安\n全性測試結果或供應商安全性承諾。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 3,
+              "end": 4
+            },
+            "line_range": {
+              "start": 187,
+              "end": 190
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.6.11",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "十一、訂定供應商契約終止時，資訊資產與資料返還、移交、刪\n除或銷毀之要求。\n委託契約或相關文件與本規範規定不符者，銀行應執行供應鏈資\n訊安全風險評估，依評估結果擬訂對應之風險處理措施，包含供\n應商退場或替換機制，或接受風險並取得適當管理階層核准。",
+          "normalized_content": "十一、訂定供應商契約終止時，資訊資產與資料返還、移交、刪\n除或銷毀之要求。\n委託契約或相關文件與本規範規定不符者，銀行應執行供應鏈資\n訊安全風險評估，依評估結果擬訂對應之風險處理措施，包含供\n應商退場或替換機制，或接受風險並取得適當管理階層核准。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 193,
+              "end": 197
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 3,
+          "end": 3
+        },
+        "line_range": {
+          "start": 139,
+          "end": 139
+        },
+        "line_char_range": {
+          "min": 29,
+          "max": 29
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第七條 於供應商契約存續期間，應注意下列原則：",
+      "normalized_content": "第七條 於供應商契約存續期間，應注意下列原則：",
+      "children": [
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、銀行與供應商應分別指定專人，負責督導及辦理各項資訊安\n全要求事項。",
+          "normalized_content": "一、銀行與供應商應分別指定專人，負責督導及辦理各項資訊安\n全要求事項。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 203,
+              "end": 204
+            },
+            "line_char_range": {
+              "min": 6,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、與供應商間如涉個人資料交換，應確認符合我國個人資料保\n護法相關規定，並確保僅授權者可存取資料及保留資料使用\n稽核軌跡，以利追蹤資料使用狀況。",
+          "normalized_content": "二、與供應商間如涉個人資料交換，應確認符合我國個人資料保\n護法相關規定，並確保僅授權者可存取資料及保留資料使用\n稽核軌跡，以利追蹤資料使用狀況。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 207,
+              "end": 209
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.3",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "三、應識別供應商涉及之關鍵資訊資產，以加強風險管理。",
+          "normalized_content": "三、應識別供應商涉及之關鍵資訊資產，以加強風險管理。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 212,
+              "end": 212
+            },
+            "line_char_range": {
+              "min": 26,
+              "max": 26
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.4",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "四、為落實資通系統供應鏈邊際防護，應訂定供應商存取權限管\n理規範，妥善管理供應商之實體與邏輯存取權限。",
+          "normalized_content": "四、為落實資通系統供應鏈邊際防護，應訂定供應商存取權限管\n理規範，妥善管理供應商之實體與邏輯存取權限。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 215,
+              "end": 216
+            },
+            "line_char_range": {
+              "min": 22,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.5",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "五、定期對具邏輯存取權限之供應商辦理供應鏈資訊安全風險評\n估，依據供應鏈資訊安全風險評估結果採取適當之資訊安全\n控管措施或提報適當主管層級核准可接受之風險等級。",
+          "normalized_content": "五、定期對具邏輯存取權限之供應商辦理供應鏈資訊安全風險評\n估，依據供應鏈資訊安全風險評估結果採取適當之資訊安全\n控管措施或提報適當主管層級核准可接受之風險等級。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 219,
+              "end": 221
+            },
+            "line_char_range": {
+              "min": 24,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.6",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "六、建立對核心資通系統、第一類電腦系統，及於合約期間得存\n取銀行機敏資料之第二或三類電腦系統供應商資訊安全稽核\n之程序，包含稽核結果之改善追蹤機制。依據供應鏈資訊安\n全風險評估結果選擇合適之資訊安全稽核之方式與頻率，包\n含自行辦理或委託獨立第三方執行資訊安全訪視作業，或由\n供應商提供公正第三方之驗證報告。",
+          "normalized_content": "六、建立對核心資通系統、第一類電腦系統，及於合約期間得存\n取銀行機敏資料之第二或三類電腦系統供應商資訊安全稽核\n之程序，包含稽核結果之改善追蹤機制。依據供應鏈資訊安\n全風險評估結果選擇合適之資訊安全稽核之方式與頻率，包\n含自行辦理或委託獨立第三方執行資訊安全訪視作業，或由\n供應商提供公正第三方之驗證報告。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 224,
+              "end": 229
+            },
+            "line_char_range": {
+              "min": 16,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.7",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "七、監督供應商針對其專案執行人員辦理資訊安全教育訓練。",
+          "normalized_content": "七、監督供應商針對其專案執行人員辦理資訊安全教育訓練。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 232,
+              "end": 232
+            },
+            "line_char_range": {
+              "min": 27,
+              "max": 27
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.8",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "八、依契約要求審查供應商所交付之系統或程式，包含供應商提\n供之產品及其服務組件之安全性測試結果或供應商安全性承\n諾。",
+          "normalized_content": "八、依契約要求審查供應商所交付之系統或程式，包含供應商提\n供之產品及其服務組件之安全性測試結果或供應商安全性承\n諾。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 235,
+              "end": 237
+            },
+            "line_char_range": {
+              "min": 2,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.7.9",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "九、依據與供應商約定各項服務要求定期審查供應鏈服務之品質\n及相關規範合規情形。如有違反要求情節重大且不能限期改\n善者，應執行供應商退場或替換機制。",
+          "normalized_content": "九、依據與供應商約定各項服務要求定期審查供應鏈服務之品質\n及相關規範合規情形。如有違反要求情節重大且不能限期改\n善者，應執行供應商退場或替換機制。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 4
+            },
+            "line_range": {
+              "start": 240,
+              "end": 242
+            },
+            "line_char_range": {
+              "min": 17,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 4,
+          "end": 4
+        },
+        "line_range": {
+          "start": 200,
+          "end": 200
+        },
+        "line_char_range": {
+          "min": 23,
+          "max": 23
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.8",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第八條 供應商服務變更與契約終止時，應符合下列事項：",
+      "normalized_content": "第八條 供應商服務變更與契約終止時，應符合下列事項：",
+      "children": [
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.8.1",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "一、供應商提供之服務變更前(包含契約變更、供應商組織重大調\n整、業務重大異動或契約提前終止相關事宜)，銀行應執行供\n應鏈資訊安全風險評估，並依評估結果擬訂對應之風險處理\n措施。",
+          "normalized_content": "一、供應商提供之服務變更前(包含契約變更、供應商組織重大調\n整、業務重大異動或契約提前終止相關事宜)，銀行應執行供\n應鏈資訊安全風險評估，並依評估結果擬訂對應之風險處理\n措施。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 4,
+              "end": 5
+            },
+            "line_range": {
+              "start": 248,
+              "end": 252
+            },
+            "line_char_range": {
+              "min": 3,
+              "max": 29
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        },
+        {
+          "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.8.2",
+          "node_kind": "normal",
+          "table_sequence": null,
+          "cell_row": null,
+          "cell_col": null,
+          "original_content": "二、供應商契約終止時，銀行應於供應商依約完成產品或服務之\n移轉、交付驗收程序後，監督其完成資訊資產與資料返還、\n移交、刪除或銷毀，並移除供應商於服務期間所取得之實體\n與邏輯存取權限。",
+          "normalized_content": "二、供應商契約終止時，銀行應於供應商依約完成產品或服務之\n移轉、交付驗收程序後，監督其完成資訊資產與資料返還、\n移交、刪除或銷毀，並移除供應商於服務期間所取得之實體\n與邏輯存取權限。",
+          "children": [],
+          "metadata": {
+            "page_range": {
+              "start": 5,
+              "end": 5
+            },
+            "line_range": {
+              "start": 255,
+              "end": 258
+            },
+            "line_char_range": {
+              "min": 8,
+              "max": 28
+            }
+          },
+          "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+          "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+        }
+      ],
+      "metadata": {
+        "page_range": {
+          "start": 4,
+          "end": 4
+        },
+        "line_range": {
+          "start": 245,
+          "end": 245
+        },
+        "line_char_range": {
+          "min": 26,
+          "max": 26
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    },
+    {
+      "id": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.9",
+      "node_kind": "normal",
+      "table_sequence": null,
+      "cell_row": null,
+      "cell_col": null,
+      "original_content": "第九條 本規範經本會理事會通過並函報金融監督管理委員會核備後\n實施，修正時亦同。",
+      "normalized_content": "第九條 本規範經本會理事會通過並函報金融監督管理委員會核備後\n實施，修正時亦同。",
+      "children": [],
+      "metadata": {
+        "page_range": {
+          "start": 5,
+          "end": 5
+        },
+        "line_range": {
+          "start": 261,
+          "end": 262
+        },
+        "line_char_range": {
+          "min": 9,
+          "max": 30
+        }
+      },
+      "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+      "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+    }
+  ],
+  "metadata": {
+    "page_range": {
+      "start": 1,
+      "end": 5
+    },
+    "line_range": {
+      "start": 1,
+      "end": 11
+    },
+    "line_char_range": {
+      "min": 1,
+      "max": 37
+    }
+  },
+  "file_name": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30.md",
+  "file_stem": "附件1_金融機構資通系統與服務供應鏈風險管理規範_v2025.9.30"
+}

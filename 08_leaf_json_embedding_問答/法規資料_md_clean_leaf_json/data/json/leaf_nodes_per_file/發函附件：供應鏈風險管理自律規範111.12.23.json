@@ -1,0 +1,1471 @@
+[
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "第一條",
+    "level": 0,
+    "sibling_order": 1,
+    "path_key": "1",
+    "path_names": [
+      "第一條"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "第一條 目的\n為強化證券商對資通系統之資訊服務供應商遴選、管理、終止與解除\n之風險管理，特定本自律規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "2.1",
+    "path_names": [
+      "第二條",
+      "一、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "一、 資訊委外：係指證券商將部分或全部之資通服務由組織外之軟硬\n體供應與維運商、跨機構合作夥伴提供。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "2.2",
+    "path_names": [
+      "第二條",
+      "二、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "二、 資訊資產：係指與資訊處理相關之資產，包括硬體、軟體、資料、\n文件及人員等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "2.3",
+    "path_names": [
+      "第二條",
+      "三、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "三、 資通系統：係指用以蒐集、控制、傳輸、儲存、流通、刪除資訊\n或對資訊為其他處理、使用或分享之系統。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "2.4",
+    "path_names": [
+      "第二條",
+      "四、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "四、 資通服務：係指與資訊之蒐集、控制、傳輸、儲存、流通、刪除、\n其他處理、使用或分享相關之服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "五、",
+    "level": 1,
+    "sibling_order": 5,
+    "path_key": "2.5",
+    "path_names": [
+      "第二條",
+      "五、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "五、 資訊服務：係指與資訊之蒐集、控制、傳輸、儲存、刪除、其他\n處理、使用或分享相關之服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "六、",
+    "level": 1,
+    "sibling_order": 6,
+    "path_key": "2.6",
+    "path_names": [
+      "第二條",
+      "六、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "六、 雲端運算服務：透過網路技術達成共享運算資源之前提下，提供\n使用者具備彈性、可擴展及可自助之服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "2.7.1",
+    "path_names": [
+      "第二條",
+      "七、",
+      "(一)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(一)非一般涉及該類資訊之人所知者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "2.7.2",
+    "path_names": [
+      "第二條",
+      "七、",
+      "(二)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(二)因其秘密性而具有實際或潛在之經濟價值者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "2.7.3",
+    "path_names": [
+      "第二條",
+      "七、",
+      "(三)"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "(三)所有人已採取合理之保密措施者。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "八、",
+    "level": 1,
+    "sibling_order": 8,
+    "path_key": "2.8",
+    "path_names": [
+      "第二條",
+      "八、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "八、 存取：係指存取資訊資產的各種方式，包含取得、使用、保管、\n查詢、修改、調整、銷毀等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "九、",
+    "level": 1,
+    "sibling_order": 9,
+    "path_key": "2.9",
+    "path_names": [
+      "第二條",
+      "九、"
+    ],
+    "pages": [
+      1
+    ],
+    "page_start": 1,
+    "page_end": 1,
+    "content": "九、 專案負責人：係指專案經理或該項業務權責部門主管或其指派之\n人員。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "十、",
+    "level": 1,
+    "sibling_order": 10,
+    "path_key": "2.10",
+    "path_names": [
+      "第二條",
+      "十、"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "page_start": 1,
+    "page_end": 2,
+    "content": "十、 資通安全機制 (Security by design)：係指服務與產品規劃設\n計時即融入資通安全的概念，於開發流程中的設計階段，列出安\n全需求、辨識安全風險及套用控制措施，以作為後續安全功能驗\n證的基礎，落實安全的軟體生命週期。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "十一、",
+    "level": 1,
+    "sibling_order": 11,
+    "path_key": "2.11",
+    "path_names": [
+      "第二條",
+      "十一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十一、 隱私保護機制 (Privacy by design)：係指服務與產品規劃設\n計時即融入隱私保護機制的概念，於開發流程中的設計階段，\n列出隱私保護需求、辨識相關風險及套用控制措施，以作為後\n續安全功能驗證的基礎。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "十二、",
+    "level": 1,
+    "sibling_order": 12,
+    "path_key": "2.12",
+    "path_names": [
+      "第二條",
+      "十二、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十二、 資通安全事件：係指系統、服務或網路狀態經鑑別而顯示可能\n有違反資通安全政策或保護措施失效之狀態發生，影響資通系\n統機能運作，構成資通安全政策之威脅。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "十三、",
+    "level": 1,
+    "sibling_order": 13,
+    "path_key": "2.13",
+    "path_names": [
+      "第二條",
+      "十三、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十三、 第一類證券商：係指依「證券暨期貨市場各服務事業建立內部\n控制制度處理準則」第三十六條之二條文指派資訊安全長之證\n券商或「建立證券商資通安全檢查機制-分級防護應辦事項附\n表」所列第一級、第二級、第三級證券商。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "十四、",
+    "level": 1,
+    "sibling_order": 14,
+    "path_key": "2.14",
+    "path_names": [
+      "第二條",
+      "十四、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十四、 第二類證券商：係指非屬第一類證券商之證券商。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "十五、",
+    "level": 1,
+    "sibling_order": 15,
+    "path_key": "2.15",
+    "path_names": [
+      "第二條",
+      "十五、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "十五、 外國證券商：係指外資集團在台子公司或分公司。外國證券商\n如有標準較佳之規範則從其規範；若無，則應遵守本國的規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "3.1",
+    "path_names": [
+      "第三條",
+      "一、"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "一、 證券商應評估資訊服務供應商之集中度，包括評估資訊服務供應\n商作業能力，採取適當風險管控措施，確保作業委外處理之品質，\n並應注意作業委託資訊服務供應商之適度分散以控管作業風險。\n資訊服務供應商選定之評估結果送交資訊部門主管核可，並依公\n司分層負責核決權限處理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.2.1",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(一)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(一)資訊服務供應商之維運能力(如財務能力、專業能力及經驗實\n績等)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.2.2",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(二)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(二)雲端運算服務供應商應具備完善之雲端運算資通安全管理措\n施或通過第三方驗證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "3.2.3",
+    "path_names": [
+      "第三條",
+      "二、",
+      "(三)"
+    ],
+    "pages": [
+      2
+    ],
+    "page_start": 2,
+    "page_end": 2,
+    "content": "(三)第一類證券商之資訊服務供應商應具備完善之資通安全管理\n措施(提供管理措施與執行情形說明)或通過第三方驗證。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "3.3",
+    "path_names": [
+      "第三條",
+      "三、"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "page_start": 2,
+    "page_end": 3,
+    "content": "三、 選商過程中如存在資訊資產交換，證券商應備妥保密協議書，並\n於交換與採購產品或服務相關之機敏性資訊前簽署。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "3.4.1",
+    "path_names": [
+      "第三條",
+      "四、",
+      "(一)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(一)證券商採購需求產品/服務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "3.4.2",
+    "path_names": [
+      "第三條",
+      "四、",
+      "(二)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(二)資訊服務供應商應符合之資安要求(例如：證券商資安政策、\n本公會資通系統安全防護基準自律規範)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "3.4.3",
+    "path_names": [
+      "第三條",
+      "四、",
+      "(三)"
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "(三)資訊服務供應商之專案管理能力(例如，具有至少一張有效期\n間內之專案管理相關證照或相關成功專案簡述)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "4.1.1.1",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 合約期限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "4.1.1.2",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 服務範圍。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "4.1.1.3",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "3."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "3. 服務交付日期。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "4.1.1.4",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "4."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "4. 服務水準要求。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "4.1.1.5",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "5."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "5. 服務變更規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "6.",
+    "level": 3,
+    "sibling_order": 6,
+    "path_key": "4.1.1.6",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "6."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "6. 服務驗收之標準。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "7.",
+    "level": 3,
+    "sibling_order": 7,
+    "path_key": "4.1.1.7",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "7."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "7. 資通安全事件通報及應變處理作業程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "8.",
+    "level": 3,
+    "sibling_order": 8,
+    "path_key": "4.1.1.8",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "8."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "8. 對資訊服務供應商之稽核權條款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "9.",
+    "level": 3,
+    "sibling_order": 9,
+    "path_key": "4.1.1.9",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "9."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "9. 合約轉讓或同意分包之規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "10.",
+    "level": 3,
+    "sibling_order": 10,
+    "path_key": "4.1.1.10",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "10."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "10. 保密義務條款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "11.",
+    "level": 3,
+    "sibling_order": 11,
+    "path_key": "4.1.1.11",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "11."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "11. 罰則與損害賠償條款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "12.",
+    "level": 3,
+    "sibling_order": 12,
+    "path_key": "4.1.1.12",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "12."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "12. 爭議處理程序。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "13.",
+    "level": 3,
+    "sibling_order": 13,
+    "path_key": "4.1.1.13",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "13."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "13. 違約處理條款。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "14.",
+    "level": 3,
+    "sibling_order": 14,
+    "path_key": "4.1.1.14",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "14."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "14. 合約終止規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "15.",
+    "level": 3,
+    "sibling_order": 15,
+    "path_key": "4.1.1.15",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "15."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "15. 合約終止後之處理。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "16.",
+    "level": 3,
+    "sibling_order": 16,
+    "path_key": "4.1.1.16",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "16."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "16. 保固。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "17.",
+    "level": 3,
+    "sibling_order": 17,
+    "path_key": "4.1.1.17",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(一)",
+      "17."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "17. 權利及責任。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "4.1.2.1",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(二)",
+      "1."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "1. 載明資訊委外服務或產品之智慧財產權及其授權範圍。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "4.1.2.2",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(二)",
+      "2."
+    ],
+    "pages": [
+      3
+    ],
+    "page_start": 3,
+    "page_end": 3,
+    "content": "2. 資訊服務供應商如分包予其他供應商應載明(異動亦同)。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "4.1.2.3",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(二)",
+      "3."
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "page_start": 3,
+    "page_end": 4,
+    "content": "3. 第一類證券商應載明採購之服務與產品於規劃設計時納\n入服務與產品之機敏資料保護、授權與認證、安全性更新\n等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "4.1.2.4",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(二)",
+      "4."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "4. 第一類證券商應載明採購之服務與產品於規劃設計時納\n入隱私保護機制(Privacy by design)之要求。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 2,
+    "sibling_order": 3,
+    "path_key": "4.1.3",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(三)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(三)資訊服務供應商服務範圍涉及資通系統開發、維護與監控，\n應遵循「本公會資通系統安全防護基準自律規範」。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(四)",
+    "level": 2,
+    "sibling_order": 4,
+    "path_key": "4.1.4",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(四)"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "(四)服務範圍涉及使用雲端運算服務，資訊服務供應商應遵循「本\n公會新興科技資通安全自律規範」。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "1.",
+    "level": 3,
+    "sibling_order": 1,
+    "path_key": "4.1.5.1",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)",
+      "1."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "1. 資訊服務供應商應遵循之資安要求事項、個人資料保護法\n與其他相關法規遵循與保密義務。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "2.",
+    "level": 3,
+    "sibling_order": 2,
+    "path_key": "4.1.5.2",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)",
+      "2."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "2. 資訊服務供應商應提供安全性檢測證明 (如行動應用程\n式資安檢測、源碼檢測、弱點掃描等)，並應確保交付之\n系統或程式無惡意程式及後門程式，其放置於網際網路之\n程式應通過程式碼掃描或黑箱測試。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "3.",
+    "level": 3,
+    "sibling_order": 3,
+    "path_key": "4.1.5.3",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)",
+      "3."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "3. 資訊服務供應商揭露第三方程式元件之來源與授權證明。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "4.",
+    "level": 3,
+    "sibling_order": 4,
+    "path_key": "4.1.5.4",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)",
+      "4."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "4. 資訊服務供應商處理證券商委託服務各項範圍資訊，能於\n證券商要求期限內提供。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "5.",
+    "level": 3,
+    "sibling_order": 5,
+    "path_key": "4.1.5.5",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)",
+      "5."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "5. 資通(訊)服務供應商於處理證券商資料應有明確區隔，並\n應予以加密保護。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "6.",
+    "level": 3,
+    "sibling_order": 6,
+    "path_key": "4.1.5.6",
+    "path_names": [
+      "第四條",
+      "一、",
+      "(五)",
+      "6."
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "6. 第一類證券商之資訊服務供應商應提供取得之資安及品\n質證照。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "4.2",
+    "path_names": [
+      "第四條",
+      "二、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "二、 證券商應於簽約程序中確認資訊服務供應商保密切結事宜。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "三、",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "4.3",
+    "path_names": [
+      "第四條",
+      "三、"
+    ],
+    "pages": [
+      4
+    ],
+    "page_start": 4,
+    "page_end": 4,
+    "content": "三、 資訊服務供應商發生資安事件致證券商受到影響時，資訊服務供\n應商的處置程序及責任。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "5.1",
+    "path_names": [
+      "第五條",
+      "一、"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "page_start": 4,
+    "page_end": 5,
+    "content": "一、 專案負責人應向資訊服務供應商告知組織之資訊安全相關規範，\n為保護證券商資訊資產，資訊服務供應商經向證券商申請同意後，\n始有存取證券商資訊資產權限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "5.2",
+    "path_names": [
+      "第五條",
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、 證券商應對資訊服務供應商人員電腦通行使用權利進行適當控\n管；證券商應於委外合約期間結束後立即收回該項權利。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 2,
+    "sibling_order": 1,
+    "path_key": "5.3.1",
+    "path_names": [
+      "第五條",
+      "三、",
+      "(一)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(一)資訊服務供應商對於資訊之存取控制措施不得低於與證券商\n協議之規定及「營業秘密法」第七條第一項及第二項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 2,
+    "sibling_order": 2,
+    "path_key": "5.3.2",
+    "path_names": [
+      "第五條",
+      "三、",
+      "(二)"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "(二)資訊服務供應商應保證該資訊資產、營業秘密之使用，僅限\n於原申請範圍。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "四、",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "5.4",
+    "path_names": [
+      "第五條",
+      "四、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "四、 證券商應管理並至少每半年一次檢視資訊服務供應商之駐點作\n業、實體與邏輯存取權限，包含作業地點的配置、網路設備及主\n機連線、電腦的使用、電腦機房的進出、門禁臨時卡的申請等。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "第六條",
+    "level": 0,
+    "sibling_order": 6,
+    "path_key": "6",
+    "path_names": [
+      "第六條"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "第六條 服務變更管理\n資訊服務供應商服務內容變更，證券商之專案負責人應重新對資訊服\n務供應商變更之服務內容進行風險評估。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "一、",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "7.1",
+    "path_names": [
+      "第七條",
+      "一、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "一、 證券商於資訊委外期間應每年至少一次與認為有稽核之必要時，\n證券商得自行或授權第三方得對資訊服務供應商進行稽核。外\n國證券商如有標準較佳之規範則從其規範；若無，則應遵守本\n國的規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "二、",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "7.2",
+    "path_names": [
+      "第七條",
+      "二、"
+    ],
+    "pages": [
+      5
+    ],
+    "page_start": 5,
+    "page_end": 5,
+    "content": "二、 證券商資訊委外作業如為一年期以上，資訊服務供應商應定期\n或每年至少一次提交服務水準報告，交由證券商審核備查。外\n國證券商如有標準較佳之規範則從其規範；若無，則應遵守本\n國的規範。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(一)",
+    "level": 1,
+    "sibling_order": 1,
+    "path_key": "8.1",
+    "path_names": [
+      "第八條",
+      "(一)"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "page_start": 5,
+    "page_end": 6,
+    "content": "(一)證券商若決定將產品或服務由原資訊服務供應商移轉回證券\n商或至其他資訊服務供應商時，原資訊服務供應商與證券商\n雙方應遵循之資安要求事項。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(二)",
+    "level": 1,
+    "sibling_order": 2,
+    "path_key": "8.2",
+    "path_names": [
+      "第八條",
+      "(二)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(二)資訊服務供應商於資訊委外關係所涉及證券商之資訊資產，\n應於委外關係終止、解除或結束時完整歸還、確保銷毀或轉\n交予其他資訊服務供應商。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(三)",
+    "level": 1,
+    "sibling_order": 3,
+    "path_key": "8.3",
+    "path_names": [
+      "第八條",
+      "(三)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(三)證券商與資訊服務供應商之資訊委外關係於終止、解除或結\n束後，資訊服務供應商應持續遵守保密承諾。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "(四)",
+    "level": 1,
+    "sibling_order": 4,
+    "path_key": "8.4",
+    "path_names": [
+      "第八條",
+      "(四)"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "(四)終止程序執行之時限。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  },
+  {
+    "file_name": "發函附件：供應鏈風險管理自律規範111.12.23.md",
+    "node_name": "第九條",
+    "level": 0,
+    "sibling_order": 9,
+    "path_key": "9",
+    "path_names": [
+      "第九條"
+    ],
+    "pages": [
+      6
+    ],
+    "page_start": 6,
+    "page_end": 6,
+    "content": "第九條 施行程序\n本自律規範經本公會理事會會議通過，並報奉主管機關備查後實施，\n修正時亦同。",
+    "is_leaf": true,
+    "table_count": 0,
+    "tables": []
+  }
+]

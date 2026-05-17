@@ -1,0 +1,138 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "case_count": 135,
+  "train_count": 107,
+  "test_count": 28,
+  "test_ratio": 0.25,
+  "ridge_alpha": 1.0,
+  "query_template": "{topic} 有哪些種類",
+  "max_parent_tokenish": 60,
+  "max_child_tokenish": 120,
+  "max_leaf_tokenish": 120,
+  "per_child_count": 10,
+  "child_count_distribution": {
+    "1": 10,
+    "2": 10,
+    "3": 10,
+    "4": 10,
+    "5": 10,
+    "6": 10,
+    "7": 10,
+    "8": 10,
+    "9": 10,
+    "10": 10,
+    "11": 9,
+    "12": 5,
+    "13": 4,
+    "14": 4,
+    "15": 5,
+    "16": 1,
+    "17": 6,
+    "20": 1
+  },
+  "metric_summary": {
+    "cos_parent_vs_target": {
+      "count": 28,
+      "mean": 0.751326,
+      "p50": 0.744649,
+      "p75": 0.823435,
+      "p90": 0.870999,
+      "min": 0.476691,
+      "max": 0.94319
+    },
+    "cos_query_vs_target": {
+      "count": 28,
+      "mean": 0.727525,
+      "p50": 0.733796,
+      "p75": 0.821551,
+      "p90": 0.861366,
+      "min": 0.433498,
+      "max": 0.926305
+    },
+    "cos_children_text_vs_target": {
+      "count": 28,
+      "mean": 0.933894,
+      "p50": 0.941679,
+      "p75": 0.95101,
+      "p90": 0.972644,
+      "min": 0.786769,
+      "max": 0.986585
+    },
+    "cos_leaf_text_vs_target": {
+      "count": 28,
+      "mean": 0.886546,
+      "p50": 0.903981,
+      "p75": 0.941834,
+      "p90": 0.948873,
+      "min": 0.483642,
+      "max": 0.96253
+    },
+    "cos_matrix_parent_to_parent_children_vs_target": {
+      "count": 28,
+      "mean": 0.823332,
+      "p50": 0.831804,
+      "p75": 0.861819,
+      "p90": 0.871947,
+      "min": 0.68194,
+      "max": 0.902542
+    },
+    "cos_matrix_query_to_parent_children_vs_target": {
+      "count": 28,
+      "mean": 0.822741,
+      "p50": 0.832066,
+      "p75": 0.863135,
+      "p90": 0.869689,
+      "min": 0.676014,
+      "max": 0.897632
+    },
+    "cos_matrix_children_to_parent_children_vs_target": {
+      "count": 28,
+      "mean": 0.851597,
+      "p50": 0.85734,
+      "p75": 0.886669,
+      "p90": 0.892998,
+      "min": 0.710721,
+      "max": 0.902235
+    },
+    "cos_matrix_leaf_to_parent_children_vs_target": {
+      "count": 28,
+      "mean": 0.841072,
+      "p50": 0.85232,
+      "p75": 0.881137,
+      "p90": 0.887243,
+      "min": 0.607042,
+      "max": 0.897621
+    }
+  },
+  "model_load_sec": 20.502,
+  "encode_sec": 124.504,
+  "embedding_shapes": {
+    "parent": [
+      135,
+      1024
+    ],
+    "query": [
+      135,
+      1024
+    ],
+    "direct_children": [
+      135,
+      1024
+    ],
+    "leaf": [
+      135,
+      1024
+    ],
+    "parent_children": [
+      135,
+      1024
+    ]
+  },
+  "outputs": {
+    "csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\relation_matrix_eda\\relation_matrix_eda.csv",
+    "xlsx": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\relation_matrix_eda\\relation_matrix_eda.xlsx",
+    "by_child_count_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\relation_matrix_eda\\relation_matrix_by_child_count.csv",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\relation_matrix_eda\\relation_matrix_summary.json"
+  },
+  "elapsed_sec": 147.713
+}

@@ -1,0 +1,124 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs",
+  "output_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\modes_vs_raw_coordinates",
+  "sample_per_kind": 20,
+  "seed": 419,
+  "strategy": "shortest",
+  "max_tokenish": 200,
+  "table_row_min_cells": 2,
+  "sampling_stats": {
+    "leaf_with_ancestors.jsonl": {
+      "source_count": 5100,
+      "eligible_count": 2452,
+      "picked_count": 20,
+      "fallback_count": 0,
+      "max_tokenish": 200,
+      "table_row_min_cells": null
+    },
+    "table_hierarchy_leaves.jsonl": {
+      "source_count": 2455,
+      "eligible_count": 2158,
+      "picked_count": 20,
+      "fallback_count": 0,
+      "max_tokenish": 200,
+      "table_row_min_cells": null
+    },
+    "table_inner.jsonl": {
+      "source_count": 7180,
+      "eligible_count": 6689,
+      "picked_count": 20,
+      "fallback_count": 0,
+      "max_tokenish": 200,
+      "table_row_min_cells": null
+    },
+    "table_inner_rows.jsonl": {
+      "source_count": 1399,
+      "eligible_count": 802,
+      "picked_count": 20,
+      "fallback_count": 0,
+      "max_tokenish": 200,
+      "table_row_min_cells": 2
+    }
+  },
+  "sample_count": 80,
+  "sample_kind_counts": {
+    "leaf_with_ancestors": 20,
+    "table_hierarchy_leaf": 20,
+    "table_inner": 20,
+    "table_inner_row": 20
+  },
+  "wanted_coordinate_count": 186,
+  "raw_coordinate_found": 166,
+  "all_node_coordinate_found": 37,
+  "model_load_sec": 9.898,
+  "encode_sec": 20.245,
+  "embedding_shape": [
+    283,
+    1024
+  ],
+  "metric_summary": {
+    "cos_record_vs_own_raw": {
+      "count": 60,
+      "mean": 0.969008,
+      "p50": 0.972165,
+      "p75": 0.976997,
+      "p90": 0.981708,
+      "min": 0.90477,
+      "max": 0.984074
+    },
+    "cos_record_vs_own_all_node": {
+      "count": 20,
+      "mean": 0.960161,
+      "p50": 0.963536,
+      "p75": 0.97116,
+      "p90": 0.972468,
+      "min": 0.90477,
+      "max": 0.978432
+    },
+    "cos_record_vs_mean_covered_raw": {
+      "count": 80,
+      "mean": 0.934176,
+      "p50": 0.944401,
+      "p75": 0.973383,
+      "p90": 0.979619,
+      "min": 0.762576,
+      "max": 0.984074
+    },
+    "cos_record_vs_weighted_covered_raw": {
+      "count": 80,
+      "mean": 0.859791,
+      "p50": 0.905666,
+      "p75": 0.963957,
+      "p90": 0.979619,
+      "min": 0.656602,
+      "max": 0.984074
+    },
+    "cos_row_vs_mean_cells": {
+      "count": 20,
+      "mean": 0.879679,
+      "p50": 0.911433,
+      "p75": 0.926256,
+      "p90": 0.951469,
+      "min": 0.762576,
+      "max": 0.954177
+    },
+    "cell_pairwise_cos_mean": {
+      "count": 20,
+      "mean": 0.852495,
+      "p50": 0.835657,
+      "p75": 0.914646,
+      "p90": 0.923033,
+      "min": 0.699409,
+      "max": 0.929765
+    }
+  },
+  "missing_raw_rows": 0,
+  "elapsed_sec": 33.62,
+  "outputs": {
+    "csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\modes_vs_raw_coordinates\\modes_vs_raw_coordinates.csv",
+    "xlsx": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\modes_vs_raw_coordinates\\modes_vs_raw_coordinates.xlsx",
+    "jsonl": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\modes_vs_raw_coordinates\\modes_vs_raw_coordinates.jsonl",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\modes_vs_raw_coordinates\\modes_vs_raw_coordinates_summary.json"
+  }
+}

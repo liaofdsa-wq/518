@@ -1,0 +1,4 @@
+﻿chain_len,case_count,cos_mean_chain_vs_arrow_chain,cos_recursive_compose_vs_arrow_chain,compose_win_probability,mean_win_probability,tie_probability
+2,29,0.867242,0.942416,1.0,0.0,0.0
+3,20,0.838292,0.898022,0.95,0.05,0.0
+4,26,0.833807,0.844435,0.692308,0.307692,0.0

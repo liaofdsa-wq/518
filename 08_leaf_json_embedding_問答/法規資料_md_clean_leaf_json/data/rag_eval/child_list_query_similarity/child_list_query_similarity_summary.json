@@ -1,0 +1,216 @@
+{
+  "model_name": "BAAI/bge-m3",
+  "tree_input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\json\\single_tree_per_file",
+  "embedding_input_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embedding_inputs",
+  "output_dir": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity",
+  "tree_count": 46,
+  "candidate_case_count": 968,
+  "sampled_case_count": 80,
+  "covered_sampled_case_count": 80,
+  "per_child_count": 5,
+  "seed": 419,
+  "query_template": "{topic} 有哪些種類",
+  "max_parent_tokenish": 60,
+  "max_child_tokenish": 120,
+  "max_leaf_tokenish": 120,
+  "min_children": 1,
+  "max_children": 20,
+  "include_special": true,
+  "child_count_candidate_distribution": {
+    "17": 6,
+    "2": 243,
+    "6": 46,
+    "14": 4,
+    "3": 238,
+    "4": 145,
+    "5": 76,
+    "8": 30,
+    "7": 43,
+    "1": 73,
+    "15": 5,
+    "9": 24,
+    "10": 15,
+    "12": 5,
+    "11": 9,
+    "13": 4,
+    "16": 1,
+    "20": 1
+  },
+  "child_count_sample_distribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5,
+    "6": 5,
+    "7": 5,
+    "8": 5,
+    "9": 5,
+    "10": 5,
+    "11": 5,
+    "12": 5,
+    "13": 4,
+    "14": 4,
+    "15": 5,
+    "16": 1,
+    "17": 5,
+    "20": 1
+  },
+  "coverage_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_coverage.csv",
+  "collect_only": false,
+  "candidate_scope": "sampled",
+  "model_load_sec": 19.218,
+  "encode_sec": 126.58,
+  "candidate_count": 764,
+  "query_count": 80,
+  "embedding_shape": {
+    "candidates": [
+      764,
+      1024
+    ],
+    "queries": [
+      80,
+      1024
+    ],
+    "direct_children_texts": [
+      80,
+      1024
+    ],
+    "leaf_texts": [
+      80,
+      1024
+    ],
+    "parent_children_texts": [
+      80,
+      1024
+    ]
+  },
+  "metric_summary": {
+    "child_score_mean": {
+      "count": 80,
+      "mean": 0.54278,
+      "p50": 0.537737,
+      "p75": 0.593122,
+      "p90": 0.689322,
+      "min": 0.372074,
+      "max": 0.803322
+    },
+    "child_score_min": {
+      "count": 80,
+      "mean": 0.494246,
+      "p50": 0.489244,
+      "p75": 0.536057,
+      "p90": 0.637627,
+      "min": 0.300673,
+      "max": 0.803322
+    },
+    "child_score_max": {
+      "count": 80,
+      "mean": 0.596574,
+      "p50": 0.585782,
+      "p75": 0.640525,
+      "p90": 0.73166,
+      "min": 0.416454,
+      "max": 0.831875
+    },
+    "query_vs_mean_child_vector": {
+      "count": 80,
+      "mean": 0.604422,
+      "p50": 0.610587,
+      "p75": 0.660577,
+      "p90": 0.749848,
+      "min": 0.417089,
+      "max": 0.837206
+    },
+    "query_vs_direct_children_text": {
+      "count": 80,
+      "mean": 0.587392,
+      "p50": 0.587435,
+      "p75": 0.66234,
+      "p90": 0.709098,
+      "min": 0.403589,
+      "max": 0.845869
+    },
+    "query_vs_leaf_text": {
+      "count": 80,
+      "mean": 0.578732,
+      "p50": 0.58697,
+      "p75": 0.66234,
+      "p90": 0.716856,
+      "min": 0.311255,
+      "max": 0.845869
+    },
+    "query_vs_parent_children_text": {
+      "count": 80,
+      "mean": 0.727566,
+      "p50": 0.733477,
+      "p75": 0.815456,
+      "p90": 0.875677,
+      "min": 0.436455,
+      "max": 0.945224
+    },
+    "child_rank_mean": {
+      "count": 80,
+      "mean": 150.582809,
+      "p50": 106.865997,
+      "p75": 224.168991,
+      "p90": 312.217499,
+      "min": 2.0,
+      "max": 622.0
+    },
+    "worst_child_rank": {
+      "count": 80,
+      "mean": 326.350006,
+      "p50": 325.0,
+      "p75": 522.0,
+      "p90": 706.199951,
+      "min": 2.0,
+      "max": 756.0
+    },
+    "recall_at_child_count": {
+      "count": 80,
+      "mean": 0.151004,
+      "p50": 0.0,
+      "p75": 0.2319,
+      "p90": 0.5,
+      "min": 0.0,
+      "max": 0.833333
+    },
+    "recall_at_2x_child_count": {
+      "count": 80,
+      "mean": 0.261958,
+      "p50": 0.138095,
+      "p75": 0.471153,
+      "p90": 0.755,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "recall_at_10": {
+      "count": 80,
+      "mean": 0.243513,
+      "p50": 0.069048,
+      "p75": 0.402941,
+      "p90": 1.0,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "recall_at_20": {
+      "count": 80,
+      "mean": 0.31345,
+      "p50": 0.19375,
+      "p75": 0.5,
+      "p90": 1.0,
+      "min": 0.0,
+      "max": 1.0
+    }
+  },
+  "outputs": {
+    "csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_similarity.csv",
+    "xlsx": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_similarity.xlsx",
+    "jsonl": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_similarity.jsonl",
+    "by_child_count_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_similarity_by_child_count.csv",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_similarity_summary.json",
+    "coverage_csv": "C:\\Users\\user\\Desktop\\大三下\\EY\\419更新\\表格切分\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\rag_eval\\child_list_query_similarity\\child_list_query_coverage.csv"
+  },
+  "elapsed_sec": 148.209
+}

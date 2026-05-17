@@ -1,0 +1,12 @@
+{
+  "collect_only": true,
+  "mode": "chain",
+  "pair_count": 500,
+  "chain_count": 300,
+  "connector": "的子項為",
+  "min_chain_len": 2,
+  "max_chain_len": 5,
+  "max_chains": 300,
+  "max_chains_per_len": 100,
+  "elapsed_sec": 3.095
+}
