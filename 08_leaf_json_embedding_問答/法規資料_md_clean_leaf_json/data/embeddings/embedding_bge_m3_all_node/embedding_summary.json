@@ -1,0 +1,14 @@
+{
+  "mode": "all_node",
+  "source_file": "all_nodes.jsonl",
+  "model_name": "BAAI/bge-m3",
+  "record_count": 6065,
+  "embedding_dim": 1024,
+  "max_text_len_filter": 200,
+  "elapsed_seconds": 1523.07,
+  "files": {
+    "embeddings": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_all_node\\embeddings.npy",
+    "metadata": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_all_node\\metadata.jsonl",
+    "summary": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_all_node\\embedding_summary.json"
+  }
+}
