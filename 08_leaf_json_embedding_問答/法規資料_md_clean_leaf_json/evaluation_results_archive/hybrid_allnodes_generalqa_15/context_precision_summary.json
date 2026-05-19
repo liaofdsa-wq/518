@@ -1,0 +1,8 @@
+﻿{
+  "metric": "context_precision",
+  "average_score": 0.5333333333333333,
+  "total_questions": 30,
+  "successful_questions": 30,
+  "failed_questions": 0,
+  "question_type_filter": "general_qa"
+}

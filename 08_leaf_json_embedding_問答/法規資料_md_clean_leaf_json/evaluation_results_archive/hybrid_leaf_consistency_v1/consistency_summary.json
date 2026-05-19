@@ -1,0 +1,9 @@
+﻿{
+  "metric": "consistency",
+  "average_score": 0.34,
+  "total_groups": 5,
+  "successful_groups": 5,
+  "failed_groups": 0,
+  "skipped_groups": 0,
+  "question_type_filter": "consistency"
+}

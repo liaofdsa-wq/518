@@ -1,0 +1,9 @@
+﻿{
+  "metric": "faithfulness",
+  "average_score": 1.0,
+  "total_questions": 3,
+  "successful_questions": 3,
+  "failed_questions": 0,
+  "no_claim_questions": 0,
+  "question_type_filter": "table"
+}

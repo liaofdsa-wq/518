@@ -1,0 +1,8 @@
+﻿{
+  "metric": "response_relevancy",
+  "average_score": 0.8000000000000002,
+  "total_questions": 3,
+  "successful_questions": 3,
+  "failed_questions": 0,
+  "question_type_filter": "table"
+}

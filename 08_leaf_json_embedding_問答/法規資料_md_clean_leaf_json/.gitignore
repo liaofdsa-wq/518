@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.pyo
+data/bm25_index_*.pkl
+data/evaluation_outputs/test_*.jsonl
