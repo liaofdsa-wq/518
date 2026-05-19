@@ -1,0 +1,10 @@
+[theme]
+# 這個檔案是ui介面的主題顏色設定
+# [COLOR-3] slider 軌跡、按鈕、focus ring 等主色調
+# 改這裡會同時影響：slider 已滑過軌跡、thumb、multiselect tag、按鈕 primary 色
+primaryColor = "#eccd00"
+
+# 以下保持預設，有需要再打開調整
+# backgroundColor = "#ffffff"
+# secondaryBackgroundColor = "#f0f2f6"
+# textColor = "#31333F"

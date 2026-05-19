@@ -28,6 +28,20 @@ import webbrowser
 from pathlib import Path
 from typing import Any
 
+# ════════════════════════════════════════════
+# 自動建立 .streamlit/config.toml（設定主題色）
+# 不需要手動建立資料夾，程式啟動時自動處理
+# [COLOR-3] slider / focus ring 主色 → 改 primaryColor
+# ════════════════════════════════════════════
+_config_dir  = Path(__file__).resolve().parent / ".streamlit"
+_config_file = _config_dir / "config.toml"
+_config_dir.mkdir(exist_ok=True)
+if not _config_file.exists():
+    _config_file.write_text(
+        '[theme]\nprimaryColor = "#eccd00"\n',
+        encoding="utf-8",
+    )
+
 import numpy as np
 import requests
 import streamlit as st
@@ -111,24 +125,9 @@ span[data-baseweb="tag"] svg {
 }
 
 /* ═══════════════════════════════════════════
-   [COLOR-3] 兩支 slider 的拇指 + 已滑過軌跡 → #eccd00
-   未滑過軌跡維持預設灰色
+   [COLOR-3] slider 顏色由 .streamlit/config.toml 的 primaryColor 控制
+   已移除此處的 CSS，改在 config.toml 設定 primaryColor = "#eccd00"
    ─────────────────────────────────────────── */
-div[data-testid="stSlider"] div[role="slider"] {
-    background-color: #eccd00 !important;
-    border-color: #eccd00 !important;
-}
-div[data-testid="stSlider"] [data-testid="stSliderTrackFill"] {
-    background-color: #eccd00 !important;
-}
-div[data-testid="stSlider"] input[type="range"]::-webkit-slider-thumb {
-    background-color: #eccd00 !important;
-    border-color: #eccd00 !important;
-}
-div[data-testid="stSlider"] input[type="range"]::-moz-range-thumb {
-    background-color: #eccd00 !important;
-    border-color: #eccd00 !important;
-}
 
 /* ═══════════════════════════════════════════
    [COLOR-4] UI 灰色背景 → rgba(240,237,231,0.5)（#f0ede7 透明度50%）
