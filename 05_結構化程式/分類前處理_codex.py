@@ -1402,6 +1402,7 @@ def extract_heading_lines():
             ("CHAPTER",  r"^第\s*([一二三四五六七八九十百0-9]+)\s*章"),
             ("SECTION",  r"^第\s*([一二三四五六七八九十百0-9]+)\s*節"),
             ("ARTICLE",  r"^第\s*([一二三四五六七八九十百0-9]+)\s*條(?:之\d+)?"),
+            ("POINT_ZH", r"^第\s*([一二三四五六七八九十百零]+)\s*[點]"),   # ← 新增
             ("PARAGRAPH",r"^第\s*([一二三四五六七八九十百0-9]+)\s*項"),
             ("SUBITEM",  r"^第\s*([一二三四五六七八九十百0-9]+)\s*款"),
             ("SPECIAL_BLOCK", r"^\[SPECIAL\s+r=([^\s\]]+)\s+s=([^\s\]]+)\s+t=(\d+)\]$"),
@@ -1409,12 +1410,15 @@ def extract_heading_lines():
             ("ITEM_ZH", r"^([一二三四五六七八九十]+)[、．.]"),
             ("ITEM_ZH_BIG", r"^([壹貳參肆伍陸柒捌玖])[、．.]"),
             ("PAREN_ZH_BIG", r"^[（(]([壹貳參肆伍陸柒捌玖拾]+)[）)]"),
+            ("ITEM_ZH_ALPHA", r"^([甲乙丙丁戊己庚辛壬癸])[、．.]"),
 
             ("PAREN_ZH", r"^[（(]([一二三四五六七八九十]+)[）)]"),
             ("PAREN_NUM", r"^[（(](\d+)[）)]"),
+            ("PAREN_ALPHA",  r"^[（(]([a-zA-Z])[）)]"), 
 
             ("POINT_NUM", r"^(\d+)[\.．、]"),
-            ("ALPHA", r"^([a-zA-Z])[\.．、]"),
+            ("ALPHA_UPPER", r"^([A-Z])[\.．、]"),
+            ("ALPHA_LOWER", r"^([a-z])[\.．、]"),
             ("ROMAN", r"^([ivxlcdmIVXLCDM]+)[\.．、]"),
         ]
 
@@ -1434,12 +1438,16 @@ def extract_heading_lines():
             "SPECIAL_BLOCK": 5,
             "ITEM_ZH": 5,
             "ITEM_ZH_BIG": 5,
+            "POINT_ZH":     5,   # ← 新增，第一點、第二點
             "PAREN_ZH": 6,
             "PAREN_ZH_BIG": 6,
             "PAREN_NUM": 7,
-            "POINT_NUM": 7,
-            "ALPHA": 8,
-            "ROMAN": 9
+            "POINT_NUM": 8,
+            "ITEM_ZH_ALPHA": 9,   # ← 新增，甲乙丙丁，在 (1)(2) 底下
+            "ALPHA_UPPER": 9,
+            "ALPHA_LOWER": 10,
+            "PAREN_ALPHA":  10,   # ← 新增
+            "ROMAN": 11
         }
 
         return fixed_level, dynamic_level_map
@@ -1550,7 +1558,6 @@ def extract_heading_lines():
                     current_block = [line]
                     current_tag = "SPECIAL_BLOCK"
                     new_lines.append(line)
-                    structure_lines.append(line)
                     idx += 1
                     continue
 
@@ -1740,9 +1747,22 @@ def clean_md_garbage_folder(input_dir, output_dir, header_threshold=3):
 
         counter = Counter(stripped)
 
+        heading_patterns = re.compile(
+            r"^(?:"
+            r"第\s*[一二三四五六七八九十百0-9]+\s*[章節條項款]"
+            r"|[一二三四五六七八九十]+[、．.]"
+            r"|[壹貳參肆伍陸柒捌玖][、．.].*CA-\d+"
+            r"|[（(][壹貳參肆伍陸柒捌玖拾]+[）)]"
+            r"|[（(][一二三四五六七八九十]+[）)]"
+            r"|[（(]\d+[）)]"
+            r"|^\d+[\.．、]"
+            r")"
+        )
+
         header_candidates = {
             line for line, count in counter.items()
             if count >= header_threshold and len(line) <= 30
+            and not heading_patterns.match(line)
         }
 
         # ---- 3️⃣ 刪 header（保護 [）----
@@ -1835,10 +1855,9 @@ def run_preprocess_pipeline():
     rewrite_page_markers(working_dir)
     extract_tables()
     mark_special_blocks()
-    extract_heading_lines()
     clean_md_garbage_folder(working_dir, working_dir, header_threshold=3)
+    extract_heading_lines()
     mark_consecutive_table_merges(working_dir)
-    print(f"[OK] 前處理完成：{working_dir}")
 
 
 # ========= 執行 =========
