@@ -39,15 +39,6 @@ AVAILABLE_MODES = (
     "table_inner",
     "table_inner_row",
 )
-
-# 新版五種模式（不需要 hybrid_text_mode）
-NEW_FIVE_MODES = (
-    "all_node",
-    "leaf_with_ancestors",
-    "table_hierarchy_leaf",
-    "table_inner_row",
-    "table_inner",
-)
 #========
 HYBRID_TEXT_OPTIONS = ("leaf", "all_nodes")
 VECTOR_THRESHOLD = 0.2
@@ -95,12 +86,7 @@ def load_single_embedding_data(mode: str) -> tuple[np.ndarray, list[dict[str, An
     return embeddings, metadata, summary
 
 
-def load_embedding_data(mode: str, hybrid_text_mode: str = "leaf") -> tuple[np.ndarray, list[dict[str, Any]], dict[str, Any]]:
-    """
-    載入 embedding 資料。
-    新版五種模式（NEW_FIVE_MODES）只需傳 mode，hybrid_text_mode 可省略。
-    舊版 hybrid 模式仍需傳 hybrid_text_mode。
-    """
+def load_embedding_data(mode: str, hybrid_text_mode: str) -> tuple[np.ndarray, list[dict[str, Any]], dict[str, Any]]:
     if mode != "hybrid":
         return load_single_embedding_data(mode)
 
@@ -136,38 +122,19 @@ def _tokenize_2gram(text: str) -> list[str]:
 
 #==========
 def _bm25_cache_path(mode: str, hybrid_text_mode: str) -> Path:
-    if mode == "hybrid" and hybrid_text_mode:
+    if mode == "hybrid":
         return DATA_ROOT / f"bm25_index_{mode}_{hybrid_text_mode}.pkl"
     return DATA_ROOT / f"bm25_index_{mode}.pkl"
 #==========
 
-def load_bm25_index(mode: str, hybrid_text_mode_or_metadata: str | tuple[str, ...], metadata: tuple[str, ...] | None = None) -> BM25Okapi:
-    """
-    載入 BM25 索引。支援兩種呼叫方式：
-
-    新版（五種模式，不需要 hybrid_text_mode）：
-        load_bm25_index(mode, metadata_tuple)
-
-    舊版（hybrid 模式）：
-        load_bm25_index(mode, hybrid_text_mode_str, metadata_tuple)
-    """
-    # 判斷呼叫方式
-    if isinstance(hybrid_text_mode_or_metadata, tuple):
-        # 新版呼叫：第二個參數是 metadata tuple
-        actual_hybrid_text_mode = ""
-        actual_metadata = hybrid_text_mode_or_metadata
-    else:
-        # 舊版呼叫：第二個參數是 hybrid_text_mode 字串
-        actual_hybrid_text_mode = hybrid_text_mode_or_metadata
-        actual_metadata = metadata or ()
-
-    cache_path = _bm25_cache_path(mode, actual_hybrid_text_mode)
+def load_bm25_index(mode: str, hybrid_text_mode: str, metadata: tuple[str, ...]) -> BM25Okapi:
+    cache_path = _bm25_cache_path(mode, hybrid_text_mode)
 
     if cache_path.exists():
         with cache_path.open("rb") as file:
             return pickle.load(file)
 
-    corpus = [_tokenize_2gram(text) for text in actual_metadata]
+    corpus = [_tokenize_2gram(text) for text in metadata]
     bm25 = BM25Okapi(corpus)
 
     DATA_ROOT.mkdir(parents=True, exist_ok=True)

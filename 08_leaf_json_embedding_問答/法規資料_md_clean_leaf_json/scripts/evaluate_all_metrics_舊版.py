@@ -12,15 +12,6 @@ DEFAULT_INPUT_PATH = ROOT / "data" / "evaluation_outputs" / "eval_outputs.jsonl"
 DEFAULT_OUTPUT_DIR = ROOT / "data" / "evaluation_results"
 DEFAULT_OLLAMA_MODEL = "qwen2.5:3b"
 
-# 五種 embedding 模式（供說明用，此腳本本身不載入 embedding）
-AVAILABLE_EMBEDDING_MODES = (
-    "all_node",
-    "leaf_with_ancestors",
-    "table_hierarchy_leaf",
-    "table_inner_row",
-    "table_inner",
-)
-
 
 def run_command(command: list[str]) -> None:
     print("Running:", " ".join(command))
@@ -28,13 +19,7 @@ def run_command(command: list[str]) -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(
-        description=(
-            "依序執行所有評估指標腳本（relevancy / faithfulness / recall / precision）。\n"
-            "注意：此腳本只呼叫評估腳本，不直接使用 embedding_mode，\n"
-            "      embedding_mode 是在 run_evaluation_questions.py 產生 eval_outputs.jsonl 時決定的。"
-        )
-    )
+    parser = argparse.ArgumentParser(description="Run all evaluator metrics in sequence.")
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT_PATH)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
     parser.add_argument("--question-type", default=None)
@@ -45,34 +30,51 @@ def main() -> None:
     parser.add_argument("--force-rerun", action="store_true")
     args = parser.parse_args()
 
-    common = [sys.executable]
+    common = [
+        sys.executable,
+    ]
 
     relevancy_cmd = common + [
         str(SCRIPTS_DIR / "evaluate_response_relevancy.py"),
-        "--input", str(args.input),
-        "--output-dir", str(args.output_dir),
-        "--ollama-model", args.ollama_model,
+        "--input",
+        str(args.input),
+        "--output-dir",
+        str(args.output_dir),
+        "--ollama-model",
+        args.ollama_model,
     ]
     faithfulness_cmd = common + [
         str(SCRIPTS_DIR / "evaluate_faithfulness.py"),
-        "--input", str(args.input),
-        "--output-dir", str(args.output_dir),
-        "--ollama-model", args.ollama_model,
-        "--max-context-chars", str(args.max_context_chars_faithfulness),
+        "--input",
+        str(args.input),
+        "--output-dir",
+        str(args.output_dir),
+        "--ollama-model",
+        args.ollama_model,
+        "--max-context-chars",
+        str(args.max_context_chars_faithfulness),
     ]
     recall_cmd = common + [
         str(SCRIPTS_DIR / "evaluate_context_recall.py"),
-        "--input", str(args.input),
-        "--output-dir", str(args.output_dir),
-        "--ollama-model", args.ollama_model,
-        "--max-context-chars", str(args.max_context_chars_recall),
+        "--input",
+        str(args.input),
+        "--output-dir",
+        str(args.output_dir),
+        "--ollama-model",
+        args.ollama_model,
+        "--max-context-chars",
+        str(args.max_context_chars_recall),
     ]
     precision_cmd = common + [
         str(SCRIPTS_DIR / "evaluate_context_precision.py"),
-        "--input", str(args.input),
-        "--output-dir", str(args.output_dir),
-        "--ollama-model", args.ollama_model,
-        "--max-context-chars", str(args.max_context_chars_precision),
+        "--input",
+        str(args.input),
+        "--output-dir",
+        str(args.output_dir),
+        "--ollama-model",
+        args.ollama_model,
+        "--max-context-chars",
+        str(args.max_context_chars_precision),
     ]
 
     if args.question_type:
@@ -87,9 +89,9 @@ def main() -> None:
     run_command(recall_cmd)
     run_command(precision_cmd)
 
-    print(f"relevancy summary:         {args.output_dir / 'relevancy_summary.json'}")
-    print(f"faithfulness summary:      {args.output_dir / 'faithfulness_summary.json'}")
-    print(f"context recall summary:    {args.output_dir / 'context_recall_summary.json'}")
+    print(f"relevancy summary: {args.output_dir / 'relevancy_summary.json'}")
+    print(f"faithfulness summary: {args.output_dir / 'faithfulness_summary.json'}")
+    print(f"context recall summary: {args.output_dir / 'context_recall_summary.json'}")
     print(f"context precision summary: {args.output_dir / 'context_precision_summary.json'}")
 
 

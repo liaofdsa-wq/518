@@ -35,18 +35,9 @@ from rag_runtime import (  # noqa: E402
 
 EVALUATION_DATASET_DIR = ROOT / "evaluation_dataset"
 OUTPUT_PATH = ROOT / "data" / "evaluation_outputs" / "eval_outputs.jsonl"
+DEFAULT_RETRIEVAL_MODE = "hybrid"
+DEFAULT_HYBRID_TEXT_MODE = "leaf"
 DEFAULT_ALPHA = 0.5
-
-# ── 五種 embedding 模式（已移除舊版 hybrid / leaf 等） ──────────────
-AVAILABLE_EMBEDDING_MODES = (
-    "all_node",
-    "leaf_with_ancestors",
-    "table_hierarchy_leaf",
-    "table_inner_row",
-    "table_inner",
-)
-DEFAULT_EMBEDDING_MODE = "all_node"
-
 DATASET_FILES = (
     "general_qa_15.xlsx",
     "large_doc_qa.xlsx",
@@ -58,6 +49,7 @@ DATASET_FILES = (
 def detect_error_message(answer_text: str | None) -> str | None:
     if not answer_text:
         return None
+
     normalized = answer_text.strip()
     error_markers = (
         "[錯誤]",
@@ -130,6 +122,7 @@ def resolve_input_files(dataset_dir: Path, input_files: list[str] | None) -> lis
 def load_jsonl_records(path: Path) -> dict[str, dict[str, Any]]:
     if not path.exists():
         return {}
+
     records: dict[str, dict[str, Any]] = {}
     with path.open("r", encoding="utf-8-sig") as file:
         for line in file:
@@ -201,8 +194,6 @@ def serialize_context(item: dict[str, Any]) -> dict[str, Any]:
         "score": float(item.get("score", 0.0) or 0.0),
         "vector_score": float(item.get("vector_score", 0.0) or 0.0),
         "keyword_score": float(item.get("keyword_score", 0.0) or 0.0),
-        # 新增：記錄來源模式（複選合併時有用）
-        "source_mode": as_text(item.get("_source_mode")),
     }
 
 
@@ -210,7 +201,8 @@ def build_output_record(
     question_row: dict[str, Any],
     retrieved_contexts: list[dict[str, Any]],
     generated_answer_text: str | None,
-    embedding_mode: str,           # ← 取代舊版 retrieval_mode + hybrid_text_mode
+    retrieval_mode: str,
+    hybrid_text_mode: str,
     embedding_model: str,
     ollama_model: str,
     top_k: int,
@@ -231,8 +223,8 @@ def build_output_record(
         "evidence_text": question_row.get("evidence_text"),
         "generated_answer": generated_answer_text,
         "retrieved_contexts": [serialize_context(item) for item in retrieved_contexts],
-        # ── 取代舊版的 retrieval_mode / hybrid_text_mode ──
-        "embedding_mode": embedding_mode,
+        "retrieval_mode": retrieval_mode,
+        "hybrid_text_mode": hybrid_text_mode,
         "embedding_model": embedding_model,
         "ollama_model": ollama_model,
         "top_k": top_k,
@@ -256,7 +248,8 @@ def run_batch(
     dataset_dir: Path,
     output_path: Path,
     embedding_model: str,
-    embedding_mode: str,           # ← 取代舊版 retrieval_mode + hybrid_text_mode
+    retrieval_mode: str,
+    hybrid_text_mode: str,
     top_k: int,
     alpha: float,
     ollama_model: str,
@@ -268,12 +261,6 @@ def run_batch(
     question_type_filter: str | None,
     input_files: list[str] | None,
 ) -> None:
-    if embedding_mode not in AVAILABLE_EMBEDDING_MODES:
-        raise ValueError(
-            f"不支援的 embedding_mode：{embedding_mode}，"
-            f"可選：{AVAILABLE_EMBEDDING_MODES}"
-        )
-
     question_rows = load_question_rows(dataset_dir, input_files, question_type_filter)
     if limit is not None:
         question_rows = question_rows[:limit]
@@ -281,16 +268,16 @@ def run_batch(
     existing_records = load_jsonl_records(output_path)
     prompt_engineering.OLLAMA_TIMEOUT = ollama_timeout
 
-    # ── 載入 embedding（新版只需要一個 mode 參數）──────────────────
-    print(f"Loading embeddings: embedding_mode={embedding_mode}")
-    doc_embeddings, metadata, _summary = load_embedding_data(embedding_mode)
+    print(f"Loading embeddings: mode={retrieval_mode}, hybrid_text_mode={hybrid_text_mode}")
+    doc_embeddings, metadata, _summary = load_embedding_data(retrieval_mode, hybrid_text_mode)
 
     print(f"Loading embedding model: {embedding_model}")
     model = load_model(embedding_model)
 
     print("Loading BM25 index")
     bm25 = load_bm25_index(
-        embedding_mode,
+        retrieval_mode,
+        hybrid_text_mode,
         tuple(str(item.get("text", "")) for item in metadata),
     )
 
@@ -366,7 +353,8 @@ def run_batch(
             question_row=question_row,
             retrieved_contexts=retrieved_contexts,
             generated_answer_text=generated_answer_text,
-            embedding_mode=embedding_mode,
+            retrieval_mode=retrieval_mode,
+            hybrid_text_mode=hybrid_text_mode,
             embedding_model=embedding_model,
             ollama_model=ollama_model,
             top_k=top_k,
@@ -387,27 +375,12 @@ def run_batch(
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="Run evaluation datasets through the RAG pipeline（五種 embedding 模式）."
-    )
+    parser = argparse.ArgumentParser(description="Run evaluation datasets through the existing RAG pipeline.")
     parser.add_argument("--dataset-dir", type=Path, default=EVALUATION_DATASET_DIR)
     parser.add_argument("--output", type=Path, default=OUTPUT_PATH)
     parser.add_argument("--embedding-model", default=DEFAULT_MODEL)
-    # ── 新版：--mode 直接指定五種模式之一，移除 --hybrid-text-mode ──
-    parser.add_argument(
-        "--mode",
-        default=DEFAULT_EMBEDDING_MODE,
-        choices=list(AVAILABLE_EMBEDDING_MODES),
-        help=(
-            "Embedding 模式，可選：\n"
-            "  all_node             原始所有節點\n"
-            "  leaf_with_ancestors  葉節點＋祖先路徑\n"
-            "  table_hierarchy_leaf 表格葉節點＋路徑\n"
-            "  table_inner_row      表格轉成一段話\n"
-            "  table_inner          最細表格單元\n"
-            f"（預設：{DEFAULT_EMBEDDING_MODE}）"
-        ),
-    )
+    parser.add_argument("--mode", default=DEFAULT_RETRIEVAL_MODE)
+    parser.add_argument("--hybrid-text-mode", default=DEFAULT_HYBRID_TEXT_MODE)
     parser.add_argument("--top-k", type=int, default=DEFAULT_TOP_K)
     parser.add_argument("--prompt-top-n", type=int, default=DEFAULT_PROMPT_TOP_N)
     parser.add_argument("--max-context-chars", type=int, default=DEFAULT_MAX_CONTEXT_CHARS)
@@ -424,7 +397,8 @@ def main() -> None:
         dataset_dir=args.dataset_dir,
         output_path=args.output,
         embedding_model=args.embedding_model,
-        embedding_mode=args.mode,
+        retrieval_mode=args.mode,
+        hybrid_text_mode=args.hybrid_text_mode,
         top_k=args.top_k,
         alpha=args.alpha,
         ollama_model=args.ollama_model,
