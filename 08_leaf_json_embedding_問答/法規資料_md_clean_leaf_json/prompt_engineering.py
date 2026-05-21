@@ -31,9 +31,9 @@ from preprocessing import preprocess
 # 設定
 # ════════════════════════════════════════════
 
-DEFAULT_OLLAMA_MODEL = "llama3.1:latest"
+DEFAULT_OLLAMA_MODEL = "qwen2.5:3b"
 OLLAMA_URL = "http://localhost:11434/api/generate"
-OLLAMA_TIMEOUT = 120
+OLLAMA_TIMEOUT = 600
 
 # context 最大字數（避免超出 LLM context window）
 MAX_CONTEXT_CHARS = 4000
@@ -132,15 +132,9 @@ def build_prompt(
         else ""
     )
 
-    prompt = f"""[INST] 你必須只使用台灣繁體中文回答，嚴禁出現任何簡體字。[/INST]
+    prompt = f"""[INST] 你必須只使用繁體中文回答。[/INST]
 你是企業資安法規智能問答助手，專門協助解讀台灣金融資安相關法規。
-請只根據下方「參考資料」回答問題，不得自行編造或引用資料以外的內容。
 
-回答要求:
-1. 優先整理與問題最直接相關的資訊。
-2. 如果資料不足，直接說明不足，不要硬湊答案。
-3. 如有需要，可在答案中引用法規檔名、節點編號或表格位置。
-4. 中文字輸出請使用繁體中文。
 
 ## 使用者問題
 {raw_question}

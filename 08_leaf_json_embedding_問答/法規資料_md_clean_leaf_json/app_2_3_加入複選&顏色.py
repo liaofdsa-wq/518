@@ -46,7 +46,7 @@ ROOT            = Path(__file__).resolve().parent
 DATA_ROOT       = ROOT / "data"
 EMBEDDINGS_ROOT = DATA_ROOT / "embeddings"
 DEFAULT_MODEL        = "BAAI/bge-m3"
-DEFAULT_OLLAMA_MODEL = "llama3.1:latest"
+DEFAULT_OLLAMA_MODEL = "qwen2.5:3b"
 VECTOR_THRESHOLD     = 0.2
 RRF_K                = 60
 
@@ -321,7 +321,7 @@ def _query_bm25_scores(keywords: list[str], bm25: BM25Okapi) -> np.ndarray:
 
 def load_ollama_models() -> list[str]:
     try:
-        r = requests.get("http://localhost:11434/api/tags", timeout=15)
+        r = requests.get("http://localhost:11434/api/tags", timeout=300)
         r.raise_for_status()
         return [m["name"] for m in r.json().get("models", []) if m.get("name")]
     except Exception:
