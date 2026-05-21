@@ -2,13 +2,13 @@
   "mode": "table_hierarchy_leaf",
   "source_file": "table_hierarchy_leaves.jsonl",
   "model_name": "BAAI/bge-m3",
-  "record_count": 1745,
+  "record_count": 2455,
   "embedding_dim": 1024,
-  "max_text_len_filter": 200,
-  "elapsed_seconds": 797.67,
+  "max_text_len_filter": 1700,
+  "elapsed_seconds": 52.0,
   "files": {
-    "embeddings": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_hierarchy_leaf\\embeddings.npy",
-    "metadata": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_hierarchy_leaf\\metadata.jsonl",
-    "summary": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_hierarchy_leaf\\embedding_summary.json"
+    "embeddings": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\app\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_hierarchy_leaf\\embeddings.npy",
+    "metadata": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\app\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_hierarchy_leaf\\metadata.jsonl",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\app\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_hierarchy_leaf\\embedding_summary.json"
   }
 }

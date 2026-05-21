@@ -2,13 +2,13 @@
   "mode": "table_inner_row",
   "source_file": "table_inner_rows.jsonl",
   "model_name": "BAAI/bge-m3",
-  "record_count": 1032,
+  "record_count": 1475,
   "embedding_dim": 1024,
-  "max_text_len_filter": 200,
-  "elapsed_seconds": 430.75,
+  "max_text_len_filter": 1700,
+  "elapsed_seconds": 2389.62,
   "files": {
-    "embeddings": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_inner_row\\embeddings.npy",
-    "metadata": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_inner_row\\metadata.jsonl",
-    "summary": "C:\\Users\\vanes\\OneDrive\\桌面\\切詞\\518\\08_leaf_json_embedding_問答\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_inner_row\\embedding_summary.json"
+    "embeddings": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\app\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_inner_row\\embeddings.npy",
+    "metadata": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\app\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_inner_row\\metadata.jsonl",
+    "summary": "C:\\Users\\user\\Desktop\\大三下\\EY\\518\\版本比較\\app\\法規資料_md_clean_leaf_json\\data\\embeddings\\embedding_bge_m3_table_inner_row\\embedding_summary.json"
   }
 }
