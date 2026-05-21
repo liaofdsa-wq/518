@@ -51,6 +51,7 @@ COMBINED_MODES = {
 #========
 HYBRID_TEXT_OPTIONS = ("leaf", "all_nodes")
 VECTOR_THRESHOLD = 0.2
+RRF_K = 60
 
 
 def load_metadata(path: Path) -> list[dict[str, Any]]:
@@ -355,7 +356,18 @@ def run_search(
     v_norm = vector_scores / v_max
     k_norm = bm25_scores / k_max
 
-    hybrid: np.ndarray = alpha * v_norm + (1 - alpha) * k_norm
+    vector_rank_order = np.argsort(-vector_scores)
+    bm25_rank_order = np.argsort(-bm25_scores)
+
+    vector_ranks = np.empty(len(vector_scores), dtype=np.int32)
+    bm25_ranks = np.empty(len(bm25_scores), dtype=np.int32)
+    vector_ranks[vector_rank_order] = np.arange(1, len(vector_scores) + 1, dtype=np.int32)
+    bm25_ranks[bm25_rank_order] = np.arange(1, len(bm25_scores) + 1, dtype=np.int32)
+
+    hybrid: np.ndarray = (
+        (1.0 / (RRF_K + vector_ranks.astype(np.float32)))
+        + (1.0 / (RRF_K + bm25_ranks.astype(np.float32)))
+    )
     hybrid[~valid_mask] = 0.0
 
 
