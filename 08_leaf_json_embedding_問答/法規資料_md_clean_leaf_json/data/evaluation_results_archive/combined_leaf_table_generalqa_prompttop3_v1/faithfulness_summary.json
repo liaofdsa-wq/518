@@ -1,8 +1,9 @@
 ﻿{
-  "metric": "response_relevancy",
-  "average_score": 0.6366666666666667,
+  "metric": "faithfulness",
+  "average_score": 0.8666666666666665,
   "total_questions": 30,
   "successful_questions": 30,
   "failed_questions": 0,
+  "no_claim_questions": 3,
   "question_type_filter": "general_qa"
 }
